@@ -6,9 +6,11 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### My View of the World
 
-A place to include any other types of information that you'd like to include about yourself. 
+* Work hard, play hard.
+* It's not who I am underneath, but what I do that defines me.
+* I'd rather leave the life knowing that I am not perfect, than spending my whole pretending to be.
 
 ### Contact me
 
