@@ -6,7 +6,7 @@
 name: Peng Zhu
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A Trail Runner and Software Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/4994339?v=3&s=460
@@ -27,7 +27,7 @@ footer-links:
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
-  stackoverflow: /users/4452595/peng-zhu
+  stackoverflow: 
   # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
