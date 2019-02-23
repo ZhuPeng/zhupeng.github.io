@@ -41,7 +41,7 @@ Python 以其语法简单和易用而备受青睐，近年来随着 Python 在�
 
 接下来简单介绍一下小编在使用 Python 装饰器的一些经验。在 Python 里面一切都是对象，其中函数可以被当成参数传递给另外一个函数，通常可以用来在函数执行的前后做一些事情，例如统计函数执行耗时、增加日志、缓存函数结果等
 
-```
+```python
 def foo():
     print 'foo'
     
@@ -53,9 +53,9 @@ def deco(f):
 deco(foo)
 ```
 
-上述是比较直接的实现方式，没有体现 Python 的语法的优雅，如下是更 Pythonic 的写法。
+上述是比较直接的实现方式，没有体现 Python 语法的优雅，如下是更 Pythonic 的写法。
 
-```
+```python
 def deco(f):
     def wrapper(*args, **kws):
         print 'before run function:', f.__name__
@@ -74,4 +74,4 @@ foo()
 # post run function: foo
 ```
 
-其中 `@deco` 等同于 `deco(foo)`。
+其中 `@deco` 等同于 `foo = deco(foo)`。
