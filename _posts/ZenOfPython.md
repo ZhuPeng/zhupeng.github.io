@@ -1,6 +1,6 @@
-# Python 之禅
+# Python 之禅和设计模式
 
-Python 以其语法简单和易用而备受青睐，近年来随着 Python 在数据分析、机器学习等领域的使用而引起大家的关注。
+Python 以其语法简单和易用而备受青睐，近年来随着 Python 在数据分析、机器学习等领域的使用而引起大家的广泛关注。
 
 今天首先要跟大家分享一下 Python 之禅，介绍了 Python 的设计哲学和编程原则。
 
@@ -33,11 +33,13 @@ Python 以其语法简单和易用而备受青睐，近年来随着 Python 在�
 
 为了让大家更好的去体会 Python 的魅力，今天要跟大家的推荐的是「Python Patterns」，该项目收集了 Python 中常用的设计模式和 Pythonic 风格的代码样例，包括单例模式、工厂模式、装饰器等，不管你是在学习或者使用 Python，这个项目都是很值得学习的。
 
-![image-20190223223345631](/Users/zhupeng/Library/Application Support/typora-user-images/image-20190223223345631.png)
+![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/ZenOfPython/patterns.1.png)
 
-![image-20190223223401346](/Users/zhupeng/Library/Application Support/typora-user-images/image-20190223223401346.png)
+![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/ZenOfPython/patterns.2.png)
 
-简单介绍一下小编在使用 Python 装饰器的一些经验。在 Python 里面一切都是对象，其中函数可以被当成参数传递给另外一个函数，通常可以用来在函数执行的前后做一些事情，例如统计函数执行耗时、增加日志、缓存函数结果等
+项目地址：https://github.com/faif/python-patterns
+
+接下来简单介绍一下小编在使用 Python 装饰器的一些经验。在 Python 里面一切都是对象，其中函数可以被当成参数传递给另外一个函数，通常可以用来在函数执行的前后做一些事情，例如统计函数执行耗时、增加日志、缓存函数结果等
 
 ```
 def foo():
