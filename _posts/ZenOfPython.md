@@ -2,32 +2,34 @@
 
 Python 以其语法简单和易用而备受青睐，近年来随着 Python 在数据分析、机器学习等领域的使用而引起大家的广泛关注。
 
-今天首先要跟大家分享一下 Python 之禅，介绍了 Python 的设计哲学和编程原则。
+今天首先要跟大家分享一下 Python 之禅，其中 20 个句子介绍了 Python 的设计哲学和编程原则。
 
 在 Python 的交互式解释器里面输入命令 `import this` 就会显示 Python 之禅。
 
-> \> \> \> import this
-> The Zen of Python, by Tim Peters
->
-> Beautiful is better than ugly.
-> Explicit is better than implicit.
-> Simple is better than complex.
-> Complex is better than complicated.
-> Flat is better than nested.
-> Sparse is better than dense.
-> Readability counts.
-> Special cases aren't special enough to break the rules.
-> Although practicality beats purity.
-> Errors should never pass silently.
-> Unless explicitly silenced.
-> In the face of ambiguity, refuse the temptation to guess.
-> There should be one-- and preferably only one --obvious way to do it.
-> Although that way may not be obvious at first unless you're Dutch.
-> Now is better than never.
-> Although never is often better than *right* now.
-> If the implementation is hard to explain, it's a bad idea.
-> If the implementation is easy to explain, it may be a good idea.
-> Namespaces are one honking great idea -- let's do more of those!
+```python
+>>> import this
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than right now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
 
 上述观点对于我们的日常编程很有指导意义，比如简单胜过复杂、代码可读性很重要、错误不应该被直接忽略等。就不一一翻译了，毕竟禅是需要不断去实践、修行才能悟出其中的道理。
 
@@ -37,7 +39,7 @@ Python 以其语法简单和易用而备受青睐，近年来随着 Python 在�
 
 ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/ZenOfPython/patterns.2.png)
 
-项目地址：https://github.com/faif/python-patterns
+项目地址：[https://github.com/faif/python-patterns](https://github.com/faif/python-patterns)
 
 接下来简单介绍一下小编在使用 Python 装饰器的一些经验。在 Python 里面一切都是对象，其中函数可以被当成参数传递给另外一个函数，通常可以用来在函数执行的前后做一些事情，例如统计函数执行耗时、增加日志、缓存函数结果等
 
@@ -75,3 +77,5 @@ foo()
 ```
 
 其中 `@deco` 等同于 `foo = deco(foo)`。
+
+好了，今天就到这里，找时间学习一下 [python-patterns](https://github.com/faif/python-patterns) 吧。
