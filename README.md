@@ -2,4 +2,4 @@
 
 * [在线生成 GitHub 简历](_posts/GitHubResume.md)
 * [Python 之禅和设计模式](_posts/ZenOfPython.md)
-
+* [Python 数据分析之 Pandas 介绍](_posts/pandas.md)
