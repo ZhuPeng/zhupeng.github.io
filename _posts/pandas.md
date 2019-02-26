@@ -1,18 +1,14 @@
 # Python 数据分析之 Pandas 介绍
 
-## Pandas 简介
-
 Pandas 是 Python 中的一个数据分析库，是为了解决数据分析任务而创建的。Pandas 提供了大量能使我们快速便捷地处理数据的函数和方法，它是使 Python 成为强大而高效的数据分析编程语言的重要因素之一。
+
+具体的 Pandas 使用方法可以查看官方文档：10 Minutes to pandas  http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/pandas/pandas.1.png)
 
 ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/pandas/pandas.2.png)
 
 ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/pandas/pandas.3.png)
-
-具体的 Pandas 使用方法可以查看官方文档：10 Minutes to pandas http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
-
-## Pandas 处理大数据量的解决方案 Modin
 
 由于 Python 语言的一些特点，Pandas 在处理数据的时候只能使用单核，在大数据量的情况会出现处理较慢的情况，通过项目 「[modin](https://github.com/modin-project/modin)」只需简单的改动一行代码就能提升处理速度。
 

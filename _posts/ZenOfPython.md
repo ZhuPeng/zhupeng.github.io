@@ -2,9 +2,9 @@
 
 Python 以其语法简单和易用而备受青睐，近年来随着 Python 在数据分析、机器学习等领域的使用而引起大家的广泛关注。
 
-今天首先要跟大家分享一下 Python 之禅，其中 20 个句子介绍了 Python 的设计哲学和编程原则。
+今天首先要跟大家分享一下 Python 之禅，通过 20 个句子介绍了 Python 的设计哲学和编程原则。
 
-在 Python 的交互式解释器里面输入命令 `import this` 就会显示 Python 之禅。
+在 Python 的交互式解释器里面输入命令 `import this` 就会显示如下。
 
 ```python
 >>> import this
@@ -33,7 +33,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 上述观点对于我们的日常编程很有指导意义，比如简单胜过复杂、代码可读性很重要、错误不应该被直接忽略等。就不一一翻译了，毕竟禅是需要不断去实践、修行才能悟出其中的道理。
 
-为了让大家更好的去体会 Python 的魅力，今天要跟大家的推荐的是「Python Patterns」，该项目收集了 Python 中常用的设计模式和 Pythonic 风格的代码样例，包括单例模式、工厂模式、装饰器等，不管你是在学习或者使用 Python，这个项目都是很值得学习的。
+为了让大家更好的去体会 Python 的魅力，今天要跟大家推荐的是「[Python Patterns](https://github.com/faif/python-patterns)」，该项目收集了 Python 中常用的设计模式和 Pythonic 风格的代码样例，包括单例模式、工厂模式、装饰器等，不管你是在学习或者使用 Python，这个项目都是很值得学习的。
 
 ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/ZenOfPython/patterns.1.png)
 
@@ -47,25 +47,25 @@ Namespaces are one honking great idea -- let's do more of those!
 def foo():
     print 'foo'
     
-def deco(f):
+def decorator(f):
     # do something
-    foo()
+    f()
     # do something
     
-deco(foo)
+decorator(foo)
 ```
 
 上述是比较直接的实现方式，没有体现 Python 语法的优雅，如下是更 Pythonic 的写法。
 
 ```python
-def deco(f):
+def decorator(f):
     def wrapper(*args, **kws):
         print 'before run function:', f.__name__
         f(*args, **kws)
         print 'post run function:', f.__name__
     return wrapper
 
-@deco
+@decorator
 def foo():
     print 'foo'
     
@@ -76,6 +76,6 @@ foo()
 # post run function: foo
 ```
 
-其中 `@deco` 等同于 `foo = deco(foo)`。
+其中 `@decorator` 等同于 `foo = decorator(foo)`。
 
 好了，今天就到这里，找时间学习一下 [python-patterns](https://github.com/faif/python-patterns) 吧。
