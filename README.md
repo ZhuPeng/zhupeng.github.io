@@ -4,3 +4,5 @@
 * [Python 之禅和设计模式](_posts/ZenOfPython.md)
 * [Python 数据分析之 Pandas 介绍](_posts/pandas.md)
 * [GitHub 精选每周汇总](_posts/20190302-WeeklyReport.md)
+* [Python 数据可视化 - Dash](_posts/python_dash.md)
+
