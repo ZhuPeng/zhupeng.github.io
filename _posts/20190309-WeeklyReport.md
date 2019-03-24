@@ -1,0 +1,52 @@
+
+
+# GitHub 本周排行精选
+
+又到了每周 GitHub 排行精选推送时刻了，从上周开始我们在文章中加入了小程序，可以直接打开，特别人性化的帮助大家查看分享的开源库。排行总榜可点击如下小程序链接：
+
+
+
+本周 「GitHub 精选」分享的精品开源库如下：
+
+**1、面试笔记**
+
+一份关于 2018/2019 / 校招 / 春招 / 秋招 / 算法 / 机器学习 (Machine Learning)/ 深度学习 (Deep Learning)/ 自然语言处理 (NLP)/C/C++/Python/ 的面试笔记。
+
+相关文章：[前方高能：一份包含各种高能知识点的面试笔记](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983430&idx=1&sn=6c1fc56e2754c70bd1e0ee5360dfc5fc&chksm=8885210bbff2a81dd8a7c44a08845ea5bb47d42f8a4b7a502f04714e2999703c9a3d026828c9&token=954023827&lang=zh_CN#rd)
+
+详情点击：**https://github.com/imhuay/Algorithm_Interview_Notes-Chinese**
+
+**2、想学吗**
+
+「**想学吗**」，是一个更快的、私有化的、标签式的、持续演进的个人知识管理工具。
+
+相关文章：[一次编写，多平台发布的个人知识管理利器](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983438&idx=1&sn=326aa287d350a792eca5697198f6c734&chksm=88852103bff2a81536755df54dec0c81a4fbff0e6715d1370d59e9824b7f63b869b8e8f2f9a5&token=954023827&lang=zh_CN#rd)
+
+详情点击：**https://github.com/xland/xiangxuema**
+
+**3、自动视频字幕对齐工具**
+
+该工具可以自动把字幕与视频对齐。用法很简单，只需要把视频文件和字幕文件当做参数传入，就可以得到对齐好的字幕文件作为输出。通常一部电影只需要 10 到 20 秒就能转换完成。
+
+相关文章：[一个好玩的 Python 小工具](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983443&idx=1&sn=718c8ac9636d0e40f6a9f52992e0f6b4&chksm=8885211ebff2a808bab2812c650273962c03d9067c03d5f79788095e8b3f89dea766a3dbeaa4&token=954023827&lang=zh_CN#rd)
+
+详情点击：**https://github.com/smacke/subsync**
+
+**4、国产手机权限适配库**
+
+国产手机权限适配一直是个令人头痛的问题，文章中推荐的几个库可以帮大家少踩几个坑。
+
+相关文章：[国产手机权限适配库](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983448&idx=1&sn=8ce2bff0c801b884fc3593774857c676&chksm=88852115bff2a803425769c518c76bda300329410e3c5684dbe3627031d2eef27f5b29ce01b2&token=954023827&lang=zh_CN#rd)
+
+**5、数据可视化**
+
+[Dash](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983454&idx=1&sn=b7b62c4fbfdbec0be2cd4ab2104685bf&chksm=88852113bff2a805b8470e65bbad8306d361470f3d168fa4f2045efe84619c068026b74abbfa&token=954023827&lang=zh_CN) 是建立数据分析性应用的 Python 框架，使用它不需要直接使用 JavaScript。基于 Plotly.js、React 和 Flask，[Dash](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983454&idx=1&sn=b7b62c4fbfdbec0be2cd4ab2104685bf&chksm=88852113bff2a805b8470e65bbad8306d361470f3d168fa4f2045efe84619c068026b74abbfa&token=954023827&lang=zh_CN) 可以直接结合你的数据分析代码，构建酷炫的 UI Web 应用。
+
+相关文章：[Python 数据可视化工具 - Dash](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983454&idx=1&sn=b7b62c4fbfdbec0be2cd4ab2104685bf&chksm=88852113bff2a805b8470e65bbad8306d361470f3d168fa4f2045efe84619c068026b74abbfa&token=954023827&lang=zh_CN#rd)
+
+详情点击：https://github.com/plotly/dash
+
+大家可以直接点击小程序，打开查看开源项目的 readme。
+
+------
+
