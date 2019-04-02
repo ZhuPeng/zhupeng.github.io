@@ -1,0 +1,26 @@
+# Learn Go with tests
+
+![](https://raw.githubusercontent.com/quii/learn-go-with-tests/master/red-green-blue-gophers-smaller.png)
+
+我们的公众号后台经常会留言希望推荐 Go 相关的学习资料，今天的推荐就是 Go 相关的 Learn Go with tests，为什么会有这个项目呢，作者是这样解释的：
+
+* 通过编写测试探索 Go 语言
+
+* 上手测试驱动开发。Go 是学习测试驱动开发的好语言，因为它简单易学而且内置测试功能
+
+* 坚信你将开始在 Go 中编写健壮的、经过良好测试的系统
+
+作者在项目中解释为什么他觉得通过测试来学习 Go 是一种对他有效的方法，以及他认为无效和效果不显著的一些方法，推荐大家直接看英文的，当然项目中也提供了对应的中文版。不自觉的想到最近看到的特别有道理的一句话：
+
+![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/learn_method.jpeg)
+
+每个人可能学习的方法会有不同，你可以针对自己分析哪些是无效的方法，哪些是对你有效的方法。
+
+![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/learngobytests/gotests1.png)
+
+![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/learngobytests/gotests2.png)
+
+> 项目地址：https://github.com/quii/learn-go-with-tests
+
+***
+
