@@ -20,7 +20,7 @@
 
 ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/learngobytests/gotests2.png)
 
-> 项目地址：https://github.com/quii/learn-go-with-tests
+> 项目地址：[https://github.com/quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
 
 ***
 
