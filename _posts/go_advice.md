@@ -1,0 +1,29 @@
+## Go 建议
+
+今天要推荐的是 Go 开发过程的一些建议，涉及很多方面，小编挑几个比较普遍的说一下。
+
+![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/go_advice.png)
+
+
+
+1. 使用 `go fmt` / `gofmt` 格式化你的代码, 让大家都开心
+
+   这一点很重要，尤其是大型项目，代码可读性也是项目质量的一部分，如果你看到一段组织很乱的代码，相信阅读起来会有一些困难。统一的代码规范能够提高代码整体的可读性，也不会因为个体的差异造成代码格式的混乱。
+
+2. 仅仅在很特殊情况下才使用 panic, 你必须要去处理 error
+
+   panic 的乱用简直是健壮程序的噩梦。对于 error 的处理，在 Go 语言里面有很多的争议，小编认为如果是你想编写能够稳定长期运行的程序，处理所有的 error 是必须的，如果所有的 error 都被正确的处理，意味着程序足够健壮。
+
+3. 总是关闭 http body `defer r.Body.Close()`
+
+   反正我是踩过这个坑的~后面发现都有专门的仓库处理这个问题：<https://github.com/timakin/bodyclose>
+
+   ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub精选/go_advice_1.png)
+
+4. 拆分构建不同版本的简单方法
+
+   用 `// +build integration` 并且运行他们 `go test -v --tags integration .`
+
+好了，感兴趣的自己去项目中查看吧。
+
+> 项目地址：<https://github.com/cristaloleg/go-advices>
