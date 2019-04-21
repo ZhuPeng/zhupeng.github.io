@@ -14,4 +14,5 @@
 * [30 秒你可以做什么](_posts/30s_do_what.md)
 * [Go 建议](_posts/go_advice.md)
 * [GitHub 开源项目发布雷达 -  201903](_posts/github_release_radar_201903.md)
+* [GitHub 上那些小游戏](_posts/github_game.md)
 
