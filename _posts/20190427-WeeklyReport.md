@@ -1,0 +1,52 @@
+
+
+# GitHub 本周排行精选
+
+又到了每周 GitHub 排行精选推送时刻了。排行总榜可点击如下小程序链接：
+
+
+
+本周 「GitHub 精选」分享的精品开源库如下：
+
+**1、二维码生成神器**
+
+[qrcode](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983661&idx=1&sn=ae1421f1b66316471e5dd7a8fad780e0&chksm=88852260bff2ab76fbc5c19091c930ae88e806825fdf4daaf6a555d729a87c477204e7b6ce27&token=57029378&lang=zh_CN) 工具可以生成普通二维码、带图片的艺术二维码（黑白与彩色）、动态二维码（黑白与彩色）。
+
+相关文章：[二维码生成神器打造你专属的二维码](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983661&idx=1&sn=ae1421f1b66316471e5dd7a8fad780e0&chksm=88852260bff2ab76fbc5c19091c930ae88e806825fdf4daaf6a555d729a87c477204e7b6ce27&token=57029378&lang=zh_CN#rd>)
+
+项目地址：https://github.com/sylnsfar/qrcode
+
+**2、调试工具**
+
+介绍了两款调试工具，分别是：PySnooper，是一款帮助 Python 开发者 debug 的工具。
+
+Bagel，是一个小型、原生的 iOS 网络调试工具。使用过程不需要配置证书、代理之类的东西。只需要 iOS 设备和 Mac 处于同一网络，就可以查看、监控 App 的网络流量等信息。
+
+相关文章：[分享两个"有种你别看"的调试工具吧](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983654&idx=1&sn=fd0bddb5914b4a2b86d5ae54fb5cbe3e&chksm=8885226bbff2ab7d44650633f6a0cfc22bca65a1853e49e0e9faab10faec12b2626fc11c346c&token=57029378&lang=zh_CN#rd>)
+
+**3、GitHub 上的那些小游戏**
+
+介绍了有趣的小游戏，同时也会专门收集小游戏的项目，比如 Vim 插件游戏、俄罗斯方块、打飞机等。
+
+相关文章：[GitHub 上的那些小游戏](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983650&idx=1&sn=1f66b44543591f5a366a6247a0e529ef&chksm=8885226fbff2ab7936a663f212bd5ff09f71b258f9959ec42cc04e9eca3fa259a05e2841e071&token=57029378&lang=zh_CN#rd>)
+
+**4、Idea 很值钱嘛？**
+
+你是否曾经想要做一些东西却没有好的想法？正如作家们有时会遇到“writers block”，开发人员也是如此。如果你苦于没有 Idea 不如看看这个项目吧。
+
+相关文章：[我有点子，你有技术吗？](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983644&idx=1&sn=e82b2fc1e95c02a1f17dcb1ac38833db&chksm=88852251bff2ab4720db2b7cb7d41200c89304b554e2e7cc9cb82db73a9b47a3618d254c8ade&token=57029378&lang=zh_CN#rd>)
+
+**5、效率提升工具**
+
+所谓工欲善其事必先利其器，开发效率的提升，离不开好用的工具，今天给大家推荐的就是开源项目就是：**开发效率提升：** Mac 生产力工具链推荐。比如：PM 或博客撰写者 markdown 编辑器推荐、mac 重度依赖者应用推荐、Chrome Extension 及扩展插件开发等
+
+相关文章：[超强助力你开发效率提升，生产力工具链推荐](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983637&idx=1&sn=47a42522203f8a05864c0752839c08a7&chksm=88852258bff2ab4e4b3cdcffe17b32bbc9ee77e056b85a86cb5ec8ef707d0255a39e37692b5c&token=57029378&lang=zh_CN#rd>)
+
+**6、GitHub 开源项目发布雷达**
+
+GitHub Blog 在 20190416 发布了 3 月份的开源项目发布雷达。GitHub 开源项目发布雷达分享和推荐的是那些令人兴奋的项目新版本的发布，可以是震惊世界的前沿技术，也可以是工程师周末的副产品。重要的是，这些项目因为所有人的共同参与，因为 GitHub 的存在而诞生。
+
+相关文章：[GitHub 开源项目发布雷达](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983633&idx=1&sn=71a861a5c298b5a556b3ace8a9cb390b&chksm=8885225cbff2ab4a09ba18256210160dfdaa106673ad50e6d2a34b8233d6bc333971993d4914&token=57029378&lang=zh_CN#rd>)
+
+***
+

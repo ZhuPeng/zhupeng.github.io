@@ -1,4 +1,8 @@
-今天要说一说 GitHub 上那些好玩的小游戏，上班累了玩一玩小游戏放松一下。
+当一家公司开始实施 996 的时候，你没有说什么，因为那不是你的公司；当陆续又有几家公司实施 996，你还是没有说什么；当最后你的公司也开始实施 996，你可能真的没什么可说的了。今天看到微软员工和 GitHub 员工宣布支持 996.ICU 运动，详情可以查看：[https://github.com/MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU)，可以提交 PR 或者 Issue 留下你的签名。
+
+
+
+回到今天的分享，说一说 GitHub 上那些好玩的小游戏，上班累了玩一玩小游戏放松一下。
 
 ## VimGameCodeBreak
 
