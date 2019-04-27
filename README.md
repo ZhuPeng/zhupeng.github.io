@@ -16,4 +16,5 @@
 * [GitHub 开源项目发布雷达 -  201903](_posts/github_release_radar_201903.md)
 * [GitHub 上那些小游戏](_posts/github_game.md)
 * [『GitHub 精选』之 20190427 周精选](_posts/20190427-WeeklyReport.md)
+* [Docker 容器故障排查工具](_posts/docker-debug.md)
 
