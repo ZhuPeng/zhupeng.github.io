@@ -67,9 +67,9 @@ Ever feel like you have to choose between JSX and Markdown? Now you don’t have
 
 ## Caddy 1.0
 
-[Caddy](https://caddyserver.com/) is a web server with an emphasis on security, with features like HTTPS by default and the ability to pull  Let’s Encrypt certificates automatically. Caddy is joining the 1.0 club with its latest release, and it’s making a commitment to ensure backwards compatibility. This release also adds new command-line options, simplifies builds with plugins, fixes bugs, and more.
+[Caddy](https://caddyserver.com/) 是一个强调安全的 Web 服务器，它将 HTTPS 设置为默认特性，同时可以自动拉取 Let's Encrypt 证书。Caddy 最近刚刚发布了 1.0 版本，同时其承诺将会保证版本的向前兼容。此次发布增加了新的命令行参数，通过插件简化了项目的构建，以及一些功能修复。
 
-[Learn more about Caddy 1.0](https://github.com/mholt/caddy/releases/tag/v1.0.0)
+> 项目地址：https://github.com/mholt/caddy
 
 ## Babylon.js 4.0
 
@@ -110,10 +110,12 @@ cat $0
 
 [Tinkersynth](https://www.joshwcomeau.com/posts/tinkersynth-two-point-oh/) is a generative art project where you can [create a work of art](https://tinkersynth.com/) by experimenting with a handful of parameters that bend, twist, and fragment deceptively simple lines. The art piece produces vector graphics that you can download, and you can draw the black-and-white outputs with a pen plotting machine.
 
+Tinkersynth 是一个衍生式生成艺术作品的项目，你可以通过配置简单的线条来自动生成一副艺术作品，这些简单的线条可以是弯曲的、折叠的、甚至是看上去有些迷幻的。生成的作品是矢量图可以直接下载，同时也可以生成黑白的印刷式的图像。
+
 ![The Tinkersynth interface](https://i1.wp.com/user-images.githubusercontent.com/121322/57332589-e12ee980-70cf-11e9-86c1-85588ead82dc.png?zoom=2&resize=640%2C505&ssl=1)
 
-------
+> 项目地址：<https://github.com/joshwcomeau/tinkersynth>
 
-That’s just a handful of releases you shipped last month—keep them coming! [Send us a note](mailto:releaseradar@github.com) or share your projects using #GHReleaseRadar on Twitter, Facebook, LinkedIn, and Instagram.
+------
 
 > 原文链接：https://github.blog/2019-05-21-release-radar-april-2019/
