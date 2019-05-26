@@ -14,6 +14,7 @@
 * [30 秒你可以做什么](_posts/30s_do_what.md)
 * [Go 建议](_posts/go_advice.md)
 * [GitHub 开源项目发布雷达 -  201903](_posts/github_release_radar_201903.md)
+* [GitHub 开源项目发布雷达 -  201904](_posts/github_release_radar_201904.md)
 * [GitHub 上那些小游戏](_posts/github_game.md)
 * [『GitHub 精选』之 20190427 周精选](_posts/20190427-WeeklyReport.md)
 * [Docker 容器故障排查工具](_posts/docker-debug.md)
@@ -22,4 +23,5 @@
 * [Stack Overflow 命令行工具](_posts/stack_overflow_cli.md)
 * [命令行录屏工具](_posts/termtosvg.md)
 * [每天给女朋友发一封暖心的邮件](_posts/trigger_love.md)
+* [如何在 GitHub 项目中添加炫酷的徽章和图表](_posts/github_charts.md)
 
