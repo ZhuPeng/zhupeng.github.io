@@ -77,3 +77,67 @@ lr-xr-xr-x  1 root  wheel  0  5  8 18:00 /dev/stdout -> fd/1
 # 2 => stderr, 1 => stdout, 0 => stdin, 将 2 的输出重定向到 1
 ```
 
+
+
+Q: log 中包级别的方法包装存在重复
+
+提交 PR 简化这部分代码：暂不提交，修改后单元测试不通过
+
+```go
+func Printf(format string, v ...interface{}) {
+	std.Output(2, fmt.Sprintf(format, v...))  
+  // std.Printf(format, v...)    // 使用 std.Printf 更简化
+}
+
+// 获取打印日志的文件和行号，如果在 std 增加了一层调用逻辑，获取的行号是不对的
+_, file, line, ok = runtime.Caller(calldepth)
+
+// 测试检查中把行号赋值为一个 Magic Number
+Rline = `(57|59):` // must update if the calls to l.Printf / l.Print below move
+```
+
+
+
+Go 从 1.4 版本以后源码可以用 go 自举编译，需要设置 export GOROOT_BOOTSTRAP 源码tree
+
+```bash
+cd <source_code>/src
+./make.bash  # 编译
+./all.bash   # Test your changes
+```
+
+
+
+Q：PR 提交方式？
+
+方式一：GitHub，Fork 仓库，新建分支，变更代码提交，在页面新建 PR，PR 会自动同步到 Go Gerrit 仓库。
+
+方式二：直接向 Go Gerrit 仓库提交，需要工具 golang.org/x/review/git-codereview 、golang.org/x/tools/cmd/go-contrib-init
+
+```bash
+git codereview change   # 生成 gerrit 的 Change-Id?
+git codereview sync  # 是不是 rebase master 代码？
+```
+
+
+
+## fmt
+
+```go
+// parsenum converts ASCII to integer.  num is 0 (and isnum is false) if no number present.
+// 依次解析字符串中的数字
+func parsenum(s string, start, end int) (num int, isnum bool, newi int) {
+	if start >= end {
+		return 0, false, end
+	}
+	for newi = start; newi < end && '0' <= s[newi] && s[newi] <= '9'; newi++ {
+		if tooLarge(num) {
+			return 0, false, end // Overflow; crazy long number most likely.
+		}
+		num = num*10 + int(s[newi]-'0')
+		isnum = true
+	}
+	return
+}
+```
+

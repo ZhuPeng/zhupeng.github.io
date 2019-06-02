@@ -53,9 +53,9 @@ Ever feel like you have to choose between JSX and Markdown? Now you don’t have
 
 ## Uppy 1.0
 
-[Uppy](https://uppy.io/) is a JavaScript file uploader that provides a sharp interface for uploading files and photos. It can even accept files from services like Instagram and Dropbox, with the help of a server-side module. Version 1.0 marks three years of effort with features like localization, a design facelift, and more.
+Uppy 是一个 JavaScript 的文件上传库，提供了一个好用的接口来上传文件和图片。通过 Server 端模块的支持，可以直接通过 Instagram 和 Dropbox 的链接来上传文件。版本 1.0 发布经过了长达三年的打磨，经历了众多功能的开发（如本地化）和设计调整。
 
-[Learn more about Uppy 1.0](https://uppy.io/blog/2019/04/1.0/)
+> 项目地址：<https://github.com/transloadit/uppy>
 
 ## Fluent 1.0
 
@@ -107,8 +107,6 @@ cat $0
 > 项目地址：https://github.com/taylorconor/quinesnake
 
 ### Tinkersynth
-
-[Tinkersynth](https://www.joshwcomeau.com/posts/tinkersynth-two-point-oh/) is a generative art project where you can [create a work of art](https://tinkersynth.com/) by experimenting with a handful of parameters that bend, twist, and fragment deceptively simple lines. The art piece produces vector graphics that you can download, and you can draw the black-and-white outputs with a pen plotting machine.
 
 Tinkersynth 是一个衍生式生成艺术作品的项目，你可以通过配置简单的线条来自动生成一副艺术作品，这些简单的线条可以是弯曲的、折叠的、甚至是看上去有些迷幻的。生成的作品是矢量图可以直接下载，同时也可以生成黑白的印刷式的图像。
 
