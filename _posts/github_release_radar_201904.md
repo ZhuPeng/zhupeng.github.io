@@ -6,9 +6,9 @@ GitHub Blog 在 20190521 发布了 4 月份的开源项目发布雷达。GitHub 
 
 ## SuperTuxKart
 
-[SuperTuxKart](https://supertuxkart.net/) is a 3D arcade racing game featuring traditional races, time trials, a battle mode, and more. Version 1.0 marks the introduction of network multiplayer, so SuperTuxKart drivers can now play against each other regardless of location, in addition to split screen. The 1.0 release also adds a new capture-the-flag mode along with new courses to test your skills. It’s completely free and playable on Windows, macOS, and Linux.
+SuperTuxKart 是一个 3D 竞速类游戏，支持的模式包括传统竞速、计时赛和战斗模式等等。版本 1.0 开始支持联网的多玩家模式，意味着不同的人可以通过网络在世界各地组队竞技，同时 1.0 版本增加了夺旗模式的新赛道来测试你的新技术。一如既往，SuperTuxKart 是免费的，支持 Windows、macOS 和 Linux 。
 
-[Learn more about SuperTuxKart 1.0](http://blog.supertuxkart.net/2019/04/supertuxkart-10-release.html)
+> 项目地址：<https://github.com/supertuxkart/stk-code>
 
 ## Termshark 1.0
 
@@ -20,36 +20,29 @@ GitHub Blog 在 20190521 发布了 4 月份的开源项目发布雷达。GitHub 
 
 ## United States Web Design System 2.0
 
-The [United States Web Design System](https://v2.designsystem.digital.gov/) (USWDS) is a collection of code, tools, and documentation that helps federal agencies create web services for the public. USWDS 2.0 is the result of two years’ effort to make the government’s design system more modular, accessible, and consistent.[
-](https://github.com/Quick/Quick/releases/tag/v2.0.0)
+United States Web Design System (USWDS) 是帮助联邦代理机构为大众创建 Web 服务的代码、工具、文档集合。经过 两年的努力 USWDS 2.0 使其设计形式更现代化、更易使用和更一致。
 
-**Did you know?** Hundreds of [government sites use USWDS](https://v2.designsystem.digital.gov/getting-started/showcase/all/), from [registering to vote](https://vote.gov/) to [blasting off to outer space](https://www1.grc.nasa.gov/).
-
-[Learn more about United States Design System 2.0](https://v2.designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/)
+> 项目地址：<https://github.com/uswds/uswds>
 
 ## Docz 1.0
 
-[Docz](https://docz.site/) is a project to help you quickly get started on documentation with zero configuration—just start writing Markdown (with the aforementioned MDX) and build your docs. With version 1.0, Docz boasts features such as a pluggable architecture and integration with [Gatsby](https://www.gatsbyjs.org/), the popular React-based site generator.
+Docz 是一个帮助你快速创建文档的工具，无需任何配置，只需要用 Markdown 即可。版本 1.0 的发布增加了可插拔的插件系统，同时集成了 Gatsby (基于 React 的网站生成系统)。
 
-[Learn more about Docz 1.0](https://medium.com/doczoficial/releasing-docz-v1-5cac964ce09c)
+> 项目地址：<https://github.com/pedronauck/docz>
 
 ## MDX 1.0
 
-Ever feel like you have to choose between JSX and Markdown? Now you don’t have to choose—with [MDX](https://mdxjs.com/) you can write Markdown with JSX to embed components directly into your content. MDX works with other libraries that support JSX, such as React, Vue, or Gatsby. MDX has also made it to the 1.0 club—check it out and celebrate their first milestone.
+你是不是曾经有犹豫过选择 JSX 还是 Markdown? 现在你不用选择了，MDX 可以直接嵌入 JSX 到 Markdown 文档里面，MDX 同时支持 JSX 的库，如 React，Vue，Gatsby。MDX 发布了其里程碑的 1.0 版本，欢迎使用。
 
-[Learn more about MDX 1.0](https://mdxjs.com/blog/v1)
+> 项目地址：<https://github.com/mdx-js/mdx>
 
 ## GB Studio 1.0
 
-[GB Studio](https://www.gbstudio.dev/) is a tool that helps you create top-down, 2D adventure games—something you might remember playing on a [Nintendo Game Boy](https://en.wikipedia.org/wiki/Game_Boy). GB Studio can help you make a game without any prior coding experience thanks to a visual scripting system. And when you’re ready to play, not only will GB Studio make your game playable in a web browser, but it also generates ROMs that you can run in emulators or play on real consoles (with the right flash cartridge).
+GB Studio 是一个帮助你自顶向下设计 2D 冒险类游戏的工具，哪些形式的游戏呢？就是你曾经在任天堂游戏机上玩过的游戏。GB Studio 出色的图形化脚本系统能够帮助没有任何代码编程经验的你制作一款游戏，同时支持在浏览器、模拟器上运行。
 
-**Did you know?** Game Boy was first released in Japan on April 21, 1989—it’s been around long enough to celebrate its 30th birthday.
+不知道你是不是记得？Game Boy 最初发布是在 1989 年 4 月 21，距今已经过去 30 年了。
 
-
-
-**► Watch** Promotional video for the recent GB Studio 1.0 release.
-
-[Learn more about GB Studio 1.0](https://github.com/chrismaltby/gb-studio#gb-studio)
+> 项目地址：<https://github.com/chrismaltby/gb-studio>
 
 ## Uppy 1.0
 
@@ -59,11 +52,11 @@ Uppy 是一个 JavaScript 的文件上传库，提供了一个好用的接口来
 
 ## Fluent 1.0
 
-[Fluent](https://projectfluent.org/) is a project to create a localization system that helps translators be more expressive than with one-to-one translation of strings. It can handle translations that follow a language’s rules for noun, gender, or number agreement. Version 1.0 marks the beginning of stability for the project’s syntax and grammar.
+Fluent 是一个创建本地化系统的工具，相比一个一个语言翻译，该工具帮助翻译人员更轻松的完整本地化任务。该工具可以遵循特定语言针对名词、形容词和数词的规则来翻译。版本 1.0 的发布标志着项目的语法开始趋于稳定。
 
-**Did you know?** Mozilla’s community localization platform, [Pontoon](https://github.com/mozilla/pontoon), supports Fluent to translate Firefox (and other projects).
+你知道吗？Mozilla 社区本地化平台 Pontoon 使用 Fluent 支持 Firefox 浏览器的本地化。
 
-[Learn more about Fluent 1.0](https://hacks.mozilla.org/2019/04/fluent-1-0-a-localization-system-for-natural-sounding-translations/)
+> 项目地址：<https://github.com/projectfluent/fluent>
 
 ## Caddy 1.0
 
