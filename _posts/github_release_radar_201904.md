@@ -97,6 +97,8 @@ cat $0
 
 是不是迫不及待想要研究一下了？自产生程序也称为 Quine，可以参考 http://www.nyx.net/~gthompso/quine.htm 。
 
+更多详情参考：[一个输出是程序本身源代码的程序](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983781&idx=1&sn=0c78039a0430276da539bfcc0602f2d3&chksm=888522e8bff2abfe9fc4755722e7290cb92e53e4c36f87f3f2ca2fccf4ca7a73ef60ff5da7e7&token=1959812655&lang=zh_CN#rd>)
+
 > 项目地址：https://github.com/taylorconor/quinesnake
 
 ### Tinkersynth
