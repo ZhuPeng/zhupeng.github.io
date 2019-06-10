@@ -35,6 +35,7 @@
 * [每天给女朋友发一封暖心的邮件](_posts/trigger_love.md)
 * [如何在 GitHub 项目中添加炫酷的徽章和图表](_posts/github_charts.md)
 * [Kubernetes 命令行工具系列一](_posts/k8s_cmd_tools.md)
+* [一款更懂程序员的 Markdown 笔记工具](_posts/know_prog_md_tools.md)
 
 
 ## 每周精选
