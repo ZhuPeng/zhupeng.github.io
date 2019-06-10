@@ -22,7 +22,7 @@ Hunter，就如工具的名字一样，作用是发现 k8s 集群的安全漏洞
 
 * Kubernetes Operator Pythonic Framework
 
-Operator 是 k8s 的第三方资源扩展的概念，平时我们的运维操作都是对一些资源进行对应的管控，例如增加实例数、备份数据等，Operator 就是基于 k8s 的基础将这些操作进行固化，且可以方便的使用声明式的方式管理。k8s 是使用 Go 编写的，该框架基于 api 只需要很少的代码就能实习目标。
+Operator 是 k8s 的第三方资源扩展的概念，平时我们的运维操作都是对一些资源进行对应的管控，例如增加实例数、备份数据等，Operator 就是基于 k8s 的基础将这些操作进行固化，且可以方便的使用声明式的方式管理。k8s 是使用 Go 编写的，该 Python 框架基于 k8s kapi 只需要很少的代码就能实现预期目标。
 
 > 项目地址：<https://github.com/zalando-incubator/kopf>
 
