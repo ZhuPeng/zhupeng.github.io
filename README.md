@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/ZhuPeng/zhupenggithubio.svg)](http://hits.dwyl.io/ZhuPeng/zhupenggithubio)
+
 文章都已发布在微信公众号 「GitHub精选」，欢迎关注订阅。
 
 ## GitHub 开源项目发布雷达
