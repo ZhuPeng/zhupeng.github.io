@@ -1,6 +1,6 @@
 今天要分享的是一份开源的医院开放数据，跟莆田系有关，当我看到的时候我觉得有必要分享给大家。
 
-项目地址：https://github.com/open-power-workgroup/Hospital>
+项目地址：[https://github.com/open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital)
 
 该项目的意图是收集汇总与国内一些医疗机构有关的开放数据，供广大寻医问药的患者及家属参考。
 
