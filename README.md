@@ -41,6 +41,7 @@
 * [Kubernetes 命令行工具系列一](_posts/k8s_cmd_tools.md)
 * [一款更懂程序员的 Markdown 笔记工具](_posts/know_prog_md_tools.md)
 * [一份开源的医院开放数据，希望你不会用到](_posts/hospital.md)
+* [中国远程工作资料大全](_posts/remote_working.md)
 
 
 ## 每周精选
