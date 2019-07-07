@@ -42,6 +42,7 @@
 * [一款更懂程序员的 Markdown 笔记工具](_posts/know_prog_md_tools.md)
 * [一份开源的医院开放数据，希望你不会用到](_posts/hospital.md)
 * [中国远程工作资料大全](_posts/remote_working.md)
+* [神探夏洛克](_posts/sherlock.md)
 
 
 ## 每周精选
@@ -50,3 +51,4 @@
 * [『GitHub 精选』之 20190309 周精选](_posts/20190309-WeeklyReport.md)
 * [『GitHub 精选』之 20190427 周精选](_posts/20190427-WeeklyReport.md)
 * [『GitHub 精选』之 20190510 周精选](_posts/20190510-WeeklyReport.md)
+* [『GitHub 精选』之 20190706 周精选](_posts/20190706-WeeklyReport.md)
