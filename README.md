@@ -43,6 +43,9 @@
 * [一份开源的医院开放数据，希望你不会用到](_posts/hospital.md)
 * [中国远程工作资料大全](_posts/remote_working.md)
 * [神探夏洛克](_posts/sherlock.md)
+* [一款 PHP 的快速开发应用框架引擎](_posts/php_framework.md)
+* [一款真正的跨平台摸鱼神器](_posts/Thief-Book.md)
+* [机器学习将会走向何方？](_posts/machine_learning_evil.md)
 
 
 ## 每周精选
