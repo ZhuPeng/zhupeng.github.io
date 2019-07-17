@@ -6,11 +6,11 @@
 
 
 
-这里同时也包括之前就存在的类 deepfakes 项目，通过给视频或者图片中的人物换脸。当时看到这个项目的时候，觉得非常有趣，第一时间想到的就是权利的游戏里面的二丫，非常酷。直到后来很多的好莱坞明星被换脸替换到色情电影里面，事情就不那么好玩了。我们希望科技能够向善。
+这里同时也包括之前就存在的类 deepfakes 项目，通过给视频或者图片中的人物换脸。当时看到这个项目的时候，觉得非常有趣，第一时间想到的就是权力的游戏里面的二丫，非常酷。直到后来很多的好莱坞明星被换脸替换到色情电影里面，事情就不那么好玩了。我们希望科技能够向善。
 
 
 
-今天要推荐的项目是 [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)，通过机器学习方法将设计图片转化为代码，可谓解放双手呀。
+今天要推荐的项目是 [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)，通过机器学习方法将设计图片转化为代码。
 
 大致的转流程为，1、将图片输入到已经训练好的机器学习模型
 
@@ -26,6 +26,6 @@
 
 ![](<https://camo.githubusercontent.com/839f2fbd5b3ff9eb6af52eb40133026ee2b2e6dd/68747470733a2f2f692e696d6775722e636f6d2f74454166795a382e706e67>)
 
-机器学习很强大，同样是对图片进行处理的机器学习算法，但是却产生不同的价值，最终决定善与恶的是人类。
+机器学习很强大，同样是对图片进行处理的机器学习算法，但是却产生不同的价值，最终决定善与恶的是使用的人。
 
 > 项目地址：[https://github.com/emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)
