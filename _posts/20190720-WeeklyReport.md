@@ -1,0 +1,94 @@
+please input code: 又到了每周 GitHub 排行精选推送时刻了。排行总榜可点击 [GitHub小程序](https://github.com/)。
+
+ 本周 「GitHub 精选」分享的精品开源库如下：
+**1、让 JSON 解析更简单，更安全**
+
+一个让 JSON 解析更简单的开源库。口号是：**让你的 JSON.parse 更加 简单，安全。**
+
+功能特点虽然只有两个，但是就让你的解析代码更简单了。
+
+1. 摆脱  JSON.parse  `try{} catch{}` 的长条代码。
+
+2. 解决 JSON.prase 后初始化的类型问题。
+
+相关文章：[让 JSON 解析更简单，更安全](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984000&idx=1&sn=22745def4992a56c441693d8aabcd521&chksm=888523cdbff2aadbcaee92495e3bfdce62d49093c30139fb335b9bfc65c5632d4da33575f367&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**2、生活不只有眼前的需求和 bug，还有诗和远方**
+
+古诗是中华民族乃至全世界的瑰宝，我们应该传承下去，虽然有古典文集，但大多数人并没有拥有这些书籍。从某种意义上来说，这些庞大的文集离我们是有一定距离的。而电子版方便拷贝, 所以此开源数据库诞生了。
+
+相关文章：[生活不只有眼前的需求和 bug，还有诗和远方](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983996&idx=1&sn=490ea5baec661205f38a94c4e5060100&chksm=88852331bff2aa27bb8640a51645ea3ebd9b871efc74058a9d444cf4ff2b393e298d71f2577d&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**3、机器学习将会走向何方？**
+
+通过机器学习方法将设计图片转化为代码。
+
+相关文章：[机器学习将会走向何方？](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983988&idx=1&sn=4003b7dd06db0b7c3d9ca295868d9604&chksm=88852339bff2aa2ff10794d7c831a300211ccc0c1a2ed264bf99b2f368d6fd1e45470e4bbef1&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**4、猜猜是什么库？程序员都必须使用的一个库**
+
+一个十分方便的代码格式化库。它就是：**prettier** ，支持如：JavaScript、Flow、TypeScript、CSS、SCSS 等编程语言。同时提供了编辑插件，在使用 vscode 开发 Vue 项目时候，使用此插件可以让代码更具有可读性。
+
+相关文章：[猜猜是什么库？程序员都必须使用的一个库](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983981&idx=1&sn=c0a47c39726e85b2f253173b8bcccb01&chksm=88852320bff2aa36193644e67293085eefc0ca0b92f82272418653df3a8391e8c35b0cee8aa3&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**5、一个收录了 2769 张表情图的项目**
+
+现在用微信的频率之高，导致我们微信中充斥了很多群，工作群 1、工作群 2、工作群 n、老乡群、拼车群、爬山群、聚会群、舍友群等，随便数下都有几十个群。
+
+而这些群大部分已经背离了当初的用途，最典型的就是变成了周一到周五活跃、周六日沉寂的斗图群。
+
+相关文章：[一个收录了 2769 张表情图的项目](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983977&idx=1&sn=edb80b04799dfeb6422eb5bc6da15794&chksm=88852324bff2aa3227974b10baecb4f01a9c995f809ca26ca1bbd31395b80085889ed79acf50&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**6、一款真正的跨平台摸鱼神器**
+
+**Thief-Book** 是一款真正的`摸鱼神器`，可以更加隐秘性大胆的看小说。
+
+- **隐蔽性** 自定义透明背景，随意调整大小，完美融入各种软件界面
+- **快捷性** 三个快捷键，实现完美的摸鱼
+- **跨平台** 支持 Mac+Win，Linux 暂未测试，请自行打包
+
+相关文章：[一款真正的跨平台摸鱼神器](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983969&idx=1&sn=868a0946cc674562716375e95aebbc51&chksm=8885232cbff2aa3af38136887f2efb2061f11e97b61fa69d164a03c46b6f1a0b618df221c774&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**7、给大家推荐一个牛逼的小程序「营销组件」**
+
+一个开源的小程序「营销组件」，它可以帮助你在小程序上实现各种活动需要的东西，比如：大转盘抽奖，再比如：刮刮乐，老虎机，水果机，九宫格等。
+
+这个营销组件都帮你实现了，你就只需要简单的引用就可以了。
+
+相关文章：[给大家推荐一个牛逼的小程序「营销组件」](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983962&idx=1&sn=576c0003dd9bcea56ba3aaf269f5b452&chksm=88852317bff2aa017599ecc174dd3e855ce17e032fed7a87b6f3f3dfbd5d496d0bb079061811&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**8、一个人竟然撸了一个掘金 App**
+
+在没有很好的想法和创意之前，最好的创作就是仿写
+
+相关文章：[一个人竟然撸了一个掘金 App](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983956&idx=1&sn=678de8271f602e2d8d5730e193a86a87&chksm=88852319bff2aa0f4400e89ba9a354a335a01b431b4d286bd22c7a238632a2d385146adf23ee&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**9、​神探夏洛克**
+
+**sherlock**，它是用来查找各个社交网站中某一个用户名是否被注册过，支持了 140 个网站的用户名查找（虽然绝大部分都是需要翻墙的😅）。
+
+相关文章：[神探夏洛克](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983950&idx=1&sn=3ff45874e9972b9c856849a26ee2e484&chksm=88852303bff2aa155f5f66f10582be3cf1142c77672fe0c63feceae111a89c431ab275f9e38a&token=2133416397&lang=zh_CN#rd>)
+
+
+
+**10、Flutter：一个更贴近真实项目的练习**
+
+**flutter_deer** 非常的适合入门级学习 Flutter 的开发者。为什么这么说呢？因为它包含了完整 UI 设计图，更贴近真实项目的练习，这个项目主要针对 UI 界面方面的练习。
+
+相关文章：[Flutter：一个更贴近真实项目的练习](<https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455983947&idx=1&sn=146a8e8fe8751866ef01afde72739a17&chksm=88852306bff2aa1073f1a53f92171db584a9292d0b040e812cde9765afdf79097cbaf210c1cb&token=2133416397&lang=zh_CN#rd>)
