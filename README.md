@@ -46,6 +46,7 @@
 * [一款 PHP 的快速开发应用框架引擎](_posts/php_framework.md)
 * [一款真正的跨平台摸鱼神器](_posts/Thief-Book.md)
 * [机器学习将会走向何方？](_posts/machine_learning_evil.md)
+* [一些有趣和诡异的 Javascript 代码](_posts/wtfjs.md)
 
 
 ## 每周精选
