@@ -48,6 +48,7 @@
 * [机器学习将会走向何方？](_posts/machine_learning_evil.md)
 * [一些有趣和诡异的 Javascript 代码](_posts/wtfjs.md)
 * [配置化生成漫画项目](_posts/gen_donghua.md)
+* [一些有趣且鲜为人知的 Python 特性](_posts/wtfpython.md)
 
 
 ## 每周精选
