@@ -17,3 +17,7 @@ if sg := c.recvq.dequeue(); sg != nil {
 ```
 
 buf => 循环数组
+
+
+* defer 
+

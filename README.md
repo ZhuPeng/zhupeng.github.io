@@ -49,6 +49,7 @@
 * [一些有趣和诡异的 Javascript 代码](_posts/wtfjs.md)
 * [配置化生成漫画项目](_posts/gen_donghua.md)
 * [一些有趣且鲜为人知的 Python 特性](_posts/wtfpython.md)
+* [Git Open 命令行快速打开项目网页](_posts/git-open.md)
 
 
 ## 每周精选
