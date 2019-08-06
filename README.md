@@ -21,6 +21,7 @@
 * [ECharts 之 Golang 版本和小程序版本](_posts/echarts.md)
 * [Learn Go with tests](_posts/go_tests.md)
 * [Go 建议](_posts/go_advice.md)
+* [Go 命令行工具 CLI 生成框架](_posts/go_cobra.md)
 
 
 ## 其他

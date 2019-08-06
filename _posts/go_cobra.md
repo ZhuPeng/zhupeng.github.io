@@ -1,0 +1,35 @@
+最近工作中需要写一个命令行的工具，封装一些常用的操作提供给客户使用。本身逻辑不复杂，但是如果要自己手写命令的参数处理的话，就不那么简单了。
+
+今天要推荐的就是一个生成命令行工具的框架项目：[Cobra](https://github.com/spf13/cobra)，很多著名的开源项目都使用了，比如 [Kubernetes](https://github.com/kubernetes/kubernetes), [etcd](https://github.com/etcd-io/etcd), [Docker](https://github.com/docker/distribution) 等等。
+
+[Cobra](https://github.com/spf13/cobra) 提供了如下一些主要的功能：
+* 非常容易生成包含子命令的CLI，比如：`app server`，`app fetch`
+* 完全兼容的 POSIX 参数解析，包含长参数和短参数
+* 智能提示
+* 自动生成帮助命令
+* 支持命令自动补全
+* 生成命令 man 文档
+
+说一下怎么开箱即用来创建一个自己的命令行程序，也可以查看文档：[Cobra Generator](https://github.com/spf13/cobra/blob/master/cobra/README.md)
+```go
+# 安装 cobra, 怎么安装/配置 go 的环境就不介绍了
+go get -u github.com/spf13/cobra/cobra
+
+# 初始化应用
+cobra init [app]
+
+# 增加子命令 serve 和 config
+cobra add serve
+cobra add config
+
+# 目录结构, 只需要在 servce、config 填加对应的逻辑即可
+▾ app/
+    ▾ cmd/
+        serve.go
+        config.go
+        create.go
+      main.go
+```
+
+使用 Go 的一个好处是代码可以跨平台编译运行的二进制，且二进制运行不依赖别的环境，不用担心跨平台的问题。
+> 项目地址：https://github.com/spf13/cobra
