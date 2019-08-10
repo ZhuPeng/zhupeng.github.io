@@ -61,4 +61,5 @@
 * [『GitHub 精选』之 20190510 周精选](_posts/20190510-WeeklyReport.md)
 * [『GitHub 精选』之 20190706 周精选](_posts/20190706-WeeklyReport.md)
 * [『GitHub 精选』之 20190720 周精选](_posts/20190720-WeeklyReport.md)
+* [『GitHub 精选』之 20190810 周精选](_posts/20190810-WeeklyReport.md)
 
