@@ -13,6 +13,7 @@
 * [Python 之禅和设计模式](_posts/ZenOfPython.md)
 * [Python 数据分析之 Pandas 介绍](_posts/pandas.md)
 * [Python 数据可视化 - Dash](_posts/python_dash.md)
+* [Google 出品：简洁优雅的 Python 命令行生成工具](_posts/py_fire.md)
 
 
 ## Go 相关
@@ -51,6 +52,7 @@
 * [配置化生成漫画项目](_posts/gen_donghua.md)
 * [一些有趣且鲜为人知的 Python 特性](_posts/wtfpython.md)
 * [Git Open 命令行快速打开项目网页](_posts/git-open.md)
+* [有趣的钢琴演奏项目](_posts/piano.md)
 
 
 ## 每周精选
