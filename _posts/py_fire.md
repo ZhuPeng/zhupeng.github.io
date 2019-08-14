@@ -1,5 +1,5 @@
 上一次我们推荐了使用 Go 语言的[命令行工具 CLI 生成框架：Cobra](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984074&idx=1&sn=3bacba526055e1410f4b1c949c9e0462&chksm=88852387bff2aa918459efc3c04f4a70fed5d30efa944bc88a7c3bb5b517dabbde2a12b8bb2e&token=939844524&lang=zh_CN#rd)，需要提前通过生成代码的方式，有一定的后期修改和维护成本。
-今天要推荐一个 Python 的命令行工具生成框架 [google/python-fire](https://github.com/google/python-fire)，非常的简洁。在我不知道这个框架之前我是通过如下简单的代码解决的。
+今天要推荐一个 Python 的命令行工具生成框架 [google/python-fire](https://github.com/google/python-fire)，非常的简洁和优雅。在我不知道这个框架之前我是通过如下简单的代码解决的。
 
 ```python
 import sys
@@ -36,7 +36,7 @@ $ python hello.py  # Hello World!
 $ python hello.py --name=David  # Hello David!
 $ python hello.py --help  # Shows usage information.
 ```
-通过该工具可很方便的开发和调式 Python 代码，同时可以很容易将其其他人的 Python 代码转换成 CLI 工具，让和 Bash 集成变得更加的简单。另外这个工具是 Google  出品，当然必属精品, 点击查看详细的[使用文档](https://github.com/google/python-fire/blob/master/docs/guide.md)。
+通过该工具可以很方便的开发和调式 Python 代码，同时可以很容易将其他人的 Python 代码转换成 CLI 工具，使得和 Bash 集成变得更加的简单。另外这个工具是 Google  出品，当然必属精品，点击查看详细的[使用文档](https://github.com/google/python-fire/blob/master/docs/guide.md)。
 
 > 项目地址：https://github.com/google/python-fire
 
