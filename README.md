@@ -53,6 +53,7 @@
 * [一些有趣且鲜为人知的 Python 特性](_posts/wtfpython.md)
 * [Git Open 命令行快速打开项目网页](_posts/git-open.md)
 * [有趣的钢琴演奏项目](_posts/piano.md)
+* [帮助中小型企业的开源运维平台](_posts/2019-08-18.devops_spug.md)
 
 
 ## 每周精选
