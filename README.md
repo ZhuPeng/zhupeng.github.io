@@ -14,6 +14,7 @@
 * [Python 数据分析之 Pandas 介绍](_posts/pandas.md)
 * [Python 数据可视化 - Dash](_posts/python_dash.md)
 * [Google 出品：简洁优雅的 Python 命令行生成工具](_posts/py_fire.md)
+* [能把所有的 Python 代码都转换成一行嘛？](_posts/2019-08-22.onelinerizer.md)
 
 
 ## Go 相关
