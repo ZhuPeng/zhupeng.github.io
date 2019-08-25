@@ -24,6 +24,7 @@
 * [Learn Go with tests](_posts/go_tests.md)
 * [Go 建议](_posts/go_advice.md)
 * [Go 命令行工具 CLI 生成框架](_posts/go_cobra.md)
+* [Go 设计模式笔记](_posts/2019-08-25.go_partterns.md)
 
 
 ## 其他
