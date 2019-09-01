@@ -56,6 +56,7 @@
 * [Git Open 命令行快速打开项目网页](_posts/git-open.md)
 * [有趣的钢琴演奏项目](_posts/piano.md)
 * [帮助中小型企业的开源运维平台](_posts/2019-08-18.devops_spug.md)
+* [一个写代码的艺术家](_posts/20190901.coding.art.md)
 
 
 ## 每周精选
@@ -67,4 +68,5 @@
 * [『GitHub 精选』之 20190706 周精选](_posts/20190706-WeeklyReport.md)
 * [『GitHub 精选』之 20190720 周精选](_posts/20190720-WeeklyReport.md)
 * [『GitHub 精选』之 20190810 周精选](_posts/20190810-WeeklyReport.md)
+* [『GitHub 精选』之 20190831 周精选](_posts/20190831-WeeklyReport.md)
 
