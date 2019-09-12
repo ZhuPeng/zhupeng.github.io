@@ -58,6 +58,8 @@
 * [帮助中小型企业的开源运维平台](_posts/2019-08-18.devops_spug.md)
 * [一个写代码的艺术家](_posts/20190901.coding.art.md)
 * [控制台模式的天气预报](_posts/2019-09-03.console.weather.md)
+* [用代码写的字体](_posts/2019-09-09.typeface.char.md)
+* [一些开源书籍和文章推荐](_posts/2019-09-12.reading.md)
 
 
 ## 每周精选
