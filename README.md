@@ -60,6 +60,8 @@
 * [控制台模式的天气预报](_posts/2019-09-03.console.weather.md)
 * [用代码写的字体](_posts/2019-09-09.typeface.char.md)
 * [一些开源书籍和文章推荐](_posts/2019-09-12.reading.md)
+* [自动代码评审机器人](_posts/2019-09-17.reviewdog.md)
+* [Git飞行规则(Flight Rules)](_posts/2019-09-22.git.filght.rules.md)
 
 
 ## 每周精选
