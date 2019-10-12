@@ -15,6 +15,8 @@
 * [Python 数据可视化 - Dash](_posts/python_dash.md)
 * [Google 出品：简洁优雅的 Python 命令行生成工具](_posts/py_fire.md)
 * [能把所有的 Python 代码都转换成一行嘛？](_posts/2019-08-22.onelinerizer.md)
+* [Facebook 出品：针对复杂应用的配置优雅解决方案框架](_posts/20191007.facebook.hydra.md)
+* [一款制作数学函数动画的视频引擎](_posts/20191008.manim.animation.engine.md)
 
 
 ## Go 相关
@@ -74,4 +76,5 @@
 * [『GitHub 精选』之 20190720 周精选](_posts/20190720-WeeklyReport.md)
 * [『GitHub 精选』之 20190810 周精选](_posts/20190810-WeeklyReport.md)
 * [『GitHub 精选』之 20190831 周精选](_posts/20190831-WeeklyReport.md)
+* [『GitHub 精选』之 20190922 周精选](_posts/20190922-WeeklyReport.md)
 

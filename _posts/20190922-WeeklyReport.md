@@ -1,0 +1,69 @@
+又到了每周 GitHub 排行精选推送时刻了。排行总榜可点击 [GitHub小程序](https://github.com/)。
+
+ 本周 「GitHub 精选」分享的精品开源库如下：
+
+**1、反向面试问题集锦，助力提升你的面试水平**
+
+在面试的时候，其实是一个双向面试的过程，面试官在面试你的时候，你需要好好回答问题，展示自己的技术水平和实战能力，以及丰富的经验，用自己的回答来征服面试官。
+
+相关文章：[日增 250 ，标星超过 1 K 的反向面试问题，助力提升你的面试水平](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984266&idx=1&sn=9d9a2a39a4d6a1d5e8e0631f152820a5&chksm=88852cc7bff2a5d15661041d864aad917519a12d11321b41d79d792764518f3b8f0edfa4b2d6&token=106436571&lang=zh_CN#rd)
+
+
+
+**2、Flutter UI 模板**
+
+2019 年 9 月 10 日 - 11 日，Google 开发者大会在上海召开，Android 团队更新了最新产品 Android 10；Google 产品经理樊舟颖宣布了 Flutter 1.9 版本上线，这一版本支持更多的功能和语言，并大幅度改进了 Flutter 网页版。
+
+可见 Google 对 Flutter 的重视。
+
+相关文章：[5 天 将近 1500 Star 的 Flutter UI 模板](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984262&idx=1&sn=c97727fe8eddfb74ef47111492cc8446&chksm=88852ccbbff2a5dd3f7fa77276af1888cfe7e82290f1eb0199dab21fe418b11b6cba37ffaaf7&token=106436571&lang=zh_CN#rd)
+
+
+
+**3、代码评审（Code Review）规范**
+
+Google 最近在 GitHub 上公开了其多年的内部工程实践 [google/eng-practices](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984254&idx=1&sn=48da90f91b90544be97aeba7047ed5b0&chksm=88852c33bff2a5252f4af106b991a6a9ba71c87c59abdc5c23a5e69a5e4bb037a25c9a128aeb&token=106436571&lang=zh_CN)，目前只包含了 Code Review 的规范，后续会逐步公开其他的普遍适用的工程实践。
+
+代码评审（Code Review）很重要，尤其对于需要多人写作的项目，它使得代码仓库能够持续保持健康的状态，同时也能促进成员之间的相互协作和学习。
+
+相关文章：[你是一个令人尊敬的代码评审（Code Review）人员嘛？](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984254&idx=1&sn=48da90f91b90544be97aeba7047ed5b0&chksm=88852c33bff2a5252f4af106b991a6a9ba71c87c59abdc5c23a5e69a5e4bb037a25c9a128aeb&token=106436571&lang=zh_CN#rd)
+
+
+
+**4、七年之痒的 Python 练习题项目**
+
+一个七年前创建，一年前更新的开源项目，今天竟然上榜了，突然好像要火。
+
+这个开源项目就是 Python 练习题，里面包含了 100 多个挑战性的编程练习题。
+
+虽然，没有 README ，简陋到不能简陋了，但是 Issues 还不少呢，PR 了 45 次。
+
+但是点击去，一看，这个 100 + 的 Python 练习题啊，还都不错呢，不仅仅是题目，还有答案。
+
+相关文章：[标星 6K+ ,Fork 近 4K ，一年前的挑战性的编程练习为什么突然火了？](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984248&idx=1&sn=7caad8b48b8767bcda7314faf2ac9e49&chksm=88852c35bff2a523bb7e8001a6bf8477b520f57936520cef80f4af1767c8ce0ecd9f536fdb73&token=106436571&lang=zh_CN#rd)
+
+
+
+**5、Java 应用生产问题诊断工具**
+
+[bistoury](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984244&idx=1&sn=f78191b224c5f7ea07a36bf509e53dc0&chksm=88852c39bff2a52f6176a9525e7979eed2f8d97b1e39d8731ea6b69c1a929e30ed377dcdaf4f&token=106436571&lang=zh_CN)，这是去哪儿网开源的一个对应用透明、无侵入的 Java 应用生产问题诊断工具，Bistoury 的目标是提供一站式 Java 应用诊断解决方案，让开发人员无需登录机器或修改系统，就可以从日志、内存、线程、类信息、调试、机器和系统属性等各个方面对应用进行诊断，提升开发人员诊断问题的效率和能力。
+
+在这之前，阿里和唯品会都开源过很优秀的 Java 诊断工具，分别是 Arthas 和 VJTools。
+
+相关文章：[去哪儿网对标阿里和唯品会，开源了 Java 应用生产问题诊断工具](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984244&idx=1&sn=f78191b224c5f7ea07a36bf509e53dc0&chksm=88852c39bff2a52f6176a9525e7979eed2f8d97b1e39d8731ea6b69c1a929e30ed377dcdaf4f&token=106436571&lang=zh_CN#rd)
+
+
+
+**6、推荐一些 GitHub 开源博客和书籍**
+
+值得一看。
+
+相关文章：[推荐一些 GitHub 开源博客和书籍](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984236&idx=1&sn=d11aa7083f4ed631e8126bec71e0ed64&chksm=88852c21bff2a53729b2e824b6388d72514599523b512b719ce565abe0b5d0b59bbbad5c33ba&token=106436571&lang=zh_CN#rd)
+
+
+
+**7、开源弹框库 **
+
+一个基于 Android 的弹窗库，其实对于做 Android 的兄弟姐妹来讲，各种样式的弹窗，尤其是自定义 dialog，popupwindow 各式各样非常烦人。
+
+相关文章：[超过 3K + 的一个开源弹框库，使用方便，功能强大，简直碉堡了](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984232&idx=1&sn=c18b27d70a5bfe8acb57651a23f21f3d&chksm=88852c25bff2a5334a66734283b2a86484bbf1282285a2762c67651e4d511cbaee19720463bb&token=106436571&lang=zh_CN#rd)
