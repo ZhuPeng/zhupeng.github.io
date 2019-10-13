@@ -64,6 +64,7 @@
 * [一些开源书籍和文章推荐](_posts/2019-09-12.reading.md)
 * [自动代码评审机器人](_posts/2019-09-17.reviewdog.md)
 * [Git飞行规则(Flight Rules)](_posts/2019-09-22.git.filght.rules.md)
+* [ES 轻量级事件收集器 Beats](_posts/20191013.es.beats.md)
 
 
 ## 每周精选
@@ -77,4 +78,5 @@
 * [『GitHub 精选』之 20190810 周精选](_posts/20190810-WeeklyReport.md)
 * [『GitHub 精选』之 20190831 周精选](_posts/20190831-WeeklyReport.md)
 * [『GitHub 精选』之 20190922 周精选](_posts/20190922-WeeklyReport.md)
+* [『GitHub 精选』之 20191012 周精选](_posts/20191012-WeeklyReport.md)
 
