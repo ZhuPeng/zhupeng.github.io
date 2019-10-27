@@ -39,7 +39,6 @@
 * [Docker 容器故障排查工具](_posts/docker-debug.md)
 * [使用 GitHub 作为博客和书籍的载体的项目推荐](_posts/post_recommand.md)
 * [学习资料推荐](_posts/learning_doc.md)
-* [『GitHub 精选』之 20190510 周精选](_posts/20190510-WeeklyReport.md)
 * [Stack Overflow 命令行工具](_posts/stack_overflow_cli.md)
 * [命令行录屏工具](_posts/termtosvg.md)
 * [每天给女朋友发一封暖心的邮件](_posts/trigger_love.md)
@@ -65,6 +64,10 @@
 * [自动代码评审机器人](_posts/2019-09-17.reviewdog.md)
 * [Git飞行规则(Flight Rules)](_posts/2019-09-22.git.filght.rules.md)
 * [ES 轻量级事件收集器 Beats](_posts/20191013.es.beats.md)
+* [YApi 可视化接口管理平台](_posts/20191019.api.admin.md)
+* [命令行文件管理工具](_posts/20191023.cmd.file.manager.md)
+* [1024 程序员节，给大家讲一个真实的黑客故事](_posts/20191024.hacker.story.md)
+* [一款可以完全替代 Selenium 的快速简洁无依赖的浏览器驱动框架](_posts/20191027.chromedp.md)
 
 
 ## 每周精选
