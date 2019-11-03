@@ -68,6 +68,7 @@
 * [命令行文件管理工具](_posts/20191023.cmd.file.manager.md)
 * [1024 程序员节，给大家讲一个真实的黑客故事](_posts/20191024.hacker.story.md)
 * [一款可以完全替代 Selenium 的快速简洁无依赖的浏览器驱动框架](_posts/20191027.chromedp.md)
+* [实时发现 GitHub 密码泄露工具](_posts/20191103.sshgit.github.password.leak.md)
 
 
 ## 每周精选
@@ -82,4 +83,5 @@
 * [『GitHub 精选』之 20190831 周精选](_posts/20190831-WeeklyReport.md)
 * [『GitHub 精选』之 20190922 周精选](_posts/20190922-WeeklyReport.md)
 * [『GitHub 精选』之 20191012 周精选](_posts/20191012-WeeklyReport.md)
+* [『GitHub 精选』之 20191102 周精选](_posts/20191102-WeeklyReport.md)
 
