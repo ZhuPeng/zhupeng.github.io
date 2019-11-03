@@ -69,6 +69,7 @@
 * [1024 程序员节，给大家讲一个真实的黑客故事](_posts/20191024.hacker.story.md)
 * [一款可以完全替代 Selenium 的快速简洁无依赖的浏览器驱动框架](_posts/20191027.chromedp.md)
 * [实时发现 GitHub 密码泄露工具](_posts/20191103.sshgit.github.password.leak.md)
+* [手机电脑文件互传工具](_posts/20191103.files.delivery.between.desktop.mobile.md)
 
 
 ## 每周精选
