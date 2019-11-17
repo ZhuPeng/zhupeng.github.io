@@ -17,6 +17,7 @@
 * [能把所有的 Python 代码都转换成一行嘛？](_posts/2019-08-22.onelinerizer.md)
 * [Facebook 出品：针对复杂应用的配置优雅解决方案框架](_posts/20191007.facebook.hydra.md)
 * [一款制作数学函数动画的视频引擎](_posts/20191008.manim.animation.engine.md)
+* [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md)
 
 
 ## Go 相关
@@ -27,6 +28,7 @@
 * [Go 建议](_posts/go_advice.md)
 * [Go 命令行工具 CLI 生成框架](_posts/go_cobra.md)
 * [Go 设计模式笔记](_posts/2019-08-25.go_partterns.md)
+* [命令行文件管理工具](_posts/20191023.cmd.file.manager.md)
 
 
 ## 其他
@@ -65,11 +67,12 @@
 * [Git飞行规则(Flight Rules)](_posts/2019-09-22.git.filght.rules.md)
 * [ES 轻量级事件收集器 Beats](_posts/20191013.es.beats.md)
 * [YApi 可视化接口管理平台](_posts/20191019.api.admin.md)
-* [命令行文件管理工具](_posts/20191023.cmd.file.manager.md)
 * [1024 程序员节，给大家讲一个真实的黑客故事](_posts/20191024.hacker.story.md)
 * [一款可以完全替代 Selenium 的快速简洁无依赖的浏览器驱动框架](_posts/20191027.chromedp.md)
 * [实时发现 GitHub 密码泄露工具](_posts/20191103.sshgit.github.password.leak.md)
 * [手机电脑文件互传工具](_posts/20191103.files.delivery.between.desktop.mobile.md)
+* [为你弹琴写诗的机器学习模型](_posts/20191117.weinixieshi.md)
+* [模糊命令行搜索工具 fzf](_posts/20191117.fzf.md)
 
 
 ## 每周精选
@@ -85,4 +88,5 @@
 * [『GitHub 精选』之 20190922 周精选](_posts/20190922-WeeklyReport.md)
 * [『GitHub 精选』之 20191012 周精选](_posts/20191012-WeeklyReport.md)
 * [『GitHub 精选』之 20191102 周精选](_posts/20191102-WeeklyReport.md)
+* [『GitHub 精选』之 20191116 周精选](_posts/20191116-WeeklyReport.md)
 
