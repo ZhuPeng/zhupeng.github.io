@@ -17,7 +17,8 @@
 * [能把所有的 Python 代码都转换成一行嘛？](_posts/2019-08-22.onelinerizer.md)
 * [Facebook 出品：针对复杂应用的配置优雅解决方案框架](_posts/20191007.facebook.hydra.md)
 * [一款制作数学函数动画的视频引擎](_posts/20191008.manim.animation.engine.md)
-* [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md)
+* [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md)   未发布
+* [多租户 Jupyter Notebook](_posts/20191126.python.jupyter.notebook.md)   未发布
 
 
 ## Go 相关
@@ -29,6 +30,7 @@
 * [Go 命令行工具 CLI 生成框架](_posts/go_cobra.md)
 * [Go 设计模式笔记](_posts/2019-08-25.go_partterns.md)
 * [命令行文件管理工具](_posts/20191023.cmd.file.manager.md)
+* [模糊命令行搜索工具 fzf](_posts/20191117.fzf.md) 
 
 
 ## 其他
@@ -72,7 +74,6 @@
 * [实时发现 GitHub 密码泄露工具](_posts/20191103.sshgit.github.password.leak.md)
 * [手机电脑文件互传工具](_posts/20191103.files.delivery.between.desktop.mobile.md)
 * [为你弹琴写诗的机器学习模型](_posts/20191117.weinixieshi.md)
-* [模糊命令行搜索工具 fzf](_posts/20191117.fzf.md)
 
 
 ## 每周精选
