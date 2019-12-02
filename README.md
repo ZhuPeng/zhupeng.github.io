@@ -17,8 +17,8 @@
 * [能把所有的 Python 代码都转换成一行嘛？](_posts/2019-08-22.onelinerizer.md)
 * [Facebook 出品：针对复杂应用的配置优雅解决方案框架](_posts/20191007.facebook.hydra.md)
 * [一款制作数学函数动画的视频引擎](_posts/20191008.manim.animation.engine.md)
-* [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md)   未发布
-* [多租户 Jupyter Notebook](_posts/20191126.python.jupyter.notebook.md)   未发布
+* [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md) 
+* [多租户 Jupyter Notebook 服务](_posts/20191126.python.jupyter.notebook.md) 
 
 
 ## Go 相关
