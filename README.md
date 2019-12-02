@@ -74,6 +74,7 @@
 * [实时发现 GitHub 密码泄露工具](_posts/20191103.sshgit.github.password.leak.md)
 * [手机电脑文件互传工具](_posts/20191103.files.delivery.between.desktop.mobile.md)
 * [为你弹琴写诗的机器学习模型](_posts/20191117.weinixieshi.md)
+* [编程世界的未解问题 - 命名](_posts/20191202.awesome.nameing.md)  未发布
 
 
 ## 每周精选
