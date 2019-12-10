@@ -31,6 +31,7 @@
 * [Go 设计模式笔记](_posts/2019-08-25.go_partterns.md)
 * [命令行文件管理工具](_posts/20191023.cmd.file.manager.md)
 * [模糊命令行搜索工具 fzf](_posts/20191117.fzf.md) 
+* [Docker 容器镜像分析工具](_posts/20191209.dive.docker.analysis.md)
 
 
 ## 其他
@@ -74,7 +75,7 @@
 * [实时发现 GitHub 密码泄露工具](_posts/20191103.sshgit.github.password.leak.md)
 * [手机电脑文件互传工具](_posts/20191103.files.delivery.between.desktop.mobile.md)
 * [为你弹琴写诗的机器学习模型](_posts/20191117.weinixieshi.md)
-* [编程世界的未解问题 - 命名](_posts/20191202.awesome.nameing.md)  未发布
+* [编程世界的未解问题 - 命名](_posts/20191202.awesome.nameing.md) 
 
 
 ## 每周精选
