@@ -33,6 +33,7 @@
 * [模糊命令行搜索工具 fzf](_posts/20191117.fzf.md) 
 * [Docker 容器镜像分析工具](_posts/20191209.dive.docker.analysis.md)
 * [Go Web 单元测试表盘](_posts/20191216.go.test.dash.md)
+* [通过 SQL 训练机器学习模型的引擎](_posts/20191219.sqlflow.ml.md)
 
 
 ## 其他
