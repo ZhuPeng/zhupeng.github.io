@@ -79,6 +79,7 @@ stackType 是一个可扩展长度的池（slice），每次从队尾获取/插�
 
 4. 使用 sync.Pool 来加速获取在运行的 worker，sync.Pool 是干啥的? 存储运行中的 Goroutine ?
 
+博客：https://juejin.im/post/5d4087276fb9a06adb7fbe4a
    
 
 5. workerArray 是存储已经申请的 Goroutine （不是在运行中的）进行池化，重复利用？
