@@ -79,6 +79,7 @@
 * [手机电脑文件互传工具](_posts/20191103.files.delivery.between.desktop.mobile.md)
 * [为你弹琴写诗的机器学习模型](_posts/20191117.weinixieshi.md)
 * [编程世界的未解问题 - 命名](_posts/20191202.awesome.nameing.md) 
+* [牛逼，超过 290 家公司使用的开源任务调度系统](_posts/sche.sys.xxl.md)
 
 
 ## 每周精选
