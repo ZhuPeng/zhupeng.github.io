@@ -80,6 +80,7 @@
 * [为你弹琴写诗的机器学习模型](_posts/20191117.weinixieshi.md)
 * [编程世界的未解问题 - 命名](_posts/20191202.awesome.nameing.md) 
 * [牛逼，超过 290 家公司使用的开源任务调度系统](_posts/sche.sys.xxl.md)
+* [阿里妈妈前端团队出品的开源接口管理工具RAP](_posts/api.manager.rap.md)
 
 
 ## 每周精选
