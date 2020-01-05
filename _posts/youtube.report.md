@@ -1,0 +1,20 @@
+Python 数据分析教程之油管账户报告
+
+2020 年开启了下一个新的十年，而 2019 年刚刚过去，不少软件 APP 都发布了用户的年度报告，回味一下自己经历的事情是一件很有趣的事。
+
+今天要分享的开源项目是一个自己动手，一步一步生成自己的油管使用的报告。报告大致包含使用时间、历史观看或点赞的视频、活跃度评分等。
+
+![](https://i.ibb.co/H255wkD/You-Tube-Report-1.png)
+
+如果你想生成你的年度报告，大致流程如下：
+
+1. 安装 Python3
+2. 下载油管用户使用数据，可以参考网站  https://support.google.com/accounts/answer/3024190?hl=en 如何下载数据，其实数据都已经存储在 https://takeout.google.com/ 
+3. 克隆 GitHub 仓库 https://github.com/A3M4/YouTube-Report
+4. 将下载的数据放置到刚克隆的仓库里面，文件夹命名 Takeout 
+5. 安装 Python 依赖，执行命令：`pip install -r requirements.txt`
+6. 运行脚本：`python report.py`，运行之后你将会生成报告文件 `**YouTube_Report.pdf**`, 脚本运行完成之后会自动通过浏览器加载报告。
+
+经过上面的步骤，你就可以去回味你在油管上都做了什么了。更多详细的信息请参考如下项目链接。
+
+> 项目地址：https://github.com/A3M4/YouTube-Report

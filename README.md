@@ -19,6 +19,7 @@
 * [一款制作数学函数动画的视频引擎](_posts/20191008.manim.animation.engine.md)
 * [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md) 
 * [多租户 Jupyter Notebook 服务](_posts/20191126.python.jupyter.notebook.md) 
+* [生成你的油管个人使用报告](_posts/youtube.report.md)
 
 
 ## Go 相关

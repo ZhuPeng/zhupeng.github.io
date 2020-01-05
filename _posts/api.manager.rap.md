@@ -28,3 +28,12 @@ https://github.com/thx/rap2-delos RAP 第二代，RAP2 是在 RAP1 基础上重�
 如果想直接体验使用，可以通过网站：**[rap2.taobao.org](http://rap2.taobao.org/)**
 
 ![image-20191229212448957](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub%E7%B2%BE%E9%80%89/images/ali.rap.png)
+
+
+
+**推荐阅读**
+
+* [腾讯开源又一力作，刚开源，标星已超 3.3k](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984653&idx=1&sn=6f65a44dfc3989b529c6f476bb15fff2&chksm=88852e40bff2a756c6dd4a5509bc3aa06b6614f90e0b4d2a29ba2824993fb3a7f9f15e109310&token=401905435&lang=zh_CN#rd)
+* [标星近 2K 的常用正则大全，前后端程序员必备的工具](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984648&idx=1&sn=c91e844ae1a6cc812a36040c0717d464&chksm=88852e45bff2a75302b5efe28d7295eb15a8439fc3f1693279488f2181bbbd79a23cd40fabfe&token=401905435&lang=zh_CN#rd)
+* [牛逼，超过 290 家公司使用的开源任务调度系统](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984643&idx=1&sn=b68209f670cb14e5b78e568373263505&chksm=88852e4ebff2a7588c24c2afe9d14a87b3e462c7b82974924e1ba26053f8e249ce6e16a5d362&token=401905435&lang=zh_CN#rd)
+* [Android 开发者的福利，介绍几款看源码的工具](https://mp.weixin.qq.com/s?__biz=MzA3MzE4ODY0Mg==&mid=2455984638&idx=1&sn=a61f07e7aae09813feb6b297abd84f39&chksm=88852db3bff2a4a52417f87d3567fd808422763b04adf4a5f6d9b7e3a31e64f29015690dd006&token=401905435&lang=zh_CN#rd)
