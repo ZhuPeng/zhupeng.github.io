@@ -36,6 +36,7 @@
 * [Go Web 单元测试表盘](_posts/20191216.go.test.dash.md)
 * [通过 SQL 训练机器学习模型的引擎](_posts/20191219.sqlflow.ml.md)
 * [让 Go 应用发布越快越容易](_posts/20191222.go.releaser.md)
+* [Go 问题集锦博客](_posts/2020-01-12.go.questions.blog.md)
 
 
 ## 其他
