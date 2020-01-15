@@ -13,7 +13,7 @@ Python 数据分析教程之油管账户报告
 3. 克隆 GitHub 仓库 https://github.com/A3M4/YouTube-Report
 4. 将下载的数据放置到刚克隆的仓库里面，文件夹命名 Takeout 
 5. 安装 Python 依赖，执行命令：`pip install -r requirements.txt`
-6. 运行脚本：`python report.py`，运行之后你将会生成报告文件 `**YouTube_Report.pdf**`, 脚本运行完成之后会自动通过浏览器加载报告。
+6. 运行脚本：`python report.py`，运行之后你将会生成报告文件 `YouTube_Report.pdf`, 脚本运行完成之后会自动通过浏览器加载报告。
 
 经过上面的步骤，你就可以去回味你在油管上都做了什么了。更多详细的信息请参考如下项目链接。
 

@@ -37,6 +37,8 @@
 * [通过 SQL 训练机器学习模型的引擎](_posts/20191219.sqlflow.ml.md)
 * [让 Go 应用发布越快越容易](_posts/20191222.go.releaser.md)
 * [Go 问题集锦博客](_posts/2020-01-12.go.questions.blog.md)
+* [Kubernetes 命令行工具系列一](_posts/k8s_cmd_tools.md)
+* [Go 语言开发之 Goroutine 泄露检测](_posts/201200115.go.leaks.md)
 
 
 ## 其他
@@ -53,7 +55,6 @@
 * [命令行录屏工具](_posts/termtosvg.md)
 * [每天给女朋友发一封暖心的邮件](_posts/trigger_love.md)
 * [如何在 GitHub 项目中添加炫酷的徽章和图表](_posts/github_charts.md)
-* [Kubernetes 命令行工具系列一](_posts/k8s_cmd_tools.md)
 * [一款更懂程序员的 Markdown 笔记工具](_posts/know_prog_md_tools.md)
 * [一份开源的医院开放数据，希望你不会用到](_posts/hospital.md)
 * [中国远程工作资料大全](_posts/remote_working.md)
