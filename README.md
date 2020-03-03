@@ -20,6 +20,8 @@
 * [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md) 
 * [多租户 Jupyter Notebook 服务](_posts/20191126.python.jupyter.notebook.md) 
 * [生成你的油管个人使用报告](_posts/youtube.report.md)
+* [一款入门级的人脸、视频、文字检测以及识别的项目](_posts/20200225.faceai.md)
+* [7天用 Go 从零实现开源项目系列](_posts/20200303.7days.learn.go.md)
 
 
 ## Go 相关
@@ -38,7 +40,7 @@
 * [让 Go 应用发布越快越容易](_posts/20191222.go.releaser.md)
 * [Go 问题集锦博客](_posts/2020-01-12.go.questions.blog.md)
 * [Kubernetes 命令行工具系列一](_posts/k8s_cmd_tools.md)
-* [Go 语言开发之 Goroutine 泄露检测](_posts/201200115.go.leaks.md)
+* [Go 语言开发之 Goroutine 泄露检测](_posts/20200115.go.leaks.with.code.md)
 
 
 ## 其他
@@ -84,6 +86,7 @@
 * [编程世界的未解问题 - 命名](_posts/20191202.awesome.nameing.md) 
 * [牛逼，超过 290 家公司使用的开源任务调度系统](_posts/sche.sys.xxl.md)
 * [阿里妈妈前端团队出品的开源接口管理工具RAP](_posts/api.manager.rap.md)
+* [号称可替代 GitLab 的开源 DevOps 平台](_posts/20200301.onedevops.md)
 
 
 ## 每周精选
