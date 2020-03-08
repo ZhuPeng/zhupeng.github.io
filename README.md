@@ -41,6 +41,7 @@
 * [Go 问题集锦博客](_posts/2020-01-12.go.questions.blog.md)
 * [Kubernetes 命令行工具系列一](_posts/k8s_cmd_tools.md)
 * [Go 语言开发之 Goroutine 泄露检测](_posts/20200115.go.leaks.with.code.md)
+* [一款可配置化的个人监控看板](_posts/20200308.config.monitor.md)
 
 
 ## 其他
