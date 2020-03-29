@@ -22,6 +22,7 @@
 * [生成你的油管个人使用报告](_posts/youtube.report.md)
 * [一款入门级的人脸、视频、文字检测以及识别的项目](_posts/20200225.faceai.md)
 * [7天用 Go 从零实现开源项目系列](_posts/20200303.7days.learn.go.md)
+* [用 Python 开发的快速、简单的静态文档网站生成器](_posts/20200329.quick.markdown.docs.md)
 
 
 ## Go 相关
