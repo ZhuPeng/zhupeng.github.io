@@ -92,6 +92,8 @@
 * [号称可替代 GitLab 的开源 DevOps 平台](_posts/20200301.onedevops.md)
 * [适用于开发者的分布式即时通讯系统](_posts/20200319.im.md)
 * [提问的智慧](_posts/20200323.ask.question.md)
+* [Kafka 可视化管理平台](_posts/20200402.kafka.web.md)
+* [可插拔的 React 敏捷开发组件库 - 看板](_posts/20200406.kanban.react.lib.md)
 
 
 ## 每周精选
