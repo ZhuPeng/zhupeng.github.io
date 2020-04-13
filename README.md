@@ -94,6 +94,7 @@
 * [提问的智慧](_posts/20200323.ask.question.md)
 * [Kafka 可视化管理平台](_posts/20200402.kafka.web.md)
 * [可插拔的 React 敏捷开发组件库 - 看板](_posts/20200406.kanban.react.lib.md)
+* [通过内嵌 Git 的分布式可离线使用的 Bug 管理系统](_posts/20200413.git.bug.md)
 
 
 ## 每周精选
