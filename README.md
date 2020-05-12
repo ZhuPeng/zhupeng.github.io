@@ -100,6 +100,7 @@
 * [通过内嵌 Git 的分布式可离线使用的 Bug 管理系统](_posts/20200413.git.bug.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
+* [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
 
 
 ## 每周精选
