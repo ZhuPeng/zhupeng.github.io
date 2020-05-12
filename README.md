@@ -44,7 +44,7 @@
 * [Go 语言开发之 Goroutine 泄露检测](_posts/20200115.go.leaks.with.code.md)
 * [一款可配置化的个人监控看板](_posts/20200308.config.monitor.md)
 * [ants 高性能 goroutine 池](_posts/20200311.ants.gorouine.pool.md)/
-* [基于 Go 的跨平台图形界面库](20200420.go.gui.fyne.md)
+* [基于 Go 的跨平台图形界面库](_posts/20200420.go.gui.fyne.md)
 * [fiber 一款受 Express 启发开发的 Go Web 框架](_posts/20200422.go.httpframework.fiber.md)
 * [云原生用户认证和管理系统](_posts/20200506.kratos.user.admin.system.md)
 
@@ -101,6 +101,10 @@
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
+
+## Chrome 插件
+
+* [OneTab: 一键合并所有浏览器标签页方便管理](_posts/20200513.chrome.plugin.onetab.md)
 
 
 ## 每周精选
