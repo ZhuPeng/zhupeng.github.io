@@ -23,6 +23,7 @@
 * [一款入门级的人脸、视频、文字检测以及识别的项目](_posts/20200225.faceai.md)
 * [7天用 Go 从零实现开源项目系列](_posts/20200303.7days.learn.go.md)
 * [用 Python 开发的快速、简单的静态文档网站生成器](_posts/20200329.quick.markdown.docs.md)
+* [可配置化的个人命令行看板](_posts/20200524.personal.terminal.dash.md)
 
 
 ## Go 相关
@@ -101,6 +102,7 @@
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
+* [GitHub 精选开源项目周刊第3期](_posts/20200524.recommend.github.md)
 
 ## Chrome 插件
 
