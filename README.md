@@ -107,6 +107,7 @@
 ## Chrome 插件
 
 * [OneTab: 一键合并所有浏览器标签页方便管理](_posts/20200513.chrome.plugin.onetab.md)
+* [XPath Helper: 快速高效从网页中抽取内容](_posts/20200526.xpath.helper.md)
 
 
 ## 每周精选
