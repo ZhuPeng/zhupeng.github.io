@@ -26,6 +26,7 @@
 * [可配置化的个人命令行看板](_posts/20200524.personal.terminal.dash.md)
 * [国家队退场后，民间力量接管延续 Python2 的发展](_posts/20200530.python2.continue.md)
 * [微信版时间管理工具：定时事项提醒](_posts/20200530.python.wecron.md)
+* [见证奇迹的时刻：让你的头像说话](_posts/20200530.avatarify.deepfake.md)
 
 
 ## Go 相关
