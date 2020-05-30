@@ -24,6 +24,8 @@
 * [7天用 Go 从零实现开源项目系列](_posts/20200303.7days.learn.go.md)
 * [用 Python 开发的快速、简单的静态文档网站生成器](_posts/20200329.quick.markdown.docs.md)
 * [可配置化的个人命令行看板](_posts/20200524.personal.terminal.dash.md)
+* [国家队退场后，民间力量接管延续 Python2 的发展](_posts/20200530.python2.continue.md)
+* [微信版时间管理工具：定时事项提醒](20200530.python.wecron.md)
 
 
 ## Go 相关
