@@ -27,6 +27,7 @@
 * [国家队退场后，民间力量接管延续 Python2 的发展](_posts/20200530.python2.continue.md)
 * [微信版时间管理工具：定时事项提醒](_posts/20200530.python.wecron.md)
 * [见证奇迹的时刻：让你的头像说话](_posts/20200530.avatarify.deepfake.md)
+* [一款拥有简洁优雅编程模型的数据流引擎](_posts/20200606.dagster.pipeline.model.md)
 
 
 ## Go 相关
