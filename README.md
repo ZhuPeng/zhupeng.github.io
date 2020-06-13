@@ -104,6 +104,7 @@
 * [可插拔的 React 敏捷开发组件库 - 看板](_posts/20200406.kanban.react.lib.md)
 * [通过内嵌 Git 的分布式可离线使用的 Bug 管理系统](_posts/20200413.git.bug.md)
 * [Markdown 笔记转思维导图，快捷理清思路](_posts/20200606.markdown2tree.md)
+* [一款简洁好用的表格前端组件库](_posts/20200613.table.lib.js.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
