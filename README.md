@@ -53,6 +53,7 @@
 * [基于 Go 的跨平台图形界面库](_posts/20200420.go.gui.fyne.md)
 * [fiber 一款受 Express 启发开发的 Go Web 框架](_posts/20200422.go.httpframework.fiber.md)
 * [云原生用户认证和管理系统](_posts/20200506.kratos.user.admin.system.md)
+* [命令行提效工具：增加配置化功能的增强型 grep](_posts/20200621.wrapper.grep.with.pattern.md)
 
 
 ## 其他
