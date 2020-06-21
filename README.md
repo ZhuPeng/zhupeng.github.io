@@ -28,6 +28,7 @@
 * [微信版时间管理工具：定时事项提醒](_posts/20200530.python.wecron.md)
 * [见证奇迹的时刻：让你的头像说话](_posts/20200530.avatarify.deepfake.md)
 * [一款拥有简洁优雅编程模型的数据流引擎](_posts/20200606.dagster.pipeline.model.md)
+* [一键导出 / 备份「有道云笔记」](_posts/20200621.youdao.backup.md)
 
 
 ## Go 相关
@@ -110,6 +111,7 @@
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
 * [GitHub 精选开源项目周刊第3期](_posts/20200524.recommend.github.md)
+* [GitHub 精选开源项目周刊第4期](_posts/recommend.github.20200614.md)
 
 ## Chrome 插件
 
