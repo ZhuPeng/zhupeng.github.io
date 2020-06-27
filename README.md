@@ -54,6 +54,8 @@
 * [fiber 一款受 Express 启发开发的 Go Web 框架](_posts/20200422.go.httpframework.fiber.md)
 * [云原生用户认证和管理系统](_posts/20200506.kratos.user.admin.system.md)
 * [命令行提效工具：增加配置化功能的增强型 grep](_posts/20200621.wrapper.grep.with.pattern.md)
+* [Go 语言自然语言机器学习库：spaGo](_posts/20200626.go.nlp.lib.md)
+* [Go 语言学习实践样例开源库](_posts/20200626.go.examples.md)
 
 
 ## 其他
@@ -109,6 +111,7 @@
 * [一款简洁好用的表格前端组件库](_posts/20200613.table.lib.js.md)
 * [一款使用 GitHub Issue 作为数据存储的轻量级评论插件](20200621.github.issue.comment.lib.md)
 * [为软件开发人员打造的搜索引擎](_posts/20200613.search.engine.for.dev.md)
+* [算法模板：从 0 开始刷 LeetCode 的心得记录](_posts/20200627.leetcode.alg.template.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
