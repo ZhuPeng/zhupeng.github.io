@@ -19,3 +19,15 @@ https://github.com/spf13/cobra   =>   [CLI Framework Cobra](100go/cli.framework.
 https://github.com/junegunn/fzf   =>    [Fuzzy cli tools](100go/fzf.md)   未完成
 
 https://github.com/smartystreets/goconvey    =>   [Go test dashboard Goconvey](100go/go.test.dashboard.goconvey.md)   未完成
+
+https://github.com/Evertras/go-interface-examples
+
+
+
+
+
+回答三方面的问题：
+
+* 解决什么问题？ -->  如何定义问题？
+* 怎么解决的？  --> 方式方法，有没有对标
+* 核心的关注点

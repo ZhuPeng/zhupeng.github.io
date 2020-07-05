@@ -112,7 +112,7 @@
 * [一款使用 GitHub Issue 作为数据存储的轻量级评论插件](20200621.github.issue.comment.lib.md)
 * [为软件开发人员打造的搜索引擎](_posts/20200613.search.engine.for.dev.md)
 * [算法模板：从 0 开始刷 LeetCode 的心得记录](_posts/20200627.leetcode.alg.template.md)
-* [在线 PPT 制作工作：Gossip](_posts/20200705.online.ppt.gossip.md)
+* [在线 PPT 制作工具：Gossip](_posts/20200705.online.ppt.gossip.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
