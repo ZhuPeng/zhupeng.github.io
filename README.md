@@ -56,6 +56,7 @@
 * [命令行提效工具：增加配置化功能的增强型 grep](_posts/20200621.wrapper.grep.with.pattern.md)
 * [Go 语言自然语言机器学习库：spaGo](_posts/20200626.go.nlp.lib.md)
 * [Go 语言学习实践样例开源库](_posts/20200626.go.examples.md)
+* [Go Interface 的优雅使用，让代码更整洁更容易测试](_posts/20200705.go.interface.examples.md)
 
 
 ## 其他
