@@ -28,7 +28,7 @@
 * [微信版时间管理工具：定时事项提醒](_posts/20200530.python.wecron.md)
 * [见证奇迹的时刻：让你的头像说话](_posts/20200530.avatarify.deepfake.md)
 * [一款拥有简洁优雅编程模型的数据流引擎](_posts/20200606.dagster.pipeline.model.md)
-* [一键导出 / 备份「有道云笔记」](_posts/20200621.youdao.backup.md)
+* [一键导出 / 备份「有道云笔记」工具](_posts/20200621.youdao.backup.md)
 
 
 ## Go 相关
@@ -57,6 +57,7 @@
 * [Go 语言自然语言机器学习库：spaGo](_posts/20200626.go.nlp.lib.md)
 * [Go 语言学习实践样例开源库](_posts/20200626.go.examples.md)
 * [Go Interface 的优雅使用，让代码更整洁更容易测试](_posts/20200705.go.interface.examples.md)
+* [开源 SSO 单点登录认证系统，支持与 Nginx 直接集成](_posts/20200711.sso.go.system.md)
 
 
 ## 其他
@@ -114,6 +115,7 @@
 * [为软件开发人员打造的搜索引擎](_posts/20200613.search.engine.for.dev.md)
 * [算法模板：从 0 开始刷 LeetCode 的心得记录](_posts/20200627.leetcode.alg.template.md)
 * [在线 PPT 制作工具：Gossip](_posts/20200705.online.ppt.gossip.md)
+* [无需上传图片的在线图片格式转换器，速度还很快](_posts/20200711.image.style.transfer.without.upload.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
@@ -125,6 +127,7 @@
 * [OneTab: 一键合并所有浏览器标签页方便管理](_posts/20200513.chrome.plugin.onetab.md)
 * [XPath Helper: 快速高效从网页中抽取内容](_posts/20200526.xpath.helper.md)
 * [便捷查看 Chrome 插件源码的插件](_posts/20200531.chrome.plugin.source.viewer.md)
+* [分享网页中的文字，高亮且快速定位的工具](_posts/20200711.url.copy.text.navi.chrome.plugin.md)
 
 
 ## 每周精选
