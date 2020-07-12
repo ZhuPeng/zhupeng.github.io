@@ -116,6 +116,7 @@
 * [算法模板：从 0 开始刷 LeetCode 的心得记录](_posts/20200627.leetcode.alg.template.md)
 * [在线 PPT 制作工具：Gossip](_posts/20200705.online.ppt.gossip.md)
 * [无需上传图片的在线图片格式转换器，速度还很快](_posts/20200711.image.style.transfer.without.upload.md)
+* [我就是一个 SQL Boy，你能拿我怎么样](_posts/20200712.sql.to.everything.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
