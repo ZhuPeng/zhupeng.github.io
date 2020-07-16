@@ -111,7 +111,7 @@
 * [通过内嵌 Git 的分布式可离线使用的 Bug 管理系统](_posts/20200413.git.bug.md)
 * [Markdown 笔记转思维导图，快捷理清思路](_posts/20200606.markdown2tree.md)
 * [一款简洁好用的表格前端组件库](_posts/20200613.table.lib.js.md)
-* [一款使用 GitHub Issue 作为数据存储的轻量级评论插件](20200621.github.issue.comment.lib.md)
+* [一款使用 GitHub Issue 作为数据存储的轻量级评论插件](_posts/20200621.github.issue.comment.lib.md)
 * [为软件开发人员打造的搜索引擎](_posts/20200613.search.engine.for.dev.md)
 * [算法模板：从 0 开始刷 LeetCode 的心得记录](_posts/20200627.leetcode.alg.template.md)
 * [在线 PPT 制作工具：Gossip](_posts/20200705.online.ppt.gossip.md)
