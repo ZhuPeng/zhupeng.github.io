@@ -29,6 +29,7 @@
 * [见证奇迹的时刻：让你的头像说话](_posts/20200530.avatarify.deepfake.md)
 * [一款拥有简洁优雅编程模型的数据流引擎](_posts/20200606.dagster.pipeline.model.md)
 * [一键导出 / 备份「有道云笔记」工具](_posts/20200621.youdao.backup.md)
+* [增强型 diff 命令行工具，让你的工作更有色彩](_posts/20200719.color.diff.md)
 
 
 ## Go 相关
@@ -116,6 +117,7 @@
 * [算法模板：从 0 开始刷 LeetCode 的心得记录](_posts/20200627.leetcode.alg.template.md)
 * [在线 PPT 制作工具：Gossip](_posts/20200705.online.ppt.gossip.md)
 * [无需上传图片的在线图片格式转换器，速度还很快](_posts/20200711.image.style.transfer.without.upload.md)
+* [开发思维导图用这个工具就够了：mind-elixir-core](_posts/20200719.mind.chart.core.lib.md)
 * [我就是一个 SQL Boy，你能拿我怎么样](_posts/20200712.sql.to.everything.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
