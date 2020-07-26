@@ -120,6 +120,7 @@
 * [开发思维导图用这个工具就够了：mind-elixir-core](_posts/20200719.mind.chart.core.lib.md)
 * [一款自动生成唯一头像的开源代码库](_posts/20200719.generate.avatar.md)
 * [一款跨平台的 UI 命令行组件库](_posts/20200726.cmd.ui.lib.md)
+* [无需注册支持快速安全视频的网站](_posts/20200726.secure.quick.video.md)
 * [我就是一个 SQL Boy，你能拿我怎么样](_posts/20200712.sql.to.everything.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
