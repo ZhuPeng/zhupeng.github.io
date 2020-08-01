@@ -59,6 +59,7 @@
 * [Go 语言学习实践样例开源库](_posts/20200626.go.examples.md)
 * [Go Interface 的优雅使用，让代码更整洁更容易测试](_posts/20200705.go.interface.examples.md)
 * [开源 SSO 单点登录认证系统，支持与 Nginx 直接集成](_posts/20200711.sso.go.system.md)
+* [简单高效的直播服务器开源项目推荐](_posts/20200801.live.go.md)
 
 
 ## 其他
