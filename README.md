@@ -30,6 +30,7 @@
 * [一款拥有简洁优雅编程模型的数据流引擎](_posts/20200606.dagster.pipeline.model.md)
 * [一键导出 / 备份「有道云笔记」工具](_posts/20200621.youdao.backup.md)
 * [增强型 diff 命令行工具，让你的工作更有色彩](_posts/20200719.color.diff.md)
+* [让你眼前一亮长见识的反爬虫策略](_posts/20200802.anti.spider.strategy.douyu.md)
 
 
 ## Go 相关
