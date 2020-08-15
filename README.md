@@ -126,6 +126,7 @@
 * [我就是一个 SQL Boy，你能拿我怎么样](_posts/20200712.sql.to.everything.md)
 * [TimeCat：不可思议的 Web 录屏器](_posts/20200809.time.cat.record.screen.md)
 * [不可思议，竟然可以自动化的删除无用的代码](_posts/20200809.delete.unused.code.with.flag.md)
+* [根据 2D 图片自动生成 3D 图书封面的牛逼工具](_posts/20200815.3d.book.cover.image.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
