@@ -131,6 +131,7 @@
 * [自动将手写代码转换为编辑器中的代码](_posts/20200816.auto.generate.handwrite.code.md)
 * [让你同时成为黑客与画家的项目](_posts/20200816.haker.pic.to.art.md)
 * [完全使用 HTML/CSS 实现的经典扫雷游戏](_posts/20200816.css.sanlei.md)
+* [一款开源开箱即用的团队密码管理服务](_posts/20200823.password.manage.open.source.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
