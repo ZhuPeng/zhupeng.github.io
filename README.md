@@ -146,6 +146,7 @@
 * [XPath Helper: 快速高效从网页中抽取内容](_posts/20200526.xpath.helper.md)
 * [便捷查看 Chrome 插件源码的插件](_posts/20200531.chrome.plugin.source.viewer.md)
 * [分享网页中的文字，高亮且快速定位的工具](_posts/20200711.url.copy.text.navi.chrome.plugin.md)
+* [每一个开发者都必装的十大 Chrome 插件](_posts/20200824.chrome.extension.dev.should.have.md)
 
 
 ## 每周精选
