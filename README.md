@@ -61,6 +61,8 @@
 * [Go Interface 的优雅使用，让代码更整洁更容易测试](_posts/20200705.go.interface.examples.md)
 * [开源 SSO 单点登录认证系统，支持与 Nginx 直接集成](_posts/20200711.sso.go.system.md)
 * [简单高效的直播服务器开源项目推荐](_posts/20200801.live.go.md)
+* [一个 go、echo、vue 开发的快速、简洁、美观、前后端分离的个人博客系统](_posts/20200829.go.blog.simple.md)
+* [一款小巧的基于 Go 构建的开发框架](_posts/20200829.go.framework.md)
 
 
 ## 其他
