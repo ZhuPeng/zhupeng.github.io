@@ -147,6 +147,7 @@
 * [便捷查看 Chrome 插件源码的插件](_posts/20200531.chrome.plugin.source.viewer.md)
 * [分享网页中的文字，高亮且快速定位的工具](_posts/20200711.url.copy.text.navi.chrome.plugin.md)
 * [每一个开发者都必装的十大 Chrome 插件](_posts/20200824.chrome.extension.dev.should.have.md)
+* [Google 出品网站性能质量及错误分析工具，安装 Chrome 插件即可使用](_posts/20200830.google.light.house.md)
 
 
 ## 每周精选
