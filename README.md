@@ -63,6 +63,7 @@
 * [简单高效的直播服务器开源项目推荐](_posts/20200801.live.go.md)
 * [一个 go、echo、vue 开发的快速、简洁、美观、前后端分离的个人博客系统](_posts/20200829.go.blog.simple.md)
 * [一款小巧的基于 Go 构建的开发框架](_posts/20200829.go.framework.md)
+* [一款无需注册支持阅后即焚的文本分享平台](_posts/20200906.pasteme.no.register.md)
 
 
 ## 其他
@@ -134,6 +135,7 @@
 * [让你同时成为黑客与画家的开源项目](_posts/20200816.haker.pic.to.art.md)
 * [完全使用 HTML/CSS 实现的经典扫雷游戏](_posts/20200816.css.sanlei.md)
 * [一款开源开箱即用的团队密码管理服务](_posts/20200823.password.manage.open.source.md)
+* [Airbnb 开源力作：自动将 JavaScript 代码转换为 TypeScript](_posts/20200906.airbnb.ts.to.js.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
