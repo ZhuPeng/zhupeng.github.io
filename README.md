@@ -139,6 +139,8 @@
 * [自动将手写代码转换为编辑器中的代码](_posts/20200816.auto.generate.handwrite.code.md)
 * [2D 文字快速转 3D 效果的开源牛逼项目](_posts/20200925.2d.transfer.3d.md)
 * [Google 产品都有哪些替代品呢？](_posts/20200927.google.replacement.products.md)
+* [开源技术资料阅读小程序推荐](_posts/20201006.open.source.books.md) 
+* [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
