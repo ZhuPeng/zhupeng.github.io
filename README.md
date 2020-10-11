@@ -65,6 +65,7 @@
 * [一款小巧的基于 Go 构建的开发框架](_posts/20200829.go.framework.md)
 * [一款无需注册支持阅后即焚的文本分享平台](_posts/20200906.pasteme.no.register.md)
 * [自动将函数或者命令行工具转换成 Web 服务](_posts/20200927.webify.turn.command.to.web.service.md)
+* [好未来开源力作 Go Web/RPC 高性能易扩展开发框架 go-zero](_posts/20201011.go.web.rpc.frameworker.go.zero.md)
 
 
 ## 其他
@@ -141,6 +142,7 @@
 * [Google 产品都有哪些替代品呢？](_posts/20200927.google.replacement.products.md)
 * [开源技术资料阅读小程序推荐](_posts/20201006.open.source.books.md) 
 * [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
+* [在线工具秘籍，为在线工具写一本优质说明书](_posts/20201011.online.tools.book.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
