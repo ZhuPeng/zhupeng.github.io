@@ -68,6 +68,16 @@
 * [好未来开源力作 Go Web/RPC 高性能易扩展开发框架 go-zero](_posts/20201011.go.web.rpc.frameworker.go.zero.md)
 
 
+
+## 前端
+
+[标星 1 万的网页骨架屏生成库](_posts/20201024.web.skeleton.loading.md)
+
+[Luckysheet，一款纯前端类似excel的在线表格](_posts/20201024.table.lucky.sheet.md)
+
+
+
+
 ## 其他
 
 * [在线生成 GitHub 简历](_posts/GitHubResume.md)
@@ -141,6 +151,7 @@
 * [2D 文字快速转 3D 效果的开源牛逼项目](_posts/20200925.2d.transfer.3d.md)
 * [Google 产品都有哪些替代品呢？](_posts/20200927.google.replacement.products.md)
 * [开源技术资料阅读小程序推荐](_posts/20201006.open.source.books.md) 
+* [开源 Books 小程序最近新上功能介绍](_posts/20201024.open.source.books.feature.intro.md)
 * [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
 * [在线工具秘籍，为在线工具写一本优质说明书](_posts/20201011.online.tools.book.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
@@ -148,6 +159,7 @@
 * [GitHub 精选开源项目周刊第2期](_posts/20200512.recommend.github.md)
 * [GitHub 精选开源项目周刊第3期](_posts/20200524.recommend.github.md)
 * [GitHub 精选开源项目周刊第4期](_posts/recommend.github.20200614.md)
+* [Java 图片缩略图生成库](_posts/20201025.java.thumbnailator.md)
 
 ## Chrome 插件
 
