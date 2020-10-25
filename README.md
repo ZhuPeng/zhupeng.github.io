@@ -160,6 +160,7 @@
 * [GitHub 精选开源项目周刊第3期](_posts/20200524.recommend.github.md)
 * [GitHub 精选开源项目周刊第4期](_posts/recommend.github.20200614.md)
 * [Java 图片缩略图生成库](_posts/20201025.java.thumbnailator.md)
+* [在 Docker 中运行 Mac OS 是什么样的体验](_posts/20201025.run.mac.os.in.docker.md)
 
 ## Chrome 插件
 
