@@ -67,7 +67,7 @@
 * [自动将函数或者命令行工具转换成 Web 服务](_posts/20200927.webify.turn.command.to.web.service.md)
 * [好未来开源力作 Go Web/RPC 高性能易扩展开发框架 go-zero](_posts/20201011.go.web.rpc.frameworker.go.zero.md)
 * XX [GitHub Star 1.3K Web 框架压测库，让你更好的选择高性能框架](_posts/20201101.go.webframework.bench.test.md)
-* XX [灵感源自 jq 工具的命令行 HTML 解析工具](_posts/20201107.parse.html.like.jq.md)
+* [灵感源自 jq 工具的命令行 HTML 解析工具](_posts/20201107.parse.html.like.jq.md)
 
 
 
