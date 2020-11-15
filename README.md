@@ -79,7 +79,7 @@
 
 XX [1分钟提升网站使用体验，这么香的方法不想知道吗？](_posts/20201107.preload.html.page.before.click.md)
 
-XX [高大上：场景化低代码（LowCode）搭建工作台](_posts/20201108.low.code.workstation.md)
+[高大上：场景化低代码（LowCode）搭建工作台](_posts/20201108.low.code.workstation.md)
 
 
 
@@ -155,7 +155,7 @@ XX [高大上：场景化低代码（LowCode）搭建工作台](_posts/20201108.
 * [一款开源开箱即用的团队密码管理服务](_posts/20200823.password.manage.open.source.md)
 * [自动将手写代码转换为编辑器中的代码](_posts/20200816.auto.generate.handwrite.code.md)
 * [2D 文字快速转 3D 效果的开源牛逼项目](_posts/20200925.2d.transfer.3d.md)
-* XX [Google 产品都有哪些替代品呢？](_posts/20200927.google.replacement.products.md)
+* [Google 产品都有哪些替代品呢？](_posts/20200927.google.replacement.products.md)
 * [开源技术资料阅读小程序推荐](_posts/20201006.open.source.books.md) 
 * [开源 Books 小程序最近新上功能介绍](_posts/20201024.open.source.books.feature.intro.md)
 * [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
