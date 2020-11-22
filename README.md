@@ -177,6 +177,7 @@ XX [网站美观度自动评分系统](_posts/20201122.websites.attractive.rate.
 * [你还记得你用过的那些手机的型号嘛？](_posts/20201101.history.of.phone.md)
 *  [Google 新发布的项目管理工具](_posts/20201101.tables.google.project.manager.md)
 *  [如何使用 iPhone 进行电子签名](_posts/20201115.iphone.sign.md)
+*  XX [掌握 850 个单词就能理解 90% 的英语](_posts/20201122.basic.enligh.words.md)
 
 ## Chrome 插件
 
