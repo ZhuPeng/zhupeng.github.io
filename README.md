@@ -86,6 +86,8 @@ XX [亚马逊开源流程图制作工具](_posts/20201115.graph.editor.md)
 
 [企业级 nodejs 性能监控方案](_posts/20201115.nodejs.monitor.md)
 
+XX [网站美观度自动评分系统](_posts/20201122.websites.attractive.rate.md)
+
 
 
 
