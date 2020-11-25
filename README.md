@@ -78,7 +78,7 @@
 
 [Luckysheet，一款纯前端类似excel的在线表格](_posts/20201024.table.lucky.sheet.md)
 
-XX [1分钟提升网站使用体验，这么香的方法不想知道吗？](_posts/20201107.preload.html.page.before.click.md)
+[1分钟提升网站使用体验，这么香的方法不想知道吗？](_posts/20201107.preload.html.page.before.click.md)
 
 [高大上：场景化低代码（LowCode）搭建工作台](_posts/20201108.low.code.workstation.md)
 
@@ -86,7 +86,7 @@ XX [亚马逊开源流程图制作工具](_posts/20201115.graph.editor.md)
 
 [企业级 nodejs 性能监控方案](_posts/20201115.nodejs.monitor.md)
 
-XX [网站美观度自动评分系统](_posts/20201122.websites.attractive.rate.md)
+[网站美观度自动评分系统](_posts/20201122.websites.attractive.rate.md)
 
 
 
