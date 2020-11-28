@@ -82,7 +82,7 @@
 
 [高大上：场景化低代码（LowCode）搭建工作台](_posts/20201108.low.code.workstation.md)
 
-XX [亚马逊开源流程图制作工具](_posts/20201115.graph.editor.md)
+[亚马逊开源流程图制作工具](_posts/20201115.graph.editor.md)
 
 [企业级 nodejs 性能监控方案](_posts/20201115.nodejs.monitor.md)
 
