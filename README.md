@@ -8,6 +8,7 @@
 * [GitHub 开源项目发布雷达 -  201904](_posts/github_release_radar_201904.md)
 
 
+
 ## Python 相关
 
 * [Python 之禅和设计模式](_posts/ZenOfPython.md)
@@ -31,6 +32,7 @@
 * [一键导出 / 备份「有道云笔记」工具](_posts/20200621.youdao.backup.md)
 * [增强型 diff 命令行工具，让你的工作更有色彩](_posts/20200719.color.diff.md)
 * [让你眼前一亮长见识的反爬虫策略](_posts/20200802.anti.spider.strategy.douyu.md)
+
 
 
 ## Go 相关
@@ -66,7 +68,7 @@
 * [一款无需注册支持阅后即焚的文本分享平台](_posts/20200906.pasteme.no.register.md)
 * [自动将函数或者命令行工具转换成 Web 服务](_posts/20200927.webify.turn.command.to.web.service.md)
 * [好未来开源力作 Go Web/RPC 高性能易扩展开发框架 go-zero](_posts/20201011.go.web.rpc.frameworker.go.zero.md)
-* XX [GitHub Star 1.3K Web 框架压测库，让你更好的选择高性能框架](_posts/20201101.go.webframework.bench.test.md)
+* [GitHub Star 1.3K 的Web 框架压测库，助你更好的选择框架](_posts/20201101.go.webframework.bench.test.md)
 * [灵感源自 jq 工具的命令行 HTML 解析工具](_posts/20201107.parse.html.like.jq.md)
 * XX [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
 * XX [炫酷命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
@@ -164,9 +166,6 @@
 * [自动将手写代码转换为编辑器中的代码](_posts/20200816.auto.generate.handwrite.code.md)
 * [2D 文字快速转 3D 效果的开源牛逼项目](_posts/20200925.2d.transfer.3d.md)
 * [Google 产品都有哪些替代品呢？](_posts/20200927.google.replacement.products.md)
-* [开源技术资料阅读小程序推荐](_posts/20201006.open.source.books.md) 
-* [开源 Books 小程序最近新上功能介绍](_posts/20201024.open.source.books.feature.intro.md)
-* [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
 * XX [在线工具秘籍，为在线工具写一本优质说明书](_posts/20201011.online.tools.book.md)
 * [GitHub 精选开源项目周刊第0期](_posts/20200416.recommend.github.md)
 * [GitHub 精选开源项目周刊第1期](_posts/20200423.recommend.github.md)
@@ -174,12 +173,14 @@
 * [GitHub 精选开源项目周刊第3期](_posts/20200524.recommend.github.md)
 * [GitHub 精选开源项目周刊第4期](_posts/recommend.github.20200614.md)
 * [Java 图片缩略图生成库](_posts/20201025.java.thumbnailator.md)
-* XX [在 Docker 中运行 Mac OS 是什么样的体验](_posts/20201025.run.mac.os.in.docker.md)
+* [在 Docker 中运行 Mac OS 是什么样的体验](_posts/20201025.run.mac.os.in.docker.md)
 * [你还记得你用过的那些手机的型号嘛？](_posts/20201101.history.of.phone.md)
 *  [Google 新发布的项目管理工具](_posts/20201101.tables.google.project.manager.md)
 *  [如何使用 iPhone 进行电子签名](_posts/20201115.iphone.sign.md)
 *  XX [掌握 850 个单词就能理解 90% 的英语](_posts/20201122.basic.enligh.words.md)
 *  XX [古代互联网的使用体验是什么样的？](_posts/20201128.old.internet.md)
+
+
 
 ## Chrome 插件
 
@@ -189,6 +190,8 @@
 * [分享网页中的文字，高亮且快速定位的工具](_posts/20200711.url.copy.text.navi.chrome.plugin.md)
 * [每一个开发者都必装的十大 Chrome 插件](_posts/20200824.chrome.extension.dev.should.have.md)
 * [Google 出品网站性能质量及错误分析工具，安装 Chrome 插件即可使用](_posts/20200830.google.light.house.md)
+* XX 链接自动提取插件
+
 
 
 ## 每周精选
@@ -206,3 +209,17 @@
 * [『GitHub 精选』之 20191102 周精选](_posts/20191102-WeeklyReport.md)
 * [『GitHub 精选』之 20191116 周精选](_posts/20191116-WeeklyReport.md)
 
+
+
+## 书籍推荐
+
+* XX [简直牛逼，那些对软件开发人员有用的定律、理论、原则和模式](_posts/20201203.books.hacker.laws.md)
+
+
+
+## 微信小程序
+
+* [开源技术资料阅读小程序推荐](_posts/20201006.open.source.books.md) 
+* [开源 Books 小程序最近新上功能介绍](_posts/20201024.open.source.books.feature.intro.md)
+* [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
+* XX 每日一题小程序推荐
