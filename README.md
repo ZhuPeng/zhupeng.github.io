@@ -91,6 +91,8 @@
 
 [网站美观度自动评分系统](_posts/20201122.websites.attractive.rate.md)
 
+XX [如网页一般美观的邮件都是如何发送的？](_posts/20201206.email.html.templates.md)
+
 
 
 
@@ -179,6 +181,7 @@
 *  [如何使用 iPhone 进行电子签名](_posts/20201115.iphone.sign.md)
 *  XX [掌握 850 个单词就能理解 90% 的英语](_posts/20201122.basic.enligh.words.md)
 *  XX [古代互联网的使用体验是什么样的？](_posts/20201128.old.internet.md)
+*  XX [你知道吗，用声波也可以传输文件？](_posts/20201206.wave.share.md)
 
 
 
