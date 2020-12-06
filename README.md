@@ -194,6 +194,7 @@ XX [如网页一般美观的邮件都是如何发送的？](_posts/20201206.emai
 * [每一个开发者都必装的十大 Chrome 插件](_posts/20200824.chrome.extension.dev.should.have.md)
 * [Google 出品网站性能质量及错误分析工具，安装 Chrome 插件即可使用](_posts/20200830.google.light.house.md)
 * XX 链接自动提取插件
+* XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
 
 
 
