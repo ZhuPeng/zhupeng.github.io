@@ -70,8 +70,8 @@
 * [好未来开源力作 Go Web/RPC 高性能易扩展开发框架 go-zero](_posts/20201011.go.web.rpc.frameworker.go.zero.md)
 * [GitHub Star 1.3K 的Web 框架压测库，助你更好的选择框架](_posts/20201101.go.webframework.bench.test.md)
 * [灵感源自 jq 工具的命令行 HTML 解析工具](_posts/20201107.parse.html.like.jq.md)
-* XX [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
-* XX [炫酷命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
+* [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
+* [炫酷命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 
 
 
@@ -91,7 +91,7 @@
 
 [网站美观度自动评分系统](_posts/20201122.websites.attractive.rate.md)
 
-XX [如网页一般美观的邮件都是如何发送的？](_posts/20201206.email.html.templates.md)
+[如网页一般美观的邮件都是如何发送的？](_posts/20201206.email.html.templates.md)
 
 
 
