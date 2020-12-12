@@ -6,6 +6,7 @@
 
 * [GitHub 开源项目发布雷达 -  201903](_posts/github_release_radar_201903.md)
 * [GitHub 开源项目发布雷达 -  201904](_posts/github_release_radar_201904.md)
+* [GitHub 开始支持 Discussions 了](_posts/20201212.github.discussion.md)
 
 
 
@@ -32,6 +33,7 @@
 * [一键导出 / 备份「有道云笔记」工具](_posts/20200621.youdao.backup.md)
 * [增强型 diff 命令行工具，让你的工作更有色彩](_posts/20200719.color.diff.md)
 * [让你眼前一亮长见识的反爬虫策略](_posts/20200802.anti.spider.strategy.douyu.md)
+* XX [Python 命令行终端神器](_posts/20201212.python.rich.format.md)
 
 
 
@@ -71,7 +73,7 @@
 * [GitHub Star 1.3K 的Web 框架压测库，助你更好的选择框架](_posts/20201101.go.webframework.bench.test.md)
 * [灵感源自 jq 工具的命令行 HTML 解析工具](_posts/20201107.parse.html.like.jq.md)
 * [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
-* [炫酷命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
+* XX [炫酷命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 
 
 
@@ -92,6 +94,8 @@
 [网站美观度自动评分系统](_posts/20201122.websites.attractive.rate.md)
 
 [如网页一般美观的邮件都是如何发送的？](_posts/20201206.email.html.templates.md)
+
+XX [通过 JavaScript 操作 SQLite 的开源库推荐](_posts/20201212.sqlite.js.md)
 
 
 
