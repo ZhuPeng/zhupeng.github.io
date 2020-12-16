@@ -221,7 +221,7 @@ XX [通过 JavaScript 操作 SQLite 的开源库推荐](_posts/20201212.sqlite.j
 
 ## 书籍推荐
 
-* XX [简直牛逼，那些对软件开发人员有用的定律、理论、原则和模式](_posts/20201203.books.hacker.laws.md)
+* [简直牛逼，那些对软件开发人员有用的定律、理论、原则和模式](_posts/20201203.books.hacker.laws.md)
 
 
 
