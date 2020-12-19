@@ -73,7 +73,7 @@
 * [GitHub Star 1.3K 的Web 框架压测库，助你更好的选择框架](_posts/20201101.go.webframework.bench.test.md)
 * [灵感源自 jq 工具的命令行 HTML 解析工具](_posts/20201107.parse.html.like.jq.md)
 * [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
-* XX [炫酷命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
+* [炫酷的命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 
 
 
@@ -186,6 +186,7 @@ XX [通过 JavaScript 操作 SQLite 的开源库推荐](_posts/20201212.sqlite.j
 *  XX [掌握 850 个单词就能理解 90% 的英语](_posts/20201122.basic.enligh.words.md)
 *  XX [古代互联网的使用体验是什么样的？](_posts/20201128.old.internet.md)
 *  XX [你知道吗，用声波也可以传输文件？](_posts/20201206.wave.share.md)
+*  XX [在 Linux 系统上直接运行 Windows 上的微软 Word/Excel 是什么体验？](_posts/20201219.linux.run.win.app.md)
 
 
 
