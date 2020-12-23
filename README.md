@@ -33,7 +33,7 @@
 * [一键导出 / 备份「有道云笔记」工具](_posts/20200621.youdao.backup.md)
 * [增强型 diff 命令行工具，让你的工作更有色彩](_posts/20200719.color.diff.md)
 * [让你眼前一亮长见识的反爬虫策略](_posts/20200802.anti.spider.strategy.douyu.md)
-* XX [Python 命令行终端神器](_posts/20201212.python.rich.format.md)
+* [Python 命令行终端神器](_posts/20201212.python.rich.format.md)
 
 
 
