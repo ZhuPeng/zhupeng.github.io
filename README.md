@@ -74,6 +74,7 @@
 * [灵感源自 jq 工具的命令行 HTML 解析工具](_posts/20201107.parse.html.like.jq.md)
 * [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
 * [炫酷的命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
+* XX [一个国外开源项目描述中有中文“谢谢”，到底发生了什么？](_posts/20201224.iris.go.cn.md)
 
 
 
