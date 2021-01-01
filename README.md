@@ -202,7 +202,7 @@ XX [真香，不需要额外购买云服务的短链接生成服务](_posts/2020
 * [分享网页中的文字，高亮且快速定位的工具](_posts/20200711.url.copy.text.navi.chrome.plugin.md)
 * [每一个开发者都必装的十大 Chrome 插件](_posts/20200824.chrome.extension.dev.should.have.md)
 * [Google 出品网站性能质量及错误分析工具，安装 Chrome 插件即可使用](_posts/20200830.google.light.house.md)
-* XX 链接自动提取插件
+* XX [链接助手：网页操作自动化定制 Chrome 插件](_posts/20210101.link.helper.md)
 * XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
 
 
@@ -236,5 +236,5 @@ XX [真香，不需要额外购买云服务的短链接生成服务](_posts/2020
 * [开源 Books 小程序最近新上功能介绍](_posts/20201024.open.source.books.feature.intro.md)
 * [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
 * XX 每日一题小程序推荐
-* XX 开源 Books 最近功能更新
-* XX 开源话题推荐
+* [20210101 开源技术栈最近功能更新](_posts/20210101.minip.changelog.md)
+* XX [开源话题小程序推荐](_posts/20210101.opensource.topic.minip.md)
