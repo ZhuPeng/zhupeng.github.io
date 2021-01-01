@@ -75,6 +75,7 @@
 * [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
 * [炫酷的命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 * [一个国外开源项目描述中有中文“谢谢”，到底发生了什么？](_posts/20201224.iris.go.cn.md)
+* XX [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/20210101.yq.parser.md)
 
 
 
@@ -235,3 +236,5 @@ XX [真香，不需要额外购买云服务的短链接生成服务](_posts/2020
 * [开源 Books 小程序最近新上功能介绍](_posts/20201024.open.source.books.feature.intro.md)
 * [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
 * XX 每日一题小程序推荐
+* XX 开源 Books 最近功能更新
+* XX 开源话题推荐
