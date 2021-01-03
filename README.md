@@ -97,7 +97,7 @@
 
 [如网页一般美观的邮件都是如何发送的？](_posts/20201206.email.html.templates.md)
 
-XX [通过 JavaScript 操作 SQLite 的开源库推荐](_posts/20201212.sqlite.js.md)
+[通过 JavaScript 操作 SQLite 的开源库推荐](_posts/20201212.sqlite.js.md)
 
 XX [真香，不需要额外购买云服务的短链接生成服务](_posts/20201227.short.url.by.github.pages.md)
 
@@ -191,6 +191,7 @@ XX [真香，不需要额外购买云服务的短链接生成服务](_posts/2020
 *  XX [古代互联网的使用体验是什么样的？](_posts/20201128.old.internet.md)
 *  XX [你知道吗，用声波也可以传输文件？](_posts/20201206.wave.share.md)
 *  XX [在 Linux 系统上直接运行 Windows 上的微软 Word/Excel 是什么体验？](_posts/20201219.linux.run.win.app.md)
+*  XX [比 ElasticSearch 更容易接入使用的搜索引擎 typesense](_posts/20210103.search.engine.typesense.md)
 
 
 
