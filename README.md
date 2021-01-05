@@ -188,7 +188,7 @@ XX [真香，不需要额外购买云服务的短链接生成服务](_posts/2020
 *  [Google 新发布的项目管理工具](_posts/20201101.tables.google.project.manager.md)
 *  [如何使用 iPhone 进行电子签名](_posts/20201115.iphone.sign.md)
 *  XX [掌握 850 个单词就能理解 90% 的英语](_posts/20201122.basic.enligh.words.md)
-*  XX [古代互联网的使用体验是什么样的？](_posts/20201128.old.internet.md)
+*  [古代互联网的使用体验是什么样的？](_posts/20201128.old.internet.md)
 *  XX [你知道吗，用声波也可以传输文件？](_posts/20201206.wave.share.md)
 *  XX [在 Linux 系统上直接运行 Windows 上的微软 Word/Excel 是什么体验？](_posts/20201219.linux.run.win.app.md)
 *  XX [比 ElasticSearch 更容易接入使用的搜索引擎 typesense](_posts/20210103.search.engine.typesense.md)
@@ -203,7 +203,7 @@ XX [真香，不需要额外购买云服务的短链接生成服务](_posts/2020
 * [分享网页中的文字，高亮且快速定位的工具](_posts/20200711.url.copy.text.navi.chrome.plugin.md)
 * [每一个开发者都必装的十大 Chrome 插件](_posts/20200824.chrome.extension.dev.should.have.md)
 * [Google 出品网站性能质量及错误分析工具，安装 Chrome 插件即可使用](_posts/20200830.google.light.house.md)
-* XX [链接助手：网页操作自动化定制 Chrome 插件](_posts/20210101.link.helper.md)
+* [链接助手：网页操作自动化定制 Chrome 插件](_posts/20210101.link.helper.md)
 * XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
 
 
