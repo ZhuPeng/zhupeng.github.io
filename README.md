@@ -99,7 +99,7 @@
 
 [通过 JavaScript 操作 SQLite 的开源库推荐](_posts/20201212.sqlite.js.md)
 
-XX [真香，不需要额外购买云服务的短链接生成服务](_posts/20201227.short.url.by.github.pages.md)
+[真香，不需要额外购买云服务的短链接生成服务](_posts/20201227.short.url.by.github.pages.md)
 
 
 
