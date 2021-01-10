@@ -75,7 +75,7 @@
 * [如何从零开始实现全文搜索引擎（Go）](_posts/20201121.search.engine.from.scratch.md)
 * [炫酷的命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 * [一个国外开源项目描述中有中文“谢谢”，到底发生了什么？](_posts/20201224.iris.go.cn.md)
-* XX [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/20210101.yq.parser.md)
+* [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/20210101.yq.parser.md)
 * XX [只有 1000 行代码的分布式数据库，值得学习](_posts/20210110.1000lines.go.kv.dist.md)
 
 
@@ -209,6 +209,7 @@ XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 * [Google 出品网站性能质量及错误分析工具，安装 Chrome 插件即可使用](_posts/20200830.google.light.house.md)
 * [链接助手：网页操作自动化定制 Chrome 插件](_posts/20210101.link.helper.md)
 * XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
+* XX [让链接自由的跳转，这本就是互联网该有的自由](_posts/20210110.nonstop.link.md)
 
 
 
