@@ -76,6 +76,7 @@
 * [炫酷的命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 * [一个国外开源项目描述中有中文“谢谢”，到底发生了什么？](_posts/20201224.iris.go.cn.md)
 * XX [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/20210101.yq.parser.md)
+* XX [只有 1000 行代码的分布式数据库，值得学习](_posts/20210110.1000lines.go.kv.dist.md)
 
 
 
@@ -100,6 +101,8 @@
 [通过 JavaScript 操作 SQLite 的开源库推荐](_posts/20201212.sqlite.js.md)
 
 [真香，不需要额外购买云服务的短链接生成服务](_posts/20201227.short.url.by.github.pages.md)
+
+XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 
 
 
