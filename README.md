@@ -244,3 +244,4 @@ XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 * XX 每日一题小程序推荐
 * [20210101 开源技术栈最近功能更新](_posts/20210101.minip.changelog.md)
 * XX [开源话题小程序推荐](_posts/20210101.opensource.topic.minip.md)
+* [全国隔离政策查询器小程序](_posts/20210112.geli.md)
