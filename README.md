@@ -210,6 +210,7 @@ XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 * [链接助手：网页操作自动化定制 Chrome 插件](_posts/20210101.link.helper.md)
 * XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
 * XX [让链接自由的跳转，这本就是互联网该有的自由](_posts/20210110.nonstop.link.md)
+* XX [超级易用，可自由定制的浏览器自动化插件](_posts/20210119.autoclicker.chrome.plugin.md)
 
 
 
