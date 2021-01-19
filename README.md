@@ -195,7 +195,8 @@ XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 *  [你知道吗，用声波也可以传输文件？](_posts/20201206.wave.share.md)
 *  [在 Linux 系统上直接运行 Windows 上的 Word/Excel 是什么体验？](_posts/20201219.linux.run.win.app.md)
 *  XX [比 ElasticSearch 更容易接入使用的搜索引擎 typesense](_posts/20210103.search.engine.typesense.md)
-*  XX [教大家如何白嫖使用一台 Mac 电脑](_posts/20210106.github.action.mac.md)
+*  XX [教大家如何白嫖一台 Mac 电脑，免费使用](_posts/20210106.github.action.mac.md)
+*  [制作爆款电影字幕长图，这款在线工具可以帮助你](_posts/20210119.pingtu.tools.md)
 
 
 
@@ -245,7 +246,7 @@ XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 * XX 每日一题小程序推荐
 * [20210101 开源技术栈最近功能更新](_posts/20210101.minip.changelog.md)
 * [开源话题小程序推荐](_posts/20210101.opensource.topic.minip.md)
-* [全国隔离政策查询器小程序](_posts/20210112.geli.md)
+* [全国隔离政策查询小程序](_posts/20210112.geli.md)
 
 
 
