@@ -76,7 +76,7 @@
 * [炫酷的命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 * [一个国外开源项目描述中有中文“谢谢”，到底发生了什么？](_posts/20201224.iris.go.cn.md)
 * [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/20210101.yq.parser.md)
-* XX [只有 1000 行代码的分布式数据库，值得学习](_posts/20210110.1000lines.go.kv.dist.md)
+* [只有 1000 行代码的分布式数据库，值得学习](_posts/20210110.1000lines.go.kv.dist.md)
 
 
 
@@ -252,4 +252,4 @@ XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 
 ## 新奇趣事
 
-* XXX [程序员行为艺术，现实版阅后即焚](_posts/20210118.chengxuyuan.xingweiyishu.md)
+* [程序员行为艺术，现实版阅后即焚](_posts/20210118.chengxuyuan.xingweiyishu.md)
