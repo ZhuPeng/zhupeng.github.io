@@ -107,6 +107,8 @@ XX [B 站 UP 主自动签到投币工具](_posts/20210110.b.auto.sign.md)
 
 XX [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/20210123.flag.country.md)
 
+XX [最炫酷的数据动态展示工具，让你的数据活起来](_posts/20210124.3d.charts.flourish.md)
+
 
 
 
