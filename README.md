@@ -77,6 +77,7 @@
 * [一个国外开源项目描述中有中文“谢谢”，到底发生了什么？](_posts/20201224.iris.go.cn.md)
 * [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/20210101.yq.parser.md)
 * [只有 1000 行代码的分布式数据库，值得学习](_posts/20210110.1000lines.go.kv.dist.md)
+* XX [如何向你的孩子介绍你的工作，一个 Kubernetes 的案例](_posts/20210124.k8s.manhua.md)
 
 
 
@@ -214,6 +215,7 @@ XX [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/20
 * XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
 * XX [让链接自由的跳转，这本就是互联网该有的自由](_posts/20210110.nonstop.link.md)
 * XX [超级易用，可自由定制的浏览器自动化插件](_posts/20210119.autoclicker.chrome.plugin.md)
+* XX [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/20210124.browser.time.md)
 
 
 
