@@ -1,5 +1,7 @@
 ---
 layout: post
+title: GitHub 本周排行精选
+tags: 每周精选
 ---
 
 # GitHub 本周排行精选
