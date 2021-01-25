@@ -18,7 +18,7 @@
 * [Google 出品：简洁优雅的 Python 命令行生成工具](_posts/py_fire.md)
 * [能把所有的 Python 代码都转换成一行嘛？](_posts/2019-08-22.onelinerizer.md)
 * [Facebook 出品：针对复杂应用的配置优雅解决方案框架](_posts/2019-10-07-facebook.hydra.md)
-* [一款制作数学函数动画的视频引擎](_posts/20191008.manim.animation.engine.md)
+* [一款制作数学函数动画的视频引擎](_posts/2019-10-08-manim.animation.engine.md)
 * [数据可视化工具 - bokeh](_posts/20191113.python.visualization.bokeh.md) 
 * [多租户 Jupyter Notebook 服务](_posts/20191126.python.jupyter.notebook.md) 
 * [生成你的油管个人使用报告](_posts/youtube.report.md)
@@ -46,7 +46,7 @@
 * [Go 命令行工具 CLI 生成框架](_posts/go_cobra.md)
 * [Go 设计模式笔记](_posts/2019-08-25.go_partterns.md)
 * [命令行文件管理工具](_posts/2019-10-23-cmd.file.manager.md)
-* [模糊命令行搜索工具 fzf](_posts/20191117.fzf.md) 
+* [模糊命令行搜索工具 fzf](_posts/2019-11-17-fzf.md) 
 * [Docker 容器镜像分析工具](_posts/20191209.dive.docker.analysis.md)
 * [Go Web 单元测试表盘](_posts/20191216.go.test.dash.md)
 * [通过 SQL 训练机器学习模型的引擎](_posts/20191219.sqlflow.ml.md)
@@ -85,7 +85,7 @@
 
 * [标星 1 万的网页骨架屏生成库](_posts/2020-10-24-web.skeleton.loading.md)
 
-* [Luckysheet，一款纯前端类似excel的在线表格](_posts/20201024.table.lucky.sheet.md)
+* [Luckysheet，一款纯前端类似excel的在线表格](_posts/2020-10-24-table.lucky.sheet.md)
 
 * [1分钟提升网站使用体验，这么香的方法不想知道吗？](_posts/20201107.preload.html.page.before.click.md)
 
@@ -145,7 +145,7 @@
 * [一些开源书籍和文章推荐](_posts/2019-09-12.reading.md)
 * [自动代码评审机器人](_posts/2019-09-17.reviewdog.md)
 * [Git飞行规则(Flight Rules)](_posts/2019-09-22.git.filght.rules.md)
-* [ES 轻量级事件收集器 Beats](_posts/20191013.es.beats.md)
+* [ES 轻量级事件收集器 Beats](_posts/2019-10-13-es.beats.md)
 * [YApi 可视化接口管理平台](_posts/20191019.api.admin.md)
 * [1024 程序员节，给大家讲一个真实的黑客故事](_posts/20191024.hacker.story.md)
 * [一款可以完全替代 Selenium 的快速简洁无依赖的浏览器驱动框架](_posts/20191027.chromedp.md)
@@ -208,7 +208,7 @@
 ## Chrome 插件
 
 * [OneTab: 一键合并所有浏览器标签页方便管理](_posts/2020-05-13-chrome.plugin.onetab.md)
-* [XPath Helper: 快速高效从网页中抽取内容](_posts/20200526.xpath.helper.md)
+* [XPath Helper: 快速高效从网页中抽取内容](_posts/2020-05-26-xpath.helper.md)
 * [便捷查看 Chrome 插件源码的插件](_posts/20200531.chrome.plugin.source.viewer.md)
 * [分享网页中的文字，高亮且快速定位的工具](_posts/20200711.url.copy.text.navi.chrome.plugin.md)
 * [每一个开发者都必装的十大 Chrome 插件](_posts/20200824.chrome.extension.dev.should.have.md)
@@ -247,7 +247,7 @@
 ## 微信小程序
 
 * [开源技术资料阅读小程序推荐](_posts/2020-10-06-open.source.books.md) 
-* [开源 Books 小程序最近新上功能介绍](_posts/20201024.open.source.books.feature.intro.md)
+* [开源 Books 小程序最近新上功能介绍](_posts/2020-10-24-open.source.books.feature.intro.md)
 * [GitHub 开源技术资料阅读小程序之开源许可 License 说明](_posts/20201008.github.books.license.md)
 * XX 每日一题小程序推荐
 * [20210101 开源技术栈最近功能更新](_posts/20210101.minip.changelog.md)
