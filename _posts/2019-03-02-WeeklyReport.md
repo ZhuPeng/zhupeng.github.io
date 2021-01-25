@@ -1,4 +1,6 @@
-
+---
+layout: post
+---
 
 # GitHub 本周排行精选
 

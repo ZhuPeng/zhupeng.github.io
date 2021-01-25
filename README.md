@@ -223,7 +223,7 @@ XX [最炫酷的数据动态展示工具，让你的数据活起来](_posts/2021
 
 ## 每周精选
 
-* [GitHub 精选每周汇总 - 20190302](_posts/20190302-WeeklyReport.md)
+* [GitHub 精选每周汇总 - 20190302](_posts/2019-03-02-WeeklyReport.md)
 * [『GitHub 精选』之 20190309 周精选](_posts/20190309-WeeklyReport.md)
 * [『GitHub 精选』之 20190427 周精选](_posts/20190427-WeeklyReport.md)
 * [『GitHub 精选』之 20190510 周精选](_posts/20190510-WeeklyReport.md)
