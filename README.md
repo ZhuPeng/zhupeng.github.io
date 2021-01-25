@@ -137,7 +137,6 @@
 * [Git Open 命令行快速打开项目网页](_posts/git-open.md)
 * [有趣的钢琴演奏项目](_posts/piano.md)
 * [帮助中小型企业的开源运维平台](_posts/2019-08-18.devops_spug.md)
-* [一个写代码的艺术家](_posts/2019-09-01-coding.art.md)
 * [控制台模式的天气预报](_posts/2019-09-03.console.weather.md)
 * [用代码写的字体](_posts/2019-09-09.typeface.char.md)
 * [一些开源书籍和文章推荐](_posts/2019-09-12.reading.md)
@@ -257,3 +256,4 @@
 ## 新奇趣事
 
 * [程序员行为艺术，现实版阅后即焚](_posts/2021-01-18-chengxuyuan.xingweiyishu.md)
+* [一个写代码的艺术家](_posts/2019-09-01-coding.art.md)
