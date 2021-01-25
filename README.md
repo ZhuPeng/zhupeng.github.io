@@ -5,7 +5,7 @@
 ## GitHub 开源项目发布雷达
 
 * [GitHub 开源项目发布雷达 -  201903](_posts/2019-03-01-github_release_radar.md)
-* [GitHub 开源项目发布雷达 -  201904](_posts/github_release_radar_201904.md)
+* [GitHub 开源项目发布雷达 -  201904](_posts/2019-04-01-github_release_radar.md)
 * [GitHub 开始支持 Discussions 了](_posts/20201212.github.discussion.md)
 
 

@@ -1,6 +1,12 @@
+---
+layout: post
+title: GitHub 开源项目发布雷达 -  201904
+tags: GitHub开源项目发布雷达
+---
+
 ## GitHub 开源项目发布雷达 - 201904
 
-![img](<https://github.blog/wp-content/uploads/2019/05/57330617-6a8fed00-70cb-11e9-8c18-aa1ac24fff23.png?fit=1200%2C630>)
+![img](https://github.blog/wp-content/uploads/2019/05/57330617-6a8fed00-70cb-11e9-8c18-aa1ac24fff23.png?fit=1200%2C630)
 
 GitHub Blog 在 20190521 发布了 4 月份的开源项目发布雷达。GitHub 开源项目发布雷达分享和推荐的是那些令人兴奋的项目的新版本发布，这些项目有些是震惊世界的前沿技术，也有是工程师周末的副产品。重要的是，这些项目因为所有人的共同参与，因为 GitHub 的存在而诞生。
 
