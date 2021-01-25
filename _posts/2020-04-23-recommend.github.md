@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub 精选开源项目周刊第1期
-tags: 其他
+tags: 每周精选
 ---
 
 今天又是一个特别的推送，之前我们尝试推了一次: 。

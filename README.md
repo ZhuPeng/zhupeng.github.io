@@ -8,8 +8,6 @@
 * [GitHub 开源项目发布雷达 -  201904](_posts/2019-04-01-github_release_radar.md)
 * [GitHub 开始支持 Discussions 了](_posts/2020-12-12-github.discussion.md)
 
-
-
 ## Python 相关
 
 * [Python 之禅和设计模式](_posts/ZenOfPython.md)
@@ -185,11 +183,6 @@
 * [2D 文字快速转 3D 效果的开源牛逼项目](_posts/2020-09-25-2d.transfer.3d.md)
 * [Google 产品都有哪些替代品呢？](_posts/2020-09-27-google.replacement.products.md)
 * XX [在线工具秘籍，为在线工具写一本优质说明书](_posts/2020-10-11-online.tools.book.md)
-* [GitHub 精选开源项目周刊第0期](_posts/2020-04-16-recommend.github.md)
-* [GitHub 精选开源项目周刊第1期](_posts/2020-04-23-recommend.github.md)
-* [GitHub 精选开源项目周刊第2期](_posts/2020-05-12-recommend.github.md)
-* [GitHub 精选开源项目周刊第3期](_posts/2020-05-24-recommend.github.md)
-* [GitHub 精选开源项目周刊第4期](_posts/recommend.github.20200614.md)
 * [Java 图片缩略图生成库](_posts/2020-10-25-java.thumbnailator.md)
 * [在 Docker 中运行 Mac OS 是什么样的体验](_posts/2020-10-25-run.mac.os.in.docker.md)
 * [你还记得你用过的那些手机的型号嘛？](_posts/2020-11-01-history.of.phone.md)
@@ -235,6 +228,11 @@
 * [『GitHub 精选』之 20191012 周精选](_posts/20191012-WeeklyReport.md)
 * [『GitHub 精选』之 20191102 周精选](_posts/20191102-WeeklyReport.md)
 * [『GitHub 精选』之 20191116 周精选](_posts/20191116-WeeklyReport.md)
+* [GitHub 精选开源项目周刊第0期](_posts/2020-04-16-recommend.github.md)
+* [GitHub 精选开源项目周刊第1期](_posts/2020-04-23-recommend.github.md)
+* [GitHub 精选开源项目周刊第2期](_posts/2020-05-12-recommend.github.md)
+* [GitHub 精选开源项目周刊第3期](_posts/2020-05-24-recommend.github.md)
+* [GitHub 精选开源项目周刊第4期](_posts/recommend.github.20200614.md)
 
 
 
