@@ -33,7 +33,7 @@
 * [一键导出 / 备份「有道云笔记」工具](_posts/20200621.youdao.backup.md)
 * [增强型 diff 命令行工具，让你的工作更有色彩](_posts/20200719.color.diff.md)
 * [让你眼前一亮长见识的反爬虫策略](_posts/20200802.anti.spider.strategy.douyu.md)
-* [Python 命令行终端神器](_posts/20201212.python.rich.format.md)
+* [Python 命令行终端神器](_posts/2020-12-12-Python命令行终端神器.md)
 
 
 
@@ -76,7 +76,7 @@
 * [炫酷的命令行 Markdown 渲染阅读工具](_posts/20201128.glow.markdow.cli.md)
 * [一个国外开源项目描述中有中文“谢谢”，到底发生了什么？](_posts/20201224.iris.go.cn.md)
 * [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/20210101.yq.parser.md)
-* [只有 1000 行代码的分布式数据库，值得学习](_posts/20210110.1000lines.go.kv.dist.md)
+* [只有 1000 行代码的分布式数据库，值得学习](_posts/2021-01-10-1000lines.go.kv.dist.md)
 * XX [如何向你的孩子介绍你的工作，一个 Kubernetes 的案例](_posts/20210124.k8s.manhua.md)
 
 
