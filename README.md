@@ -101,7 +101,7 @@
 
 * [真香，不需要额外购买云服务的短链接生成服务](_posts/2020-12-27-short.url.by.github.pages.md)
 
-* XX [B 站 UP 主自动签到投币工具](_posts/2021-01-10-b.auto.sign.md)
+* [B 站 UP 主自动签到投币工具](_posts/2021-01-10-b.auto.sign.md)
 
 * [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/2021-01-23-flag.country.md)
 
