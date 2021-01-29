@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.io/ZhuPeng/zhupenggithubio.svg)](http://hits.dwyl.io/ZhuPeng/zhupenggithubio)
 
-文章都已发布在微信公众号 「GitHub精选」，欢迎关注订阅。
+访问 https://zhupeng.github.io 了解更多。
 
 ## GitHub 开源项目发布雷达
 
@@ -187,11 +187,11 @@
 * [你还记得你用过的那些手机的型号嘛？](_posts/2020-11-01-history.of.phone.md)
 * [Google 新发布的项目管理工具](_posts/2020-11-01-tables.google.project.manager.md)
 * [如何使用 iPhone 进行电子签名](_posts/2020-11-15-iphone.sign.md)
-* XX [掌握 850 个单词就能理解 90% 的英语](_posts/2020-11-22-basic.enligh.words.md)
+* [掌握这 850 个单词就能理解 90% 的英语](_posts/2020-11-22-basic.enligh.words.md)
 * [古代互联网的使用体验是什么样的？](_posts/2020-11-28-old.internet.md)
 * [你知道吗，用声波也可以传输文件？](_posts/2020-12-06-wave.share.md)
 * [在 Linux 系统上直接运行 Windows 上的 Word/Excel 是什么体验？](_posts/2020-12-19-linux.run.win.app.md)
-* XX [比 ElasticSearch 更容易接入使用的搜索引擎 typesense](_posts/2021-01-03-search.engine.typesense.md)
+* [比 ElasticSearch 更容易接入使用的搜索引擎 typesense](_posts/2021-01-03-search.engine.typesense.md)
 * XX [教大家如何白嫖一台 Mac 电脑，免费使用](_posts/2021-01-06-github.action.mac.md)
 * [制作爆款电影字幕长图，这款在线工具可以帮助你](_posts/2021-01-19-pingtu.tools.md)
 
