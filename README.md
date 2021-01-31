@@ -250,3 +250,9 @@
 
 * [程序员行为艺术，现实版阅后即焚](_posts/2021-01-18-chengxuyuan.xingweiyishu.md)
 * [一个写代码的艺术家](_posts/2019-09-01-coding.art.md)
+
+
+
+## 翻译
+
+* XX [开源项目维护的九个阶段](_posts/2021-02-01-opensource.nine.phase.md)
