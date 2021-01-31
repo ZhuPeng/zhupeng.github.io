@@ -32,7 +32,7 @@
 * [增强型 diff 命令行工具，让你的工作更有色彩](_posts/2020-07-19-color.diff.md)
 * [让你眼前一亮长见识的反爬虫策略](_posts/2020-08-02-anti.spider.strategy.douyu.md)
 * [Python 命令行终端神器](_posts/2020-01-01-2020-12-12-Python命令行终端神器.md)
-* XX [震惊，被马赛克后的图片竟然还可以恢复](_posts/2021-01-31.masaike.recovers.md)
+* XX [震惊，被马赛克后的图片竟然还可以恢复](_posts/2021-01-31-masaike.recovers.md)
 
 
 
@@ -95,7 +95,7 @@
 * [B 站 UP 主自动签到投币工具](_posts/2021-01-10-b.auto.sign.md)
 * [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/2021-01-23-flag.country.md)
 * XX [最炫酷的数据动态展示工具，让你的数据活起来](_posts/2021-01-24-3d.charts.flourish.md)
-* XX [VUE 源码核心逻辑学习](_posts/2021-01-31.minivue.md)
+* XX [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 
 
 
