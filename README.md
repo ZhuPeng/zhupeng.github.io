@@ -182,8 +182,11 @@
 * [你知道吗，用声波也可以传输文件？](_posts/2020-12-06-wave.share.md)
 * [在 Linux 系统上直接运行 Windows 上的 Word/Excel 是什么体验？](_posts/2020-12-19-linux.run.win.app.md)
 * [比 ElasticSearch 更容易接入使用的搜索引擎 typesense](_posts/2021-01-03-search.engine.typesense.md)
-* XX [教大家如何白嫖一台 Mac 电脑，免费使用](_posts/2021-01-06-github.action.mac.md)
+* [教大家如何白嫖一台 Mac 电脑，免费使用](_posts/2021-01-06-github.action.mac.md)
 * [制作爆款电影字幕长图，这款在线工具可以帮助你](_posts/2021-01-19-pingtu.tools.md)
+* XX [为你的头像加上圣诞帽，这次是真的自动给你加上](_posts/2021-01-31-holiday.card.gen.md)
+* XX [油管热门无版权音乐免费下载，短视频创作必备](_posts/2021-01-31-free.copyright.music.md)
+* XX [Markdown 如何插入视频或者 MP3 等多媒体文件](_posts/2021-01-31-md.insert.media.md)
 
 
 
