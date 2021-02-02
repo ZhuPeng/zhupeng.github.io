@@ -200,7 +200,7 @@
 * [Google 出品网站性能质量及错误分析工具，安装 Chrome 插件即可使用](_posts/2020-08-30-google.light.house.md)
 * [链接助手：网页操作自动化定制 Chrome 插件](_posts/2021-01-01-link.helper.md)
 * XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
-* XX [让链接自由的跳转，这本就是互联网该有的自由](_posts/2021-01-10-nonstop.link.md)
+* [让链接自由的跳转，这本就是互联网该有的自由](_posts/2021-01-10-nonstop.link.md)
 * XX [超级易用，可自由定制的浏览器自动化插件](_posts/2021-01-19-autoclicker.chrome.plugin.md)
 * XX [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
 
