@@ -6,70 +6,39 @@ tags: 翻译
 
 大家好。
 
-> 本文为翻译，原文为：[https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html](https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html)
+> 本文的内容为其他博文的总结，原文为：[https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html](https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html)
 
-文章标题为：开源项目维护的九个阶段
+文章标题为：开源项目维护的九个阶段，介绍的是开源项目的维护上可以分为几个阶段，以及不同阶段应该关注的事情。
+
+我们先整理一个思维导图方便对文章有整体的了解。
+
+![image-20210203180051068](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210203180051068.png)
+
+开源项目维护总共概况为 9 个阶段，同时根据项目的生命周期及流行度，分成了两个大的阶段：以服务自己为主和以服务他人为主。接下来分别简单介绍一下两个大阶段
+
+### 以服务自己为主
+
+开始阶段不管从人员或者投入上都会比较少，而且大部分项目都会是以验证为主，过程中可能会涉及编程语言、框架等的变换，整体会有很多不确定性，依次可分为如下 5 个小的阶段：
+
+1. 确定 IDEA：创新 IDEA 一般是比较少，大部分都是很多人都想到了，但是 IDEA 结合行动才能更加完美
+2. 实现 MVP：这一阶段才会开始编码，有很多的问题需要解决，但是要聚焦核心
+3. 生产可用：基于 MVP 版本完善项目的可靠性，使得项目能够投入真实环境使用
+4. 完善文档：每一个项目都需要文档，而程序员一般不喜欢写文档，有时候一个具备优秀文档的项目可能更容易成功
+5. 市场推广：为项目寻求更多的曝光，不管写博客、公开讲解等都可以，这需要你不断学习和锻炼自己或团队推广的能力
 
 
 
-There is more to running an open source project than writing code. In fact most of all work has to do with something else. This places additional requirements to project maintainers that are often not talked about. In this post we'll briefly go over nine distinct phases each with a different hat one might have to wear. These can be split into two stages based on the lifetime and popularity of the project.
+### 以服务他人为主
 
-# Stage One: The Project Is Mostly for Yourself
+随着越来越多的人开始使用你的开源项目，甚至有可能到达了一个引爆点，项目使用者急速增长。在这个阶段也意味着大的变动几乎很难在快节奏的情况下完成，而且会有很多的工作来应付过程中的一些问题或者规模化的需求。有些时候甚至项目会朝着你最开始设计的不同方向去发展。
 
-Almost all projects start either with just one person or a small team of just a few people. At the start doing things is easy. Breaking changes can be made on a whim. Programming languages and frameworks can be changed. It is even possible to pivot to something completely different without a care in the world. As there are only a few stakeholders and they typically have similar ideologies and thus it is easy to get consensus. It is even possible to ignore consensus altogether and "just do it".
+这部分的工作会依次分为 4 个小阶段：
 
-## Phase One: The Inventor
+6. 招聘人员：如果维护项目的人员一直没有变，而项目确越来越大，会导致整体项目在维持活力越来越难，培育新的贡献者非常重要
+7. 社区文化建设：每个项目都有其默认遵守的规则，如果没有适当的引导形成社区特有的文化，后续项目的发展也会因此变形
+8. 项目监督：在这个阶段可能项目的创始人已经不是贡献最多代码的人了，但是往往需要在众多的 Issue 中做出后续的发展决策，如何在不参与功能实现的角度依然让项目获得长久的发展，是创始人需要思考的问题
+9. 退出项目维护：这个时候项目已经完成当初你所有设想的 IDEA，也许项目已经交给其他人继续维护了，也许你已经开始另一个新的开源项目的维护了，这一阶段意味着开源项目的维护已经告一段落结束了。
 
-Everything starts with an idea: how something could be done differently or in a more efficient way. This is the part that tends to get fetishised by journalists and even some inventors themselves. The typical narrative explains how a single genius managed to create a revolutionary new thing all on their own in a basement somewhere. The reality is not quite as glamorous, as almost all ideas are ones that many, many other people have already come up with. Some people go as far as to say that ideas are worthless, only execution matters. This is a bit extreme but nevertheless coming up with ideas is an important skill.
+那么你在维护的开源项目目前在哪个阶段呢？
 
-## Phase Two: The MVP Implementer
-
-Once an idea is chosen, some sort of a prototype needs to be written. This is the most fun part of coding. There are vast green fields where you can do whatever, design the architecture as you want and get to solve interesting problems that form the core of the eventual proudct. This phase is the main reason why people become programmers. Getting to create something completely new is a joyful experience. Still, not everything is wine and roses, as it is important to focus enough to get the first version finished rather than going off on all sorts of tangents and eventually losing interest.
-
-## Phase Three: The Ditch Digger
-
-Once the first version exists and is found usable, the next step is to make it production ready. This is where the nature of project work takes a very sharp turn. Whereas the previous stage could be described as fun, this phase is tedious. It consists of making the end product reliable and smooth in the face of real world input and usage. This typically exposes bugs and design flaws in the original implementation that need to be fixed or rewritten. It is easy to get discouraged in this phase because the outcome of days of coding might be "the same as before, but also handles this one rare corner case".
-
-The work profile is similar to digging a ditch with a shovel. It's dirty, heavy and taxing work and there are not that many rewards to be had. After all, a half dug ditch is about as useless as a completely undigged ditch. It's only when you reach the end and water starts flowing that you get any benefits. The difference between physical ditches and sotware is that there is no reliable way of estimating how much more you still have to dig. This is a very risky phase of any project as it carries the potential for burnout.
-
-## Phase Four: The Documentation Writer
-
-Every new project needs documentation, but some projects need it more than others. Programmers are typically not very eager to write documentation or to keep it up to date. Telling users to "read the source" to find out how to do things is not enough, because people don't want to have to learn about implementation details of your project, they just want to use it. Sometimes it is possible to get other people to write documentation, but usually that only happens after the project has "made it big".
-
-One way of looking at documentation is that it is a competitive advantage. If there are multiple competing projects for the same thing and one of them has better documentation, it has a higher chance of winning (all other things being equal). Writing end user documentation requires a completely different approach and skill set than writing code. This is especially true for things like tutorials as opposed to reference documentation.
-
-## Phase Five: The Marketer
-
-Build a better mousetrap and the world will ignore you, tell you that their mouse trap situation is perfectly fine thankyouverymuch and why don't you get a real job rather than wasting your time on this whateveritis, as it will never work. If you want to make them change their mind, you need marketing. Lots of it.
-
-There are many different ways of making your project more known: writing blog posts, presenting at conferences, general online advocacy and so on. This requires, again, a new set of skills, such as talking to a large group of people in public. This is especially true for programmers who are mostly introverted, but sadly the meek don't inherit the earth. It tends to go to those who can make the most noise about their solution.
-
-# Stage Two: The Project Is Mostly for Other People
-
-As the project becomes bigger and more used, eventually another tipping point is reached. Here the program is no longer catering to the needs of the original creator but to the community at large. The rate of change reduces dramatically. Breaking changes can no longer be made at a quick pace or possibly at all. It is also possible that the landscape has changed and the project is now being used in a different way or for different ends than was originally planned. All of this means that the project runner needs to spend more and more time solving issues that does not directly benefit themselves. This may cause friction if, for example, the project leader works for a company that has other priorities and does not want the person to spend time on things that don't benefit them directly.
-
-## Phase Six: The Recruiter
-
-A project that does not keep refreshing and growing its developer base is a dead one. Typically a project needs to have a sizable chunk of users before other people start contributing to it in a major way. Sometimes people become involved voluntarily, but it's even better if you can somehow actively encourage them to contribute. That is only part of the story, though, since they need to be trained and taught the processes and so on. Paradoxically getting new contributors slows down development at first, but eventually makes things faster as the workload can be split among multiple people.
-
-## Phase Seven: The Culture Cultivator
-
-Every project has its own set of unspoken guidelines. These get established quite early on and include things like requiring tests for every new feature, not using coding patterns X, Y or Z but use H, J and K instead and so on. People are generally quite good at detecting these and doing the same thing as everyone else. As the pool of contributors grows, this becomes less and less common. Contributions tend to become more lax. This is not due to malice, but simply because people are not aware of the requirements.
-
-It is very easy to slip on these requirements little by little. It is the job of the project leader to make sure this does not happen. This requires both leading by example and also by noting out these issues in code review and other discussions. 
-
-## Phase Eight: The Overseer
-
-This phase begins when the project maintainer realizes that they are no longer the person who knows most about the code base. Other people have done most of the coding work for so long that they are the actual experts on it. This causes yet another change in the type of work one needs to do. Up until now the work has been about solving problems and making decisions on things you are intimately familiar with. As an overseer you need to make decisions on things you don't really know about. Earlier decisions were based on code and implementation details, but now decisions are based mostly on what other people say in their merge requests and design discussions.
-
-This is something nobody really prepares you for. Making big decisions based on imperfect information can be really difficult for someone who has gotten used to going through every detail. Once a project gets over a certain size this is just not possible as the human brain is incapable of holding that many details in active memory at the same time. Even if it could, having a single person review everything would be a huge bottleneck. It is (more than) a full time job, and getting someone to pay for a full time maintainer review job is very rare.
-
-Finally, even if this were possible, reviewing is a very tiring job that very few people can keep on doing as their only task for very long. Eventually the mind will start screaming for something else, even for a while. Finally even if someone could do that, contributors would eventually get very annoyed by getting micromanaged to death and just leave.
-
-## Phase Nine: The Emeritus
-
-All good things eventually come to an end and so will open source project maintainership. Eventually the project will either become irrelevant or the torch will be passed to someone else. This is, in a way, the greatest thing a project maintainer could hope for: being able to create a new entity that will keep on being used even after you have stopped working on it.
-
-Open source maintainership is a relatively young field and most projects at the end of their life cycle either become unmaintained zombies or get replaced by a new project written from scratch. Ee don't have that much experience on what emerituses do. Based on other fields these may range from "nothing" to doing conference talks, advising current maintainers on thorny issues.
-
-原文链接：[https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html](https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html)
+更多信息参考原文链接：[https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html](https://nibblestew.blogspot.com/2020/11/the-nine-phases-of-open-source-project.html)
