@@ -32,7 +32,7 @@
 * [增强型 diff 命令行工具，让你的工作更有色彩](_posts/2020-07-19-color.diff.md)
 * [让你眼前一亮长见识的反爬虫策略](_posts/2020-08-02-anti.spider.strategy.douyu.md)
 * [Python 命令行终端神器](_posts/2020-01-01-2020-12-12-Python命令行终端神器.md)
-* XX [震惊，被马赛克后的图片竟然还可以恢复](_posts/2021-01-31-masaike.recovers.md)
+* [震惊，被马赛克的图片竟然还可以恢复](_posts/2021-01-31-masaike.recovers.md)
 
 
 
@@ -255,4 +255,4 @@
 
 ## 翻译
 
-* XX [开源项目维护的九个阶段](_posts/2021-02-01-opensource.nine.phase.md)
+* [开源项目维护的九个阶段](_posts/2021-02-01-opensource.nine.phase.md)
