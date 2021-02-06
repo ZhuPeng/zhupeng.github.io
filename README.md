@@ -231,6 +231,7 @@
 ## 书籍推荐
 
 * [简直牛逼，那些对软件开发人员有用的定律、理论、原则和模式](_posts/2020-12-03-books.hacker.laws.md)
+* [书籍推荐：谷歌软件工程实践](_posts/2021-02-06-software-engineering-at-google.md)
 
 
 
