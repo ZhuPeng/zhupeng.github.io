@@ -54,7 +54,7 @@
 * [Kubernetes 命令行工具系列一](_posts/2020-01-01-k8s_cmd_tools.md)
 * [Go 语言开发之 Goroutine 泄露检测](_posts/2020-01-15-go.leaks.with.code.md)
 * [一款可配置化的个人监控看板](_posts/2020-03-08-config.monitor.md)
-* [ants 高性能 goroutine 池](_posts/2020-03-11-ants.gorouine.pool.md)/
+* [ants 高性能 goroutine 池](_posts/2020-03-11-ants.gorouine.pool.md)
 * [基于 Go 的跨平台图形界面库](_posts/2020-04-20-go.gui.fyne.md)
 * [fiber 一款受 Express 启发开发的 Go Web 框架](_posts/2020-04-22-go.httpframework.fiber.md)
 * [云原生用户认证和管理系统](_posts/2020-05-06-kratos.user.admin.system.md)
@@ -94,7 +94,7 @@
 * [真香，不需要额外购买云服务的短链接生成服务](_posts/2020-12-27-short.url.by.github.pages.md)
 * [B 站 UP 主自动签到投币工具](_posts/2021-01-10-b.auto.sign.md)
 * [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/2021-01-23-flag.country.md)
-* XX [最炫酷的数据动态展示工具，让你的数据活起来](_posts/2021-01-24-3d.charts.flourish.md)
+* XX [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
 * XX [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 
 
@@ -188,6 +188,7 @@
 * XX [油管热门无版权音乐免费下载，短视频创作必备](_posts/2021-01-31-free.copyright.music.md)
 * XX [Markdown 如何插入视频或者 MP3 等多媒体文件](_posts/2021-01-31-md.insert.media.md)
 * XX [ClubHouse 如此火爆？是不是还没有弄到邀请码？一款开源的对标产品推荐给大家](_posts/2021-02-28-doghouse.md)
+* XX [你敢信么，用粤语还能编程](_posts/2021-02-19-yueyu-bianchen.md)
 
 
 
