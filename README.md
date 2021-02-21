@@ -189,6 +189,7 @@
 * XX [Markdown 如何插入视频或者 MP3 等多媒体文件](_posts/2021-01-31-md.insert.media.md)
 * XX [ClubHouse 如此火爆？是不是还没有弄到邀请码？一款开源的对标产品推荐给大家](_posts/2021-02-28-doghouse.md)
 * XX [你敢信么，用粤语还能编程](_posts/2021-02-19-yueyu-bianchen.md)
+* XX [超轻量支持多种格式的电子书阅读器，只需要浏览器即可使用](_posts/2021-02-21-ebook-reader.md)
 
 
 
