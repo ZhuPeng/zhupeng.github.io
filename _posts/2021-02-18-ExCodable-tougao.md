@@ -1,9 +1,3 @@
----
-layout: post
-title: 2021 年了，Swift 的 JSON-Model 转换还能有什么新花样
-tags: 投稿
----
-
 大家过年好，今天的文章来自于读者的投稿。以下是作者的简介：
 
 > 我叫明林清，是的姓明，不姓林。早期做过前端，后来多数时间做 iOS，现在有 10 年多了 😱😱，这几年在做技术管理，代码写得少了点。现就职于提供音视频直播、点播服务的百家云。
@@ -34,14 +28,14 @@ Codextended 最欠缺的是 Key-Mapping，经过各种摸索、尝试，发现 K
 - 支持自定义 Encode/Decode Handler；
 - 支持使用 Subscript 进行 Encode/Decode；
 - 支持类型自动转换以及自定义转换；
-- 支持多种 Encoder/Decoder，默认使用 JSON；
+- 支持多种 Encoder/Decoder，默认使用 JSON，支持 JSON Data、String、Object 三种格式；
 - 使用类型推断；
 - 使用 `Optional` 类型取代抛错误；
 - 支持 struct、class、subclass。
 
 示例：
 
-定义 struct；
+定义 struct，使用 `var` 声明变量、并设置默认值，可以使用 `private(set)` 来防止属性被修改；
 
 ```swift
 struct TestStruct: Equatable {
@@ -50,7 +44,7 @@ struct TestStruct: Equatable {
 }
 ```
 
-实现 `ExCodable`；
+实现 `ExCodable`，通过 `keyMapping` 设置 `KeyPath` 到 `CodingKey` 的映射，`init` 和 `encode` 里只需一行代码；
 
 ```swift
 extension TestStruct: ExCodable {
@@ -61,26 +55,28 @@ extension TestStruct: ExCodable {
     ]
     
     init(from decoder: Decoder) throws {
-        Self.keyMapping.decode(&self, using: decoder)
+        decode(with: Self.keyMapping, using: decoder)
     }
     func encode(to encoder: Encoder) throws {
-        Self.keyMapping.encode(self, using: encoder)
+        encode(with: Self.keyMapping, using: encoder)
     }
     
 }
 ```
 
-Encode、Decode；
+Encode、Decode 使用类型推断，使代码更具可读性；
 
 ```swift
 let test = TestStruct(int: 100, string: "Continue")
 let data = test.encoded() as Data? // Model to JSON Data
-let copy = data?.decoded() as TestStruct? // JSON Data to Model
-XCTAssertEqual(copy, test)
+let copy1 = data?.decoded() as TestStruct? // JSON Data to Model
+let copy2 = TestStruct.decoded(from: data) // 或者 Model form JSON Data
+XCTAssertEqual(copy1, test)
+XCTAssertEqual(copy2, test)
 ```
 
 更多示例代码参考 GitHub 上的 [Usage](https://github.com/iwill/ExCodable#usage) 以及单元测试代码。
 
-在此，需要感谢 John Sundell 的 [Codextended](https://github.com/JohnSundell/Codextended) 提供的创意；以及 ibireme 的 [YYModel](https://github.com/ibireme/YYModel) 提供的丰富特性，用 Objective-C 时受用了很多年。
+在此，需要感谢 John Sundell 的 [Codextended](https://github.com/JohnSundell/Codextended) 提供的创意；以及 ibireme 的 [YYModel](https://github.com/ibireme/YYModel) 提供的丰富特性。
 
 开源项目地址：[https://github.com/iwill/ExCodable](https://github.com/iwill/ExCodable)
