@@ -36,11 +36,11 @@ tags: Python
 
 从作者的搜索效果来看非常的不错，以下是一些搜索的例子：
 
-![image-20210228230617819](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20210228230617819.png)
+![image-20210228230617819](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210228230617819.png)
 
 
 
-![image-20210228230636655](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20210228230636655.png)
+![image-20210228230636655](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210228230636655.png)
 
 
 
