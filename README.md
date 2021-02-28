@@ -33,6 +33,7 @@
 * [让你眼前一亮长见识的反爬虫策略](_posts/2020-08-02-anti.spider.strategy.douyu.md)
 * [Python 命令行终端神器](_posts/2020-01-01-2020-12-12-Python命令行终端神器.md)
 * [震惊，被马赛克的图片竟然还可以恢复](_posts/2021-01-31-masaike.recovers.md)
+* XX [视频搜索会是下一个大规模流量入口？推荐一个仍在探索的视频搜索开源工具](_posts/2021-02-28-video-search.md)
 
 
 
