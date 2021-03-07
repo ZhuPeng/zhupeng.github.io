@@ -2,11 +2,14 @@
 
 访问 https://zhupeng.github.io 了解更多。
 
-## GitHub 开源项目发布雷达
+## GitHub
 
 * [GitHub 开源项目发布雷达 -  201903](_posts/2019-03-01-github_release_radar.md)
 * [GitHub 开源项目发布雷达 -  201904](_posts/2019-04-01-github_release_radar.md)
 * [GitHub 开始支持 Discussions 了](_posts/2020-12-12-github.discussion.md)
+* XX [GitHub 上线新功能，3D 版用户开源故事](_posts/2021-03-07-github-skyline.md)
+
+
 
 ## Python 相关
 
