@@ -9,12 +9,9 @@ tags: APP
 最近不管是抖音还是朋友圈，大家都在发一个蚂蚁呀嘿的搞笑视频，看上去非常的有趣，比如下面这个。
 
 <iframe width="100%" height="400" src="https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/7bc43d774cd99e7b693905ec0f41867a.mp4" frameborder="0" allowfullscreen></iframe>
-
 其实上面的视频制作起来非常的简单，只要使用今天推荐的 APP Lico 就可以轻松的制作。
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210307_135620_com.huawei.appmarket.jpg)
-
-
 
 
 
@@ -26,11 +23,7 @@ tags: APP
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210307_140129_com.huya.ice.jpg)
 
-
-
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210307_141047_com.huya.ice.jpg)
-
-
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210307_141056_com.huya.ice.jpg)
 

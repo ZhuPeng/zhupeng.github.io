@@ -7,7 +7,7 @@
 * [GitHub 开源项目发布雷达 -  201903](_posts/2019-03-01-github_release_radar.md)
 * [GitHub 开源项目发布雷达 -  201904](_posts/2019-04-01-github_release_radar.md)
 * [GitHub 开始支持 Discussions 了](_posts/2020-12-12-github.discussion.md)
-* XX [GitHub 上线新功能，3D 版用户开源故事](_posts/2021-03-07-github-skyline.md)
+* [GitHub 上线新功能，3D 版用户开源故事](_posts/2021-03-07-github-skyline.md)
 
 
 
@@ -277,4 +277,4 @@ XX [美剧追剧神器，一律统统免费看](_posts/2021-02-21-ag-meiju.md)
 
 [微信假装视频助手，简直是避免尴尬神器](_posts/2021-02-27-jiazhuangshipin.md)
 
-XX [火爆全网的蚂蚁呀嘿搞笑视频，你也可以拥有](_posts/2021-03-07-mayiyahuo.md)
+[火爆全网的蚂蚁呀嘿搞笑视频，你也可以拥有](_posts/2021-03-07-mayiyahuo.md)
