@@ -175,7 +175,7 @@
 * [自动将手写代码转换为编辑器中的代码](_posts/2020-08-16-auto.generate.handwrite.code.md)
 * [2D 文字快速转 3D 效果的开源牛逼项目](_posts/2020-09-25-2d.transfer.3d.md)
 * [Google 产品都有哪些替代品呢？](_posts/2020-09-27-google.replacement.products.md)
-* XX [在线工具秘籍，为在线工具写一本优质说明书](_posts/2020-10-11-online.tools.book.md)
+* [在线工具秘籍，为在线工具写一本优质说明书](_posts/2020-10-11-online.tools.book.md)
 * [Java 图片缩略图生成库](_posts/2020-10-25-java.thumbnailator.md)
 * [在 Docker 中运行 Mac OS 是什么样的体验](_posts/2020-10-25-run.mac.os.in.docker.md)
 * [你还记得你用过的那些手机的型号嘛？](_posts/2020-11-01-history.of.phone.md)
