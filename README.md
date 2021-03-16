@@ -275,7 +275,7 @@
 
 [今天中午吃什么？这款神器是选择困难症的福音](_posts/2021-02-18-xiaojueding.md)
 
-XX [美剧追剧神器，一律统统免费看](_posts/2021-02-21-ag-meiju.md)
+[美剧追剧神器，一律统统免费看](_posts/2021-02-21-ag-meiju.md)
 
 [微信假装视频助手，简直是避免尴尬神器](_posts/2021-02-27-jiazhuangshipin.md)
 
