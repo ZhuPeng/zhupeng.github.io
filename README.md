@@ -211,7 +211,7 @@
 * XX Google Tone 声音网址分享：https://www.leiphone.com/news/201505/Gsiou0bu5Keaz8D1.html
 * [让链接自由的跳转，这本就是互联网该有的自由](_posts/2021-01-10-nonstop.link.md)
 * XX [超级易用，可自由定制的浏览器自动化插件](_posts/2021-01-19-autoclicker.chrome.plugin.md)
-* XX [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
+* [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
 
 
 
@@ -282,3 +282,5 @@
 [火爆全网的蚂蚁呀嘿搞笑视频，你也可以拥有](_posts/2021-03-07-mayiyahuo.md)
 
 XX [特殊 APP 无压力分享，再也不用怕了](_posts/2021-03-14-app-share.md)
+
+XX [国际明星爱豆热门动态全搜罗，一个都不能错过](_posts/2021-03-22-instgram-miniprogram.md)
