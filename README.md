@@ -37,6 +37,7 @@
 * [Python 命令行终端神器](_posts/2020-01-01-2020-12-12-Python命令行终端神器.md)
 * [震惊，被马赛克的图片竟然还可以恢复](_posts/2021-01-31-masaike.recovers.md)
 * [视频搜索会是下一个大规模流量入口？推荐一个仍在探索的视频搜索开源工具](_posts/2021-02-28-video-search.md)
+* XX [这款工具通过混淆代码防止代码外泄问题，点子很正](_posts/2021-03-23-code-hunxiao.md)
 
 
 
@@ -281,6 +282,6 @@
 
 [火爆全网的蚂蚁呀嘿搞笑视频，你也可以拥有](_posts/2021-03-07-mayiyahuo.md)
 
-XX [特殊 APP 无压力分享，再也不用怕了](_posts/2021-03-14-app-share.md)
+[特殊 APP 无压力分享，再也不用怕了](_posts/2021-03-14-app-share.md)
 
 XX [国际明星爱豆热门动态全搜罗，一个都不能错过](_posts/2021-03-22-instgram-miniprogram.md)
