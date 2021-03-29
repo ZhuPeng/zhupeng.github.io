@@ -99,7 +99,7 @@
 * [真香，不需要额外购买云服务的短链接生成服务](_posts/2020-12-27-short.url.by.github.pages.md)
 * [B 站 UP 主自动签到投币工具](_posts/2021-01-10-b.auto.sign.md)
 * [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/2021-01-23-flag.country.md)
-* XX [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
+* [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 
 
