@@ -284,6 +284,8 @@
 
 [特殊 APP 无压力分享，再也不用怕了](_posts/2021-03-14-app-share.md)
 
-XX [国际明星爱豆热门动态全搜罗，一个都不能错过](_posts/2021-03-22-instgram-miniprogram.md)
+XX 修改根据粉丝属性引导用户 [国际明星爱豆热门动态全搜罗，一个都不能错过](_posts/2021-03-22-instgram-miniprogram.md)
 
 XX [多功能万能工具箱，谱写美丽与强大的极致，老司机必备！](_posts/2021-03-28-gongjuxiang.md)
+
+XX [纯净无广告，太良心了](_posts/2021-03-31-danboxingqiu.md)
