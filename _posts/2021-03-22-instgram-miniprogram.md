@@ -16,7 +16,7 @@ tags: APP
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210322_225552_com.tencent.mm.jpg)
 
-打开小程序就能看到已经有各个分类的爱豆排行了，根据不同的就可以找到你想看的爱豆动态了。
+打开小程序就能看到已经有各个分类的爱豆排行了，根据不同的分类就可以找到你想看的爱豆动态了。
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210322_224616_com.tencent.mm.jpg)
 

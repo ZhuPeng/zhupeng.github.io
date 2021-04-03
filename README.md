@@ -99,7 +99,7 @@
 * [真香，不需要额外购买云服务的短链接生成服务](_posts/2020-12-27-short.url.by.github.pages.md)
 * [B 站 UP 主自动签到投币工具](_posts/2021-01-10-b.auto.sign.md)
 * [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/2021-01-23-flag.country.md)
-* XX [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
+* [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 
 
@@ -284,8 +284,10 @@
 
 [特殊 APP 无压力分享，再也不用怕了](_posts/2021-03-14-app-share.md)
 
-XX [国际明星爱豆热门动态全搜罗，一个都不能错过](_posts/2021-03-22-instgram-miniprogram.md)
+XX 修改根据粉丝属性引导用户 [国际明星爱豆热门动态全搜罗，一个都不能错过](_posts/2021-03-22-instgram-miniprogram.md)
 
 XX [多功能万能工具箱，谱写美丽与强大的极致，老司机必备！](_posts/2021-03-28-gongjuxiang.md)
 
 XX [毕业季晋升季你用得上的网站推荐](_posts/2021-04-03-ppt.md)
+
+XX [纯净无广告，太良心了](_posts/2021-03-31-danboxingqiu.md)
