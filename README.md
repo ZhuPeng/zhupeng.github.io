@@ -102,6 +102,7 @@
 * [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/2021-01-23-flag.country.md)
 * [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
+* XX [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
 
 
 
@@ -292,3 +293,5 @@ XX [多功能万能工具箱，谱写美丽与强大的极致，老司机必备�
 [毕业季晋升季你用得上的网站推荐](_posts/2021-04-03-ppt.md)
 
 XX [纯净无广告，太良心了](_posts/2021-03-31-danboxingqiu.md)
+
+XX [百度这波太良心了，没有广告](_posts/2021-04-11-jiechangtu.baidu.md)
