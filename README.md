@@ -37,7 +37,7 @@
 * [Python 命令行终端神器](_posts/2020-01-01-2020-12-12-Python命令行终端神器.md)
 * [震惊，被马赛克的图片竟然还可以恢复](_posts/2021-01-31-masaike.recovers.md)
 * [视频搜索会是下一个大规模流量入口？推荐一个仍在探索的视频搜索开源工具](_posts/2021-02-28-video-search.md)
-* XX [这款工具通过混淆代码防止代码外泄问题，点子很正](_posts/2021-03-23-code-hunxiao.md)
+* [这款工具通过混淆代码防止代码外泄问题，点子很正](_posts/2021-03-23-code-hunxiao.md)
 * XX [集合 Python、Shell 优点的跨平台脚本语言](_posts/2021-04-07-python.and.bash.md)
 
 
@@ -199,6 +199,7 @@
 * XX [超轻量支持多种格式的电子书阅读器，只需要浏览器即可使用](_posts/2021-02-21-ebook-reader.md)
 * [一款神奇的 VSCode 插件，将图片转换成 ASCII 样式字符](_posts/2021-03-14-pic2ascii.md)
 * XX [美国宇航局开源毅力号搭载的无人机代码](_posts/20201-03-14-nas-flight-code.md)
+* [下线旧 API 的正确方式](_posts/2021-04-11-shutdown.old.api.md)
 
 
 
