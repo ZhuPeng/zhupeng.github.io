@@ -293,6 +293,6 @@ XX [多功能万能工具箱，谱写美丽与强大的极致，老司机必备�
 
 [毕业季晋升季你用得上的网站推荐](_posts/2021-04-03-ppt.md)
 
-XX [纯净无广告，太良心了](_posts/2021-03-31-danboxingqiu.md)
+[蛋播星球：纯净无广告，太良心了](_posts/2021-03-31-danboxingqiu.md)
 
 [百度这波太良心了，没有广告](_posts/2021-04-11-jiechangtu.baidu.md)
