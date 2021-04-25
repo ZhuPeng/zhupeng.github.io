@@ -8,7 +8,7 @@
 * [GitHub 开源项目发布雷达 -  201904](_posts/2019-04-01-github_release_radar.md)
 * [GitHub 开始支持 Discussions 了](_posts/2020-12-12-github.discussion.md)
 * [GitHub 上线新功能，3D 版用户开源故事](_posts/2021-03-07-github-skyline.md)
-* XX [GitHub 上线个人徽章功能](_posts/2021-04-24-github-badge.md)
+* [GitHub 上线个人徽章功能](_posts/2021-04-24-github-badge.md)
 
 
 
