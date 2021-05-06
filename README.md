@@ -84,6 +84,7 @@
 * [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/2021-01-01-yq.parser.md)
 * [只有 1000 行代码的分布式数据库，值得学习](_posts/2021-01-10-1000lines.go.kv.dist.md)
 * [如何向你的孩子介绍你的工作，一个 Kubernetes 的案例](_posts/2021-01-24-k8s.manhua.md)
+* XX [开发一款 MacOS 应用需要具备哪些知识？](_posts/2021-05-06-macdriver.md)
 
 
 
@@ -104,6 +105,7 @@
 * [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 * XX [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
+* XX [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
 
 
 
@@ -299,3 +301,5 @@ XX [多功能万能工具箱，谱写美丽与强大的极致，老司机必备�
 [百度这波太良心了，没有广告](_posts/2021-04-11-jiechangtu.baidu.md)
 
 [免费看爱奇艺 VIP 视频，不需要安装任何软件](_posts/2021-04-24-iqiyi-vip-free.md)
+
+XX [华为出品良心好用软件：一键测速](_posts/2021-05-06-yijianceshubyhuawei.md)
