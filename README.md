@@ -84,7 +84,7 @@
 * [前有解析 JSON 的 jq 工具，那解析 YAML 的肯定也不能少](_posts/2021-01-01-yq.parser.md)
 * [只有 1000 行代码的分布式数据库，值得学习](_posts/2021-01-10-1000lines.go.kv.dist.md)
 * [如何向你的孩子介绍你的工作，一个 Kubernetes 的案例](_posts/2021-01-24-k8s.manhua.md)
-* XX [开发一款 MacOS 应用需要具备哪些知识？](_posts/2021-05-06-macdriver.md)
+* [开发一款 MacOS 应用需要具备哪些知识？](_posts/2021-05-06-macdriver.md)
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开发一款 MacOS 应用需要具备哪些知识？
+title: 开发一款 MacOS 应用需要了解哪些知识？
 tags: Go
 ---
 
@@ -8,7 +8,7 @@ tags: Go
 
 如果要开发一款 MacOS 应用需要具备哪些知识？要学习 Objective-C？不知如何开始？
 
-今天推荐一个 Go 封装的框架 MacDriver，支持原生的 Mac API，只需要 80 行代码即可实现一个 macOS 菜单栏的「番茄时钟」应用。
+今天推荐一个 Go 封装的框架 MacDriver，支持原生的 Mac API，只需要 80 行代码即可实现一个 MacOS 菜单栏的「番茄时钟」应用。
 
 ![image-20210506212031408](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210506212031408.png)
 
