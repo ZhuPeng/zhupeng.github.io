@@ -203,6 +203,7 @@
 * [一款神奇的 VSCode 插件，将图片转换成 ASCII 样式字符](_posts/2021-03-14-pic2ascii.md)
 * XX [美国宇航局开源毅力号搭载的无人机代码](_posts/20201-03-14-nas-flight-code.md)
 * [下线旧 API 的正确方式](_posts/2021-04-11-shutdown.old.api.md)
+* XX [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
 
 
 
