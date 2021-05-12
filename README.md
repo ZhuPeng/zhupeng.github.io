@@ -105,7 +105,7 @@
 * [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 * XX [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
-* XX [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
+* [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
 
 
 
