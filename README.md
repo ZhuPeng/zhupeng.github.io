@@ -204,6 +204,7 @@
 * XX [美国宇航局开源毅力号搭载的无人机代码](_posts/20201-03-14-nas-flight-code.md)
 * [下线旧 API 的正确方式](_posts/2021-04-11-shutdown.old.api.md)
 * XX [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
+* XX [手把手教你构建 C 语言编译器](_posts/2021-05-15-compiler-writing.md)
 
 
 
@@ -220,6 +221,7 @@
 * [让链接自由的跳转，这本就是互联网该有的自由](_posts/2021-01-10-nonstop.link.md)
 * [超级易用，可自由定制的浏览器自动化插件](_posts/2021-01-19-autoclicker.chrome.plugin.md)
 * [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
+* XX [根据写代码的状态播放符合心情的音乐](_posts/2021-05-15-code-status-with-music.md)
 
 
 
