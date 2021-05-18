@@ -28,13 +28,13 @@ tags: APP
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_3_2f1902ebc861439186b5a82b0517b5af.jpg)
 
-我们来具体看几个功能，使用非常简单了。
+我们来具体看几个功能，使用非常的简单。
 
-时间屏幕，一点就来，全屏一点不含糊。
+1、时间屏幕，一点就来，全屏一点不含糊。
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210328_235930_com.One.WoodenLetter.jpg)
 
-尺子，随手就能量点啥一点都不怕自己没有距离感。
+2、尺子，随手就能量点啥，一点都不怕自己没有距离感。
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210329_001731_com.One.WoodenLetter.jpg)
 
