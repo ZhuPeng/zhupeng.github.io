@@ -203,7 +203,7 @@
 * [一款神奇的 VSCode 插件，将图片转换成 ASCII 样式字符](_posts/2021-03-14-pic2ascii.md)
 * XX [美国宇航局开源毅力号搭载的无人机代码](_posts/20201-03-14-nas-flight-code.md)
 * [下线旧 API 的正确方式](_posts/2021-04-11-shutdown.old.api.md)
-* XX [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
+* [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
 * XX [手把手教你构建 C 语言编译器](_posts/2021-05-15-compiler-writing.md)
 
 
@@ -305,4 +305,4 @@ XX 修改根据粉丝属性引导用户 [国际明星爱豆热门动态全搜罗
 
 [免费看爱奇艺 VIP 视频，不需要安装任何软件](_posts/2021-04-24-iqiyi-vip-free.md)
 
-XX [华为出品良心好用软件：一键测速](_posts/2021-05-06-yijianceshubyhuawei.md)
+[华为出品良心好用软件：一键测速](_posts/2021-05-06-yijianceshubyhuawei.md)
