@@ -105,8 +105,8 @@
 * [全世界各国国旗图片收集，一行代码 CSS 直接集成](_posts/2021-01-23-flag.country.md)
 * [牛逼炫酷的数据动态展示工具，让你的数据动起来](_posts/2021-01-24-3d.charts.flourish.md)
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
-* XX [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
-* XX [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
+* [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
+* [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
 
 
 
@@ -200,11 +200,12 @@
 * XX [Markdown 如何插入视频或者 MP3 等多媒体文件](_posts/2021-01-31-md.insert.media.md)
 * [ClubHouse 如此火爆，是不是还没有弄到邀请码？给大家推荐一款开源对标产品](_posts/2021-02-28-doghouse.md)
 * [你敢信么，用粤语还能编程](_posts/2021-02-19-yueyu-bianchen.md)
-* XX [超轻量支持多种格式的电子书阅读器，只需要浏览器即可使用](_posts/2021-02-21-ebook-reader.md)
+* [超轻量支持多种格式的电子书阅读器，只需要浏览器即可使用](_posts/2021-02-21-ebook-reader.md)
 * [一款神奇的 VSCode 插件，将图片转换成 ASCII 样式字符](_posts/2021-03-14-pic2ascii.md)
 * XX [美国宇航局开源毅力号搭载的无人机代码](_posts/20201-03-14-nas-flight-code.md)
 * [下线旧 API 的正确方式](_posts/2021-04-11-shutdown.old.api.md)
-* XX [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
+* [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
+* XX [手把手教你构建 C 语言编译器](_posts/2021-05-15-compiler-writing.md)
 
 
 
@@ -221,6 +222,7 @@
 * [让链接自由的跳转，这本就是互联网该有的自由](_posts/2021-01-10-nonstop.link.md)
 * [超级易用，可自由定制的浏览器自动化插件](_posts/2021-01-19-autoclicker.chrome.plugin.md)
 * [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
+* XX [根据写代码的状态播放符合心情的音乐](_posts/2021-05-15-code-status-with-music.md)
 
 
 
@@ -294,7 +296,7 @@
 
 XX 修改根据粉丝属性引导用户 [国际明星爱豆热门动态全搜罗，一个都不能错过](_posts/2021-03-22-instgram-miniprogram.md)
 
-XX [多功能万能工具箱，谱写美丽与强大的极致，老司机必备！](_posts/2021-03-28-gongjuxiang.md)
+[多功能万能工具箱，谱写美丽与强大的极致，老司机必备！](_posts/2021-03-28-gongjuxiang.md)
 
 [毕业季晋升季你用得上的网站推荐](_posts/2021-04-03-ppt.md)
 
@@ -304,4 +306,4 @@ XX [多功能万能工具箱，谱写美丽与强大的极致，老司机必备�
 
 [免费看爱奇艺 VIP 视频，不需要安装任何软件](_posts/2021-04-24-iqiyi-vip-free.md)
 
-XX [华为出品良心好用软件：一键测速](_posts/2021-05-06-yijianceshubyhuawei.md)
+[华为出品良心好用软件：一键测速](_posts/2021-05-06-yijianceshubyhuawei.md)
