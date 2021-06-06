@@ -41,6 +41,8 @@
 * [这款工具通过混淆代码防止代码外泄问题，点子很正](_posts/2021-03-23-code-hunxiao.md)
 * [集合 Python、Shell 优点的跨平台脚本语言](_posts/2021-04-07-python.and.bash.md)
 * XX [微软开源浏览器自动化工具](_posts/2021-05-30-browser-automation-ms.md)
+* XX [最流行的十个 Python 库](_posts/2021-06-06-top-python-lib.md)
+* XX [只写代码就能画出云化系统架构图](_posts/2021-06-06-code-as-diag-for-cloud-system.md)
 
 
 
