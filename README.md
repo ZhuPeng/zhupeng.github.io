@@ -226,7 +226,7 @@
 * [让链接自由的跳转，这本就是互联网该有的自由](_posts/2021-01-10-nonstop.link.md)
 * [超级易用，可自由定制的浏览器自动化插件](_posts/2021-01-19-autoclicker.chrome.plugin.md)
 * [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
-* XX [根据写代码的状态播放符合心情的音乐](_posts/2021-05-15-code-status-with-music.md)
+* [根据写代码的状态播放符合心情的音乐](_posts/2021-05-15-code-status-with-music.md)
 
 
 
