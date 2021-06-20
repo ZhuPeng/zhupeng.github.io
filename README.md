@@ -110,6 +110,7 @@
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 * [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
 * [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
+* XX [支持任意文本格式互相转换的在线工具](_posts/2021-06-20-text-converter.md)
 
 
 
@@ -213,7 +214,7 @@
 
 
 
-## Chrome 插件
+## 插件
 
 * [OneTab: 一键合并所有浏览器标签页方便管理](_posts/2020-05-13-chrome.plugin.onetab.md)
 * [XPath Helper: 快速高效从网页中抽取内容](_posts/2020-05-26-xpath.helper.md)
@@ -227,6 +228,7 @@
 * [超级易用，可自由定制的浏览器自动化插件](_posts/2021-01-19-autoclicker.chrome.plugin.md)
 * [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
 * [根据写代码的状态播放符合心情的音乐](_posts/2021-05-15-code-status-with-music.md)
+* XX [一个嵌入在 VSCode 中的 RSS 阅读器插件](_posts/2021-06-20-vscode-rss-reader.md)
 
 
 

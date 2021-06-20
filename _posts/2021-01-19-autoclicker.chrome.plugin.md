@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 超级易用，可自由定制的浏览器自动化插件
-tags: Chrome插件
+tags: 插件
 ---
 
 今天给大家推荐一个超级牛逼的浏览器自动化插件 autoclicker，从我的体验来看，这个插件做的非常的易用。

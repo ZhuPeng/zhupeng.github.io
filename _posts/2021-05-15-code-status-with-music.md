@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 根据写代码的状态播放符合心情的音乐
-tags: Chrome插件
+tags: 插件
 ---
 
 大家好。
