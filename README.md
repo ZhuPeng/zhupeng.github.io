@@ -42,7 +42,7 @@
 * [集合 Python、Shell 优点的跨平台脚本语言](_posts/2021-04-07-python.and.bash.md)
 * [微软开源浏览器自动化工具](_posts/2021-05-30-browser-automation-ms.md)
 * XX [最流行的十个 Python 库](_posts/2021-06-06-top-python-lib.md)
-* XX [只写代码就能画出云化系统架构图](_posts/2021-06-06-code-as-diag-for-cloud-system.md)
+* XX [高大上的云化系统架构图，写代码就能画出来](_posts/2021-06-06-code-as-diag-for-cloud-system.md)
 * XX [开源轻量化静态代码扫描工具](_posts/2021-06-13-lightweight-static-code-analysis.md)
 
 
@@ -111,6 +111,8 @@
 * [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
 * [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
 * XX [支持任意文本格式互相转换的在线工具](_posts/2021-06-20-text-converter.md)
+* XX [100+ 互联网大厂产品源码合集](_posts/2021-06-26-top100-dachang-websites.md)
+* XX [重磅推荐，可能是最简单的流程图制作工具](_posts/2021-06-26-flowchart-easyone.md)
 
 
 
