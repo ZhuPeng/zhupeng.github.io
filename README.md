@@ -42,7 +42,7 @@
 * [集合 Python、Shell 优点的跨平台脚本语言](_posts/2021-04-07-python.and.bash.md)
 * [微软开源浏览器自动化工具](_posts/2021-05-30-browser-automation-ms.md)
 * XX [最流行的十个 Python 库](_posts/2021-06-06-top-python-lib.md)
-* XX [高大上的云化系统架构图，写代码就能画出来](_posts/2021-06-06-code-as-diag-for-cloud-system.md)
+* 高大上的云化系统架构图，写代码就能画出来](_posts/2021-06-06-code-as-diag-for-cloud-system.md)
 * XX [开源轻量化静态代码扫描工具](_posts/2021-06-13-lightweight-static-code-analysis.md)
 
 
@@ -212,7 +212,7 @@
 * [下线旧 API 的正确方式](_posts/2021-04-11-shutdown.old.api.md)
 * [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
 * [手把手教你构建 C 语言编译器](_posts/2021-05-15-compiler-writing.md)
-* XX [命令行和图形界面到底哪种方式效率更高？](_posts/2021-06-13-you-donnot-need-gui.md)
+* [命令行和图形界面到底哪种方式效率更高？](_posts/2021-06-13-you-donnot-need-gui.md)
 
 
 
