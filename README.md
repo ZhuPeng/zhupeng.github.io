@@ -110,10 +110,11 @@
 * [VUE 源码核心逻辑学习](_posts/2021-01-31-minivue.md)
 * [厉害了，这款工具能帮你自动修复有安全问题的依赖包](_posts/2021-04-11-code.safe.deps.detect.md)
 * [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
-* XX [支持任意文本格式互相转换的在线工具](_posts/2021-06-20-text-converter.md)
+* [支持任意文本格式互相转换的在线工具](_posts/2021-06-20-text-converter.md)
 * [100+ 互联网大厂产品源码合集](_posts/2021-06-26-top100-dachang-websites.md)
 * XX [重磅推荐，可能是最简单的流程图制作工具](_posts/2021-06-26-flowchart-easyone.md)
-* XX [GitHub 星标 13.5K，对标 Airtable 开源在线表格应用力荐](_posts/2021-07-11-online-excel-nocodb.md)
+* [GitHub 星标 15.4K，对标 Airtable 开源在线表格应用力荐](_posts/2021-07-11-online-excel-nocodb.md)
+* XX [锤子便签风格的 Markdown 主题推荐](_posts/2021-08-01-md-for-chuizi-bianqian.md)
 
 
 
@@ -215,6 +216,7 @@
 * [手把手教你构建 C 语言编译器](_posts/2021-05-15-compiler-writing.md)
 * [命令行和图形界面到底哪种方式效率更高？](_posts/2021-06-13-you-donnot-need-gui.md)
 * XX [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](_posts/2021-07-18-what-happens-when.md)
+* XX [SQLite 作者最新开源力作](_posts/2021-08-01-sqlite-auther-opensource-web-server.md)
 
 
 
