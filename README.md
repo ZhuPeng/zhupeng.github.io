@@ -89,6 +89,7 @@
 * [只有 1000 行代码的分布式数据库，值得学习](_posts/2021-01-10-1000lines.go.kv.dist.md)
 * [如何向你的孩子介绍你的工作，一个 Kubernetes 的案例](_posts/2021-01-24-k8s.manhua.md)
 * [开发一款 MacOS 应用需要具备哪些知识？](_posts/2021-05-06-macdriver.md)
+* XX [从零开始学习系列之时间序列数据库](_posts/2021-08-08-tsdb-learn-from-scratch.md)
 
 
 
