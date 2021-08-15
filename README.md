@@ -90,6 +90,7 @@
 * [如何向你的孩子介绍你的工作，一个 Kubernetes 的案例](_posts/2021-01-24-k8s.manhua.md)
 * [开发一款 MacOS 应用需要具备哪些知识？](_posts/2021-05-06-macdriver.md)
 * XX [从零开始学习系列之时间序列数据库](_posts/2021-08-08-tsdb-learn-from-scratch.md)
+* XX [实用工具推荐，命令行终端网页分享工具](_posts/2021-08-16-gotty-share-terminal-to-web.md)
 
 
 
@@ -113,7 +114,7 @@
 * [一个支持弹幕的网页视频播放器](_posts/2021-05-06-danmubofangqi.md)
 * [支持任意文本格式互相转换的在线工具](_posts/2021-06-20-text-converter.md)
 * [100+ 互联网大厂产品源码合集](_posts/2021-06-26-top100-dachang-websites.md)
-* XX [重磅推荐，可能是最简单的流程图制作工具](_posts/2021-06-26-flowchart-easyone.md)
+* [重磅推荐，可能是最简单的流程图制作工具](_posts/2021-06-26-flowchart-easyone.md)
 * [GitHub 星标 15.4K，对标 Airtable 开源在线表格应用力荐](_posts/2021-07-11-online-excel-nocodb.md)
 * XX [锤子便签风格的 Markdown 主题推荐](_posts/2021-08-01-md-for-chuizi-bianqian.md)
 
