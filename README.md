@@ -117,6 +117,7 @@
 * [重磅推荐，可能是最简单的流程图制作工具](_posts/2021-06-26-flowchart-easyone.md)
 * [GitHub 星标 15.4K，对标 Airtable 开源在线表格应用力荐](_posts/2021-07-11-online-excel-nocodb.md)
 * XX [锤子便签风格的 Markdown 主题推荐](_posts/2021-08-01-md-for-chuizi-bianqian.md)
+* XX [牛逼，使用 GitHub Pages 搭建维基百科](_posts/2021-08-22-wikipidea-static-version.md)
 
 
 
