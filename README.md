@@ -120,6 +120,7 @@
 * XX [锤子便签风格的 Markdown 主题推荐](_posts/2021-08-01-md-for-chuizi-bianqian.md)
 * XX [牛逼，使用 GitHub Pages 搭建维基百科](_posts/2021-08-22-wikipidea-static-version.md)
 * XX [牛逼，在 Mac 的键盘触摸屏上实现一个监控系统](_posts/2021-09-05-mac-touch-bar-monitor.md)
+* XX [我不会 PS，但我有一键智能抠图](_posts/2021-09-06-zhineng-kuotu.md)
 
 
 
