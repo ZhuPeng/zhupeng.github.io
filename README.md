@@ -9,6 +9,7 @@
 * [GitHub 开始支持 Discussions 了](_posts/2020-12-12-github.discussion.md)
 * [GitHub 上线新功能，3D 版用户开源故事](_posts/2021-03-07-github-skyline.md)
 * [GitHub 上线个人徽章功能](_posts/2021-04-24-github-badge.md)
+* XX [GitHub 星标 14.7K！本地运行 GitHub Actions 的明星项目](_posts/2021-09-13-github-actions-local-run.md)
 
 
 

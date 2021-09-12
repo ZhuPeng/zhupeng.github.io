@@ -10,7 +10,7 @@ tags: 前端
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_wiki.demo.png)
 
-今天要推荐的项目跟维基百科有关系，也是一项技术的概念验证，同时使用 GitHub Pages 搭建一个离线版本的静态维基百科。访问 http://static.wiki/zh 可以直接试用，页面右上角可以直接切换语言。
+今天要推荐的项目跟维基百科有关系，也是一项技术的概念验证，使用 GitHub Pages 搭建一个离线版本的静态维基百科。访问 http://static.wiki/zh 可以直接试用，页面右上角可以直接切换语言。
 
 ![image-20210822225402811](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210822225402811.png)
 
@@ -20,7 +20,7 @@ tags: 前端
 
 具体的介绍可以参考：https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 
-首先这个技术是源于一个背景，作者经常会需要在网页上展示一些静态的数据，如果使用后端的话，一来比较浪费，第二有时候忘记对主机付费的话，网站就不行了，有很大的维护成本。而维护一个静态的网站就简单很多了，基于以上出发点，作者尝试依赖 GitHub Pages，同时结合 SQLite 来搭建静态网站。
+首先这个技术是源于一个背景，作者经常会需要在网页上展示一些静态的数据，如果使用后端的话，一来比较浪费，第二有时候忘记对主机续费的话，网站就不行了，有很大的维护成本。而维护一个静态的网站就简单很多了，基于以上出发点，作者尝试依赖 GitHub Pages，同时结合 SQLite 来搭建静态网站。
 
 核心技术要点就是将 SQLite (written in C) 编译成 WebAssembly，这样就可以使用 sql.js 读取 sqlite 的数据库文件了。
 
