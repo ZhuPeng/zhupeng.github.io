@@ -19,7 +19,7 @@ brew install sorenisanerd/gotty/gotty
 go get github.com/sorenisanerd/gotty
 ```
 
-使用方法很简单，使用 gotty + 需要执行的命令即可在在网页 ip:8080 查看到命令的输出。另外还支持在网页上进行命令交互，只需增加 -w 参数；另外还支持很多其他功能的参数大家可以详细研究一下。
+使用方法很简单，使用 gotty + 需要执行的命令即可在在网页 ip:8080 查看到命令的输出。另外还支持在网页上进行命令交互，只需增加 -w 参数。另外还支持很多其他功能的参数大家可以详细研究一下。
 
 ![image-20210816002702455](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210816002702455.png)
 
