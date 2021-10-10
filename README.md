@@ -122,6 +122,7 @@
 * [牛逼，使用 GitHub Pages 搭建维基百科](_posts/2021-08-22-wikipidea-static-version.md)
 * [牛逼，在 Mac 的键盘触摸屏上实现一个监控系统](_posts/2021-09-05-mac-touch-bar-monitor.md)
 * XX [我不会 PS，但我有一键智能抠图](_posts/2021-09-06-zhineng-kuotu.md)
+* XX [一款针对数学而生的数据可视化开源库](_posts/2021-10-10-plotting-lib-for-math.md)
 
 
 
