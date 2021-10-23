@@ -119,11 +119,12 @@
 * [100+ 互联网大厂产品源码合集](_posts/2021-06-26-top100-dachang-websites.md)
 * [重磅推荐，可能是最简单的流程图制作工具](_posts/2021-06-26-flowchart-easyone.md)
 * [GitHub 星标 15.4K，对标 Airtable 开源在线表格应用力荐](_posts/2021-07-11-online-excel-nocodb.md)
-* XX [锤子便签风格的 Markdown 主题推荐](_posts/2021-08-01-md-for-chuizi-bianqian.md)
+* [锤子便签风格的 Markdown 主题推荐](_posts/2021-08-01-md-for-chuizi-bianqian.md)
 * [牛逼，使用 GitHub Pages 搭建维基百科](_posts/2021-08-22-wikipidea-static-version.md)
 * [牛逼，在 Mac 的键盘触摸屏上实现一个监控系统](_posts/2021-09-05-mac-touch-bar-monitor.md)
-* XX [我不会 PS，但我有一键智能抠图](_posts/2021-09-06-zhineng-kuotu.md)
+* [我不会 PS，但我有一键智能抠图](_posts/2021-09-06-zhineng-kuotu.md)
 * XX [一款针对数学而生的数据可视化开源库](_posts/2021-10-10-plotting-lib-for-math.md)
+* XX [牛逼，让 YouTube-DL 更好用的工具](_posts/2021-10-23-youtube-dl-gui.md)
 
 
 
@@ -227,6 +228,7 @@
 *  [GitHub 星标 30.4K！超经典面试题解读！当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](_posts/2021-07-18-what-happens-when.md)
 * [SQLite 作者最新开源力作](_posts/2021-08-01-sqlite-auther-opensource-web-server.md)
 * XX [GitHub 提交热力图！还可以这么玩！](_posts/2021-09-20-leisi-github-skyline-poster.md)
+* XX [个人开发者的福音！免费 API 列表大全！](_posts/2021-10-23-free-api-list.md)
 
 
 

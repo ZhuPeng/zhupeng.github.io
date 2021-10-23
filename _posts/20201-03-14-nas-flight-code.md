@@ -10,8 +10,6 @@ tags: 其他
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_yilihao_wurenji.jpeg)
 
-
-
 而以上无人机的飞行控制程序是基于 Jet Propulsion Laboratory's (JPL) 的**开源框架 F´ **定制的，搭载于 **Linux 系统**中，这让Linux 成为第一个登上火星的操作系统。
 
 F’(Fprime) 就是今天要推荐的项目，目前已在 GitHub 开源，它是一个基于组件驱动的框架，可以快速的开发和部署到航天器和其他嵌入式设备中。
