@@ -124,7 +124,7 @@
 * [牛逼，在 Mac 的键盘触摸屏上实现一个监控系统](_posts/2021-09-05-mac-touch-bar-monitor.md)
 * [我不会 PS，但我有一键智能抠图](_posts/2021-09-06-zhineng-kuotu.md)
 * XX [一款针对数学而生的数据可视化开源库](_posts/2021-10-10-plotting-lib-for-math.md)
-* XX [牛逼，让 YouTube-DL 更好用的工具](_posts/2021-10-23-youtube-dl-gui.md)
+* GG XX [牛逼，让 YouTube-DL 更好用的工具](_posts/2021-10-23-youtube-dl-gui.md)
 
 
 
@@ -220,7 +220,7 @@
 * [你敢信么，用粤语还能编程](_posts/2021-02-19-yueyu-bianchen.md)
 * [超轻量支持多种格式的电子书阅读器，只需要浏览器即可使用](_posts/2021-02-21-ebook-reader.md)
 * [一款神奇的 VSCode 插件，将图片转换成 ASCII 样式字符](_posts/2021-03-14-pic2ascii.md)
-* XX [美国宇航局开源毅力号搭载的无人机代码](_posts/20201-03-14-nas-flight-code.md)
+* GG XX [美国宇航局开源毅力号搭载的无人机代码](_posts/20201-03-14-nas-flight-code.md)
 * [下线旧 API 的正确方式](_posts/2021-04-11-shutdown.old.api.md)
 * [小巧高性能低功耗的文件服务器](_posts/2021-05-08-darkhttpserver.md)
 * [手把手教你构建 C 语言编译器](_posts/2021-05-15-compiler-writing.md)
@@ -247,6 +247,7 @@
 * [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
 * [根据写代码的状态播放符合心情的音乐](_posts/2021-05-15-code-status-with-music.md)
 * [一个嵌入在 VSCode 中的 RSS 阅读器插件](_posts/2021-06-20-vscode-rss-reader.md)
+* XX [一款可以在每个网页上记录笔记的浏览器插件](_posts/2021-10-30-note-for-chrome-plugin.md)
 
 
 
