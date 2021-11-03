@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 智能 API 接口测试工具，简直牛逼
+title: 腾讯都在用的智能 API 接口测试工具，简直牛逼！
 tags: 前端
 ---
 
@@ -16,7 +16,7 @@ tags: 前端
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_apiauto-liucheng.png)
 
-以下是 APIAuto 的工具架构，整体还是比较简单，测试的信息来源都是接口的相关文档。
+以下是 APIAuto 的工具架构，整体还是比较简单，测试的信息来源是接口的相关文档。
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_apiauto-jiagou.png)
 

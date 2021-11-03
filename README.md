@@ -125,8 +125,8 @@
 * [我不会 PS，但我有一键智能抠图](_posts/2021-09-06-zhineng-kuotu.md)
 * XX [一款针对数学而生的数据可视化开源库](_posts/2021-10-10-plotting-lib-for-math.md)
 * GG XX [牛逼，让 YouTube-DL 更好用的工具](_posts/2021-10-23-youtube-dl-gui.md)
-* XX [智能 API 接口测试工具，简直牛逼](_posts/2021-10-31-tencent-api-ai-test-tools.md)
-* XX [路径规划算法可视化开源项目，简直炫酷](_posts/2021-10-31-path-plan-algo.md)
+* [腾讯都在用的智能 API 接口测试工具，简直牛逼！](_posts/2021-10-31-tencent-api-ai-test-tools.md)
+* GG XX [路径规划算法可视化开源项目，简直炫酷](_posts/2021-10-31-path-plan-algo.md)
 
 
 
@@ -230,7 +230,7 @@
 *  [GitHub 星标 30.4K！超经典面试题解读！当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](_posts/2021-07-18-what-happens-when.md)
 * [SQLite 作者最新开源力作](_posts/2021-08-01-sqlite-auther-opensource-web-server.md)
 * GG XX [GitHub 提交热力图！还可以这么玩！](_posts/2021-09-20-leisi-github-skyline-poster.md)
-* XX [个人开发者的福音！免费 API 列表大全！](_posts/2021-10-23-free-api-list.md)
+* [个人开发者的福音！免费 API 列表大全！](_posts/2021-10-23-free-api-list.md)
 
 
 
