@@ -231,6 +231,8 @@
 * [SQLite 作者最新开源力作](_posts/2021-08-01-sqlite-auther-opensource-web-server.md)
 * GG XX [GitHub 提交热力图！还可以这么玩！](_posts/2021-09-20-leisi-github-skyline-poster.md)
 * [个人开发者的福音！免费 API 列表大全！](_posts/2021-10-23-free-api-list.md)
+* XX [你想知道的元宇宙信息，这里全都有！](_posts/2021-11-06-metaverse-awesomelist.md)
+* XX [简直极客！对命令行友好的开放服务列表！](_posts/2021-11-06-awesome-console-service-list.md)
 
 
 
