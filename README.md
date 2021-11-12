@@ -46,7 +46,7 @@
 * [高大上的云化系统架构图，写代码就能画出来](_posts/2021-06-06-code-as-diag-for-cloud-system.md)
 * [开源轻量化静态代码扫描工具](_posts/2021-06-13-lightweight-static-code-analysis.md)
 * [简单炫酷的进度条开源库](_posts/2021-08-29-python.alive.process.md)
-* XX [这里有一个办法，为历史遗留的项目减负](_posts/2021-10-10-python-dead-code-detect.md)
+* [这里有一个办法，为历史遗留的项目减负](_posts/2021-10-10-python-dead-code-detect.md)
 
 
 
