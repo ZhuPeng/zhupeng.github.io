@@ -10,6 +10,7 @@
 * [GitHub 上线新功能，3D 版用户开源故事](_posts/2021-03-07-github-skyline.md)
 * [GitHub 上线个人徽章功能](_posts/2021-04-24-github-badge.md)
 * [GitHub 星标 18K！本地运行 GitHub Actions 的明星项目](_posts/2021-09-13-github-actions-local-run.md)
+* XX [嗯哼？GitHub 在 GitHub 上开源他们的项目？](_posts/2021-11-14-github-repo-org.md)
 
 
 
