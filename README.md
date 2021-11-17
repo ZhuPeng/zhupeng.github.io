@@ -10,7 +10,7 @@
 * [GitHub 上线新功能，3D 版用户开源故事](_posts/2021-03-07-github-skyline.md)
 * [GitHub 上线个人徽章功能](_posts/2021-04-24-github-badge.md)
 * [GitHub 星标 18K！本地运行 GitHub Actions 的明星项目](_posts/2021-09-13-github-actions-local-run.md)
-* XX [嗯哼？GitHub 在 GitHub 上开源他们的项目？](_posts/2021-11-14-github-repo-org.md)
+* GG XX [嗯哼？GitHub 在 GitHub 上开源他们的项目？](_posts/2021-11-14-github-repo-org.md)
 
 
 
@@ -217,7 +217,7 @@
 * [比 ElasticSearch 更容易接入使用的搜索引擎 typesense](_posts/2021-01-03-search.engine.typesense.md)
 * [教大家如何白嫖一台 Mac 电脑，免费使用](_posts/2021-01-06-github.action.mac.md)
 * [制作爆款电影字幕长图，这款在线工具可以帮助你](_posts/2021-01-19-pingtu.tools.md)
-* XX [为你的头像加上圣诞帽，这次是真的自动给你加上](_posts/2021-01-31-holiday.card.gen.md)
+* GG XX [为你的头像加上圣诞帽，这次是真的自动给你加上](_posts/2021-01-31-holiday.card.gen.md)
 * XX [油管热门无版权音乐免费下载，短视频创作必备](_posts/2021-01-31-free.copyright.music.md)
 * XX [Markdown 如何插入视频或者 MP3 等多媒体文件](_posts/2021-01-31-md.insert.media.md)
 * [ClubHouse 如此火爆，是不是还没有弄到邀请码？给大家推荐一款开源对标产品](_posts/2021-02-28-doghouse.md)
@@ -233,7 +233,7 @@
 * [SQLite 作者最新开源力作](_posts/2021-08-01-sqlite-auther-opensource-web-server.md)
 * GG XX [GitHub 提交热力图！还可以这么玩！](_posts/2021-09-20-leisi-github-skyline-poster.md)
 * [个人开发者的福音！免费 API 列表大全！](_posts/2021-10-23-free-api-list.md)
-* XX [你想知道的元宇宙信息，这里全都有！](_posts/2021-11-06-metaverse-awesomelist.md)
+* [你想知道的元宇宙信息，这里全都有！](_posts/2021-11-06-metaverse-awesomelist.md)
 * XX [简直极客！对命令行友好的开放服务列表！](_posts/2021-11-06-awesome-console-service-list.md)
 * XX [AI 大神李沐教你如何阅读机器学习论文](_posts/2021-11-07-ai-limu-how2-read-paper.md)
 
