@@ -129,6 +129,7 @@
 * [腾讯都在用的智能 API 接口测试工具，简直牛逼！](_posts/2021-10-31-tencent-api-ai-test-tools.md)
 * GG XX [路径规划算法可视化开源项目，简直炫酷](_posts/2021-10-31-path-plan-algo.md)
 * XX [简单好用的开源 sqlite 查询工具](_posts/2021-11-07-sqlite-keshihua-webpage.md)
+* XX [想不想拥有黑客帝国一样的代码雨？](_posts/2021-11-21-hacker-empire-code-rain.md)
 
 
 
@@ -236,6 +237,7 @@
 * [你想知道的元宇宙信息，这里全都有！](_posts/2021-11-06-metaverse-awesomelist.md)
 * XX [简直极客！对命令行友好的开放服务列表！](_posts/2021-11-06-awesome-console-service-list.md)
 * XX [AI 大神李沐教你如何阅读机器学习论文](_posts/2021-11-07-ai-limu-how2-read-paper.md)
+* XX [发现有趣的人，中文博客列表大全](_posts/2021-11-21-chinese-rss-list.md)
 
 
 
