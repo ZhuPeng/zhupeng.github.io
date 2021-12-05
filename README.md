@@ -48,6 +48,7 @@
 * [开源轻量化静态代码扫描工具](_posts/2021-06-13-lightweight-static-code-analysis.md)
 * [简单炫酷的进度条开源库](_posts/2021-08-29-python.alive.process.md)
 * [这里有一个办法，为历史遗留的项目减负](_posts/2021-10-10-python-dead-code-detect.md)
+* XX [牛逼，快速为静态数据生成 API](_posts/2021-12-05-api-for-staic-dataset.md)
 
 
 
@@ -124,12 +125,12 @@
 * [牛逼，使用 GitHub Pages 搭建维基百科](_posts/2021-08-22-wikipidea-static-version.md)
 * [牛逼，在 Mac 的键盘触摸屏上实现一个监控系统](_posts/2021-09-05-mac-touch-bar-monitor.md)
 * [我不会 PS，但我有一键智能抠图](_posts/2021-09-06-zhineng-kuotu.md)
-* XX [一款针对数学而生的数据可视化开源库](_posts/2021-10-10-plotting-lib-for-math.md)
+* [一款针对数学而生的数据可视化开源库](_posts/2021-10-10-plotting-lib-for-math.md)
 * GG XX [牛逼，让 YouTube-DL 更好用的工具](_posts/2021-10-23-youtube-dl-gui.md)
 * [腾讯都在用的智能 API 接口测试工具，简直牛逼！](_posts/2021-10-31-tencent-api-ai-test-tools.md)
 * GG XX [路径规划算法可视化开源项目，简直炫酷](_posts/2021-10-31-path-plan-algo.md)
 * XX [简单好用的开源 sqlite 查询工具](_posts/2021-11-07-sqlite-keshihua-webpage.md)
-* XX [想不想拥有黑客帝国一样的代码雨？](_posts/2021-11-21-hacker-empire-code-rain.md)
+* GG XX [想不想拥有黑客帝国一样的代码雨？](_posts/2021-11-21-hacker-empire-code-rain.md)
 
 
 
@@ -235,9 +236,10 @@
 * GG XX [GitHub 提交热力图！还可以这么玩！](_posts/2021-09-20-leisi-github-skyline-poster.md)
 * [个人开发者的福音！免费 API 列表大全！](_posts/2021-10-23-free-api-list.md)
 * [你想知道的元宇宙信息，这里全都有！](_posts/2021-11-06-metaverse-awesomelist.md)
-* XX [简直极客！对命令行友好的开放服务列表！](_posts/2021-11-06-awesome-console-service-list.md)
-* XX [AI 大神李沐教你如何阅读机器学习论文](_posts/2021-11-07-ai-limu-how2-read-paper.md)
+* GG XX [简直极客！对命令行友好的开放服务列表！](_posts/2021-11-06-awesome-console-service-list.md)
+* [AI 大神李沐教你如何阅读机器学习论文](_posts/2021-11-07-ai-limu-how2-read-paper.md)
 * XX [发现有趣的人，中文博客列表大全](_posts/2021-11-21-chinese-rss-list.md)
+* XX [如何在众多字体中选出你最喜欢的代码字体](_posts/2021-12-05-how-to-choose-best-love-font.md)
 
 
 

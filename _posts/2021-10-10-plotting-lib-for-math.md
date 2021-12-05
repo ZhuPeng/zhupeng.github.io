@@ -18,7 +18,7 @@ tags: 前端
 
 ![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/grafar.dongtai.gif)
 
-而 grafar 功能强大的基础上，使用也比较的简单。通过 `yarn add grafar` 或者 `npm install grafar `就能完成安装，对于上面的动态展示效果，代码也非常的简单。
+而 grafar 在功能强大的基础上，使用也比较的简单。通过 `yarn add grafar` 或者 `npm install grafar `就能完成安装，对于上面的动态展示效果，代码也非常的简单。
 
 ![image-20211010220045963](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211010220045963.png)
 
