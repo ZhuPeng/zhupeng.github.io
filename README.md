@@ -43,7 +43,7 @@
 * [这款工具通过混淆代码防止代码外泄问题，点子很正](_posts/2021-03-23-code-hunxiao.md)
 * [集合 Python、Shell 优点的跨平台脚本语言](_posts/2021-04-07-python.and.bash.md)
 * [微软开源浏览器自动化工具](_posts/2021-05-30-browser-automation-ms.md)
-* XX [最流行的十个 Python 库](_posts/2021-06-06-top-python-lib.md)
+* XX [2020 最流行的十个 Python 库](_posts/2021-06-06-top-python-lib.md)
 * [高大上的云化系统架构图，写代码就能画出来](_posts/2021-06-06-code-as-diag-for-cloud-system.md)
 * [开源轻量化静态代码扫描工具](_posts/2021-06-13-lightweight-static-code-analysis.md)
 * [简单炫酷的进度条开源库](_posts/2021-08-29-python.alive.process.md)
@@ -129,7 +129,7 @@
 * GG XX [牛逼，让 YouTube-DL 更好用的工具](_posts/2021-10-23-youtube-dl-gui.md)
 * [腾讯都在用的智能 API 接口测试工具，简直牛逼！](_posts/2021-10-31-tencent-api-ai-test-tools.md)
 * GG XX [路径规划算法可视化开源项目，简直炫酷](_posts/2021-10-31-path-plan-algo.md)
-* XX [简单好用的开源 sqlite 查询工具](_posts/2021-11-07-sqlite-keshihua-webpage.md)
+* GG XX [简单好用的开源 sqlite 查询工具](_posts/2021-11-07-sqlite-keshihua-webpage.md)
 * GG XX [想不想拥有黑客帝国一样的代码雨？](_posts/2021-11-21-hacker-empire-code-rain.md)
 
 
@@ -238,8 +238,9 @@
 * [你想知道的元宇宙信息，这里全都有！](_posts/2021-11-06-metaverse-awesomelist.md)
 * GG XX [简直极客！对命令行友好的开放服务列表！](_posts/2021-11-06-awesome-console-service-list.md)
 * [AI 大神李沐教你如何阅读机器学习论文](_posts/2021-11-07-ai-limu-how2-read-paper.md)
-* XX [发现有趣的人，中文博客列表大全](_posts/2021-11-21-chinese-rss-list.md)
-* XX [如何在众多字体中选出你最喜欢的代码字体](_posts/2021-12-05-how-to-choose-best-love-font.md)
+* [发现有趣的人，中文博客列表大全](_posts/2021-11-21-chinese-rss-list.md)
+* GG XX [如何在众多字体中选出你最喜欢的代码字体](_posts/2021-12-05-how-to-choose-best-love-font.md)
+* XX [top 升级版系统资源监控工具](_posts/2021-12-19-btop.md)
 
 
 
@@ -258,7 +259,7 @@
 * [你知道自己浏览器的网站使用时间占比嘛？这里有一个工具可以告诉你](_posts/2021-01-24-browser.time.md)
 * [根据写代码的状态播放符合心情的音乐](_posts/2021-05-15-code-status-with-music.md)
 * [一个嵌入在 VSCode 中的 RSS 阅读器插件](_posts/2021-06-20-vscode-rss-reader.md)
-* XX [一款可以在每个网页上记录笔记的浏览器插件](_posts/2021-10-30-note-for-chrome-plugin.md)
+* [一款可以在每个网页上记录笔记的浏览器插件](_posts/2021-10-30-note-for-chrome-plugin.md)
 
 
 

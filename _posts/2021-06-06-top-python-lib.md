@@ -1,55 +1,48 @@
 ---
-layout: post
-title: 最流行的十个 Python 库
+leveraginglayout: post
+title: 2020 最流行的十个 Python 库
 tags: Python
 ---
 
-大家好。
+大家好，本文是一个英文博客的简单翻译。
 
-# Top Python libraries of 2020
+https://tryolabs.com/ 博客网站每年都会评选最流行的 Python 库，而 2020 年已经是第六届了（虽然现在已经是 2021 年的尾声了，但是 2020 年的推荐也很值得看一下，我们也期待 2021 年的推荐）。
 
-[Alan](https://tryolabs.com/blog/authors/alan-descoins/) Mon, Dec 21, 2020 in [BACKEND](https://tryolabs.com/blog/categories/backend/)
+评选规则非常的简单，这些 Python 库都符合如下条件：
 
-- [PYTHON](https://tryolabs.com/blog/tags/python/)
-- [LIBRARIES](https://tryolabs.com/blog/tags/libraries/)
-- [TOP 10](https://tryolabs.com/blog/tags/top-10/)
-- [RECAP](https://tryolabs.com/blog/tags/recap/)
+1、在 2020 年发起或者流行（大规模使用）
 
-Welcome to the sixth yearly edition of our Top Python Libraries list!
+2、他们被很好的维护
 
-The rules are simple. We are looking for libraries that satisfy the following conditions:
+3、他们很优秀，值得你们去了解
 
-1. They were launched or popularized in 2020.
-2. They are well maintained and have been since their launch data.
-3. They are outright cool, and you should check them out.
+声明：2020 年，我们选择的 Python 库很多是机器学习和数据科学相关的，虽然他们确实对非数据科学相关的人员也很有用。此外，除了我们选择的主要 10 个库，另外还增加了一个致敬的荣誉表彰章节，这些是我们认为也值得给大家推荐的。
 
-Disclaimer: this year, our picks are heavily influenced by machine learning / data science libraries, although some can indeed be very useful for non-data science people. Moreover, although we have **10 main picks** — and a bonus — we decided to add a new **“Honorable mentions” section** that does justice to other libraries that we found and couldn’t leave out.
+这篇博文的重点是给出我们对这些库的一些洞见，同时希望能够引发你们的一些思考，同时也可以给我们一些补充，以免我们错误了一些其他的优秀 Python 库。
 
-The spirit of this post is to give some visibility to these libraries, as well as generate discussion (in the comments or elsewhere) around some other great picks we may have missed — which we are sure there are.
-
-So, without further ado, let’s get to it.
+好了，那就来看一下我们推荐的 10 个 Python 库吧。
 
 ## 1. [Typer](https://github.com/tiangolo/typer)
 
 ![Typer icon](https://tryolabs.com/blog/images/blog/post-images/2020-12-21-top-10-python-libraries-of-2020/typer.74c47fce.png)
 
-You don’t always need to write CLI applications, but it better be a hassle-free experience when you do. Following the great success of [FastAPI](https://fastapi.tiangolo.com/), [tiangolo](https://twitter.com/tiangolo) used the same principles to bring us Typer: a new library that enables you to write command line interfaces by leveraging the type hinting feature of Python 3.6+.
+亲自编写命令行程序是一个很耗费时间的事情，你不应该每次都这样做。而 Typer 就是这样一款跟  FastAPI、tiangolo 有相同设计理念的工具，通过借助 Python 3.6+ 的类型提示功能，我们能够更好的定义命令行的接口。
 
-The design really makes Typer stand out. Apart from making sure your code is properly documented, you get a CLI interface with validations with minimal effort. And by using type hints, you can get autocompletion in your Python editor (like [VSCode](https://code.visualstudio.com/)), which will boost your productivity.
+这样的设计让 Typer 更为出众。使用 Typer 除了让你的代码更好的被文档化，同时对于命令行程序的参数验证也变得非常的容易。同时依赖类型提示功能，你可以很容易的做到代码的自动补全，这样会极大的提升效率。
 
-To power its capabilities, Typer internally stands on top of [Click](https://click.palletsprojects.com/), which is very well-known and battle-tested. This means that it can leverage all its benefits, community and plugins, while starting simple with less boilerplate code and growing more complex as you need.
+为了更好的提升 Typer 的能力，Typer 内部使用了被广泛使用的 Click 项目，这样 Typer 就可以借助 Click 的优势，比如社区、插件等，简单快速的完成命令行程序的开发工作。
 
-As always, [the documentation](https://typer.tiangolo.com/) really shines and should be exemplary for other projects. Definitely, one not to miss!
+一如既往，Typer 跟其他被推荐的项目一样，有非常友好的文档，Typer 非常值得推荐。
 
 ## 2. [Rich](https://github.com/willmcgugan/rich)
 
-Following with CLI’s topic, who said terminal applications have to be monochromatic white, or green if you’re a real hacker, on black?
+接着刚才的命令行程序的主题，有人说终端的命令行程序只能是黑白绿的单色系，真的吗？
 
-Do you want to add color and style to your terminal output? Print complex tables in a heartbeat? Effortlessly display beautiful progress bars? Markdown? Emojis? [Rich](https://github.com/willmcgugan/rich) checks all the boxes. Look at the sample screenshot for a glimpse of what’s possible:
+你是不是想增加更多的颜色和风格？能够打印复杂的表格？轻松的展示漂亮的进度栏？展示 Markdown？表情包？Rich 项目都能够实现。我们来看一下下面的截图来看一下是否都能够实现。
 
 ![CLI application using Rich](https://tryolabs.com/blog/images/blog/post-images/2020-12-21-top-10-python-libraries-of-2020/rich.2b118413.png)
 
-Definitely a library that elevates the experience of using a terminal application to a whole new level.
+Rich 项目绝对是一款能够让命令行程序体验上升一个档次的工具。
 
 ## 3. [Dear PyGui](https://github.com/hoffstadt/DearPyGui)
 
@@ -196,56 +189,6 @@ Subscribe to our newsletter and get updates on Deep Learning, NLP, Computer Visi
 [![Email icon](https://tryolabs.com/blog/images/icons/email-icon.8fafc0db.svg)Email us!](mailto:hello@tryolabs.com)
 
 ![Paper sheet icon](https://tryolabs.com/blog/images/icons/form-icon.afeb2592.svg)
-
-## Contact us!
-
-Subscribe to receive news and blog updates
-
-SERVICES
-
-- [ML development](https://tryolabs.com/services/#end-to-end-ml-development)
-- [Partner up with your team](https://tryolabs.com/services/#partner-up-with-your-team)
-- [Prototype ideas](https://tryolabs.com/services/#prototype-data-driven-ideas)
-- [Trainings & workshops](https://tryolabs.com/services/#trainings--workshops)
-
-OUR WORK
-
-- [Clients](https://tryolabs.com/work/#clients)
-- [Case studies](https://tryolabs.com/work/#case-studies)
-
-COMPANY
-
-- [About us](https://tryolabs.com/about/)
-- [Team](https://tryolabs.com/team/)
-- [Careers](https://tryolabs.com/careers/)
-
-BLOG
-
-- [Machine learning](https://tryolabs.com/blog/categories/machine-learning/)
-- [Backend](https://tryolabs.com/blog/categories/backend/)
-- [Frontend](https://tryolabs.com/blog/categories/frontend/)
-- [News](https://tryolabs.com/blog/categories/news/)
-
-RESOURCES
-
-- [Computer vision](https://tryolabs.com/resources/introductory-guide-computer-vision/)
-- [Video analytics](https://tryolabs.com/resources/video-analytics-guide/)
-- [ML for retail](https://tryolabs.com/resources/retail-innovations-machine-learning/)
-- [Brochure](https://tryolabs.com/static/Tryolabs-Brochure-228b2978be774ace957bee5644ddbd50.pdf)
-
-CONTACT
-
-- [hello@tryolabs.com](mailto:hello@tryolabs.com)
-- Phone: (+598) 2716 8997
-- US: 44 Montgomery St,
-  San Francisco, CA
-- Luxembourg: 9 rue du Laboratoire
-- Uruguay: Rambla Gandhi 655/701,
-  Montevideo
-
-![Twitter](https://tryolabs.com/blog/images/layout/tryolabs-icon.0084317d.svg)
-
-© 2021. All rights reserved.
 
 
 

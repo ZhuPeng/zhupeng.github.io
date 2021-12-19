@@ -26,7 +26,7 @@ tags: 插件
 
 ![image-20211030234442570](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211030234442570.png)
 
-从我整体的使用情况来看，是一款非常不错的工具，使用也非常的简单。更多项目详情请查看如下链接。
+从我整体的使用情况来看，是一款非常不错的工具，使用也非常的简单。当然也有不足的地方，比如不能云备份，不过项目是开源的，是可以改进的。更多项目详情请查看如下链接。
 
 浏览器插件地址：https://chrome.google.com/webstore/detail/context-note/enmeffcefbiehghanidhebgiccljmncl
 
