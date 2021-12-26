@@ -11,6 +11,8 @@
 * [GitHub 上线个人徽章功能](_posts/2021-04-24-github-badge.md)
 * [GitHub 星标 18K！本地运行 GitHub Actions 的明星项目](_posts/2021-09-13-github-actions-local-run.md)
 * GG XX [嗯哼？GitHub 在 GitHub 上开源他们的项目？](_posts/2021-11-14-github-repo-org.md)
+* XX [GitHub 开源年终总结](_posts/2021-12-26-github-years-conclusion.md)
+* GG XX [还记得你的第一个 GitHub 代码提交吗？](_posts/2021-12-26-your-first-github-commit.md)
 
 
 
@@ -48,7 +50,8 @@
 * [开源轻量化静态代码扫描工具](_posts/2021-06-13-lightweight-static-code-analysis.md)
 * [简单炫酷的进度条开源库](_posts/2021-08-29-python.alive.process.md)
 * [这里有一个办法，为历史遗留的项目减负](_posts/2021-10-10-python-dead-code-detect.md)
-* XX [牛逼，快速为静态数据生成 API](_posts/2021-12-05-api-for-staic-dataset.md)
+* [牛逼，快速为静态数据生成 API](_posts/2021-12-05-api-for-staic-dataset.md)
+* XX [程序员的浪漫 - Marry Me 魔镜](_posts/2021-12-26-marry-me-mirror.md)
 
 
 
