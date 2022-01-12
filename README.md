@@ -13,6 +13,7 @@
 * GG XX [嗯哼？GitHub 在 GitHub 上开源他们的项目？](_posts/2021-11-14-github-repo-org.md)
 * [GitHub 开源年终总结](_posts/2021-12-26-github-years-conclusion.md)
 * GG XX [还记得你的第一个 GitHub 代码提交吗？](_posts/2021-12-26-your-first-github-commit.md)
+* GG XX [摸鱼利器！命令行版本 GitHub Trending](_posts/2022-01-09-lazyhub.github.cli.md)
 
 
 
@@ -51,7 +52,7 @@
 * [简单炫酷的进度条开源库](_posts/2021-08-29-python.alive.process.md)
 * [这里有一个办法，为历史遗留的项目减负](_posts/2021-10-10-python-dead-code-detect.md)
 * [牛逼，快速为静态数据生成 API](_posts/2021-12-05-api-for-staic-dataset.md)
-* XX [程序员的浪漫 - Marry Me 魔镜](_posts/2021-12-26-marry-me-mirror.md)
+* GG XX [程序员的浪漫 - Marry Me 魔镜](_posts/2021-12-26-marry-me-mirror.md)
 
 
 
@@ -99,7 +100,7 @@
 * [开发一款 MacOS 应用需要具备哪些知识？](_posts/2021-05-06-macdriver.md)
 * [从零开始学习系列之时间序列数据库](_posts/2021-08-08-tsdb-learn-from-scratch.md)
 * [实用工具推荐，命令行终端网页分享工具](_posts/2021-08-16-gotty-share-terminal-to-web.md)
-* XX [将任意程序转换为 WebSocket 的牛逼工具](_posts/2022-01-03-websocket-with-cmd.md)
+* [将任意程序转换为 WebSocket 的牛逼工具](_posts/2022-01-03-websocket-with-cmd.md)
 
 
 
