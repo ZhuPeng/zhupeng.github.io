@@ -2,6 +2,20 @@
 
 访问 https://zhupeng.github.io 了解更多。
 
+## 2022
+
+* XX Chrome插件：[一键保存浏览器网页的好用插件](_posts/2022-03-05-chrome-extension-for-download-html-page.md)
+* GG XX GitHub&安全：[GitHub 开源自建的安全漏洞修复建议数据库](_posts/2022-02-27-github-open-souce-CVEs.md)
+* GG XX GitHub&安全：[用于 API 访问的 TOKEN 设计需要考虑什么](_posts/2022-02-19-github-token-format.md)
+* GG XX GitHub：[开源就等于免费吗？GitHub 这个功能可能会带了一些改变](_posts/2022-02-13-sponsor-only-repo.md)
+* 效率：[动态语言调用关系生成器，阅读代码效率大提升](_posts/2022-02-13-code-flow-gen.md)
+* 效率：[笔记应用 Notion 的开源平替项目 AppFlowy](_posts/2022-02-07-opensource-alternative-for-notion.md)
+* XX Python&机器学习：[实时中文语音克隆，让声音模仿如此简单](_posts/2022-02-07-mocking-voice-bird.md)
+* GG XX Chrome 插件：[微信读书必备插件，展示豆瓣可读书籍](_posts/2022-02-07-douban-wexin-read.md)
+
+
+
+
 ## GitHub
 
 * [GitHub 开源项目发布雷达 -  201903](_posts/2019-03-01-github_release_radar.md)
@@ -14,6 +28,7 @@
 * [GitHub 开源年终总结](_posts/2021-12-26-github-years-conclusion.md)
 * GG XX [还记得你的第一个 GitHub 代码提交吗？](_posts/2021-12-26-your-first-github-commit.md)
 * GG XX [摸鱼利器！命令行版本 GitHub Trending](_posts/2022-01-09-lazyhub.github.cli.md)
+* GG XX [使用 GitHub Actions 自动生成 HackerNews 每日 TOP10 话题](_posts/2022-01-23-github-actions-for-hackernews.md)
 
 
 
@@ -53,6 +68,7 @@
 * [这里有一个办法，为历史遗留的项目减负](_posts/2021-10-10-python-dead-code-detect.md)
 * [牛逼，快速为静态数据生成 API](_posts/2021-12-05-api-for-staic-dataset.md)
 * GG XX [程序员的浪漫 - Marry Me 魔镜](_posts/2021-12-26-marry-me-mirror.md)
+* GG XX [用 Python 展示数学之美](_posts/2022-01-16-python-of-match-beautiful.md)
 
 
 
@@ -101,6 +117,7 @@
 * [从零开始学习系列之时间序列数据库](_posts/2021-08-08-tsdb-learn-from-scratch.md)
 * [实用工具推荐，命令行终端网页分享工具](_posts/2021-08-16-gotty-share-terminal-to-web.md)
 * [将任意程序转换为 WebSocket 的牛逼工具](_posts/2022-01-03-websocket-with-cmd.md)
+* [开箱即用的 MySQL 审核平台](_posts/2022-01-16-mysql-audit-web-platform.md)
 
 
 
@@ -136,7 +153,7 @@
 * GG XX [路径规划算法可视化开源项目，简直炫酷](_posts/2021-10-31-path-plan-algo.md)
 * [简单好用的开源 sqlite 查询工具](_posts/2021-11-07-sqlite-keshihua-webpage.md)
 * GG XX [想不想拥有黑客帝国一样的代码雨？](_posts/2021-11-21-hacker-empire-code-rain.md)
-* XX [用编程的方式制作视频？真的可以！](_posts/2022-01-03-remotion-react-for-video.md)
+* [用编程的方式制作视频？真的可以！](_posts/2022-01-03-remotion-react-for-video.md)
 
 
 
@@ -246,8 +263,9 @@
 * [AI 大神李沐教你如何阅读机器学习论文](_posts/2021-11-07-ai-limu-how2-read-paper.md)
 * [发现有趣的人，中文博客列表大全](_posts/2021-11-21-chinese-rss-list.md)
 * GG XX [如何在众多字体中选出你最喜欢的代码字体](_posts/2021-12-05-how-to-choose-best-love-font.md)
-* XX [top 升级版系统资源监控工具](_posts/2021-12-19-btop.md)
-* GG XX [牛逼，豆瓣 TOP250 电影榜单播放链接收集](_posts/2022-01-03-top250-douban-movie.md)
+* [top 升级版系统资源监控工具](_posts/2021-12-19-btop.md)
+* [牛逼，豆瓣 TOP250 电影榜单播放链接收集](_posts/2022-01-03-top250-douban-movie.md)
+* GG XX [推荐一个邮箱检测工具，功能非常多](_posts/2022-01-23-check-email-exists.md)
 
 
 

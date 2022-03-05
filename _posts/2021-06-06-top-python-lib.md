@@ -24,7 +24,7 @@ https://tryolabs.com/ 博客网站每年都会评选最流行的 Python 库，�
 
 ## 1. [Typer](https://github.com/tiangolo/typer)
 
-![Typer icon](https://tryolabs.com/blog/images/blog/post-images/2020-12-21-top-10-python-libraries-of-2020/typer.74c47fce.png)
+![Typer icon](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_2020python.typer.png)
 
 亲自编写命令行程序是一个很耗费时间的事情，你不应该每次都这样做。而 Typer 就是这样一款跟  FastAPI、tiangolo 有相同设计理念的工具，通过借助 Python 3.6+ 的类型提示功能，我们能够更好的定义命令行的接口。
 
@@ -40,19 +40,19 @@ https://tryolabs.com/ 博客网站每年都会评选最流行的 Python 库，�
 
 你是不是想增加更多的颜色和风格？能够打印复杂的表格？轻松的展示漂亮的进度栏？展示 Markdown？表情包？Rich 项目都能够实现。我们来看一下下面的截图来看一下是否都能够实现。
 
-![CLI application using Rich](https://tryolabs.com/blog/images/blog/post-images/2020-12-21-top-10-python-libraries-of-2020/rich.2b118413.png)
+![CLI application using Rich](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_python2020.rich.png)
 
 Rich 项目绝对是一款能够让命令行程序体验上升一个档次的工具。
 
 ## 3. [Dear PyGui](https://github.com/hoffstadt/DearPyGui)
 
-Although, as we’ve seen, terminal applications can be beautiful, sometimes it’s not enough and you need a real GUI. For this comes Dear PyGui, the Python port of the popular [Dear ImGui](https://github.com/ocornut/imgui) C++ project.
+我们都知道，命令行程序也可以很美观，但是还是不得不说，体验上还是有不太友好的地方，所以对于命令行程序来说需要一个真正的 GUI。
 
-Dear PyGui utilizes what’s called the **immediate mode paradigm**, popularized in video games. This basically means the dynamic GUI is drawn frame by frame independently, without the need to persist any data. This makes this tool fundamentally different than other Python GUI frameworks. It’s highly performant, and **uses your computer’s GPU** to facilitate the construction of highly dynamic interfaces, as is often needed in engineering, simulations, games or data science applications.
+今天要介绍的开源项目 DearPyGui，使用的是在视频游戏中常见的技术，也就是即时渲染模式。这就意味着动态的 GUI 每一帧都是独立渲染的，我们不需要去持久化数据，这个特性使得 DearPyGui 与其他的 Python GUI 框架完全不同。DearPyGui 性能非常的好，它可以使用电脑的 GPU 来高速渲染界面，这在工程化、仿真、游戏、数据科学应用上非常的有用。
 
-![Dear PyGui sample](https://tryolabs.com/blog/images/blog/post-images/2020-12-21-top-10-python-libraries-of-2020/dear-pygui.2335d9fa.png)
+![Dear PyGui sample](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_python2020.dear-pygui.png)
 
-Dear PyGui can be used without a steep learning curve, and runs on Windows 10 (DirectX 11), Linux (OpenGL 3) and MacOS (Metal).
+而 DearPyGui 另外一个优势就是，它非常容易学习很容易上手，在 Windows 10 、Linux、MacOS 上都可以使用。
 
 ## 4. [PrettyErrors](https://github.com/onelivesleft/PrettyErrors)
 
