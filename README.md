@@ -4,14 +4,24 @@
 
 ## 2022
 
-* XX Chrome插件：[一键保存浏览器网页的好用插件](_posts/2022-03-05-chrome-extension-for-download-html-page.md)
+* XX Linux：[Linux 系统常用命令行工具详细讲解](_posts/2022-04-10-linux-command-decode.md)
+* XX 效率&自动化：[上帝之眼：桌面自动化终极利器](_posts/2022-04-05-god-eye-automate-everything.md)
+* XX JSON&可视化：[JSON 可视化工具，更直观更易用](_posts/2022-03-20-json-visio-tool.md)
+* GG XX 谷歌：[谷歌程序员花十年写一本书](_posts/2022-03-20-google-coder-write-books-for-tenyears.md)
+* GG XX GitHub：[Markdown 上常用的 TODO 列表功能 GitHub 尽然才支持？](_posts/2022-03-13-github-todo-list.md)
+* GG XX Chrome插件：[聚合电影影评的浏览器插件，还有片源地址](_posts/2022-03-13-movie-dianping-chajian.md)
+* 相册：[支持本地搭建的个人相册应用](_posts/2022-03-13-self-host-photo-gallay.md)
+* 搜索：[轻量级 Elasticsearch 替代开源搜索引擎](_posts/2022-03-13-es-alternative-tool-zinc.md)
+* Bash&Web：[只有 100 行的 Web Server 项目，非常值得学习](_posts/2022-03-06-bash-server-with-100lines.md)
+* Kubernetes&云原生：[云原生基础之 Kubernetes 纪录片](_posts/2022-03-06-kubernetes-doc.md)
+* Chrome插件：[一键保存浏览器网页的好用插件](_posts/2022-03-05-chrome-extension-for-download-html-page.md)
 * GG XX GitHub&安全：[GitHub 开源自建的安全漏洞修复建议数据库](_posts/2022-02-27-github-open-souce-CVEs.md)
 * GG XX GitHub&安全：[用于 API 访问的 TOKEN 设计需要考虑什么](_posts/2022-02-19-github-token-format.md)
 * GG XX GitHub：[开源就等于免费吗？GitHub 这个功能可能会带了一些改变](_posts/2022-02-13-sponsor-only-repo.md)
 * 效率：[动态语言调用关系生成器，阅读代码效率大提升](_posts/2022-02-13-code-flow-gen.md)
 * 效率：[笔记应用 Notion 的开源平替项目 AppFlowy](_posts/2022-02-07-opensource-alternative-for-notion.md)
-* XX Python&机器学习：[实时中文语音克隆，让声音模仿如此简单](_posts/2022-02-07-mocking-voice-bird.md)
-* GG XX Chrome 插件：[微信读书必备插件，展示豆瓣可读书籍](_posts/2022-02-07-douban-wexin-read.md)
+* Python&机器学习：[实时中文语音克隆，声音模仿如此简单](_posts/2022-02-07-mocking-voice-bird.md)
+* GG XX Chrome插件：[微信读书必备插件，展示豆瓣可读书籍](_posts/2022-02-07-douban-wexin-read.md)
 
 
 
