@@ -32,4 +32,4 @@ tags: 谷歌
 
 更多书籍详情请查看如下链接。
 
-开源项目地址：http://craftinginterpreters.com/
+书籍地址：http://craftinginterpreters.com/
