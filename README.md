@@ -4,9 +4,15 @@
 
 ## 2022
 
-* XX Linux：[Linux 系统常用命令行工具详细讲解](_posts/2022-04-10-linux-command-decode.md)
-* XX 效率&自动化：[上帝之眼：桌面自动化终极利器](_posts/2022-04-05-god-eye-automate-everything.md)
-* XX JSON&可视化：[JSON 可视化工具，更直观更易用](_posts/2022-03-20-json-visio-tool.md)
+* XX 前端：[支持快速集成的前端网站反馈小插件](_posts/2022-05-04-feedback-site-comp.md)
+* XX 游戏：[一款在线魔方游戏推荐](_posts/2022-05-04-mofang.game.md)
+* 烹饪：[程序员做菜指南](_posts/2022-05-04-how-to-cook.md)
+* GG XX GitHub：[GitHub 首页新增 Feed 流，帮助你更好的发现开源项目、开发者](_posts/2022-04-17-github-new-beta-for-you-feed.md)
+* XX 公开课&大学课程：[大量高质量公开课列表，持续收集中...](_posts/2022-04-17-open-study-list.md)
+* XX Node.js&前端：[有了这个工具前端项目再也不用漫长的等待 npm install 了](_posts/2022-04-17-pack-nodejs2exepkg.md)
+* GG XX Linux：[Linux 系统常用命令行工具详细讲解](_posts/2022-04-10-linux-command-decode.md)
+* 效率&自动化：[上帝之眼：桌面自动化终极利器](_posts/2022-04-05-god-eye-automate-everything.md)
+* JSON&可视化：[JSON 可视化工具，更直观更易用](_posts/2022-03-20-json-visio-tool.md)
 * GG XX 谷歌：[谷歌程序员花十年写一本书](_posts/2022-03-20-google-coder-write-books-for-tenyears.md)
 * GG XX GitHub：[Markdown 上常用的 TODO 列表功能 GitHub 尽然才支持？](_posts/2022-03-13-github-todo-list.md)
 * GG XX Chrome插件：[聚合电影影评的浏览器插件，还有片源地址](_posts/2022-03-13-movie-dianping-chajian.md)
