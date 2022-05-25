@@ -4,12 +4,16 @@
 
 ## 2022
 
-* XX 前端：[支持快速集成的前端网站反馈小插件](_posts/2022-05-04-feedback-site-comp.md)
+* XX Python：[在 GitHub 开源学习 Python 的示例代码，收获 25.4K Star](_posts/2022-05-22-learn-python-examples.md)
+* Go&开发框架：[Go 语言模块化企业级基础开发框架推荐](_posts/2022-05-22-goframe.md)
+* Java：[一个应对下一个十年的高性能 JSON 库](_posts/2022-05-15-fastjson2next-decade.md)
+* GG XX Python&算法：[用 Python 实现常见算法，涵盖超多算法](_posts/2022-05-15-algo-by-python.md)
+* 前端：[支持快速集成的前端网站反馈小插件](_posts/2022-05-04-feedback-site-comp.md)
 * XX 游戏：[一款在线魔方游戏推荐](_posts/2022-05-04-mofang.game.md)
 * 烹饪：[程序员做菜指南](_posts/2022-05-04-how-to-cook.md)
 * GG XX GitHub：[GitHub 首页新增 Feed 流，帮助你更好的发现开源项目、开发者](_posts/2022-04-17-github-new-beta-for-you-feed.md)
-* XX 公开课&大学课程：[大量高质量公开课列表，持续收集中...](_posts/2022-04-17-open-study-list.md)
-* XX Node.js&前端：[有了这个工具前端项目再也不用漫长的等待 npm install 了](_posts/2022-04-17-pack-nodejs2exepkg.md)
+* GG XX 公开课&大学课程：[大量高质量公开课列表，持续收集中...](_posts/2022-04-17-open-study-list.md)
+* Node.js&前端：[有了这个工具前端项目再也不用漫长的等待 npm install 了](_posts/2022-04-17-pack-nodejs2exepkg.md)
 * GG XX Linux：[Linux 系统常用命令行工具详细讲解](_posts/2022-04-10-linux-command-decode.md)
 * 效率&自动化：[上帝之眼：桌面自动化终极利器](_posts/2022-04-05-god-eye-automate-everything.md)
 * JSON&可视化：[JSON 可视化工具，更直观更易用](_posts/2022-03-20-json-visio-tool.md)
