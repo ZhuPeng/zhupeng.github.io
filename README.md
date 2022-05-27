@@ -4,6 +4,8 @@
 
 ## 2022
 
+* XX Java：[真强大，多渠道消息推送平台推荐](_posts/2022-05-25-push-pingtai-multi.md)
+* XX GitHub：[亲测有效，解决 GitHub 访问慢问题](_posts/2022-05-25-github-slow-solution.md)
 * XX Python：[在 GitHub 开源学习 Python 的示例代码，收获 25.4K Star](_posts/2022-05-22-learn-python-examples.md)
 * Go&开发框架：[Go 语言模块化企业级基础开发框架推荐](_posts/2022-05-22-goframe.md)
 * Java：[一个应对下一个十年的高性能 JSON 库](_posts/2022-05-15-fastjson2next-decade.md)
