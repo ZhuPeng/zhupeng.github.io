@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在 GitHub 开源学习 Python 的示例代码，收获 25.4K Star
+title: 在 GitHub 开源学习 Python 的示例代码，竟然收获 25.4K Star
 tags: Python
 ---
 
@@ -23,4 +23,5 @@ Python 真的学习起来很简单，即使是非计算机科班出身的人，�
 还有更多的代码等待你去发现，更多项目详情请查看如下链接。
 
 开源项目地址：https://github.com/geekcomputers/Python
+
 开源项目作者：geekcomputers
