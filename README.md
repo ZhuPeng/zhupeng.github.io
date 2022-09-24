@@ -5,10 +5,10 @@
 ## 2022
 
 * XX 服务器：[使用淘汰的智能手机搭建服务器](_posts/2022-08-28-phone-to-linux-server.md)
-* XX SQL：[又一个 SQLite 的增强扩展](_posts/2022-08-28-sqlite-load-excel.md)
-* XX Chrome插件：[网页智能目录，让阅读更简单](_posts/2022-08-21-auto-smart-toc-for-page.md)
-* XX Go&命令行：[交互式命令行工具开发神器](_posts/2022-08-21-go-cmd-tools-interact.md)
-* XX GitHub&Chrome插件：[GitHub 功能增强，给 Star 项目分类的插件](_posts/2022-08-14-github-star-tag.md)
+* SQL：[又一个 SQLite 的增强扩展](_posts/2022-08-28-sqlite-load-excel.md)
+* Chrome插件：[网页智能目录，让阅读更简单](_posts/2022-08-21-auto-smart-toc-for-page.md)
+* Go&命令行：[交互式命令行工具开发神器](_posts/2022-08-21-go-cmd-tools-interact.md)
+* GitHub&Chrome插件：[GitHub 功能增强，给 Star 项目分类的插件](_posts/2022-08-14-github-star-tag.md)
 * 人工智能：[前沿人工智能技术只停留在论文中？这个项目让你也可以使用](_posts/2022-08-14-ai-with-gui.md)
 * GG  XX GitHub：[厉害了，一款将 GitHub Discussion 讨论区直接转成博客的工具](_posts/2022-08-07-github-dicus-to-blog.md)
 * GG XX 安全：[现在都普遍用镜像部署了，但镜像安全你了解吗？](_posts/2022-08-07-image-safe.md)
