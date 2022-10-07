@@ -4,7 +4,10 @@
 
 ## 2022
 
-* XX 服务器：[使用淘汰的智能手机搭建服务器](_posts/2022-08-28-phone-to-linux-server.md)
+* XX 提问：[经典本土化，提问的智慧中国版](_posts/2022-10-07-smart-way-to-ask-question.md)
+* XX 云平台：[开箱即用的云原生多云应用管理平台](_posts/2022-09-24-cloud-manage-platform.md)
+* XX 开发框架：[个人开发者必备：快速开发框架 PocketBase 推荐](_posts/2022-09-24-pocketbase-single-server.md)
+* 服务器：[使用淘汰的智能手机搭建服务器](_posts/2022-08-28-phone-to-linux-server.md)
 * SQL：[又一个 SQLite 的增强扩展](_posts/2022-08-28-sqlite-load-excel.md)
 * Chrome插件：[网页智能目录，让阅读更简单](_posts/2022-08-21-auto-smart-toc-for-page.md)
 * Go&命令行：[交互式命令行工具开发神器](_posts/2022-08-21-go-cmd-tools-interact.md)
