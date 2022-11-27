@@ -14,11 +14,11 @@ tags: Go&架构设计
 
 整洁架构就试图来解决上面的这些问题，通过将软件进行分层，且层之间依赖的是接口而不是具体的实现，这样使得程序的结构更加的清晰，同时升级和维护也变得非常十分容易，更改某层的具体实现代码，只要接口保持稳定，其他层是不需要更改的。
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_clean.arti.jingdian.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_clean.arti.jingdian.png)
 
 以上就是整洁架构中比较经典的示例图。今天要推荐的项目是 go-clean-template，是一个基于 Go 语言搭建的整洁架构的代码模板，go-clean-template 项目试图去解决如下三个问题：
 
-![image-20220605203137911](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220605203137911.png)
+![image-20220605203137911](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220605203137911.png)
 
 简单翻译就是：
 
@@ -30,7 +30,7 @@ tags: Go&架构设计
 
 以下是该模板对应的项目结构：
 
-![image-20220605203510375](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220605203510375.png)
+![image-20220605203510375](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220605203510375.png)
 
 该项目中对具体的目录有单独的解释，同时对依赖的注入有单独的篇章进行介绍。更多项目详情请查看如下链接。
 

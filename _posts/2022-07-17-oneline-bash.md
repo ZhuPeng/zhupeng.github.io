@@ -12,13 +12,13 @@ tags: Bash
 
 为了方便大家查找，做了对命令做了相应的分类，以下就是一个目录：
 
-![image-20220717223907330](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220717223907330.png)
+![image-20220717223907330](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220717223907330.png)
 
 如果你在学习命令行的相关使用，这个项目是一份不错的学习资料，如果你日常经常使用命令行，这份资料也可以作为查缺补漏的补充。
 
 以下是 Sed 的几个常用命令，日常还非常常用的。
 
-![image-20220717224209539](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220717224209539.png)
+![image-20220717224209539](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220717224209539.png)
 
 经常有人问，开源一个项目真的非常难啊，他们那些积累了几千 Star 的项目都是怎么做出来的啊。每次我都欲言又止，其实很多时候你只需要去做就可以了，也许就是你日常的一些小积累开源出去就能帮助不少小伙伴。
 

@@ -12,17 +12,17 @@ tags: Chrome 插件
 
 所以如果微信读书和豆瓣读书能够结合一下，那简直就是神器。今天要推荐的就是这样一个 Chrome 插件 weReaDou，能够在豆瓣读书的网站上直接展示微信读书可读的链接，帮助我们一键快速阅读。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_weixindushu.link.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_weixindushu.link.png)
 
 从上图也可以看出来，右侧展示的微信读书链接跟豆瓣读书的网页非常完美的结合在一起，简直就跟网站本身提供的功能一样。
 
 weReaDou 的实现原理是借助微信读书提供的 API，同时依靠 Chrome 插件提供的定制能力，在网页加载后查询对应的图书是否被微信收录。
 
-![image-20220207164954294](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220207164954294.png)
+![image-20220207164954294](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220207164954294.png)
 
 如果图书没有被微信读书收录的话，会展示如下信息。
 
-![image-20220207165212738](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220207165212738.png)
+![image-20220207165212738](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220207165212738.png)
 
 更多项目详情请查看如下链接。
 

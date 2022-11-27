@@ -12,7 +12,7 @@ tags: GitHub
 
 作者是因为什么想这样去做呢？通过文件的方式编写 blog 貌似是目前程序员的主流，但是这种创建文件编写然后提交的方式让我感到有一种奇怪的仪式感，所以就有些人使用 Issue 编写，但是有点感觉偏离了 Issue 用法，所以就想到使用 Github Discussion 去编写。
 
-![Hakuba screenshots](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_screenshots.disca.bolg.png)
+![Hakuba screenshots](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_screenshots.disca.bolg.png)
 
 以上就是该工具实际生成的效果图，整体还是非常的棒的，相当于把 Discussion 当成一个博客的后端管理工具了，当然也可以把 Discussion 当成一个讨论工作区，然后博客是一个更易于其他非 GitHub 读者阅读的地方。
 

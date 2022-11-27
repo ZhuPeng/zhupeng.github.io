@@ -12,15 +12,15 @@ tags: 前端
 
 以下就是集成需要添加的代码，手指头就能数清有多少行。
 
-![image-20220504222254748](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220504222254748.png)
+![image-20220504222254748](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220504222254748.png)
 
 集成后的效果如下：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/feedback.demo.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/feedback.demo.gif)
 
 其中还需要单独设置一个用于接受前端提交内容的 Webhook，如果你不想自己开发的话，该项目是能够直接与低代码平台 Rowy 进行集成的。
 
-![image-20220504222508044](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220504222508044.png)
+![image-20220504222508044](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220504222508044.png)
 
 通过 Rowy 可以很方便的看到用户提交的反馈内容，也能做部分的分析工作。
 

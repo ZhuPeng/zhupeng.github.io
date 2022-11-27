@@ -12,7 +12,7 @@ tags: 前端
 
 直到我看到今天要推荐的开源项目：touchbar-systemmonitor，它将 Touch Bar 改造成一个小型监控系统，真是深得我心。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/touchbar_systemmonitor3.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/touchbar_systemmonitor3.gif)
 
 这个项目会展示当前电脑的运行情况，极大的发挥了 Touch Bar 的作用，物尽其用。这个项目使用 [Electron](https://github.com/atom/electron) 进行开发，安装和使用都非常简单，克隆代码后运行 npm install、npm start 即可。
 

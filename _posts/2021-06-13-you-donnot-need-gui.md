@@ -12,13 +12,13 @@ tags: 其他
 
 今天要推荐的开源项目汇总了我们日常会使用的命令行的列表，并增加了有趣的讲解方式，相信能够帮助你很好的入门命令行操作方式。
 
-![image-20210613213527032](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210613213527032.png)
+![image-20210613213527032](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210613213527032.png)
 
 以上是一个目录列表，基本覆盖了日常经常用到的，如果能使用上一定会极大提高你的效率。
 
 以下是对搜索文档的命令解释：
 
-![image-20210613213649029](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210613213649029.png)
+![image-20210613213649029](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210613213649029.png)
 
 更多项目详情请查看如下链接。
 

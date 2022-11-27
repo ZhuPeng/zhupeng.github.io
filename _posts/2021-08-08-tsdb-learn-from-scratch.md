@@ -22,7 +22,7 @@ Prometheus、InfluxDB、M3、TimescaleDB 都是时下流行的 TSDB。时序数�
 
 mandodb 使用 Go 实现，同时作者也针对 mandodb 提供了如下详尽的用法介绍、设计方案介绍等，其中还包含了对差值算法的讲解，是非常不错的学习资料呢。
 
-![image-20210808211425086](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210808211425086.png)
+![image-20210808211425086](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210808211425086.png)
 
 开源作者的整体文档行文非常的风趣幽默，同时细节讲解也非常的详细，如果你对时间序列数据库感兴趣，推荐你了解一下这个项目，Star 一波绝对不亏。
 

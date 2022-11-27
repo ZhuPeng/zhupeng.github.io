@@ -50,7 +50,7 @@ ElasticSearch文档：支持ES数据源管理，文档结构查看，数据查�
 
 一款基于命令行的股票可视化助手，让你轻松了解你们的钱是怎么亏掉的😹
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_terminal_stock.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_terminal_stock.png)
 
 
 

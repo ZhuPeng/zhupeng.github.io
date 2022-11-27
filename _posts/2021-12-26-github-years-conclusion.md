@@ -14,19 +14,19 @@ tags: GitHub
 
 1、贡献日历：包含代码提交的天数和数量，以及最长连续的代码提交天数
 
-![image-20211226212226356](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_image-20211226212226356.png)
+![image-20211226212226356](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211226212226356.png)
 
 2、代码提交的分析：包含语言、项目，以及代码增删的总行数分析等
 
-![image-20211226212513998](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_image-20211226212513998.png)
+![image-20211226212513998](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211226212513998.png)
 
 3、开源贡献类别：除了提交代码，报告 Issue、提交 PR、Review 代码都是对开源的贡献
 
-![image-20211226212556680](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_image-20211226212556680.png)
+![image-20211226212556680](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211226212556680.png)
 
 4、GitHub 活跃的时间分布：包含在一周哪天、哪个时间段的活跃情况，以及每月的贡献数量等
 
-![image-20211226212645761](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_image-20211226212645761.png)
+![image-20211226212645761](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211226212645761.png)
 
 对于个人的年终总结报告来说，这份图表数据还是非常的全面的。
 

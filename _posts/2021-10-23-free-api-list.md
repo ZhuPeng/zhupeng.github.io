@@ -14,11 +14,11 @@ tags: 其他
 
 以下截图只是其中一部分：
 
-![image-20211023224648645](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211023224648645.png)
+![image-20211023224648645](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211023224648645.png)
 
 比如我们看一下天气类别，作者还专门对每项 API 标注了 Auth（认证方式）、HTTPS、CORS（跨域支持）等特点的标注。
 
-![image-20211023224751093](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211023224751093.png)
+![image-20211023224751093](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211023224751093.png)
 
 试了其中一个 7Timer! 的 API 是直接可以使用的，响应速度也比较的快。
 

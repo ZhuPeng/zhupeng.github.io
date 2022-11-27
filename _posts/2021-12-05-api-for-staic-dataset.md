@@ -10,13 +10,13 @@ tags: Python
 
 今天要推荐的一个工具 roapi，能为静态数据快速的生成可读的开放 API，其中 API 的查询形式支持种类非常多，比如 rest API、SQL 查询、GraphQL。下图就是工具 roapi 的整体的交互流程图。
 
-![image-20211205230509461](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211205230509461.png)
+![image-20211205230509461](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211205230509461.png)
 
 roapi 工具主要分为 4 部分，分别是查询层、查询计划执行层、数据层和数据返回层。大致的流程是前端的查询层通过不同的查询方式，会在查询计划执行层生成不同的执行计划，并最终在数据上执行查询。而不同的数据格式都会统一抽象为单独的数据抽象层，以便屏蔽不同的数据格式的差异。
 
 使用 pip install roapi-http 就可以安装开始使用。下图就是具体的使用方式了，可以说是非常的简洁和方便了。
 
-![image-20211205231229305](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211205231229305.png)
+![image-20211205231229305](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211205231229305.png)
 
 更多项目详情请查看如下链接。
 

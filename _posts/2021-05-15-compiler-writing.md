@@ -12,11 +12,11 @@ tags: 其他
 
 有一句比较经典的话是这么说的，你懂一个原理是一回事，但是如果要你实现或者验证这个原理又是另外一回事了。这个开源项目的作者 lotabout 也是这样想，他为了更好的了解编译器的工作原理，决定自己写一个，并把过程非常详尽的记录了下来。
 
-![image-20210515183400735](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210515183400735.png)
+![image-20210515183400735](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210515183400735.png)
 
 让人值得称赞的是，这个教程竟然有中英两个版本，不得不说牛人就是牛人。大概如作者的原话说的，因为兴趣才会有这么大的动力吧。
 
-![image-20210515183533257](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210515183533257.png)
+![image-20210515183533257](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210515183533257.png)
 
 更多项目详情请查看如下链接。
 

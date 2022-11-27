@@ -20,13 +20,13 @@ tags: GitHub
 
 目前 GitHub 也不能去确定这个功能最后能发展成什么样，但是非常期待这个功能能够为开发者带了一些新的改变，以下是可以尝试去做的事情：
 
-![image-20220213231649245](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220213231649245.png)
+![image-20220213231649245](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220213231649245.png)
 
 比如：项目仅供 Sponsors 可见、仅供 Sponsors 可见的 Discussions、允许 Sponsors 提前获取到项目的早期版本等。
 
 最后说下如何创建仅 Sponsors 可见的项目，在创建仓库时，最下方会有单独的选项，选择 “Grant sponsors access to a repository” 即可。如下图：
 
-![screenshot of sponsors-only repository setting](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_github-sponsors-only-repositories.png)
+![screenshot of sponsors-only repository setting](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_github-sponsors-only-repositories.png)
 
 需要注意的是：目前该功能仅对组织（Organization）用户开放，个人用户创建仓库暂时没有该功能。
 

@@ -8,7 +8,7 @@ tags: GitHub
 
 GitHub 上托管着无数的开源项目，GitHub 无疑是软件开源的最有力推动者。但是你们知道吗？在 GitHub 上有一个仓库组织的名字就叫 GitHub。我们来一起看看吧！
 
-![image-20211114201718959](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211114201718959.png)
+![image-20211114201718959](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211114201718959.png)
 
 是的，正如 GitHub 官方自己声称的，他们将 GitHub 相关的源码托管在 GitHub 上，而且是在 2007 年的 10 月 19 日就开始这么做了，我们通常称这样的行为是自己先吃狗粮。
 
@@ -31,7 +31,7 @@ GitHub 上托管着无数的开源项目，GitHub 无疑是软件开源的最有
 
 我们从众多的项目中看到了一个比较特别的项目，就是 GitHub roadmap，这个项目会跟进 GitHub 后续的一些 release、feature 的进展，还有一个单独的看板，如果你关注 GitHub 的相关进展可以关注了解一下这个项目。
 
-![image-20211114203128098](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211114203128098.png)
+![image-20211114203128098](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211114203128098.png)
 
 更多项目详情请查看如下链接。
 

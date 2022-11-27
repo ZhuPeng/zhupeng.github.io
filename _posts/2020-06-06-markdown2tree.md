@@ -16,11 +16,11 @@ tags: 其他
 
 markmap-lib，一款能够直接将 Markdown 笔记转换成思维导图的工具。与我的使用习惯非常的匹配，我使用 Markdown 记录想法，在需要的时候又能直接转换成思维导图，就问你香不香？如果你也有我这样的习惯，这款工具真心推荐给你。
 
-![image-20200606230558916](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_image-20200606230558916.png)
+![image-20200606230558916](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20200606230558916.png)
 
 以下就是一个实际的转换例子，可以看出规则也很简单。
 
-![image-20200606231543479](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_image-20200606231543479.png)
+![image-20200606231543479](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20200606231543479.png)
 
 试用网址：https://markmap.js.org/
 

@@ -12,17 +12,17 @@ Hi，之前在公众号上看到了个[教大家免费获取一台 Mac 来用，
 
 先上效果：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_issue-demo.png)   
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_issue-demo.png)   
 
 这个 action 的原理也比较简单，issue 动作触发 action，读取 issue comment 内容，对其判断是否是英文，若不是则翻译出来，再调用 github api 评论一条翻译英文 issue，然后再考虑下边界和死循环等。  
 
 咋使用呢，到 github action 市场搜索 Issues Translator，里面就有对应的使用方法。或者直接在项目的`.github/workflows/` 下创建 `issues-translator.yml`，填入以下内容：  
 
-![image-20210203213426744](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210203213426744.png)
+![image-20210203213426744](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210203213426744.png)
 
 以上配置会使用默认提供的账号机器人：@Issues-translate-bot，如果你需要单独设置账号可参考如下方式：
 
-![image-20210203212323267](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210203212323267.png)
+![image-20210203212323267](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210203212323267.png)
 
 配置完就 OK 了，接下来就是要等泰国新加坡印度尼西亚（哈哈，注意音乐节奏，其实是主要的外语都支持）的朋友们来祝福你了哦！  
 

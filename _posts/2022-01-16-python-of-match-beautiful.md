@@ -10,21 +10,21 @@ Python 向来以简单著称，也有名言“人生苦短，我用 Python”，
 
 今天要推荐的项目 pywonderland，就是集合了各种 Python 的脚本来展示数学之美的，目前列表包含如下：
 
-![image-20220116212959786](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116212959786.png)
+![image-20220116212959786](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116212959786.png)
 
 以上专业术语比较多，很多解释起来也比较麻烦，不如我们直接来看对应的理论在数学上是怎么可视化的。
 
 1、统一 3D 和 4D 模型（Uniform 3D and 4D polytopes）
 
-![image-20220116213513276](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116213513276.png)
+![image-20220116213513276](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116213513276.png)
 
 2、非周期平铺（Aperiodic tilings）
 
-![image-20220116213457522](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116213457522.png)
+![image-20220116213457522](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116213457522.png)
 
 3、其他
 
-![image-20220116213445022](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116213445022.png)
+![image-20220116213445022](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116213445022.png)
 
 是不是很神奇？更多项目详情请查看如下链接。
 

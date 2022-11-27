@@ -14,19 +14,19 @@ paper2gui：一款面向普通人的 AI 桌面 APP 工具箱，免安装即开�
 
 以下是目前支持的算法模型列表，涵盖语音合成、视频超分辨率放大、视频补帧等。
 
-![image-20220814212419400](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220814212419400.png)
+![image-20220814212419400](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220814212419400.png)
 
-![image-20220814212435807](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220814212435807.png)
+![image-20220814212435807](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220814212435807.png)
 
-![image-20220814212448213](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220814212448213.png)
+![image-20220814212448213](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220814212448213.png)
 
 每一个工具都附带可以直接下载使用的 APP 链接，下载就可以直接点击使用，非常的简单。从直观上来说，我觉得要是可以都集成到一个 APP 里面就更好了，因为我可能更多的是想都体验一下这些模型，但是可能会造成这个 APP 变得很大，可能作者也有自己的考虑吧。
 
 以下是部分使用的场景，单纯从使用上来看上手还是很简单的。
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_huoshan.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_huoshan.png)
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_rvm_gui.paper2tui.jpeg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_rvm_gui.paper2tui.jpeg)
 
 更多项目详情请查看如下链接。
 

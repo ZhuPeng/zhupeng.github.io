@@ -12,7 +12,7 @@ tags: Python
 
 
 
-![image-20210228224246110](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210228224246110.png)
+![image-20210228224246110](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210228224246110.png)
 
 而我们知道视频搜索相比文本的搜索是不一样的，要做好视频搜索并没有那么容易。文本信息能够直接提取，而视频中的信息需要经过图像处理技术多次处理才能获取，由于处理存在信息损耗问题，经过多次处理后会损失很多有用的信息。目前真正支持视频中内容的直接搜索仍是非常难的，尤其是商用。
 
@@ -20,7 +20,7 @@ tags: Python
 
 在介绍原理之前，我们先介绍一下 OpenAI 的 CLIP 技术，它是一个机器学习的神经网络模型，能够将自然语言内容和图像进行关联。更多 CLIP 介绍参考：https://openai.com/blog/clip/ 。
 
-![image-20210228225908758](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210228225908758.png)
+![image-20210228225908758](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210228225908758.png)
 
 
 
@@ -28,15 +28,15 @@ tags: Python
 
 
 
-![image-20210228225408263](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210228225408263.png)
+![image-20210228225408263](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210228225408263.png)
 
 从作者的搜索效果来看非常的不错，以下是一些搜索的例子：
 
-![image-20210228230617819](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210228230617819.png)
+![image-20210228230617819](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210228230617819.png)
 
 
 
-![image-20210228230636655](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210228230636655.png)
+![image-20210228230636655](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210228230636655.png)
 
 
 

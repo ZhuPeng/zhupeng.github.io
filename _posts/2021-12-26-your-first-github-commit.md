@@ -10,7 +10,7 @@ tags: GitHub
 
 但是，如果你都忘了也没有关系，今天推荐的项目 your-first-commit-ever 帮助你轻松找到你的 GitHub 第一个提交。
 
-![image-20211226222013409](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211226222013409.png)
+![image-20211226222013409](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211226222013409.png)
 
 访问网站，输入你 GitHub 用户名即可：http://amitmerchant.com/your-first-commit-ever
 

@@ -18,7 +18,7 @@ tags: GitHub，安全
 
 TOKEN 增加了公司标识的前缀，使得自家 TOKEN 识别变得非常的简单，以下是根据不同的使用场景，定义的不同的前缀。
 
-![image-20220219224518701](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220219224518701.png)
+![image-20220219224518701](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220219224518701.png)
 
 使用 _ 下划线作为 TOKEN 不同部分的连接，下划线有如下好处：下划线不是 base64 字符，所以不用担心与自然生成的 base64 字符重复；下划线连接的字符，在网页上鼠标双击时能够直接选中，而中横线是会自动分词的，大家可以试一下 this-random-text 和 this_random_text 的不同效果。
 
@@ -30,7 +30,7 @@ Checksum 能够使得 TOKEN 能够离线验证其正确性，避免每次 TOKEN 
 
 TOKEN 熵是一种计算 TOKEN 组成上信息不确定性的方法，简单一点说，就是将 TOKEN 能够生成的数量规模用一个数字来表示，数值越大表示能够生成规模更大的 TOKEN 数量。GitHub 每天生成的 TOKEN 数量范围在 10K ~ 18K。本次重新设计的 TOKEN 熵从 160 增加到了 178。
 
-![image-20220219225702705](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220219225702705.png)
+![image-20220219225702705](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220219225702705.png)
 
 以上就是 GitHub 重新设计 TOKEN 格式考虑的三点，是否对你有一些启发呢？
 

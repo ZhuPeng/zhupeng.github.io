@@ -12,7 +12,7 @@ tags: 前端
 
 而今天的推荐的开源项目 markdown-css-smartisan，是一个按照锤子便签风格调整的 markdown-css 主题。大家可以通过网站试用：https://nihaojob.github.io/markdown-css-smartisan/examples/index.html
 
-![image-20210801222725502](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210801222725502.png)
+![image-20210801222725502](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210801222725502.png)
 
 上图的效果我觉得是非常不错的。接着我就去搜索了一下看锤子便签是否有网页版，我这边只找到了一个可以预览效果的网页，不是一个实际的编辑器。在这样的情况下，markdown-css-smartisan 就是一个大家在 PC 上使用的可选方案了。
 

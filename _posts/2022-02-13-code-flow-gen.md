@@ -10,11 +10,11 @@ tags: 效率
 
 今天要推荐的项目 code2flow，能够自动分析项目的代码，并生成清晰优雅的函数调用关系。
 
-![image-20220213223134125](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220213223134125.png)
+![image-20220213223134125](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220213223134125.png)
 
 Code2flow 目前支持 Python, Javascript, Ruby, and PHP 语言。大致原理是分析源码并生成 AST 语法树，再找到函数的定义，并将函数的调用进行连接。
 
-![image-20220213223317455](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220213223317455.png)
+![image-20220213223317455](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220213223317455.png)
 
 那么 Code2flow 能用来干什么呢？总结下来主要有以下三大用处：
 
@@ -26,15 +26,15 @@ Code2flow 目前支持 Python, Javascript, Ruby, and PHP 语言。大致原理�
 
 以下是通过 Code2flow 生成的一个项目函数调用示例图：
 
-![code2flow running against a subset of itself](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_alive.process.demo.png)
+![code2flow running against a subset of itself](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_alive.process.demo.png)
 
 大家对 Code2flow 感兴趣的话，可以了解 Code2flow 的生成算法是怎样，如下描述：
 
-![image-20220213223702183](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220213223702183.png)
+![image-20220213223702183](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220213223702183.png)
 
 虽然 Code2flow 工具非常的棒，但是因为其作用的是动态语言，Code2flow 依然是有非常多的限制的，在这些情况下会造成 Code2flow 不能正常的工作。总结包含如下限制：
 
-![image-20220213223848184](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220213223848184.png)
+![image-20220213223848184](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220213223848184.png)
 
 以上的限制其实都是来源于动态语言本身的特性，对分析调用关系造成了极大的难度。比如匿名函数，使用起来很方便，但是其跟正常的代码混合在一起，对调用关系的分析就很不友好。
 

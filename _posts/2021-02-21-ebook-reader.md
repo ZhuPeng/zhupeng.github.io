@@ -14,17 +14,17 @@ tags: 其他
 
 电子书阅读器的首页如下图：
 
-![image-20210221232924716](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210221232924716.png)
+![image-20210221232924716](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210221232924716.png)
 
 使用上很简单，只需要将要打开的电子书拖入当前页面，或者使用页面上的”Open File“按钮就可以打开需要的电子书，目前支持如下格式：epub、azw3、mobi 和 pdf。
 
 查看电子书的效果如下：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210221233424531.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210221233424531.png)
 
 
 
-![image-20210221233536443](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210221233536443.png)
+![image-20210221233536443](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210221233536443.png)
 
 功能上支持左侧弹出式的目录，右侧支持各种配置，比如下滑方式（单列下滑、书本翻页等）、字体设置等。经过一段时间的使用，不难发现如此轻量易用的电子书阅读器，绝对是你学习阅读的好帮手。
 

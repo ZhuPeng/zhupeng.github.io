@@ -10,15 +10,15 @@ tags: 前端
 
 今天要推荐的一个工具是 APIJSON 之上的一个扩展工具 APIAuto，能够帮助你更好的编写和维护测试，同时提供了机器学习的零代码测试功能。以下是 APIAuto 的功能介绍：
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_apiauto-tedian.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_apiauto-tedian.png)
 
 从使用流程上来看 APIAuto 与其他工具的差别如下，通过 APIAuto 就能完成测试，跟其他工具相比不需要提交代码，及后续的持续集成测试流程。所以说 APIAuto 更适合敏捷的小团队，快速完成测试，同时也没有很大的测试用例维护成本。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_apiauto-liucheng.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_apiauto-liucheng.png)
 
 以下是 APIAuto 的工具架构，整体还是比较简单，测试的信息来源是接口的相关文档。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_apiauto-jiagou.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_apiauto-jiagou.png)
 
 更多项目详情请查看如下链接。
 

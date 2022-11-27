@@ -16,13 +16,13 @@ pywhlobf 是一个 Python 代码混淆工具，该工具的输入为 wheel 格�
 
 由于 pywhlobf 是将 .py 文件编译为目标平台的 .so 文件，所以需要目标平台的运行环境才能运行，作者目前提供了多个已经构建好的 Linux 镜像，方便大家直接使用。而对于 MacOS 和 Windows 来说，可以通过 pip 的方式进行安装使用。
 
-![image-20210323230545443](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210323230545443.png)
+![image-20210323230545443](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210323230545443.png)
 
 以下是具体执行混淆命令的执行情况，使用上非常的简单，速度也非常的快。
 
-![image-20210323230628270](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210323230628270.png)
+![image-20210323230628270](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210323230628270.png)
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210323230641724.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210323230641724.png)
 
 更多项目详情请查看如下链接。
 

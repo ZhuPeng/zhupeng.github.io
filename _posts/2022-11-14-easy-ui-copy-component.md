@@ -16,10 +16,10 @@ tags: 前端
 
 另外 Aspect 还提供了 UI 设计的能力，能够通过拖拽进行 UI 的设计和开发。
 
-![](../images/aspect.drag.drop.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/aspect.drag.drop.gif)
 
 因为 Aspect 代码一般是自动生成的，所以在可读性上会稍差一些，因此 Aspect 提供了模块级的集成，并不需要对代码进行了解，直接使用暴露出来的组件即可。
 
-![image-20221114225938246](../images/compress_image-20221114225938246.png)
+![image-20221114225938246](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20221114225938246.png)
 
 更多项目详情请查看如下链接：https://sample-code.aspect.app/

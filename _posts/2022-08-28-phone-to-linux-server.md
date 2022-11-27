@@ -14,13 +14,13 @@ tags: 服务器
 
 2、设置 SSH，因为手机上输入命令比较麻烦，所以安装一个 SSH 可以让你在电脑上远程控制手机，并配置你的服务器。作者选择的 dropbear 软件，一款轻量级的 ssh 工具。以下是对应的安装配置命令：
 
-![image-20220828150519585](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220828150519585.png)
+![image-20220828150519585](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220828150519585.png)
 
 3、设置静态的 IP，默认的 WiFi 连接都是使用 DHCP，你肯定不希望每次网络断开重连之后 IP 变化，所以设置一个静态的 IP 是很有必要的
 
 4、安装你想要的应用软件，作者安装的是 Ruby 相关的 Web 服务器，同时安装了 Nginx。最后就实现了在安卓手机上搭建一个 Web 应用的效果。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_android-web-server.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_android-web-server.png)
 
 整体感觉还是挺牛逼的，如果你手上有淘汰的手机，可以照着试一下，当然其实用你在用的手机尝试也是没有问题的。
 

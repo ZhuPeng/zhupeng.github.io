@@ -12,19 +12,19 @@ tags: 其他
 
 DOTA2 游戏活跃度
 
-![image-20210920225634166](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210920225634166.png)
+![image-20210920225634166](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210920225634166.png)
 
 Strava 运动活跃度
 
-![image-20210920225658738](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210920225658738.png)
+![image-20210920225658738](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210920225658738.png)
 
 目前已经支持了 18 个网站，涵盖了各种大家高频使用的网站。
 
-![image-20210920225130264](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210920225130264.png)
+![image-20210920225130264](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210920225130264.png)
 
 GitHubPoster 是使用 Python 开发，作者的代码组织也比较清晰，感兴趣的同学可以自行阅读了解。
 
-![image-20210920225335004](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210920225335004.png)
+![image-20210920225335004](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210920225335004.png)
 
 更多项目详情请查看如下链接。
 

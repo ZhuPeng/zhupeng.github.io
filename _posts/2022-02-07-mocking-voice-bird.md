@@ -16,11 +16,11 @@ tags: Python，机器学习
 
 MockingBird 使用 PyTorch 开发，能够在 Windows 和 Linux 系统中运行，MockingBird 现在是可以开箱即用的，如果你想要自己做定制开发，作者也简单介绍了如下项目的代码结构：
 
-![image-20220207204342795](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220207204342795.png)
+![image-20220207204342795](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220207204342795.png)
 
 除了训练相应的模型意外，MockingBird 还提供了一个可供使用的 Web 页面，运行命令 python web.py 即可查看。
 
-![image-20220207204459863](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220207204459863.png)
+![image-20220207204459863](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220207204459863.png)
 
 更多项目详情请查看如下链接。
 

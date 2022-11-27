@@ -14,17 +14,17 @@ tags: 插件
 
 安装插件后，选中任何页面上的文字，右上角会出现对应的 context-note Logo 图表，笔记右侧就会出现对应的笔记输入框，输入后笔记就生成了，使用方式非常的简单。
 
-![image-20211030234125493](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211030234125493.png)
+![image-20211030234125493](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211030234125493.png)
 
 
 
-![image-20211030234050970](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211030234050970.png)
+![image-20211030234050970](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211030234050970.png)
 
 
 
 点击浏览器的插件的图表就会展示当前所有的笔记列表，展示比较的简洁，支持搜索功能。
 
-![image-20211030234442570](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211030234442570.png)
+![image-20211030234442570](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211030234442570.png)
 
 从我整体的使用情况来看，是一款非常不错的工具，使用也非常的简单。当然也有不足的地方，比如不能云备份，不过项目是开源的，是可以改进的。更多项目详情请查看如下链接。
 

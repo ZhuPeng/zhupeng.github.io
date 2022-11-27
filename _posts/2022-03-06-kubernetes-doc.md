@@ -10,11 +10,11 @@ Kubernetes 起源于 Google 内部的 Borg 系统，是 Google 十多年容器�
 
 今天推荐的纪录片是关于 Kubernetes 这个项目的起源、命名、Logo 以及很多背后的故事，相信看了之后，你会对 Kubernetes 更有兴趣。
 
-![image-20220306213138826](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220306213138826.png)
+![image-20220306213138826](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220306213138826.png)
 
 视频是从 Youtube 搬运的，并加上了中文字幕，目前在 B 站上可以看到。
 
-![image-20220306213251782](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220306213251782.png)
+![image-20220306213251782](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220306213251782.png)
 
 视频揭晓了 Kubernetes 及 CNCF 的前世今身，视频整体分为两部分，分别是 Kubernetes 的诞生立项，及随之而来的容器战争，非常值得所有互联网从业人员观看。
 

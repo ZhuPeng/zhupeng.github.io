@@ -14,11 +14,11 @@ what-happens-when 目前在 GitHub 已经有 30.4K 的 Star 了，原创是英�
 
 如果你在网上搜索，你可能搜索到的结果大致是如下这样。
 
-![image-20210718221618924](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210718221618924.png)
+![image-20210718221618924](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210718221618924.png)
 
 可以看出来丢失了不少细节，但是 what-happens-when 这个项目非常详尽的介绍了这个过程发生了什么，并且你也可以通过 PR 的形式补充你了解的更多细节。以下是目录：
 
-![image-20210718221234688](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210718221234688.png)
+![image-20210718221234688](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210718221234688.png)
 
 如果你还不了解这里面的细节，更多项目详情请查看如下链接。
 

@@ -16,23 +16,23 @@ https://www.youtube.com/watch?v=aZXtuVjt1ow
 
 Zinc 功能上现在基本上是开箱即用了。
 
-![image-20220313201744825](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313201744825.png)
+![image-20220313201744825](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313201744825.png)
 
 未来 Zinc 会在高可用、高性能上做相应的增强。
 
-![image-20220313201818410](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313201818410.png)
+![image-20220313201818410](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313201818410.png)
 
 以下是一些具体的使用 DEMO，自带 UI 不用单独安装类似 Kibana 的应用是一大便利。
 
 搜索界面：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_search_screen.jpeg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_search_screen.jpeg)
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_zinc_search_screen_paris.jpeg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_zinc_search_screen_paris.jpeg)
 
 用户管理界面：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_zinc_users_screen.jpeg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_zinc_users_screen.jpeg)
 
 更多项目详情请查看如下链接。
 

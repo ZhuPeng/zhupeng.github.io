@@ -10,11 +10,11 @@ tags: Chrome插件
 
 今天要推荐的工具伽马影迷插件，是一款浏览器插件，能够实时在 B 站、豆瓣等关联电影的网页上展示对应电影的评分、影评、片源等信息，形式就像下面这样：
 
-![image-20220313220432787](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313220432787.png)
+![image-20220313220432787](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313220432787.png)
 
-![image-20220313220444338](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313220444338.png)
+![image-20220313220444338](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313220444338.png)
 
-![image-20220313220451195](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313220451195.png)
+![image-20220313220451195](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313220451195.png)
 
 以上信息足够我来判断这部电影是否值得一看，对我来说简直就是神器，不知道你怎么看呢？
 

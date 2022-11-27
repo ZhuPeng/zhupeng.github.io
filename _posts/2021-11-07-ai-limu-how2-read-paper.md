@@ -12,11 +12,11 @@ tags: 其他
 
 今天要分享的开源项目 paper-reading 也是来自大神李沐之手，教你如何阅读科研论文，同时还手把手教你对深度学习经典、新论文逐段精读。作者把讲解的视频都录制成了视频，放在 B 站，可以说是 B 站学习区著名的 UP 主了，更新也非常的频繁。必须要关注一波，毕竟关注就是会了。
 
-![image-20211107221748566](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211107221748566.png)
+![image-20211107221748566](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211107221748566.png)
 
 还贴心的将要讲解的论文做了关系的解释：
 
-![image-20211107221845222](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211107221845222.png)
+![image-20211107221845222](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211107221845222.png)
 
 大神的境界就是不一样，以后大家研究生、博士生的导师都可以说是师从 B 站 UP 主了。
 

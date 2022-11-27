@@ -10,7 +10,7 @@ Notion 是一款笔记应用，被很多人推荐为用过的最好用的笔记�
 
 所以今天要推荐的开源项目 AppFlowy，从设计上就是作为 Notion 的替代工具，开源的好处是免费，同时也可以根据自己的需要进行定制或者加入社区共同为开源版本做贡献。
 
-![image-20220207205900087](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220207205900087.png)
+![image-20220207205900087](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220207205900087.png)
 
 以上就是 AppFlowy 的基础使用界面，不管是作为笔记还是 TODO 来用都是没有问题的。
 
@@ -18,7 +18,7 @@ Notion 是一款笔记应用，被很多人推荐为用过的最好用的笔记�
 
 为了解决以上问题，AppFlowy 虽然是作为 Notion 的替代品而开发的，但是在最开始就会秉持三个基本理念，而这样本身就会开发一个完全不一样的 Notion。
 
-![image-20220207210327561](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220207210327561.png)
+![image-20220207210327561](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220207210327561.png)
 
 以上理念分别是：数据隐私优先、可靠的使用体验、社区驱动的扩展性。
 

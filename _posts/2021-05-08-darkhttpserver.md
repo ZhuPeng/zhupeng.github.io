@@ -10,11 +10,11 @@ tags: 其他
 
 python2
 
-![image-20210508115010272](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210508115010272.png)
+![image-20210508115010272](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210508115010272.png)
 
 python3
 
-![image-20210508115107026](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210508115107026.png)
+![image-20210508115107026](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210508115107026.png)
 
 通过这样的方式，你就可以通过 curl 或者浏览器访问命令执行文件夹下面的文件。平时在各种虚拟机里面可以采用类似的方法快速的传输一些文件，只需要依赖 Python 比较简单。但是毕竟 Python 在性能和资源占用上并没有太大的优势。
 
@@ -22,11 +22,11 @@ python3
 
 以下是官方介绍支持的功能，工具小但功能全：
 
-![image-20210508120040735](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210508120040735.png)
+![image-20210508120040735](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210508120040735.png)
 
 编译安装和使用都非常简单，同时也支持 Docker 方式启动，Docker 镜像不足 100KB，非常小巧。
 
-![image-20210508120144101](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210508120144101.png)
+![image-20210508120144101](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210508120144101.png)
 
 更多项目详情请查看如下链接。
 

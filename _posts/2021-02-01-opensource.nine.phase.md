@@ -12,7 +12,7 @@ tags: 翻译
 
 我们先整理一个思维导图方便对文章有整体的了解。
 
-![image-20210203180051068](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210203180051068.png)
+![image-20210203180051068](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210203180051068.png)
 
 开源项目维护总共概况为 9 个阶段，同时根据项目的生命周期及流行度，分成了两个大的阶段：以服务自己为主和以服务他人为主。接下来分别简单介绍一下两个大阶段
 

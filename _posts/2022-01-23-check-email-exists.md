@@ -10,17 +10,17 @@ tags: 其他
 
 今天要推荐的工具 check-if-email-exists 能够检测一个电子邮箱是否存在、是否可发送、是否设置了头像、是否泄露过密码等多项检测，而且检测是不需要前置去实际发送邮件的。以下是目前支持的检测功能：
 
-![image-20220123203137730](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220123203137730.png)
+![image-20220123203137730](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220123203137730.png)
 
 check-if-email-exists 工具不管你是单独使用，还是集成到你的产品中都非常的方便。
 
 1、单独使用：下载命令行工具
 
-![image-20220123203255688](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220123203255688.png)
+![image-20220123203255688](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220123203255688.png)
 
 2、产品集成：导入 Rust 库
 
-![image-20220123203315149](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220123203315149.png)
+![image-20220123203315149](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220123203315149.png)
 
 3、如果不想单独自己开发，也可以使用官方提供的 SaaS 服务，当然是需要付费的（每月 50 次的免费额度）
 

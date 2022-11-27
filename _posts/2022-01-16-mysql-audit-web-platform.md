@@ -10,7 +10,7 @@ tags: Go
 
 今天要推荐的工具 Yearning，是一个开箱即用的 MySQL Web 审核平台，提供查询审计，SQL审核，SQL回滚，自定义工作流等多种功能。
 
-![image-20220116210054699](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116210054699.png)
+![image-20220116210054699](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116210054699.png)
 
 Yearning 拥有以下功能:
 
@@ -28,21 +28,21 @@ Yearning 拥有以下功能:
 
 更全的功能如下图：
 
-![image-20220116210407955](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116210407955.png)
+![image-20220116210407955](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116210407955.png)
 
 Yearning 使用 Go 语言开发，同时 Yearning 不依赖于任何第三方 SQL 审核工具作为审核引擎，内部已自己实现审核/回滚相关逻辑，仅依赖 Mysql 数据库存储相应的流程和使用情况。所以 Yearning 安装也很简单，只需要下载官方的二进制包即可启动，开箱即用。以下是 Yearning 的几个常用操作界面：
 
 1、Dashboard
 
-![image-20220116210839868](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116210839868.png)
+![image-20220116210839868](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116210839868.png)
 
 2、审核
 
-![image-20220116210907120](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116210907120.png)
+![image-20220116210907120](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116210907120.png)
 
 3、SQL 语法及规则检测
 
-![image-20220116210924123](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220116210924123.png)
+![image-20220116210924123](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220116210924123.png)
 
 更多项目详情请查看如下链接。
 

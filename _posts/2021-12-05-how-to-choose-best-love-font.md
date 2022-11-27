@@ -12,11 +12,11 @@ tags: 其他
 
 今天要推荐一个网站 www.codingfont.com，该网站通过一种创新的方式帮助我们选择喜欢的字体，具体方式类似足球联赛一样，将两个字体两两比较，通过我们每一轮去选择其中更喜欢的，最终会有一个字体获胜。
 
-![image-20211205232957850](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211205232957850.png)
+![image-20211205232957850](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211205232957850.png)
 
 只需在上图左右选择你喜欢的字体就可以，大概需要连续 12 次选择，系统就知道你最终的喜好字体了。
 
-![image-20211205233124306](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211205233124306.png)
+![image-20211205233124306](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211205233124306.png)
 
 更多项目详情请查看如下链接，另外欢迎大家留言分享你在使用的代码字体。
 

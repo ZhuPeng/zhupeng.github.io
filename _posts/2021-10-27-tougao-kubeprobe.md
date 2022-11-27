@@ -14,7 +14,7 @@
 
 **talk is cheap, show me the demo**
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/clip_image001.gif)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/clip_image001.gif)
 
 **背景**
 
@@ -41,7 +41,7 @@ KubeProber 是一个针对大规模 Kubernetes 集群设计的诊断工具，用
 
 其核心架构如下：
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_clip_image002.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_clip_image002.png)
 
 区别于监控系统，kubeProber 从巡检的角度来证明集群的各项功能是否正常，监控作为正向链路，无法覆盖系统的中的所有场景，系统中各个环境的监控数据都正常，也不能保证系统是 100% 可以用的，因此需要一个工具从反向来证明系统的可用性，根本上做到先于用户发现集群中不可用的点，比如：
 
@@ -72,13 +72,13 @@ Kubeprober整体采用Operator来实现核心逻辑，集群之间的管理使�
 
 kubeprobe中运行的诊断计划我们称之为Probe，一个Probe为一个诊断项的集合，我们建议将统一场景下的诊断项作为一个Probe来运行，probe-agent组件会watch probe资源，执行Probe中定义的诊断项，并且将结果写在 ProbeStatus的资源中。
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_clip_image003.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_clip_image003.png)
 
 我们期望有一个输出可以清晰的看到当前集群的运行状态，因此我们建议所有的Probe都尽可能数属于应用，中间件，Kubernets，基础设置这四大场景，这样我们可以再展示状态的时候清楚的自上而下的查看究竟是系统中的哪个层面引起的问题。
 
 目前的Probe还比较少，我们还在继续完善，也希望跟大家一起共建。[自定义Probe](https://github.com/erda-project/kubeprober/blob/master/probers/README.md)
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_clip_image004.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_clip_image004.png)
 
 **对比其他诊断工具**
 
@@ -118,11 +118,11 @@ kubeprober在多集群中根据probe的策略执行诊断项，会产生大量�
 
 kubeprober支持将诊断项事件写入 infuxdb，通过grafana来配置图表来统一展示诊断结果，比如我们将 ERROR 事件统一展示出来作为最高优先级进行关注。
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_clip_image011.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_clip_image011.png)
 
 同时我们也可以通过扩展probe-agent上报的集群信息来展示一张详尽的集群列表
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_clip_image012.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_clip_image012.png)
 
 
 

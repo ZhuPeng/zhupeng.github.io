@@ -20,7 +20,7 @@ GitHub Actions 不知道大家是否了解，其实之前我们有过一些项�
 
 以下是一个使用的例子：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/act-quickstart-2.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/act-quickstart-2.gif)
 
 act 使用 Go 进行开发，安装和使用都非常的简单，而且是全平台支持，这里就不做过多介绍了。
 

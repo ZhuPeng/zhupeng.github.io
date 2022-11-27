@@ -10,9 +10,9 @@ tags: 榜单
 
 中文播客有很多很好的节目，今天要推荐的是一个收集中文播客榜单的网站，收集了几百个当下比较热门的播客节目。作者开发这个榜单网站也有自己的态度，榜单只是一种维度，愿你找到喜欢的节目。
 
-![image-20221023223012250](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20221023223012250.png)
+![image-20221023223012250](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20221023223012250.png)
 
-![image-20221023223217909](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20221023223217909.png)
+![image-20221023223217909](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20221023223217909.png)
 
 目前该网站从两个维度对博客进行聚合，包括热门和新锐节目，每个节目也会从播放量、评论量、互动率等指标来衡量播客的质量，针对播客的频道，则会结合总集数、平均时长、平均播放量来对其进行排行。相信你能在这个网站找到你喜欢的节目，度过开心的一天。
 

@@ -8,9 +8,9 @@ tags: 新奇趣事
 
 今天跟大家分享一个程序员利用自己掌握的技术，上演了一场行为艺术，可以说是现实版的阅后即焚。
 
-![image-20210118221449289](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210118221449289.png)
+![image-20210118221449289](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210118221449289.png)
 
-![image-20210118215739899](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210118215739899.png)
+![image-20210118215739899](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210118215739899.png)
 
 以上截图是作者为什么这么做的解释，不知道大家看懂了没有。我来跟大家用更直白的解释一下，作者提供了一个邮箱，只要有人给这个邮箱发送邮件，邮件内容会被打印出来，同时能够通过直播的方式看到打印出来的纸张被投入火炉烧毁。
 
@@ -22,11 +22,11 @@ tags: 新奇趣事
 
 以下图片包含了作者具体使用的装置和部分直播的片段。
 
-![image-20210118223028028](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210118223028028.png)
+![image-20210118223028028](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210118223028028.png)
 
-![image-20210118223050952](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210118223050952.png)
+![image-20210118223050952](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210118223050952.png)
 
-![image-20210118223118859](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210118223118859.png)
+![image-20210118223118859](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210118223118859.png)
 
 是不是还挺好玩的，只要你的想法足够独特，就会有属于你的观众。
 

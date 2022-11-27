@@ -14,11 +14,11 @@ tags: Python
 
 vulture 也是一个 Python 的项目，所以使用 Pip 即可安装，安装后使用也比较简单，如下：
 
-![image-20211010221933730](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211010221933730.png)
+![image-20211010221933730](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211010221933730.png)
 
 以下是一个使用例子。
 
-![image-20211010221955349](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211010221955349.png)
+![image-20211010221955349](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211010221955349.png)
 
 从例子可以看出来能够比较方便的检测出来未被使用的模块、函数和变量等，这些如果不及时的删除，都是未来项目的技术债。
 

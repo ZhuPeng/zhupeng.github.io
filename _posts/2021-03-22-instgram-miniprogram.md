@@ -12,21 +12,21 @@ tags: APP
 
 这款小程序就是“FOLL动态”，在微信搜索框搜索“FOLL动态”就能找到这个小程序。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210322_224624_com.tencent.mm.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210322_224624_com.tencent.mm.jpg)
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210322_225552_com.tencent.mm.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210322_225552_com.tencent.mm.jpg)
 
 打开小程序就能看到已经有各个分类的爱豆排行了，根据不同的分类就可以找到你想看的爱豆动态了。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210322_224616_com.tencent.mm.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210322_224616_com.tencent.mm.jpg)
 
 也可以直接使用顶部的搜索功能。除此之外，如果你的爱豆还没有被这款小程序收录，也是可以申请收录的。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210322_230015_com.tencent.mm.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210322_230015_com.tencent.mm.jpg)
 
 接下来我们来看一下具体的动态，比如我们搜索“周杰伦”，点进去就能看到所有杰伦的 ins 动态。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210322_230138_com.tencent.mm.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210322_230138_com.tencent.mm.jpg)
 
 从最近的杰伦动态看，他最近不太喜欢喝奶茶了，不过细心的同学可能发现了，他好像开始喝可乐了，啊哈哈。
 
@@ -36,6 +36,6 @@ tags: APP
 
 另外 FOLL 除了以上小程序的使用方式，也有 APP，使用体验是一样的，小程序二维码及 APP 具体下载链接如下。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_foll.qrcode.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_foll.qrcode.png)
 
 APP 下载链接：http://download.foll.net/foll/page/index.html

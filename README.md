@@ -4,6 +4,7 @@
 
 ## 2022
 
+* XX 编程语言：[你知道有多少种编程语言吗？](_posts/2022-11-27-program-lang-counts.md)
 * XX 视频剪辑：[通过字幕剪辑视频，极大提升剪辑效率](_posts/2022-11-27-video-cut-with-char.md)
 * 前端：[太强了！前端 UI 代码也能快速复制粘贴](_posts/2022-11-14-easy-ui-copy-component.md)
 * GitHub：[GitHub 开源洞察，一个更好的 GitHub Trending 替代](_posts/2022-11-14-github-insights.md)

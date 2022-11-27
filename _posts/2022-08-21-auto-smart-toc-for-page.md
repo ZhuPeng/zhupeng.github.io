@@ -12,11 +12,11 @@ tags: Chrome插件
 
 以下是 smart-toc 对部分网页生成的示例：
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_toc.01.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_toc.01.png)
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_toc.02.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_toc.02.png)
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_toc.03.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_toc.03.png)
 
 不知道你觉得效果怎么样？至少在我看一篇文章前，我希望通过目录提前了解这篇文章的主要脉络，而 smart-toc 能够帮助我更快的对文章进行了解，提高阅读效率。
 

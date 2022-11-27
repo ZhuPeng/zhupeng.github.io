@@ -12,23 +12,23 @@ tags: 代码分析
 
 我们先来看 code996 分析出来的结果示例，以下是分析项目的基本情况：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_code996.1.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_code996.1.png)
 
 通过图表查看 commit 提交分布：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_code996.2.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_code996.2.png)
 
 对比项目工作时间类型：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_code996.3.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_code996.3.png)
 
 如果你对 code996 是如何工作的，以下是作者的说明：
 
-![image-20220724211802252](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220724211802252.png)
+![image-20220724211802252](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220724211802252.png)
 
 因为代码是公司的很重要的资产，泄露是肯定不行的，为了解决大家的后顾之忧，该项目是完全安全的。
 
-![image-20220724211908612](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220724211908612.png)
+![image-20220724211908612](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220724211908612.png)
 
 code996 除了能够分析项目的实际工作强度，也能用来分析我们代码编写的情况，对自身了解自己代码编写效率的时段、最近的工作强度等都是非常好的一个输入。
 

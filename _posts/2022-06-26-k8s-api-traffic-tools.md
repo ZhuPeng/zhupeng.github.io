@@ -10,21 +10,21 @@ tags: 云原生&Kubernetes&API
 
 在这样的条件下，今天推荐一个实用的工具 mizu，一款能够轻松查看 Kubernetes 集群内微服务 API 流量走向的可视化工具。
 
-![image-20220626224304758](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220626224304758.png)
+![image-20220626224304758](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220626224304758.png)
 
 以下是具体的使用界面：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_mizu-ui.api.traffic.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_mizu-ui.api.traffic.png)
 
 mizu 和 Kubernetes 之间的关系如下图：
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_Mizu-architecture.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Mizu-architecture.png)
 
 **Mizu** 支持很多协议的实时监测，比如：HTTP、gRPC，甚至 Kafka、AMQP (activeMQ / RabbitMQ)、和 Redis 也是支持的。
 
 Mizu 的安装和使用都是无侵入的，安装好后除了看到 API 的请求流量，也能将整个集群的服务依赖图绘制出来。以下就是一个样例：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_mizu-service-map.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_mizu-service-map.png)
 
 更多项目详情请查看如下链接。
 

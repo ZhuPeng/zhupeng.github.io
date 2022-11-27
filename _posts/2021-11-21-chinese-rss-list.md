@@ -10,9 +10,9 @@ tags: 其他
 
 今天要推荐的一个开源项目 Email-newsletter-RSS，收集了非常多的中文博客列表，大家可以浏览这些博客找到自己感兴趣的人或者事情，并订阅他们的更新。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211121191849948.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211121191849948.png)
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20211121191516556.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211121191516556.png)
 
 以上只是其中的非常小一部分，我就在这些列表里面发现了很多有趣的人和事情。目前这个收集的列表作者还在持续的更新，如果你有想推荐的或者自荐的都可以给项目提交 Pull Request 哦！
 

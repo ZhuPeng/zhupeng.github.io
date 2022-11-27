@@ -12,11 +12,11 @@ tags: GitHub&Chrome 插件
 
 比如你在 Star 一个新项目时，浏览器会默认弹出对话框，让你选择分组和标签。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/github_star_group_tag.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/github_star_group_tag.gif)
 
 同时 GitHubX 还提供一个后台管理界面，能够对全部 Star 的项目进行分组和打标签。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/github_star_admin.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/github_star_admin.gif)
 
 这个解决了现有 GitHub Star 开源项目管理的最大痛点。除此之外，我觉得 GitHub 有很多的功能和体验都不尽如人意，相信这个项目未来会推出更多的实用小功能，非常推荐大家安装这个插件，同时 Star 关注后续的进展。
 

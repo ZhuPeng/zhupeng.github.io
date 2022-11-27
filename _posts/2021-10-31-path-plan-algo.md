@@ -12,13 +12,13 @@ tags: 前端
 
 今天要推荐的一个开源项目 PathPlanning，就是将不同的路径规划算法进行动态化的展示。目前项目中有超过 20+ 算法，列表如下：
 
-![image-20211031231746046](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211031231746046.png)
+![image-20211031231746046](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211031231746046.png)
 
 一起来看看我们刚才提到过的算法可视化效果：Dijkstra 算法和 A* 算法。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/bf.path.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/bf.path.gif)
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/bf.path.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/bf.path.gif)
 
 PathPlanning 项目我认为有非常大的教学价值，对希望了解路径规划算法的同学有非常大的帮助。更多项目详情请查看如下链接。
 

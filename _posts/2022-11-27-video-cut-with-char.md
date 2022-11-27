@@ -14,11 +14,11 @@ AutoCut 对你的视频自动生成字幕，然后你选择需要保留的句子
 
 以下是 AutoCut 的使用例子：
 
-![image-20221127204355231](/Users/zhupeng/Library/Application Support/typora-user-images/image-20221127204355231.png)
+![image-20221127204355231](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20221127204355231.png)
 
 AutoCut 目前还在持续迭代，如果你也对 AutoCut 感兴趣，可以了解一下后续的一些 Roadmap。
 
-![image-20221127204502026](/Users/zhupeng/Library/Application Support/typora-user-images/image-20221127204502026.png)
+![image-20221127204502026](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20221127204502026.png)
 
 更多项目详情请查看如下链接。
 

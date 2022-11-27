@@ -16,11 +16,11 @@ tags: Chrome插件
 
 而且使用 SingleFile 的时候体验也非常的好，左下角会实时的展示当前保存网页的进展。
 
-![image-20220306000032053](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_image-20220306000032053.png)
+![image-20220306000032053](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220306000032053.png)
 
 目前 SingleFile 已经有 6.9K Star，Chrome 应用商店显示也超过 10万+ 的用户在使用，其他浏览器也是支持的（Firefox、Microsoft Edge），是一款非常不错的浏览器插件。
 
-![image-20220306000131538](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220306000131538.png)
+![image-20220306000131538](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220306000131538.png)
 
 更多项目详情请查看如下链接。
 

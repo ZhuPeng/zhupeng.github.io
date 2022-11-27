@@ -12,11 +12,11 @@ RSS 阅读器不知道大家还有没有在用？虽然现在不太流行了，�
 
 以下是主要功能介绍：
 
-![image-20210620215411759](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210620215411759.png)
+![image-20210620215411759](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210620215411759.png)
 
 以下是使用流程介绍：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/vscode-rss.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/vscode-rss.gif)
 
 目前 VSCode-RSS 支持三种类型的账户，包括：本地账户、TTRSS(Tiny Tiny RSS) 账户和 Inoreader 账户。具体的使用和配置方法请查看开源仓库中的介绍。
 

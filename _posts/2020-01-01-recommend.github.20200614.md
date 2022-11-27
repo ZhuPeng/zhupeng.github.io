@@ -76,9 +76,9 @@ tags: 每周精选
 
 看看效果就知道牛不牛了~
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_shanshui-screen001.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_shanshui-screen001.jpg)
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_shanshui-screen002.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_shanshui-screen002.jpg)
 
 **功能描述：**
 
@@ -95,7 +95,7 @@ tags: 每周精选
 
 程序员普遍有久坐的习惯，但是久坐有很多的不好的地方，具体哪里不好你懂得。所以定时的多走动走动是很有必要的，那么在电脑安装一个定时提醒软件就是一个不错的方法。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_stretchly-microbreak.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_stretchly-microbreak.png)
 
 **功能描述：**
 

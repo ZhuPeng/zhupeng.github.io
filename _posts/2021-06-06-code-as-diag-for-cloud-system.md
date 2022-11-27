@@ -14,17 +14,17 @@ Diagrams 目前支持主流的云厂商，包括 `AWS`, `Azure`, `GCP`, `Kuberne
 
 我们来看下实际的效果：
 
-![image-20210606230218833](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210606230218833.png)
+![image-20210606230218833](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210606230218833.png)
 
-![image-20210606230229610](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210606230229610.png)
+![image-20210606230229610](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210606230229610.png)
 
-![image-20210606230335031](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210606230335031.png)
+![image-20210606230335031](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210606230335031.png)
 
 由于 Diagrams 采用代码的形式描绘云化架构图，所以所有的变更都可以方便的使用版本控制系统去管理，比如使用 Git 管理。
 
 从代码的结构来看整体使用起来也比较简单，基本是先声明所有的节点，再根据指向关系链接成对应的架构图，非常的方便。
 
-![image-20210606230542062](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210606230542062.png)
+![image-20210606230542062](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210606230542062.png)
 
 更多项目详情请查看如下链接。
 

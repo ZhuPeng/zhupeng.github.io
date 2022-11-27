@@ -10,7 +10,7 @@ GitHub 大家都用，但是可能更多的是在里面搜索项目、代码，�
 
 今天推荐的开源项目 HowToStartOpenSource，就是试图建立一个指南帮助在 GitHub 维护开源项目的同学，或者是还不知道怎么在 GitHub 上开源项目的同学。以下就是最近更新的文章列表：
 
-![image-20220724205722467](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220724205722467.png)
+![image-20220724205722467](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220724205722467.png)
 
 目前项目中涉及的知识面还不是很多，但是该项目也是最近刚开始开源的，如果你想了解更多的开源项目维护方面的知识，参与进行实践才能更快的掌握。那么帮助这个项目去建设一个开源项目维护协作指南，也是一个不错的切入点，参与进来实践才会有最大的收获。
 

@@ -10,15 +10,15 @@ tags: Go&命令行
 
 今天要推荐一个工具库 infinite，提供了开箱即用的命令行交互式组件库，它提供了一些常用的交互式组件，比如说`progress`，`progress group`，`mulit select`，`input text`，`confirm`等。同时也提供了一些更基础的组件，方便用户进行组合使用。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/infinite.demo.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/infinite.demo.gif)
 
 以上就是具体的使用效果，而要实现上面的效果，具体的代码也非常的简单，以下就是一个实现多选交互的代码，差不多 10 行代码。
 
-![image-20220821202319067](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220821202319067.png)
+![image-20220821202319067](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220821202319067.png)
 
 infinite 的功能还是非常强大的，以下是项目提供的功能列表：
 
-![image-20220821202355512](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220821202355512.png)
+![image-20220821202355512](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220821202355512.png)
 
 infinite 目前还是一个新项目，使用 Go 语言开发，虽然 Star 数量不多，但是亮点就是易于使用，定制化能力强，线程安全。更多项目详情请查看如下链接。
 

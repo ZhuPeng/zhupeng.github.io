@@ -10,7 +10,7 @@ tags: 前端
 
 今天要推荐的就是一个智能抠图工具 backgroundremover，以下是抠图效果：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_zhinengkoutu.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_zhinengkoutu.png)
 
 访问网站也可以直接试用抠图效果：https://backgroundremover.app/
 

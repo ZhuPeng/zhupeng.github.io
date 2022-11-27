@@ -14,7 +14,7 @@ tags: 其他
 
 awesome-metaverse 已经收集的信息中，包含了 3D/Virtual Spaces 虚拟空间、AR/VR Hardware 硬件、Art in the Metaverse 艺术、Avatar Creation 虚拟身份、Digital Fashion 数字时尚、Displays 展示等。
 
-![image-20211106230754832](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/image-20211106230754832.png)
+![image-20211106230754832](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/image-20211106230754832.png)
 
 不同的人对元宇宙其实有不同的理解，如果非要我来做一些个人的解读的话，我理解随着时代的发展，我们的主要生活会从以现实生活为主体转变到以数字生活为主体，到那个时候，大家更多的会关注你虚拟生活中的形象，比如你可能不太会关注出门穿什么衣服了，会更多的开始关注自己的 QQ 秀（这里只是举个例子）是不是够时尚。
 

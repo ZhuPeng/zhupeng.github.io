@@ -14,15 +14,15 @@ tags: 安全
 
 以下是项目的主要功能及亮点：
 
-![image-20220807210310352](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220807210310352.png)
+![image-20220807210310352](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220807210310352.png)
 
 通过如下命令就可以直接开始使用：
 
-![image-20220807210631173](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220807210631173.png)
+![image-20220807210631173](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220807210631173.png)
 
 对于要单独扫描一个镜像参考如下命令，其中可以看到扫面出来了几个比较敏感的文件，涉及 .git、config.ini 配置文件、ssh key 等，这些都可能造成更广范围的安全问题，是非常值得去修复并提高安全等级的。
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac/compress_scan_image.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_scan_image.png)
 
 更多项目详情请查看如下链接。
 

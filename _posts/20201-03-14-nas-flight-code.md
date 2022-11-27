@@ -8,7 +8,7 @@ tags: 其他
 
 在 2020 年 2 月，美国宇航局（NASA）宣布了在毅力号（Perseverance）在火星上的顺利着陆，另外还有一个有趣的事情是，毅力号其实还带了另外一个小伙伴登陆火星，它就是一架能够在火星稀薄的大气（不足地球的 1%）环境中使用的无人机，无人机的样子如下图。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_yilihao_wurenji.jpeg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_yilihao_wurenji.jpeg)
 
 而以上无人机的飞行控制程序是基于 Jet Propulsion Laboratory's (JPL) 的**开源框架 F´ **定制的，搭载于 **Linux 系统**中，这让Linux 成为第一个登上火星的操作系统。
 

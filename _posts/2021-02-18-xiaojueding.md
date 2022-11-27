@@ -10,21 +10,21 @@ tags: APP
 
 但是有了今天这个工具你就不用再担心了。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_xiaojueding_demo.jpeg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_xiaojueding_demo.jpeg)
 
 这个 APP 名字是小决定，名字就很贴切对不对，让 APP 为我做个小决定，再也不用愁不知道吃啥了。只需轻松一点，今天吃什么立马搞定。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/20210218_123530.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/20210218_123530.gif)
 
 
 
 当然除了为你做今天吃什么的小决定外，你也可以根据自己的需要自己创建小决定。比如以下这个，怎样原谅男朋友？有了这个是不是再也不怕男朋友惹你生气了？
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210218_124410_com.nixwang.tinydecisions.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210218_124410_com.nixwang.tinydecisions.jpg)
 
 
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/20210218_124930.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/20210218_124930.gif)
 
 
 
@@ -32,17 +32,17 @@ tags: APP
 
 以下是简单的试用动图，非常的简单。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210218_124443_com.nixwang.tinydecisions.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210218_124443_com.nixwang.tinydecisions.jpg)
 
 
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/20210218_130348.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/20210218_130348.gif)
 
 
 
 还有一种方式是生成随机数，可以根据你需要的随机数范围，自动生成。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_Screenshot_20210218_125837_com.nixwang.tinydecisions.jpg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_Screenshot_20210218_125837_com.nixwang.tinydecisions.jpg)
 
 
 

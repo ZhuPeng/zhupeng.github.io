@@ -14,23 +14,23 @@ tags: 相册
 
 基于时间线聚合图片：
 
-![image-20220313205849577](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313205849577.png)
+![image-20220313205849577](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313205849577.png)
 
 基于地点聚合图片：
 
-![image-20220313205927254](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313205927254.png)
+![image-20220313205927254](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313205927254.png)
 
 基于人物信息聚合图片：
 
-![image-20220313205938516](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313205938516.png)
+![image-20220313205938516](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313205938516.png)
 
 小编本人在本地尝试安装和启动 PhotoView，由于 PhotoView 涉及前后端和数据库 MySQL，完全本地安装还是比较难的。但是项目提供了使用 Docker 和 docker-compose 启动的方式，让整体的难度降低了不少。
 
-![image-20220313211417386](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313211417386.png)
+![image-20220313211417386](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313211417386.png)
 
 使用 docker-compose 还是很方便的。
 
-![image-20220313213022433](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220313213022433.png)
+![image-20220313213022433](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220313213022433.png)
 
 从我个人的使用来看，比本地文件系统预览要好用太多了，只是在最开始使用的时候因为要生成缩略图，会需要一些时间，之后的浏览就非常的迅速了。
 

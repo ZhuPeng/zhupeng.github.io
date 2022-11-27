@@ -12,13 +12,13 @@ tags: 前端
 
 YouTube-DL-GUI 一个封装了 YouTube-DL 的跨平台客户端，让视频下载没有门槛。
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_youtube-dl-gui-mockup.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_youtube-dl-gui-mockup.png)
 
-![image-20211023221046893](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20211023221046893.png)
+![image-20211023221046893](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211023221046893.png)
 
 从上面的图片可以看出来，界面非常的好看。目前功能已经很完善了，就不多做介绍，YouTube、vimeo、twitter 等网站都支持，赶紧去下载使用就行。以下是一个简单的使用 DEMO：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/youtube-dl-gui.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/youtube-dl-gui.gif)
 
 访问以下地址可以直接下载安装，全平台支持：https://jely2002.github.io/youtube-dl-gui/
 

@@ -14,15 +14,15 @@ go-quartz 中核心就三个概念模块，分别是 Scheduler（调度器）、
 
 对应的定义如下：
 
-![image-20220605205922233](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220605205922233.png)
+![image-20220605205922233](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220605205922233.png)
 
-![image-20220605205930925](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220605205930925.png)
+![image-20220605205930925](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220605205930925.png)
 
-![image-20220605205937802](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220605205937802.png)
+![image-20220605205937802](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220605205937802.png)
 
 项目中对上述的接口有默认的实现，通过这些实现，可以很容易的去定义一个自己的任务执行系统。比如以下就是一个示例，实现了定时执行脚本命令和访问网站的任务，代码非常的简单。
 
-![image-20220605210027303](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220605210027303.png)
+![image-20220605210027303](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220605210027303.png)
 
 更多项目详情请查看如下链接。
 

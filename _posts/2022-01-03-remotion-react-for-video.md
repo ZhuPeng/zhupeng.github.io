@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=gwlDorikqgY
 
 使用 npm init video 或者 yarn create video 就能创建一个 remotion 的项目，还支持选择模板进行创建。
 
-![image-20220103234140235](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220103234140235.png)
+![image-20220103234140235](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220103234140235.png)
 
 用编程的方式制作视频真的可以，不管是在复用和后续的改动上都非常的方便，是不是一种很熟悉的方式？
 

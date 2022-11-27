@@ -10,15 +10,15 @@ tags: API
 
 今天要推荐的一个开源项目 m3o，借助网关建设的相关能力，将开放免费的 API 的访问进行统一，这样让使用方可以很轻松的用统一的方式对 API 进行请求和返回的解析，绝对是生产力的提升，对应 API 的使用方来说，就如同使用同一个产品的 API 一样，如丝般顺滑。
 
-![image-20220711001532581](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220711001532581.png)
+![image-20220711001532581](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220711001532581.png)
 
 目前 m3o 支持了超过 60+ API，覆盖了软件开发的方方面面，包括云基础设施、地理位置、通信工具等。
 
-![image-20220711001839518](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220711001839518.png)
+![image-20220711001839518](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220711001839518.png)
 
 对 API 的使用和访问都是统一的方式，如下就是其中 Go 的一个例子。
 
-![image-20220711002009478](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220711002009478.png)
+![image-20220711002009478](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220711002009478.png)
 
 更多项目详情请查看如下链接。
 

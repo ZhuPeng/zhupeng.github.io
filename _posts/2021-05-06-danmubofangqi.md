@@ -12,11 +12,11 @@ tags: 前端
 
 安装和使用参考如下，安装使用 npm 即可：
 
-![image-20210506211000818](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210506211000818.png)
+![image-20210506211000818](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210506211000818.png)
 
 引入使用非常的简单，最终效果也非常棒。
 
-![image-20210506211030015](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210506211030015.png)
+![image-20210506211030015](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210506211030015.png)
 
 ![img](https://nplayer.js.org/img/preview.jpg)
 

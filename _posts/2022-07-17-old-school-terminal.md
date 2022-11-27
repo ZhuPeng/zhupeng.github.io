@@ -12,19 +12,19 @@ tags: 命令行
 
 以下就是这个命令行终端的截图：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_fugu.screen.01.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_fugu.screen.01.png)
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_fugu.screen.2.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_fugu.screen.2.png)
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_fugu.screen.3.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_fugu.screen.3.png)
 
 不知道你们用过这样的电脑吗？我们上中学那会就真的用这样的电脑，整个电脑有一个非常长的大尾巴和一个巨大的机箱，我找个图给大家看一下。
 
-![img](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_gulao.diannao.png)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_gulao.diannao.png)
 
 当时谁也没有想到，未来这个东西会无处不在，每个人的生活和工作都与它息息相关。我们再回到这个复古的浏览器命令行终端，它其实是可以动态用的，以下是一个使用的示例：
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/fugu.dogntai.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/fugu.dogntai.gif)
 
 如果你对这个项目感兴趣的话，不妨自行去了解一下，更多项目详情请查看如下链接。
 

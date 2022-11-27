@@ -14,7 +14,7 @@ tags: 微信小程序
 
 就是以下小程序：开源话题，欢迎扫码体验。
 
-![img](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_qrcode.opensourcetopic.jpeg)
+![img](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_qrcode.opensourcetopic.jpeg)
 
 目前还比较简陋，也没想着以后能怎么样。如果你对你有帮助，欢迎使用，有任何建议也欢迎跟我反馈。
 

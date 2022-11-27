@@ -10,9 +10,9 @@ tags: 前端
 
 先别着急想着怎么开发，我们先来看看要达到的效果，竖着和横着的效果都有。
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/rain_shu.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/rain_shu.gif)
 
-![](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/rain_heng.gif)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/rain_heng.gif)
 
 如果你想出来怎么实现，欢迎在留言区评论。如果没想出来也不要紧，今天我推荐的这个项目就是解决这个问题的，你可以看看源码是怎么实现的。
 

@@ -41,7 +41,7 @@ sureness的低配置，易扩展，不耦合其他框架，能使开发者对自
 代码生成：自定义模块信息一键生成全流程代码，拿来即用，减少80%重复工作量。
 演示地址：http://coral.gemframework.com:8088/admin/login
 
-![image-20200423194352042](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_image-20200423194352042.png)
+![image-20200423194352042](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20200423194352042.png)
 
 
 **项目地址：**https://gitee.com/gemteam/coral
@@ -61,7 +61,7 @@ sureness的低配置，易扩展，不耦合其他框架，能使开发者对自
 
 以上就是本次推荐的全部项目。GitHub精选 公众号致力于为大家分享和宣传优质的开源项目，让更多的人了解和知道，乃至去使用大家的开源项目，一方面可以帮助大家提高影响力，另外一方面还有助于大家收获更多粉丝的支持。如果你有开项目需要分享，欢迎扫码进群或者直接在 [共享文档](https://www.yuque.com/g/loonggg/febxd7/wvs0z6/collaborator/join?token=bVhhgBw5Rw0xM0Qj) 分享。
 
-![image-20200423210812474](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/mac_github_images/compress_image-20200423210812474.png)
+![image-20200423210812474](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20200423210812474.png)
 
 
 

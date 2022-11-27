@@ -10,7 +10,7 @@ tags: Java
 
 而基础的库或者工具又是构建任何一个大型系统不可或缺的元件，我们要承认做基础库的同学的重要性，同时也要体谅他们的难处。今天在 GitHub 上发现了一个 fastjson2 的项目，它是 fastjson 项目的重要升级，目标是为下一个十年提供一个高性能的 JSON 库。看到还是很感慨的，不管过往怎样，我们的征程是未来的下一个十年。
 
-![image-20220515224613635](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220515224613635.png)
+![image-20220515224613635](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220515224613635.png)
 
 Fastjson2 通过与 fastjson 使用的同一套 API 实现了如下功能：
 

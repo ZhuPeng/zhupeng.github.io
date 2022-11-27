@@ -115,11 +115,11 @@ api: {
 
 会自动转换为：
 
-![文档](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_y4FYWt.png)
+![文档](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_y4FYWt.png)
 
 然后访问接口返回：
 
-![响应](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_y4kTHg.png)
+![响应](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_y4kTHg.png)
 
 当然，响应的格式是完全可以自定义的。如果觉得这个功能比较鸡肋，也可以看看其他功能。
 

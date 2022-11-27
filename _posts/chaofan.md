@@ -10,9 +10,9 @@
 
 以下是网站的展示：
 
-![image-20210429230619710](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210429230619710.png)
+![image-20210429230619710](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210429230619710.png)
 
-![image-20210429230854835](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/mac/image-20210429230854835.png)
+![image-20210429230854835](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/image-20210429230854835.png)
 
 
 
@@ -22,11 +22,11 @@ Web：https://chao.fun
 
 小程序：
 
-![image-20210429230940991](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/mac/compress_image-20210429230940991.png)
+![image-20210429230940991](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_image-20210429230940991.png)
 
 App下载地址：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_image-20210429231000766.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20210429231000766.png)
 
 不过炒饭社区实际上线时间并不长，作者时间紧迫，开发也比较匆忙，网站目前还有很大的进步空间。
 
@@ -52,7 +52,7 @@ App下载地址：
 
 项目结构介绍如下：
 
-![](https://7465-test-3c9b5e-books-1301492295.tcb.qcloud.la/images/compress_chaofan.source.struct.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_chaofan.source.struct.png)
 
 欢迎广大开发者加入，为炒饭社区贡献自己的一份力量，用上自己建设的社区啊。
 

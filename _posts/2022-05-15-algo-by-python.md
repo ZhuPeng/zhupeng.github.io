@@ -12,15 +12,15 @@ tags: Python&算法
 
 以下是目前已经实现的算法，列表很长，这里就只列出了其中的很小一部分。
 
-![image-20220515220504089](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220515220504089.png)
+![image-20220515220504089](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220515220504089.png)
 
-![image-20220515220518035](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220515220518035.png)
+![image-20220515220518035](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220515220518035.png)
 
 该项目实现的算法包含很多方面，有很多连小编都不是很清楚，所以部分可能翻译不是很贴切。比如分析算法（二分查找、牛顿方法）、回溯算法、数据结构算法、图片处理算法、动态规划、图算法、机器学习算法等，其实还有很多种类，就不一一列举了。
 
 该项目中实现的算法质量也很高，对应的算法都有对应的测试用例，非常好的保证了算法的质量，值得学习。比如以下这个：
 
-![image-20220515222747442](https://7465-test-3c9b5e-1-1301419220.tcb.qcloud.la/images/compress_image-20220515222747442.png)
+![image-20220515222747442](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220515222747442.png)
 
 更多项目详情请查看如下链接，非常推荐。
 
