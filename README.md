@@ -4,9 +4,17 @@
 
 ## 2022
 
-* XX 提问：[经典本土化，提问的智慧中国版](_posts/2022-10-07-smart-way-to-ask-question.md)
-* XX 云平台：[开箱即用的云原生多云应用管理平台](_posts/2022-09-24-cloud-manage-platform.md)
-* XX 开发框架：[个人开发者必备：快速开发框架 PocketBase 推荐](_posts/2022-09-24-pocketbase-single-server.md)
+* XX 视频剪辑：[通过字幕剪辑视频，极大提升剪辑效率](_posts/2022-11-27-video-cut-with-char.md)
+* 前端：[太强了！前端 UI 代码也能快速复制粘贴](_posts/2022-11-14-easy-ui-copy-component.md)
+* GitHub：[GitHub 开源洞察，一个更好的 GitHub Trending 替代](_posts/2022-11-14-github-insights.md)
+* XX 编程规范：[写出清晰代码的六条简单原则](_posts/2022-10-30-code-simple-rule.md)
+* 数据库：[阿里巴巴开源力作，Redis 数据迁移工具](_posts/2022-10-30-redis-date-transfer.md)
+* XX 人生：[一个关于人生统计的网站，不禁让人思考时光如逝](_posts/2022-10-23-life-statistic.md)
+* GG XX 榜单：[播客随时随地都可以收听，中文播客 TOP 榜单推荐](_posts/2022-10-23-podcast-top.md)
+* 安全&云原生：[开源云原生安全治理平台推荐](_posts/2022-10-16-hummerrisk.md)
+* 提问：[经典本土化，提问的智慧中国版](_posts/2022-10-07-smart-way-to-ask-question.md)
+* 云平台：[开箱即用的云原生多云应用管理平台](_posts/2022-09-24-cloud-manage-platform.md)
+* 开发框架：[个人开发者必备：快速开发框架 PocketBase 推荐](_posts/2022-09-24-pocketbase-single-server.md)
 * 服务器：[使用淘汰的智能手机搭建服务器](_posts/2022-08-28-phone-to-linux-server.md)
 * SQL：[又一个 SQLite 的增强扩展](_posts/2022-08-28-sqlite-load-excel.md)
 * Chrome插件：[网页智能目录，让阅读更简单](_posts/2022-08-21-auto-smart-toc-for-page.md)
