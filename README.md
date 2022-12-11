@@ -4,13 +4,17 @@
 
 ## 2022
 
-* XX 编程语言：[你知道有多少种编程语言吗？](_posts/2022-11-27-program-lang-counts.md)
-* XX 视频剪辑：[通过字幕剪辑视频，极大提升剪辑效率](_posts/2022-11-27-video-cut-with-char.md)
+* XX 工具：[完全开源使用 GitHub 存储的笔记应用](_posts/2022-12-11-open-source-git-node-app.md)
+* XX 工具：[马赛克后的图片到底能不能恢复？](_posts/2022-12-04-masaike-huifu.md)
+* XX 效率：[幻灯片自动生成器，你也可以成为 PPT 大师](_posts/2022-12-04-ppt-auto-create.md)
+* XX 架构设计：[多运行时架构介绍](_posts/2022-12-11-dapr-multi-runtime.md)
+* 编程语言：[你知道有多少种编程语言吗？](_posts/2022-11-27-program-lang-counts.md)
+* 视频剪辑：[通过字幕剪辑视频，极大提升剪辑效率](_posts/2022-11-27-video-cut-with-char.md)
 * 前端：[太强了！前端 UI 代码也能快速复制粘贴](_posts/2022-11-14-easy-ui-copy-component.md)
 * GitHub：[GitHub 开源洞察，一个更好的 GitHub Trending 替代](_posts/2022-11-14-github-insights.md)
-* XX 编程规范：[写出清晰代码的六条简单原则](_posts/2022-10-30-code-simple-rule.md)
+* GG XX 编程规范：[写出清晰代码的六条简单原则](_posts/2022-10-30-code-simple-rule.md)
 * 数据库：[阿里巴巴开源力作，Redis 数据迁移工具](_posts/2022-10-30-redis-date-transfer.md)
-* XX 人生：[一个关于人生统计的网站，不禁让人思考时光如逝](_posts/2022-10-23-life-statistic.md)
+* GG XX 人生：[一个关于人生统计的网站，不禁让人思考时光如逝](_posts/2022-10-23-life-statistic.md)
 * GG XX 榜单：[播客随时随地都可以收听，中文播客 TOP 榜单推荐](_posts/2022-10-23-podcast-top.md)
 * 安全&云原生：[开源云原生安全治理平台推荐](_posts/2022-10-16-hummerrisk.md)
 * 提问：[经典本土化，提问的智慧中国版](_posts/2022-10-07-smart-way-to-ask-question.md)
