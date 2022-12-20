@@ -128,7 +128,7 @@
 * [这里有一个办法，为历史遗留的项目减负](_posts/2021-10-10-python-dead-code-detect.md)
 * [牛逼，快速为静态数据生成 API](_posts/2021-12-05-api-for-staic-dataset.md)
 * GG XX [程序员的浪漫 - Marry Me 魔镜](_posts/2021-12-26-marry-me-mirror.md)
-* GG XX [用 Python 展示数学之美](_posts/2022-01-16-python-of-match-beautiful.md)
+* [用 Python 展示数学之美](_posts/2022-01-16-python-of-match-beautiful.md)
 
 
 
