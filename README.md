@@ -2,12 +2,16 @@
 
 访问 https://zhupeng.github.io 了解更多。
 
+## 2023
+
+* XX 工具：[提效必备，快速生成操作指南](_posts/2023-01-01-easy-guide-plugin.md)
+
 ## 2022
 
-* XX 工具：[完全开源使用 GitHub 存储的笔记应用](_posts/2022-12-11-open-source-git-node-app.md)
-* XX 工具：[马赛克后的图片到底能不能恢复？](_posts/2022-12-04-masaike-huifu.md)
-* XX 效率：[幻灯片自动生成器，你也可以成为 PPT 大师](_posts/2022-12-04-ppt-auto-create.md)
-* XX 架构设计：[多运行时架构介绍](_posts/2022-12-11-dapr-multi-runtime.md)
+* GG XX 工具：[完全开源使用 GitHub 存储的笔记应用](_posts/2022-12-11-open-source-git-node-app.md)
+* GG XX 工具：[马赛克后的图片到底能不能恢复？](_posts/2022-12-04-masaike-huifu.md)
+* 效率：[幻灯片自动生成器，你也可以成为 PPT 大师](_posts/2022-12-04-ppt-auto-create.md)
+* 架构设计：[多运行时架构介绍](_posts/2022-12-11-dapr-multi-runtime.md)
 * 编程语言：[你知道有多少种编程语言吗？](_posts/2022-11-27-program-lang-counts.md)
 * 视频剪辑：[通过字幕剪辑视频，极大提升剪辑效率](_posts/2022-11-27-video-cut-with-char.md)
 * 前端：[太强了！前端 UI 代码也能快速复制粘贴](_posts/2022-11-14-easy-ui-copy-component.md)

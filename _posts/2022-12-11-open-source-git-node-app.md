@@ -12,8 +12,6 @@ tags: 工具
 
  BatNoter 是一个 Web 应用，使用 React 开发，目前功能已经比较全面了。
 
-![image-20221211191437412](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20221211191437412.png)
-
 BatNoter 支持直接登录 GitHub，在笔记记录过程中，支持实时的 Markdown 渲染，所见即所得。其他的功能还包含暗黑模式、URL 书签支持等。以下是全部功能清单：
 
 ![image-20221220235332372](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_image-20221220235332372.png)
