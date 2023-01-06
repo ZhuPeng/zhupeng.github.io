@@ -12,7 +12,7 @@ tags: 工具
 
  ![image-20230102001453530](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102001453530.png)
 
-使用 Tango 工具非常的简单，首先需要在浏览器插件中心安装 Tango 插件，然后登录在插件上登录 Tango。之后点击 Tango 图表就会是如下效果了：
+使用 Tango 工具非常的简单，首先需要在浏览器插件中心安装 Tango 插件，然后在插件上登录 Tango。之后点击 Tango 图标就会是如下效果了：
 
 ![image-20230102001800864](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102001800864.png)
 
