@@ -5,7 +5,7 @@
 ## 2023
 
 * XX 工具：[流量自动录制回放工具，让软件研发更高效](_posts/2023-01-02-traffic-replay-tools.md)
-* XX 工具：[产品介绍页快速搭建工具](_posts/2023-01-02-landing-page-ide.md)
+* GG XX 工具：[产品介绍页快速搭建工具](_posts/2023-01-02-landing-page-ide.md)
 * 工具：[提效必备，快速生成操作指南](_posts/2023-01-01-easy-guide-plugin.md)
 
 ## 2022

@@ -4,9 +4,9 @@ title:
 tags: 
 ---
 
-大家好。
+大家好，又见面了，我是 GitHub 精选君！
 
-
+今天要给大家推荐一个 GitHub 开源项目 sourcegraph/conc，该项目在 GitHub 有超过 2.7k Star，用一句话介绍该项目：“Better structured concurrency for go.”。
 
 sourcegraph/conc 是一个用于在 Go 语言中实现并发编程的库。它提供了一组简单的工具，可以帮助开发人员在 Go 中编写高效、可扩展、易于理解的并发代码。
 
@@ -20,13 +20,13 @@ conc 的设计目的是让 Go 编程更优雅，更不容易出现 Goroutine 泄
 
 
 
-###如何安装使用
+### 如何安装使用
 
 要安装 sourcegraph/conc 项目，你需要先安装 Go 环境。如果你还没有安装 Go，请参考 Go 官网上的安装指南（https://golang.org/doc/install）。
 
 一旦你安装了 Go 环境，你就可以使用 `go get` 命令安装 sourcegraph/conc 库：
 
-```
+```bash
 go get github.com/sourcegraph/conc
 ```
 
@@ -34,7 +34,7 @@ go get github.com/sourcegraph/conc
 
 你还可以通过在 Go 代码中使用 `import` 语句来使用 sourcegraph/conc 库：
 
-```
+```go
 import "github.com/sourcegraph/conc"
 ```
 
@@ -46,7 +46,7 @@ import "github.com/sourcegraph/conc"
 
 下面是一个使用 sourcegraph/conc 库实现生产者-消费者模式的示例代码：
 
-```
+```go
 package main
 
 import (

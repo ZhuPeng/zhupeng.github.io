@@ -26,33 +26,33 @@ tags: 工具
 
 1、导航
 
-![image-20230102160426045](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102160426045.png)
+![](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102160426045.png)
 
 2、一句话介绍
 
-![image-20230102160529000](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102160529000.png)
+![image-20230102160529000](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102160529000.png)
 
 3、核心卖点
 
-![image-20230102160710404](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102160710404.png)
+![image-20230102160710404](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102160710404.png)
 
 4、价格
 
-![image-20230102160923467](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102160923467.png)
+![](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102160923467.png)
 
 5、联系方式
 
-![image-20230102160947547](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102160947547.png)
+![image-20230102160947547](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102160947547.png)
 
 可以看到以上的每个部分右上角都有对应的编辑按钮，可以根据需要按需的编辑调整，编辑是简单的代码，即使没有计算机基础也是可以操作的。
 
-![image-20230102161057106](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102161057106.png)
+![image-20230102161057106](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102161057106.png)
 
 除了以上组件之外，目前 makery 还提供了以下更多的组件：
 
-![image-20230102161146875](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102161146875.png)
+![image-20230102161146875](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102161146875.png)
 
-![image-20230102161156482](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230102161156482.png)
+![image-20230102161156482](https://cdn.jsdelivr.net/gh/ZhuPeng/pic/images/compress_image-20230102161156482.png)
 
 用 makery 做网站介绍页是不是非常的简单？更多项目详情请查看如下链接。
 
