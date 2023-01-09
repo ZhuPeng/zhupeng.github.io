@@ -14,7 +14,9 @@ sourcegraph/conc 是一个用于在 Go 语言中实现并发编程的库。它�
 
 总之，sourcegraph/conc 是一个优秀的选择，可以帮助 Go 开发人员在并发环境中更快、更安全地完成工作。
 
+conc 的设计目的是让 Go 编程更优雅，更不容易出现 Goroutine 泄露、更容易处理 Panic、使得并发编程的代码更易度。
 
+![image-20230109135210077](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/image-20230109135210077.png)
 
 
 
@@ -88,6 +90,6 @@ func main() {
 
 更多项目详情请查看如下链接。
 
-开源项目地址：
+开源项目地址：https://github.com/sourcegraph/conc
 
-开源项目作者：
+开源项目作者：sourcegraph
