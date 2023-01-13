@@ -3,7 +3,7 @@
 
 今天要给大家推荐一个 GitHub 开源项目 amitshekhariitbhu/go-backend-clean-architecture，该项目在 GitHub 有超过 1.2k Star，用一句话介绍该项目就是：“A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.”。
 
-![Go Backend Clean Architecture](/Users/zhupeng/Work/git/zhupeng.github.io/images/go-backend-clean-architecture.png)
+![Go Backend Clean Architecture](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_go-backend-clean-architecture.png)
 
 go-backend-clean-architecture 是一个使用 Go 语言编写的后端整洁架构项目。它提供了一种简单而有效的方法来构建可扩展和可维护的后端应用程序。该项目遵循 Uncle Bob 的整洁架构原则，并提供了结构化的目录结构，便于开发人员进行维护和扩展。
 
