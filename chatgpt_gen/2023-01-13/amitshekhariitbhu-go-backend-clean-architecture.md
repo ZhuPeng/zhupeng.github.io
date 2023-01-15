@@ -1,5 +1,6 @@
-
 大家好，又见面了，我是 GitHub 精选君！
+
+整洁架构后端应用实践
 
 今天要给大家推荐一个 GitHub 开源项目 amitshekhariitbhu/go-backend-clean-architecture，该项目在 GitHub 有超过 1.2k Star，用一句话介绍该项目就是：“A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.”。
 
