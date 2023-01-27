@@ -64,5 +64,5 @@ print(page)
 
 开源项目地址：https://github.com/noprobelm/tempy  (文末可点击阅读原文)
 
-开源项目作者：tempy
+开源项目作者：noprobelm
 
