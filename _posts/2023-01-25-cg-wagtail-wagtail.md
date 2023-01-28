@@ -1,7 +1,10 @@
+---
+layout: post
+title: 极度关注用户体验的内容管理系统推荐
+tags: Python
+---
 
 大家好，又见面了，我是 GitHub 精选君！
-
-极度关注用户体验的内容管理系统推荐
 
 今天要给大家推荐一个 GitHub 开源项目 wagtail/wagtail，该项目在 GitHub 有超过 13.9k Star，用一句话介绍该项目就是：“A Django content management system focused on flexibility and user experience”。
 
