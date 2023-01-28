@@ -14,15 +14,15 @@ go-backend-clean-architecture 是一个使用 Go 语言编写的后端整洁架�
 
 以下是项目的架构图。
 
-![Go Backend Clean Architecture Diagram](/Users/zhupeng/Work/git/zhupeng.github.io/images/go-backend-arch-diagram.png)
+![Go Backend Clean Architecture Diagram](https://raw.githubusercontent.com/amitshekhariitbhu/go-backend-clean-architecture/main/assets/go-backend-arch-diagram.png)
 
 Server 接收到 API 请求后会按如下处理：
 
-![Public API Request Flow](/Users/zhupeng/Work/git/zhupeng.github.io/images/go-arch-public-api-request-flow.png)
+![Public API Request Flow](https://raw.githubusercontent.com/amitshekhariitbhu/go-backend-clean-architecture/main/assets/go-arch-public-api-request-flow.png)
 
 同时可以根据需要在 Router 和 Controller 之前增加 Middleware 和 认证。
 
-![Private API Request Flow](/Users/zhupeng/Work/git/zhupeng.github.io/images/go-arch-private-api-request-flow.png)
+![Private API Request Flow](https://raw.githubusercontent.com/amitshekhariitbhu/go-backend-clean-architecture/main/assets/go-arch-private-api-request-flow.png)
 
 使用整洁架构的原则开发应用程序，后续可以规避很多维护上的问题，同时代码的可读性也有很大的提升，对于在使用 Go 开发的同学来说，非常推荐大家了解一下。
 
