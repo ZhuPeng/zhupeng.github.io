@@ -8,11 +8,7 @@ tags: Go
 
 今天要给大家推荐一个 GitHub 开源项目 m1guelpf/chatgpt-telegram，该项目在 GitHub 有超过 2.5k Star，用一句话介绍该项目就是：“Run your own GPTChat Telegram bot, with a single command!”。
 
-
-
 m1guelpf/chatgpt-telegram 是一个基于 Telegram 和 OpenAI 的 GPT-3 语言模型的开源项目。它允许用户通过 Telegram 应用程序与 GPT-3 进行交互，并使用 GPT-3 的自然语言处理能力进行各种任务。该项目易于部署和使用，可以让用户更轻松地访问 GPT-3 的强大功能。
-
-
 
 ### 如何安装使用
 
