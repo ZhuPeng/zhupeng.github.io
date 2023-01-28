@@ -73,15 +73,6 @@ def home(request):
 
 最后，在 myapp 目录下创建一个文件 `templates/home.html`，并添加以下代码：
 
-```html
-{% extends 'base.html' %}
-
-{% block content %}
-    <h1>{{ page.title }}</h1>
-    {{ page.body|richtext }}
-{% endblock %}
-```
-
 以上就能实现展示页面 Title 和 Body 的能力，是不是挺简单的？
 
 更多项目详情请查看如下链接。
