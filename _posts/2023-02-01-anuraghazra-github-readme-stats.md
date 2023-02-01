@@ -1,3 +1,8 @@
+---
+layout: post
+title: 易于集成到 GitHub 中的代码贡献卡片
+tags: GitHub
+---
 
 大家好，又见面了，我是 GitHub 精选君！
 
