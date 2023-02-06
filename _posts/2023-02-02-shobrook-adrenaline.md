@@ -1,6 +1,8 @@
-这个比 ChatGPT 还牛逼的 AI，竟然能直接修复代码 BUG
-
-
+---
+layout: post
+title: 这个比 ChatGPT 还牛逼的 AI，竟然能直接修复代码 BUG
+tags: 人工智能
+---
 
 大家好，又见面了，我是 GitHub 精选君！
 
