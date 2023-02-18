@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chrome插件开发全攻略
+title: Chrome 插件开发全攻略
 tags: 其他
 ---
 

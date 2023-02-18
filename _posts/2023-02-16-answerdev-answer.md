@@ -1,5 +1,12 @@
+---
+layout: post
+title: ChatGPT 都能智能回答问题了，问答社区还需要吗？
+tags: 问答
+---
 
 大家好，又见面了，我是 GitHub 精选君！
+
+问答社区还需不需要呢？我觉得还是需要存在的，毕竟 ChatGPT 语言模型的训练数据很多就来自问答社区，所以数据源头还是很重要的。
 
 今天要给大家推荐一个 GitHub 开源项目 answerdev/answer，该项目在 GitHub 有超过 6.0k Star，用一句话介绍该项目就是：“An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.”，支持快速构建问答社区网站的开源工具。以下是对应的 UI 界面：
 

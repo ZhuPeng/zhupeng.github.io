@@ -43,7 +43,6 @@ d2 使用配置化的方式生成流程图的好处就是方便对流程图的�
 以下是一个示例视频：
 
 <iframe width="100%" height="400" src="https://user-images.githubusercontent.com/3120367/206125010-bd1fea8e-248a-43e7-8f85-0bbfca0c6e2a.mp4" frameborder="0" allowfullscreen></iframe>
-
 ### 如何安装使用
 
 要安装 d2 项目，您需要执行以下步骤：

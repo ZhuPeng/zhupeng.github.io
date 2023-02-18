@@ -14,6 +14,6 @@ vnote 声称是一款更懂程序员的笔记工具，那就让我们来看一�
 >
 > 基于Qt框架，VNote能够在主流操作系统上运行，包括 **Linux**, **Windows** 以及 **macOS** 。
 
-![](<https://raw.githubusercontent.com/tamlok/vnote/master/screenshots/_vnotemaini_1525154456_1561295841.png>)
+![](https://raw.githubusercontent.com/vnotex/vnote/master/pics/main.png)
 
 > 项目地址：<https://github.com/tamlok/vnote>

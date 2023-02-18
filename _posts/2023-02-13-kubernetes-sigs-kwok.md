@@ -1,3 +1,8 @@
+---
+layout: post
+title: 支持模拟成千上万个 Kubelet 节点的效率工具
+tags: 云原生
+---
 
 大家好，又见面了，我是 GitHub 精选君！
 
@@ -36,7 +41,7 @@ kwok \
   --node-ip=10.0.0.1
 ```
 
-对应的使用 kwokctl 来创建和管理集群：
+对应的也可以使用 kwokctl 来创建和管理集群：
 
 ```bash
 $ kwokctl create cluster --name=kwok

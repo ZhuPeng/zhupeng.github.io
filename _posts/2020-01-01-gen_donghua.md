@@ -20,8 +20,6 @@ tags: 其他
 
 体验官网：<https://gramener.com/comicgen/>，如果你不满足现在已经提供的几个角色，也可以按要求添加自己喜欢的角色。
 
-![image-20190724222153158](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/GitHub%E7%B2%BE%E9%80%89/donghua01.png)
-
 > 项目地址：<https://github.com/gramener/comicgen>
 
 
