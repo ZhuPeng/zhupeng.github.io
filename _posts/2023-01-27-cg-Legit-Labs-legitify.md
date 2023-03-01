@@ -1,57 +1,57 @@
 ---
 layout: post
-title: GitHub 开源项目 Legit-Labs/legitify 介绍，Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets
-tags: Go
+title: 仓库中的错误配置和安全风险能够自动修复，越早用越好
+tags: Go&安全
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 Legit-Labs/legitify，该项目在 GitHub 有超过 0.3k Star，用一句话介绍该项目就是：“Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets”。
+今天要给大家推荐一个 GitHub 开源项目 Legit-Labs/legitify，该项目在 GitHub 有超过 300 Star，用一句话介绍该项目就是：“Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets”，自动对 GitHub 和 GitLab 代码资产中的错误配置和安全风险进行检测和修复。
 
 ![](https://user-images.githubusercontent.com/74864790/174815311-746a0c98-9a1f-44a9-808c-035788edfd4d.png)
 
-Legit-Labs/legitify 是一个基于 Python 的开源项目，旨在提供一种简单易用的方法来验证电子邮件地址的真实性。它使用了多种技术来检查电子邮件地址是否有效，包括正则表达式匹配、MX 记录检查和 SMTP 交互。这个项目非常适用于在注册流程中验证电子邮件地址的真实性。
+legitify 支持如下检测类别，对于公开和私有仓库有部分的区分。从支持的类别看，如果你的代码仓库存在这些风险和错误配置还是非常值得修复的，毕竟任何的错误在仓库存在的时间越长，修复的代价就会越大，所以越早修复越好。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230218202454597.png)
+
+以下是 legitify 使用 DEMO：
+
+<iframe width="100%" height="400" src="https://user-images.githubusercontent.com/107790206/210602039-2d022692-87ea-4005-b9c6-f091158de3ce.mov" frameborder="0" allowfullscreen></iframe>
 
 
 ### 如何安装使用
 
-安装 Legit-Labs/legitify 项目可以使用 pip 安装。在命令行中输入下面的命令即可完成安装。
+legitify 项目使用 Go 开发，所以直接 clone 代码编译即可开始使用。
 
+```bash
+git clone git@github.com:Legit-Labs/legitify.git
+go run main.go analyze ...
 ```
-pip install legitify
-```
-
-注意：在安装之前，请确保已经安装了 Python 以及 pip。如果是在虚拟环境中安装，请在虚拟环境中运行上述命令。
-
-安装完成后,你可以在你的代码中使用以下语句来导入 legitify 
-```
-from legitify import Email
-```
-
-之后就可以在你的代码中使用 legitify 了。
 
 
 ### 使用示例 DEMO
 
-下面是一个使用 Legit-Labs/legitify 验证电子邮件地址真实性的简单示例代码：
-```
-from legitify import Email
+legitify 是一个命令行程序，因为要访问 GitHub 和 GitLab 的数据，所以唯一需要的就是对应的 GitHub 和 GitLab 的 API TOKEN。具体使用如下：
 
-email_address = "example@gmail.com"
-email_obj = Email(email_address)
-
-if email_obj.validate():
-    print("Email address is valid")
-else:
-    print("Email address is not valid")
+```bash
+LEGITIFY_TOKEN=<your_token> legitify analyze
 ```
 
-这段代码首先导入了 legitify 中的 Email 类，然后创建了一个 Email 对象并传入了要验证的电子邮件地址。最后，使用 validate() 方法来验证电子邮件地址的真实性。
+同时也可以设置需要扫描检测的仓库、组织等。
 
-如果邮箱是有效的，则 validate() 方法会返回 True，输出 "Email address is valid"。如果邮箱无效，则 validate() 方法会返回 False，输出 "Email address is not valid"。
+```bash
+LEGITIFY_TOKEN=<your_token> legitify analyze --org org1,org2 --namespace organization,member
+```
 
-还有更多的方法可以使用，请参考项目的文档。
+更多参数参考如下：
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230218203216991.png)
+
+分析的结果示例输出如下，最后会有一个总结性的表格。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230218203517545.png)
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230218203452186.png)
 
 更多项目详情请查看如下链接。
 
