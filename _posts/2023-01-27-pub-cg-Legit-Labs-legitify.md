@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 仓库中的错误配置和安全风险能够自动修复，越早用越好
+title: 自动修复代码仓库中的错误配置和安全风险的工具推荐，越早用越好
 tags: Go&安全
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 Legit-Labs/legitify，该项目在 GitHub 有超过 300 Star，用一句话介绍该项目就是：“Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets”，自动对 GitHub 和 GitLab 代码资产中的错误配置和安全风险进行检测和修复。
+今天要给大家推荐一个 GitHub 开源项目 Legit-Labs/legitify，用一句话介绍该项目就是：“Detect and remediate misconfigurations and security risks across all your GitHub and GitLab assets”，自动对 GitHub 和 GitLab 代码资产中的错误配置和安全风险进行检测和修复。
 
 ![](https://user-images.githubusercontent.com/74864790/174815311-746a0c98-9a1f-44a9-808c-035788edfd4d.png)
 
@@ -17,7 +17,6 @@ legitify 支持如下检测类别，对于公开和私有仓库有部分的区�
 以下是 legitify 使用 DEMO：
 
 <iframe width="100%" height="400" src="https://user-images.githubusercontent.com/107790206/210602039-2d022692-87ea-4005-b9c6-f091158de3ce.mov" frameborder="0" allowfullscreen></iframe>
-
 
 ### 如何安装使用
 

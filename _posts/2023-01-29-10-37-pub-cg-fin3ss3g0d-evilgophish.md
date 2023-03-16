@@ -1,12 +1,12 @@
 ---
 layout: post
-title: GitHub 开源项目 fin3ss3g0d/evilgophish 介绍，evilginx2 + gophish
+title: 一款更好的模拟网络攻击的框架
 tags: Go
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 fin3ss3g0d/evilgophish，该项目在 GitHub 有超过 0.8k Star，用一句话介绍该项目就是：“evilginx2 + gophish”。
+今天要给大家推荐一个 GitHub 开源项目 fin3ss3g0d/evilgophish，该项目在 GitHub 有超过 800 Star。
 
 ![new-dashboard](https://raw.githubusercontent.com/fin3ss3g0d/evilgophish/master/images/tokens-gophish.png)
 ![diagram](https://raw.githubusercontent.com/fin3ss3g0d/evilgophish/master/images/diagram.png)
@@ -31,9 +31,7 @@ evilgophish 是一个开源的社会工程学攻击框架，它可以在攻击�
 
 4. 运行 evilgophish: 使用命令 `./evilgophish` 运行 evilgophish。
 
-注意：在运行 evilgophish 之前，需要配置config.json 文件，里面包含了相关的设置和配置，如数据库地址，邮件服务器等。
-
-这些步骤是安装 evilgophish 的基本流程，具体的安装过程可能会因系统环境和配置而有所不同。建议在安装过程中参考项目的说明文档以获取更详细的安装指南。
+注意：在运行 evilgophish 之前，需要配置 config.json 文件，里面包含了相关的设置和配置，如数据库地址，邮件服务器等。
 
 
 ### 使用示例 DEMO
@@ -49,8 +47,6 @@ evilgophish 是一个开源的社会工程学攻击框架，它可以在攻击�
 4. 创建新的攻击项目，设置相关参数，如邮件主题，收件人等
 
 5. 发送邮件，监控攻击效果
-
-这只是简单的使用示例，实际使用中需要根据需求进行相应的设置和配置。请注意，该项目仅供安全研究和教育目的使用，禁止用于非法用途。
 
 
 更多项目详情请查看如下链接。

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: GitHub 开源项目 sjlleo/nexttrace 介绍，An open source visual route tracking CLI tool
+title: 一款开源可视化的路由追踪工具
 tags: Go
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 sjlleo/nexttrace，该项目在 GitHub 有超过 0.7k Star，用一句话介绍该项目就是：“An open source visual route tracking CLI tool”。
+今天要给大家推荐一个 GitHub 开源项目 sjlleo/nexttrace，该项目在 GitHub 有超过 700 Star，用一句话介绍该项目就是：“An open source visual route tracking CLI tool”，一款开源可视化的路由追踪工具。
 
 ![](https://raw.githubusercontent.com/sjlleo/nexttrace/master/asset/logo.png)
 
 ![image](https://user-images.githubusercontent.com/13616352/208289553-7f633f9c-7356-40d1-bbc4-cc2687419cca.png)
 ![image](https://user-images.githubusercontent.com/13616352/208289568-2a135c2d-ae4a-4a3e-8a43-f5a9a87ade4a.png)
 
-nexttrace 是一个开源项目，它是一个用 Go 语言编写的高性能分布式追踪系统。它提供了一个基于 gRPC 协议的接口，可以让你使用任何语言编写的应用程序来记录和查询追踪信息。它的设计目的是支持大规模的追踪数据，并且可以通过提供的 web UI 来查询追踪信息。
+nexttrace 是一个用 Go 语言编写的高性能、轻量化的分布式追踪系统。它是一个命令行工具，在命令行使用可以展示清晰的 TraceRoute 路由信息，同时支持根据地图进行可视化的展示，看完一目了然。
 
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
@@ -22,35 +22,83 @@ nexttrace 是一个开源项目，它是一个用 Go 语言编写的高性能分
 
 ### 如何安装使用
 
-要安装 nexttrace，请执行以下步骤:
+使用如下方式即可安装 nexttrace 工具：
 
-1. 安装 Go 环境，并将 $GOPATH/bin 添加到 $PATH 中。
+```bash
+# Linux 一键安装脚本
+bash <(curl -Ls https://raw.githubusercontent.com/sjlleo/nexttrace/main/nt_install.sh)
 
-2. 使用 go get 命令安装 nexttrace：
-```
-go get github.com/sjlleo/nexttrace
-```
+# GHPROXY 镜像（国内使用）
+bash <(curl -Ls https://ghproxy.com/https://raw.githubusercontent.com/sjlleo/nexttrace/main/nt_install.sh)
 
-3. 进入 nexttrace 目录，编译二进制文件:
+# macOS brew 安装命令
+brew tap xgadget-lab/nexttrace && brew install nexttrace
 ```
-cd $GOPATH/src/github.com/sjlleo/nexttrace
-go build
-```
-
-4. 运行 nexttrace 服务:
-```
-./nexttrace
-```
-
-5. 访问 http://localhost:16686 查看 web UI。
-
-注意：这些步骤假设你已经正确配置了 Go 环境。如果遇到问题，请查看 nexttrace 的 GitHub 页面上的文档以获取更多帮助。
 
 
 ### 使用示例 DEMO
 
-我很抱歉，没有找到 "nexttrace" 这个项目。请提供正确的项目名称。
+nexttrace 默认使用 ICMP 协议发起 TraceRoute 请求，该协议同时支持 IPv4 和 IPv6，以下是基本的用法：
 
+```bash
+# IPv4 ICMP Trace
+nexttrace 1.0.0.1
+# URL
+nexttrace http://example.com:8080/index.html?q=1
+
+# 表格打印，使用 --table / -t 参数，将实时显示结果
+nexttrace --table 1.0.0.1
+
+# IPv6 ICMP Trace
+nexttrace 2606:4700:4700::1111
+
+# 禁用路径可视化 使用 --map / -M 参数
+nexttrace koreacentral.blob.core.windows.net
+# MapTrace URL: https://api.leo.moe/tracemap/html/c14e439e-3250-5310-8965-42a1e3545266.html
+```
+
+除以上以外，nexttrace 还支持如下功能：
+
+1、支持快速测试，有一次性测试回程路由需求的朋友可以使用
+
+```bash
+# 北上广（电信+联通+移动+教育网）IPv4 / IPv6 ICMP 快速测试
+nexttrace --fast-trace
+
+# 也可以使用 TCP SYN 而非 ICMP 进行测试
+nexttrace --fast-trace --tcp
+```
+
+2、支持指定网卡进行路由跟踪
+
+```bash
+# 请注意 Lite 版本此参数不能和快速测试联用，如有需要请使用 enhanced 版本
+# 使用 eth0 网卡
+nexttrace --dev eth0 2606:4700:4700::1111
+
+# 使用 eth0 网卡IP
+# 网卡 IP 可以使用 ip a 或者 ifconfig 获取
+# 使用网卡IP进行路由跟踪时需要注意跟踪的IP类型应该和网卡IP类型一致（如都为 IPv4）
+nexttrace --source 204.98.134.56 9.9.9.9
+```
+
+3、支持使用`TCP`和`UDP`协议发起`Traceroute`请求，不过目前`UDP`只支持`IPv4`
+
+```bash
+# TCP SYN Trace
+nexttrace --tcp www.bing.com
+
+# 可以自行指定端口[此处为443]，默认80端口
+nexttrace --tcp --port 443 2001:4860:4860::8888
+
+# UDP Trace
+nexttrace --udp 1.0.0.1
+
+# 可以自行指定端口[此处为5353]，默认53端口
+nexttrace --udp --port 5353 1.0.0.1
+```
+
+另外也同样支持一些进阶功能，如 TTL 控制、并发数控制、模式切换等。
 
 更多项目详情请查看如下链接。
 

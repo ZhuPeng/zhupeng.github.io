@@ -1,17 +1,16 @@
 ---
 layout: post
-title: GitHub 开源项目 AlexxIT/go2rtc 介绍，Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, MJPEG, HomeKit, FFmpeg, etc.
+title: 一款终极视频流应用处理工具
 tags: Go
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 AlexxIT/go2rtc，该项目在 GitHub 有超过 0.5k Star，用一句话介绍该项目就是：“Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, MJPEG, HomeKit, FFmpeg, etc.”。
+今天要给大家推荐一个 GitHub 开源项目 AlexxIT/go2rtc，该项目在 GitHub 有超过 500 Star，用一句话介绍该项目就是：“Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, MJPEG, HomeKit, FFmpeg, etc.”，终极视频流应用处理工具。
 
-![](https://raw.githubusercontent.com/AlexxIT/go2rtc/master/assets/go2rtc.png)
-![](https://raw.githubusercontent.com/AlexxIT/go2rtc/master/assets/codecs.svg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230311190337988.png)
 
-AlexxIT/go2rtc 是一个开源项目，它是一个用Go语言编写的库，可以将WebRTC流转换为RTMP流。它支持将 WebRTC 流发送到 RTMP 服务器以进行直播和点播。
+go2rtc 是一个开源项目，它是一个用 Go 语言编写的库，可以将 WebRTC 流转换为 RTMP 流。它支持将 WebRTC 流发送到 RTMP 服务器以进行直播和点播。
 
 这个项目非常实用，对于需要将 WebRTC 流转换为 RTMP 流的场景特别有用，例如在线教育、直播、点播等。
 
@@ -24,7 +23,7 @@ AlexxIT/go2rtc 是一个开源项目，它是一个用Go语言编写的库，可
 
 ### 如何安装使用
 
-要安装 AlexxIT/go2rtc 项目，首先需要安装 Go 编程语言。在安装完 Go 后，可以使用以下命令在项目根目录中安装 go2rtc 库:
+要安装 go2rtc 项目，首先需要安装 Go 编程语言。在安装完 Go 后，可以使用以下命令在项目根目录中安装 go2rtc 库:
 ```
 go get -u github.com/AlexxIT/go2rtc
 ```
@@ -35,7 +34,7 @@ go get -u github.com/AlexxIT/go2rtc
 import "github.com/AlexxIT/go2rtc"
 ```
 
-请注意，在使用这个库之前，需要在本地安装ffmpeg
+请注意，在使用这个库之前，需要在本地安装 ffmpeg
 ```
 apt install ffmpeg
 ```
@@ -44,8 +43,6 @@ apt install ffmpeg
 ```
 apt install libx264-dev libx265-dev libvpx-dev
 ```
-
-请参考文档 https://github.com/AlexxIT/go2rtc 了解更多使用信息。
 
 
 ### 使用示例 DEMO
@@ -92,10 +89,6 @@ func main() {
 }
 ```
 在这个示例中，我们使用`go2rtc.NewStreamFromFile("test.mp4")` 将本地文件 "test.mp4" 转换为 WebRTC 流，然后在网页上使用 video 标签播放它。
-
-请注意，在运行这段代码之前，需要确保系统中已经安装了 ffmpeg 和 libx264-dev libx265-dev libvpx-dev。
-
-请参考文档 https://github.com/AlexxIT/go2rtc 了解更多使用信息。
 
 
 更多项目详情请查看如下链接。
