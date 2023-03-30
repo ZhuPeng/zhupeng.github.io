@@ -10,9 +10,9 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230311190337988.png)
 
-go2rtc 是一个开源项目，它是一个用 Go 语言编写的库，可以将 WebRTC 流转换为 RTMP 流。它支持将 WebRTC 流发送到 RTMP 服务器以进行直播和点播。
+go2rtc 是一个用 Go 语言编写的库，可以将 WebRTC 流转换为 RTMP 流。它支持将 WebRTC 流发送到 RTMP 服务器以进行直播和点播。
 
-这个项目非常实用，对于需要将 WebRTC 流转换为 RTMP 流的场景特别有用，例如在线教育、直播、点播等。
+这个项目非常实用，对于需要将 WebRTC 流转换为 RTMP 流的场景特别有用，例如在线教育、直播、点播等。另外一个很直观的用法就是可以将本地的视频用来在直播中使用。
 
 它支持多种音频编码格式和视频编码格式，并支持多种 WebRTC 和 RTMP 直播平台。该项目易于使用，并提供了丰富的 API 文档，可以帮助用户快速上手。
 

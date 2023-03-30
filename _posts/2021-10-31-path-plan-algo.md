@@ -18,8 +18,6 @@ tags: 前端
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/bf.path.gif)
 
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/bf.path.gif)
-
 PathPlanning 项目我认为有非常大的教学价值，对希望了解路径规划算法的同学有非常大的帮助。更多项目详情请查看如下链接。
 
 开源项目地址：https://github.com/zhm-real/PathPlanning

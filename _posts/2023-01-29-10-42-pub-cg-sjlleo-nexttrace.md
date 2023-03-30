@@ -10,8 +10,8 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/sjlleo/nexttrace/master/asset/logo.png)
 
-![image](https://user-images.githubusercontent.com/13616352/208289553-7f633f9c-7356-40d1-bbc4-cc2687419cca.png)
-![image](https://user-images.githubusercontent.com/13616352/208289568-2a135c2d-ae4a-4a3e-8a43-f5a9a87ade4a.png)
+![](https://user-images.githubusercontent.com/13616352/208289553-7f633f9c-7356-40d1-bbc4-cc2687419cca.png)
+![](https://user-images.githubusercontent.com/13616352/208289568-2a135c2d-ae4a-4a3e-8a43-f5a9a87ade4a.png)
 
 nexttrace 是一个用 Go 语言编写的高性能、轻量化的分布式追踪系统。它是一个命令行工具，在命令行使用可以展示清晰的 TraceRoute 路由信息，同时支持根据地图进行可视化的展示，看完一目了然。
 

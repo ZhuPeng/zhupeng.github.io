@@ -1,15 +1,18 @@
 ---
 layout: post
-title: GitHub 开源项目 gocrane/crane-scheduler 介绍，Crane scheduler is a Kubernetes scheduler which can schedule pod based on actual node load.
+title: 支持基于真实负载的 Kubernetes 调度器
 tags: Go
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 gocrane/crane-scheduler，该项目在 GitHub 有超过 0.1k Star，用一句话介绍该项目就是：“Crane scheduler is a Kubernetes scheduler which can schedule pod based on actual node load.”。
+今天要给大家推荐一个 GitHub 开源项目 gocrane/crane-scheduler，该项目在 GitHub 有超过 100 Star，用一句话介绍该项目就是：“Crane scheduler is a Kubernetes scheduler which can schedule pod based on actual node load.”，支持基于真实负载的 Kubernetes 调度器。
 
+crane-scheduler 是基于 Go 语言的调度器库。它主要用于企业级的分布式调度，可以帮助开发者实现任务调度、任务分配、负载均衡等功能。该项目支持多种调度策略，可以在不同的场景中进行优化。
 
-gocrane/crane-scheduler 是一个开源项目，是基于 Go 语言的调度器库。它主要用于企业级的分布式调度，可以帮助开发者实现任务调度、任务分配、负载均衡等功能。该项目支持多种调度策略，可以在不同的场景中进行优化。
+Crane-scheduler 基于 Node-annotator 收集的 Prometheus 资源负载数据，对 Pod 进行负载均衡的调度。以下是架构图：
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_image-20230319183827884.png)
 
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
@@ -18,72 +21,73 @@ gocrane/crane-scheduler 是一个开源项目，是基于 Go 语言的调度器�
 
 ### 如何安装使用
 
-gocrane/crane-scheduler 项目可以通过 Go Modules 或者普通的 go get 命令来安装。
+crane-scheduler 项目可以通过如下方式安装使用。
 
-1. 使用 Go Modules 安装：
+1、确保 Kubernetes 集群安装了 Prometheus
 
-在你项目的根目录下执行以下命令:
+2、配置 Prometheus 规则
 
-```go
-go mod init [your_module_name]
-go get github.com/gocrane/crane-scheduler
+主要是以下数据指标的收集：
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230319184331636.png)
+
+实际的 YAML 配置如下：
+
+```yaml
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+    name: example-record
+    labels:
+        prometheus: k8s
+        role: alert-rules
+spec:
+    groups:
+    - name: cpu_mem_usage_active
+      interval: 30s
+      rules:
+      - record: cpu_usage_active
+        expr: 100 - (avg by (instance) (irate(node_cpu_seconds_total{mode="idle"}[30s])) * 100)
+      - record: mem_usage_active
+        expr: 100*(1-node_memory_MemAvailable_bytes/node_memory_MemTotal_bytes)
+    - name: cpu-usage-5m
+      interval: 5m
+      rules:
+      - record: cpu_usage_max_avg_1h
+        expr: max_over_time(cpu_usage_avg_5m[1h])
+      - record: cpu_usage_max_avg_1d
+        expr: max_over_time(cpu_usage_avg_5m[1d])
+    - name: cpu-usage-1m
+      interval: 1m
+      rules:
+      - record: cpu_usage_avg_5m
+        expr: avg_over_time(cpu_usage_active[5m])
+    - name: mem-usage-5m
+      interval: 5m
+      rules:
+      - record: mem_usage_max_avg_1h
+        expr: max_over_time(mem_usage_avg_5m[1h])
+      - record: mem_usage_max_avg_1d
+        expr: max_over_time(mem_usage_avg_5m[1d])
+    - name: mem-usage-1m
+      interval: 1m
+      rules:
+      - record: mem_usage_avg_5m
+        expr: avg_over_time(mem_usage_active[5m])
 ```
 
-2. 使用 go get 安装：
+3、安装 crane-scheduler
 
-在终端中执行以下命令：
-```
-go get github.com/gocrane/crane-scheduler
-```
-
-在你的 Go 代码中导入包：
-```go
-import "github.com/gocrane/crane-scheduler"
+```bash
+helm repo add crane https://gocrane.github.io/helm-charts
+helm install scheduler -n crane-system --create-namespace --set global.prometheusAddr="REPLACE_ME_WITH_PROMETHEUS_ADDR" crane/scheduler
 ```
 
-在安装完成之后，你就可以在你的 Go 代码中使用 crane-scheduler 了。
+同时需要配置 Kubernetes 策略，将 crane-scheduler 作为第二调度器，具体配置方式可以参考 GitHub 上的 README。
 
-注意: 你需要安装 Go 1.13 或更高版本才能使用 Go Modules
+4、对 Pod 做真实的调度测试
 
-
-### 使用示例 DEMO
-
-以下是一个使用 gocrane/crane-scheduler 的简单 demo，它展示了如何使用默认的调度策略来调度任务。
-
-```go
-package main
-
-import (
-    "fmt"
-    "time"
-
-    "github.com/gocrane/crane-scheduler"
-)
-
-func main() {
-    // 创建调度器
-    scheduler := crane_scheduler.New()
-
-    // 添加任务
-    scheduler.AddFunc("task1", func() {
-        fmt.Println("Task 1 is running.")
-    }, time.Second)
-    scheduler.AddFunc("task2", func() {
-        fmt.Println("Task 2 is running.")
-    }, time.Second*2)
-
-    // 开始调度
-    scheduler.Start()
-
-    // 停止调度
-    time.Sleep(time.Second * 5)
-    scheduler.Stop()
-}
-```
-
-在这个示例中，我们创建了一个新的调度器，添加了两个任务，并在调度开始后等待5秒钟停止调度。每个任务将按照给定的时间间隔执行一次，并在控制台中打印输出。
-
-请注意，这只是一个简单的示例，crane-scheduler 还提供了更多强大的功能，例如自定义调度策略，多任务调度等。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_pod-scheduler.png)
 
 
 更多项目详情请查看如下链接。

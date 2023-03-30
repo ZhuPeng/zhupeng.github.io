@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nuclearpond 更早地发现和修复安全问题，帮助企业实现 DevSecOps 的目标
+title: 更早地发现和修复安全问题，帮助企业实现 DevSecOps 的目标
 tags: Go
 ---
 
@@ -25,19 +25,21 @@ nuclearpond 提供了一种在 DevSecOps 中实现应用安全的方式。 nucle
 
 nuclearpond 项目是一个 Go 语言编写的应用程序，可以使用 go get 安装。
 
-1. 首先需要安装Go语言运行环境。
+1、首先需要安装Go语言运行环境。
 
-2. 然后在终端中运行以下命令来安装 nuclearpond:
-```
+2、然后在终端中运行以下命令来安装 nuclearpond:
+
+```bash
 go get github.com/DevSecOpsDocs/nuclearpond
 ```
 
-3. 安装完成后，可以在终端中运行以下命令来查看是否安装成功:
-```
+3、安装完成后，可以在终端中运行以下命令来查看是否安装成功:
+
+```bash
 nuclearpond --version
 ```
 
-4. 如果安装成功，会显示当前版本号。
+4、如果安装成功，会显示当前版本号。
 
 请注意，使用 nuclearpond 需要访问互联网，因为它需要下载安全规则和语言插件。
 
@@ -46,7 +48,7 @@ nuclearpond --version
 
 以下是一个使用 nuclearpond 进行应用程序安全评估的示例代码：
 
-```
+```go
 package main
 
 import (

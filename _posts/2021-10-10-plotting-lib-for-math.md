@@ -12,7 +12,7 @@ tags: 前端
 
 ![image-20211010215449600](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211010215449600.png)
 
-![image-20211010215512087](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211010215512087.png)
+![image-20211010215512087](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20211010215512087.png)	
 
 以上都是一些比较简单的坐标系展示。加上更多的数据效果会更好，同时还支持图表的动态展示。
 
