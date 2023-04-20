@@ -23,3 +23,5 @@ tags: 大学
 开源项目地址：https://github.com/CollegesChat/university-information
 
 开源项目作者：[CollegesChat](https://github.com/CollegesChat)
+
+关注我们，一起探索有意思的开源项目。

@@ -23,3 +23,5 @@ BatNoter 支持直接登录 GitHub，在笔记记录过程中，支持实时的 
 开源项目地址：https://github.com/batnoter/batnoter
 
 开源项目作者：batnoter
+
+关注我们，一起探索有意思的开源项目。

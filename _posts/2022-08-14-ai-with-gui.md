@@ -33,3 +33,5 @@ paper2gui：一款面向普通人的 AI 桌面 APP 工具箱，免安装即开�
 开源项目地址：https://github.com/Baiyuetribe/paper2gui
 
 开源项目作者：[Baiyuetribe](https://github.com/Baiyuetribe)
+
+关注我们，一起探索有意思的开源项目。

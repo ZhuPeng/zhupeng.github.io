@@ -37,3 +37,5 @@ code996 除了能够分析项目的实际工作强度，也能用来分析我们
 开源项目地址：https://github.com/hellodigua/code996
 
 开源项目作者：[hellodigua](https://github.com/hellodigua)
+
+关注我们，一起探索有意思的开源项目。

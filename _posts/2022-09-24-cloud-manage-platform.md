@@ -25,3 +25,5 @@ Rainbond 使用非常简单，不需要懂容器、Kubernetes 和底层复杂技
 开源项目地址：https://github.com/goodrain/rainbond
 
 开源项目作者：[goodrain](https://github.com/goodrain)
+
+关注我们，一起探索有意思的开源项目。

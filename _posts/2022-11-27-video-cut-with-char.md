@@ -25,3 +25,5 @@ AutoCut 目前还在持续迭代，如果你也对 AutoCut 感兴趣，可以了
 开源项目地址：https://github.com/mli/autocut
 
 开源项目作者：mli
+
+关注我们，一起探索有意思的开源项目。

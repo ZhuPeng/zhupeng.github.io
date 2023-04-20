@@ -27,3 +27,5 @@ tags: Bash
 开源项目地址：https://github.com/onceupon/Bash-Oneliner
 
 开源项目作者：[onceupon](https://github.com/onceupon)
+
+关注我们，一起探索有意思的开源项目。

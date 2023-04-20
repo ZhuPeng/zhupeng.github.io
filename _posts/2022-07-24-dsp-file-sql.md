@@ -29,3 +29,5 @@ SQL 简单好学，应该没有人不懂吧，据我了解不少非技术的工�
 开源项目地址：https://github.com/multiprocessio/dsq
 
 开源项目作者：[multiprocessio](https://github.com/multiprocessio)
+
+关注我们，一起探索有意思的开源项目。

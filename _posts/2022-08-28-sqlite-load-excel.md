@@ -29,3 +29,5 @@ xlite 使用 Rust 开发，目前在 GitHub 有超过 1K+ 的 Star，支持的 E
 开源项目地址：https://github.com/x2bool/xlite
 
 开源项目作者：[x2bool](https://github.com/x2bool)
+
+关注我们，一起探索有意思的开源项目。

@@ -21,3 +21,5 @@ tags: GitHub
 开源项目地址：https://github.com/YeungKC/Hakuba
 
 开源项目作者：[YeungKC](https://github.com/YeungKC)
+
+关注我们，一起探索有意思的开源项目。

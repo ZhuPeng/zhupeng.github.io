@@ -27,3 +27,5 @@ tags: Chrome插件
 开源项目作者：[lcomplete](https://github.com/lcomplete)
 
 插件安装地址：https://chrome.google.com/webstore/detail/simple-outliner-%E6%99%BA%E8%83%BD%E7%BD%91%E9%A1%B5%E5%A4%A7%E7%BA%B2/ppdjhggfcaenclmimmdigbcglfoklgaf
+
+关注我们，一起探索有意思的开源项目。

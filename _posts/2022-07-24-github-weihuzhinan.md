@@ -19,3 +19,5 @@ GitHub 大家都用，但是可能更多的是在里面搜索项目、代码，�
 开源项目地址：https://github.com/eryajf/HowToStartOpenSource
 
 开源项目作者：[eryajf](https://github.com/eryajf)
+
+关注我们，一起探索有意思的开源项目。

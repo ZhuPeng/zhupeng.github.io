@@ -52,3 +52,6 @@ make
 
 ![](https://contrib.rocks/image?repo=go-sonic/sonic)
 
+
+
+关注我们，一起探索有意思的开源项目。

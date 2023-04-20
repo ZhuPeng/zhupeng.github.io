@@ -62,3 +62,6 @@ LEGITIFY_TOKEN=<your_token> legitify analyze --org org1,org2 --namespace organiz
 
 ![](https://contrib.rocks/image?repo=Legit-Labs/legitify)
 
+
+
+关注我们，一起探索有意思的开源项目。

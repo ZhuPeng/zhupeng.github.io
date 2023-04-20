@@ -27,3 +27,5 @@ tags: GitHub&Chrome 插件
 开源项目作者：[riskers](https://github.com/riskers)
 
 Chrome 插件地址：https://chrome.google.com/webstore/detail/githubx/nmcddfeclkbhehidjoadbmkaajoppapo
+
+关注我们，一起探索有意思的开源项目。

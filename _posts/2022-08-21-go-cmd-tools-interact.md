@@ -25,3 +25,5 @@ infinite 目前还是一个新项目，使用 Go 语言开发，虽然 Star 数�
 开源项目地址：https://github.com/fzdwx/infinite
 
 开源项目作者：[fzdwx](https://github.com/fzdwx)
+
+关注我们，一起探索有意思的开源项目。

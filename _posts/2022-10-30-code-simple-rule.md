@@ -37,3 +37,5 @@ tags: 编程规范
 更多详情请查看如下链接：
 
 https://massimo-nazaria.github.io/blog/2022/02/10/avoid-spaghetti-code-with-scope-minimization.html
+
+关注我们，一起探索有意思的开源项目。

@@ -56,3 +56,6 @@ kubectl get svc <RELEASE_NAME>-helm-dashboard
 
 ![](https://contrib.rocks/image?repo=komodorio/helm-dashboard)
 
+
+
+关注我们，一起探索有意思的开源项目。

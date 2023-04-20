@@ -91,3 +91,5 @@ curl -sSL https://github.com/HummerRisk/HummerRisk/releases/latest/download/quic
 开源项目地址：https://github.com/HummerRisk/HummerRisk
 
 开源项目团队：HummerRisk
+
+关注我们，一起探索有意思的开源项目。

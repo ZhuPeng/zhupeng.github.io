@@ -27,3 +27,5 @@ Python 是一门相对容易掌握的编程语言，但是会语法跟拿来做�
 如果你想学习 Python，非常建议你阅读下该书。更多项目详情请查看如下链接。
 
 PDF 地址：http://tinypythonprojects.com/Tiny_Python_Projects.pdf
+
+关注我们，一起探索有意思的开源项目。

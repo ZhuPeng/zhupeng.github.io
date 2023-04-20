@@ -31,3 +31,5 @@ tags: 命令行
 开源项目地址：https://github.com/Swordfish90/cool-retro-term
 
 开源项目作者：[Swordfish90](https://github.com/Swordfish90)
+
+关注我们，一起探索有意思的开源项目。

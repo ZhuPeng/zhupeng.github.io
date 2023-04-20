@@ -35,3 +35,5 @@ https://www.youtube.com/watch?v=gwlDorikqgY
 更多项目详情请查看如下链接。
 
 开源项目地址：https://github.com/remotion-dev/remotion
+
+关注我们，一起探索有意思的开源项目。

@@ -27,3 +27,6 @@ Eric S. Raymond 在 2004 年发表过一篇 How To Ask Questions The Smart Way �
 我认为会提问能够提升问题的解决效率，是每个人都应该具备的基本素质，非常推荐大家去阅读以上文章。
 
 更多详情请查看如下链接：https://mp.weixin.qq.com/s/q461so9lWk4FKJGZ-p7Vcg
+
+
+关注我们，一起探索有意思的开源项目。

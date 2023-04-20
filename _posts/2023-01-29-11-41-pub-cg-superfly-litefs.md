@@ -36,3 +36,6 @@ litefs 目前还是 beta 版本，并不推荐在生产环境内使用。虽然 
 
 ![](https://contrib.rocks/image?repo=superfly/litefs)
 
+
+
+关注我们，一起探索有意思的开源项目。
