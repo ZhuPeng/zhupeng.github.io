@@ -59,3 +59,6 @@ await novu.trigger('<TRIGGER_NAME>', {
 
 ![](https://contributors-img.web.app/image?repo=novuhq/novu)
 
+
+
+关注我们，一起探索有意思的开源项目。

@@ -72,3 +72,6 @@ s3.delete_object(bucket='<your bucket>', key='<object key>')
 
 ![](https://contrib.rocks/image?repo=keyval-dev/odigos)
 
+
+
+关注我们，一起探索有意思的开源项目。

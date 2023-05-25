@@ -37,3 +37,6 @@ tags: 工具
 你觉得这个项目怎么样？更多项目详情请查看如下链接。
 
 插件安装地址：https://chrome.google.com/webstore/detail/tango-screenshots-trainin/lggdbpblkekjjbobadliahffoaobaknh?hl=en
+
+
+关注我们，一起探索有意思的开源项目。

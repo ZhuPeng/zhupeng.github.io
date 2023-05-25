@@ -47,3 +47,6 @@ osv-scanner --lockfile 'requirements.txt:/path/to/your/extra-requirements.txt'
 
 开源项目作者：osv-scanner
 
+
+
+关注我们，一起探索有意思的开源项目。

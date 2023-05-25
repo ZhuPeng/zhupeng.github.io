@@ -6,7 +6,7 @@ tags: Bash&Web
 
 大家好。
 
-100 行代码可以干些什么？如果只是简单批处理一些任务，100 行还是可以干很多的东西的，尤其使用 Python 这种相对高级的语言。但是如果要使用 Bash 这用的语言呢？本身抽象并没有那么高，而且用 Bash 来开发一个 Web Server，真的可以吗？
+100 行代码可以干些什么？如果只是简单批处理一些任务，100 行还是可以干很多的东西的，尤其使用 Python 这种相对高级的语言。但是如果要使用 Bash 这样的语言呢？本身抽象并没有那么高，而且用 Bash 来开发一个 Web Server，真的可以吗？
 
 ![image-20220306214918056](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220306214918056.png)
 

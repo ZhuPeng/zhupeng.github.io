@@ -77,3 +77,6 @@ client.login(YOUR_DISCORD_TOKEN);
 
 ![](https://contrib.rocks/image?repo=m1guelpf/chatgpt-discord)
 
+
+
+关注我们，一起探索有意思的开源项目。
