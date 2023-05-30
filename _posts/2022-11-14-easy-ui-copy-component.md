@@ -1,5 +1,5 @@
 ---
-layout: post
+	layout: post
 title: 太强了！前端 UI 代码也能快速复制粘贴
 tags: 前端
 ---

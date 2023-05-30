@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一款终极视频流应用处理工具
+title: 使用声明式的方式部署你的 Kubernetes 应用
 tags: Go
 ---
 

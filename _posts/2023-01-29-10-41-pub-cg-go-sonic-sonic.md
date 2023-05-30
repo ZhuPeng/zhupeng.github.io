@@ -10,8 +10,8 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/go-sonic/resources/master/logo/logo.svg)
 
-![Default Theme](https://github.com/go-sonic/default-theme-anatole/raw/master/screenshot.png)
-![Console](https://github.com/go-sonic/resources/raw/master/console-screenshot.png)
+![](https://github.com/go-sonic/default-theme-anatole/raw/master/screenshot.png)
+![](https://github.com/go-sonic/resources/raw/master/console-screenshot.png)
 
 sonic 意为声速的、声音的，正如它的名字一样, sonic 致力于成为最快速的开源博客平台。以下是目前 sonic 项目支持的功能：
 
