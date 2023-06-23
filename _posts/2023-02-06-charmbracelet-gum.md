@@ -26,14 +26,14 @@ tags: Go&命令行
 
 1、支持搜索过滤并将结果写入文件
 
-![](/Users/zhupeng/Downloads/filter.gif)
+![](https://camo.githubusercontent.com/91a2a754c42c4922be49ba009983e8734befd3ae1c415cfe17d0878cdea5b0f4/68747470733a2f2f73747566662e636861726d2e73682f67756d2f66696c7465722e676966)
 
 2、确认按钮输入
-![](/Users/zhupeng/Downloads/confirm_2.gif)
+![](https://camo.githubusercontent.com/e55a3f3371335e08446eac4192c9749f6f01eae9f30654360774e29b26705331/68747470733a2f2f73747566662e636861726d2e73682f67756d2f636f6d6d69745f322e676966)
 
 3、支持文件夹浏览
 
-![](/Users/zhupeng/Downloads/file.gif)
+![](https://camo.githubusercontent.com/596a0b5e2015dfec7a8ef761192a0297a13d653727760fcec6447df65460883f/68747470733a2f2f73747566662e636861726d2e73682f67756d2f66696c652e676966)
 
 而要实现以上任何示例都是比较的简单的，如果你喜欢使用命令行，gum 一定是一个你喜欢的工具。
 
@@ -83,7 +83,5 @@ gum 还支持很多的语法，更多项目详情请查看如下链接。
 开源项目地址：https://github.com/charmbracelet/gum  (文末可点击阅读原文)
 
 开源项目作者：gum
-
-
 
 关注我们，一起探索有意思的开源项目。

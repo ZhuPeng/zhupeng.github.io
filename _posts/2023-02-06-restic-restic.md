@@ -57,7 +57,7 @@ restic forget --prune
 
 同时 restic 也支持多种类型的备份后端，目前看还是比较全面的，大家可以根据需要选择。
 
-![image-20230206223551198](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230206223551198.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230206223551198.png)
 
 更多项目详情请查看如下链接。
 

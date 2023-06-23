@@ -8,7 +8,7 @@ tags: Go
 
 今天要给大家推荐一个 GitHub 开源项目 go-faker/faker，该项目在 GitHub 有超过 200 Star，用一句话介绍该项目就是：“Go (Golang) Fake Data Generator for Struct”，用于生成 Go 测试数据的生成器。以下是具体的功能演示：
 
-![Example to use Faker](https://cdn-images-1.medium.com/max/800/1*AkMbxngg7zfvtWiuvFb4Mg.gif)
+![](https://cdn-images-1.medium.com/max/800/1*AkMbxngg7zfvtWiuvFb4Mg.gif)
 
 faker 提供了生成伪数据的功能，这个库可以生成各种类型的伪数据，包括人名、地址、电话号码、电子邮件地址、银行账号等。这些数据可以用于测试、演示和开发等场景。
 

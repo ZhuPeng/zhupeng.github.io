@@ -1,3 +1,8 @@
+---
+layout: post
+title: 下一代爬虫框架
+tags: 爬虫
+---
 
 大家好，又见面了，我是 GitHub 精选君！
 
@@ -5,7 +10,7 @@
 
 ![](https://user-images.githubusercontent.com/8293321/196779266-421c79d4-643a-4f73-9b54-3da379bbac09.png)
 
-![image](https://user-images.githubusercontent.com/8293321/199371558-daba03b6-bf9c-4883-8506-76497c6c3a44.png)
+![](https://user-images.githubusercontent.com/8293321/199371558-daba03b6-bf9c-4883-8506-76497c6c3a44.png)
 
 katana 是一个爬虫工具，具备如下功能，能够高度配置化进行网页抓取，同时支持无浏览器方式的抓取，且对命令行的支持友好，支持通过管道进行输入输出的控制。
 

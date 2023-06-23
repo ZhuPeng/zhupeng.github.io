@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excelize-wasm：Go Excelize库的WebAssembly构建library
+title: Excelize-wasm：在浏览器中操作 Excel 的工具
 tags: Go
 ---
 

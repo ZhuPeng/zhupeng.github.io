@@ -1,18 +1,22 @@
+---
+layout: post
+title: 用于快速搭建通知中心的开源基础设施
+tags: 前端
+---
 
 大家好，又见面了，我是 GitHub 精选君！
 
 今天要给大家推荐一个 GitHub 开源项目 novuhq/novu，该项目在 GitHub 有超过 17.0k Star，用一句话介绍该项目就是：“The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀”，用于快速搭建通知中心的开源基础设施。
 
 ![](https://user-images.githubusercontent.com/8872447/165779274-22a190da-3284-487e-bd1e-14983df12cbb.png)
-![](/Users/zhupeng/Downloads/193887395-f1c95042-b4e6-480e-a89c-a78aa247fa90.gif)
 
 novuhq/novu 是一个基于 JavaScript 的开源项目，它提供了一种简单而强大的方式来构建和管理现代 Web 应用程序。它使用了最新的 Web 技术，如 React 和 GraphQL，并结合了简单的命令行界面，使得开发人员能够快速上手并开始构建应用程序。项目提供了丰富的文档和示例，帮助开发人员了解如何使用它的各种功能。
 
-![image-20230201214147501](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230201214147501.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230201214147501.png)
 
 novu 提供了很多丰富的功能，上手也非常的简单。
 
-![image-20230201214339878](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230201214339878.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230201214339878.png)
 
 通过如下简单的示例就可以实现一个简单的消息通知。
 
