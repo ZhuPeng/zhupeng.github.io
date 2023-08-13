@@ -6,7 +6,7 @@ tags: 云原生
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 kubernetes-sigs/kwok，该项目在 GitHub 有超过 0.4k Star，用一句话介绍该项目就是：“Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.”，支持模拟成千上万个 Kubelet 节点。
+今天要给大家推荐一个 GitHub 开源项目 kubernetes-sigs/kwok，该项目在 GitHub 有超过 0.4k Star，用一句话介绍该项目就是：“Kubernetes WithOut Kubelet -  Simulates thousand	s of Nodes and Clusters.”，支持模拟成千上万个 Kubelet 节点。
 
 ![](https://raw.githubusercontent.com/kubernetes-sigs/kwok/master/./logo/kwok.svg)
 
