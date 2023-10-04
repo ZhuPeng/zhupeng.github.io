@@ -25,11 +25,11 @@ langchain-ChatGLM的主要功能包括：
 - 多模型支持：项目支持使用不同的语言模型，可以根据需求选择合适的模型进行使用。
 - 离线私有化：可以将该问答系统部署在本地环境中，确保数据的安全性和隐私性。
 
-![](https://github.com/chatchat-space/langchain-ChatGLM/raw/master/img/webui_020_0.png)
+![](https://github.com/chatchat-space/langchain-ChatGLM/raw/master/img/webui_0915_0.png)
 
 WebUI 知识库管理页面：
 
-![](https://github.com/chatchat-space/langchain-ChatGLM/raw/master/img/webui_020_1.png)
+![](https://github.com/chatchat-space/langchain-ChatGLM/raw/master/img/webui_0915_1.png)
 
 ###### 如何使用
 
