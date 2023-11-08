@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 只有 100 行的 Web Server 项目，非常值得学习
-tags: Bash&Web
+tags: Bash Web
 ---
 
 大家好。
