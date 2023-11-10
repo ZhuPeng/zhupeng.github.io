@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 实用工具推荐，命令行终端网页分享工具
-tags: Go 相关
+tags: Go
 ---
 
 大家好。

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用于 API 访问的 TOKEN 设计需要考虑什么
-tags: GitHub，安全
+tags: GitHub 安全
 ---
 
 大家好。

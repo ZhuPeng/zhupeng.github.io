@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 交互式命令行工具开发神器
-tags: Go&命令行
+tags: Go 命令行
 ---
 
 大家好。

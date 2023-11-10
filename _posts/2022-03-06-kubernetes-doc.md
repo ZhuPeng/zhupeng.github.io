@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 云原生基础之 Kubernetes 纪录片
-tags: Kubernetes&云原生
+tags: Kubernetes 云原生
 ---
 
 大家好。

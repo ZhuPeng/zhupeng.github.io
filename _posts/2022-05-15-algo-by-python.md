@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用 Python 实现常见算法，涵盖超多算法
-tags: Python&算法
+tags: Python 算法
 ---
 
 大家好。

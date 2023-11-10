@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 见证奇迹的时刻：让你的头像说话
-tags: Python相关
+tags: Python
 ---
 
 大家好，我是你们的章鱼猫。

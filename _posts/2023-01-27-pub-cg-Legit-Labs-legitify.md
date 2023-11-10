@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 自动修复代码仓库中的错误配置和安全风险的工具推荐，越早用越好
-tags: Go&安全
+tags: Go 安全
 ---
 
 大家好，又见面了，我是 GitHub 精选君！

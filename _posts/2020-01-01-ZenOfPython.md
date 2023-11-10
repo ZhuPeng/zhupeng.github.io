@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python 之禅和设计模式
-tags: Python相关
+tags: Python
 ---
 
 # Python 之禅和设计模式

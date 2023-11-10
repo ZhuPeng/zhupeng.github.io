@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 最小化无外部依赖的调度开源库，非常值得学习
-tags: Go&任务调度
+tags: Go 任务调度
 ---
 
 大家好。

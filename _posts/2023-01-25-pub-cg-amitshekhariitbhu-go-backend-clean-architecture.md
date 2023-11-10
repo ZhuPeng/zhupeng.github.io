@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 整洁架构后端应用实践
-tags: Go&架构设计
+tags: Go 架构设计
 ---
 
 大家好，又见面了，我是 GitHub 精选君！

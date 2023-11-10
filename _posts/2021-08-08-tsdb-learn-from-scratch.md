@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从零开始学习系列之时间序列数据库
-tags: Go 相关
+tags: Go
 ---
 
 大家好。

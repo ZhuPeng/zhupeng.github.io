@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python 数据可视化 - Dash
-tags: Python相关
+tags: Python
 ---
 
 # Python 数据可视化 - Dash

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 微信读书必备插件，展示豆瓣可读书籍
-tags: Chrome 插件
+tags: Chrome插件
 ---
 
 大家好。

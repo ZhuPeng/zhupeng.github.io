@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 安装和使用都很简单的压力测试工具
-tags: 工程效率&GO
+tags: 工程效率 GO
 ---
 
 大家好，又见面了，我是 GitHub 精选君！

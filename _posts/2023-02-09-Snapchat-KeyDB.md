@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 兼容 Redis 的高性能数据库 KeyDB
-tags: Redis&数据库
+tags: Redis 数据库
 ---
 
 大家好，又见面了，我是 GitHub 精选君！

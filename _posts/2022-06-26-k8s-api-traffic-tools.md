@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 云原生服务 API 流量可视化工具
-tags: 云原生&Kubernetes&API
+tags: 云原生 Kubernetes API
 ---
 
 大家好。

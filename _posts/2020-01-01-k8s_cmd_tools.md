@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kubernetes 命令行工具系列一
-tags: Go相关
+tags: Go
 ---
 
 如今容器已经无处不在，而 Kubernetes 作为容器的调度引擎，已经被业界公认为标准，而围绕 Kubernetes 开源社区有着众多的小工具来方便我们更好的管理和使用 k8s 集群。

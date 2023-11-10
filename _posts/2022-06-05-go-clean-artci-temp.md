@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Go 语言整洁架构代码模板
-tags: Go&架构设计
+tags: Go 架构设计
 ---
 
 大家好。

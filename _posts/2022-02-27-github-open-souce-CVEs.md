@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub 开源自建的安全漏洞修复建议数据库
-tags: GitHub，安全
+tags: GitHub 安全
 ---
 
 大家好。

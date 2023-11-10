@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用于构建优雅命令行程序的工具推荐
-tags: Go&命令行
+tags: Go 命令行
 ---
 
 大家好，又见面了，我是 GitHub 精选君！

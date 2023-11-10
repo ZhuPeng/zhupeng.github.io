@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有了这个工具前端项目再也不用漫长的等待 npm install 
-tags: Node.js&前端
+tags: Node.js 前端
 ---
 
 大家好。

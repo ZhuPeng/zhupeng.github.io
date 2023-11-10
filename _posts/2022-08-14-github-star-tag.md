@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub 功能增强，给 Star 项目分类的插件
-tags: GitHub&Chrome 插件
+tags: GitHub Chrome插件
 ---
 
 大家好。
