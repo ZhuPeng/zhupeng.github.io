@@ -44,7 +44,7 @@ curl -fsSL https://get.jetpack.io/typeid | bash
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20231019203405526.png)
 
-项目推介
+###### 项目推介
 
 TypeID 项目由 jetpack.io 开发和维护，该团队在开源社区中有很高的活跃度和影响力。项目的开发活跃，社区反馈积极，已经有多个知名的开源项目和公司在使用。如果你在寻找一个类型安全、K-可排序、全局唯一的标识符解决方案，TypeID 无疑是一个值得你关注和尝试的项目。
 
