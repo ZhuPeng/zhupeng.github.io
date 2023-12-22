@@ -18,6 +18,12 @@ tags: 推广
 
 让我们携手共进，让你的开源项目成果被更多人看见，让创新的火花在这里迸发！
 
-如果你有以上需求，欢迎关注如下公众号，通过公众号菜单“商务合作”获取微信与我联系。
+以下是我们最近合作的项目：
+
+* [NeurIPS 2023｜AI Agents 先行者 CAMEL：第一个基于大模型的多智能体框架](https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247488948&idx=1&sn=2e85bb0d93dc81c353d92f1fa6f502aa&chksm=9b3f856cac480c7a21e67487715695c6730b6a058c704b5fb08e3a35c78fda48128a15730d41&token=1311779942&lang=zh_CN#rd)
+
+* [BISHENG 该考虑大模型在企业落地了，一款企业级LLMOps开源！](https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247488290&idx=1&sn=e856b7f3af68b02798e85e38f8486b0f&chksm=9b3f83faac480aec3f6870cf77bc33f3ac3b1aac5036176a57e8ff0a70672dcb622f97492160&token=1311779942&lang=zh_CN#rd)
+
+如果你也有以上需求，欢迎关注如下公众号，通过公众号菜单“商务合作”获取微信与我联系。
 
 ![](https://7465-test-3c9b5e-1258459492.tcb.qcloud.la/qrcode.jpg)
