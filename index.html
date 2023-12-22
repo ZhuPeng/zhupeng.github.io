@@ -4,15 +4,17 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+  {% if post.url contains '-pub-' %}
     <article class="post">    
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.content | truncatewords:6}}
+        {{ post.content | truncatewords:16 | remove: "大家好，又见面了，我是 GitHub 精选君！" | remove: "背景介绍" }}
       </div>
       
       <h2><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">阅读更多</a></h2>
     </article>
+  {% endif %}
   {% endfor %}
 </div>
