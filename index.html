@@ -10,7 +10,7 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.content | truncatewords:16 | remove: "大家好，又见面了，我是 GitHub 精选君！" | remove: "背景介绍" }}
+        {{ post.content | truncatewords:16 | remove: "大家好，又见面了，我是 GitHub 精选君！" | remove: "背景介绍" | remove: "今天要给大家推荐一个 " }}
       </div>
       
       <h2><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">阅读更多</a></h2>
