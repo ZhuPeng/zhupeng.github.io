@@ -13,7 +13,6 @@ tags: Chrome插件
 以下是官方的 DEMO 视频：
 
 <iframe width="100%" height="400" src="https://user-images.githubusercontent.com/396787/156664907-cc458e35-f41b-45ca-91eb-372213812b44.mp4" frameborder="0" allowfullscreen></iframe>
-
 而且使用 SingleFile 的时候体验也非常的好，左下角会实时的展示当前保存网页的进展。
 
 ![image-20220306000032053](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20220306000032053.png)
