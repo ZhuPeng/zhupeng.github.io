@@ -6,7 +6,7 @@ tags:
 
 大家好，又见面了，我是 GitHub 精选君！
 
-######项目背景
+###### 项目背景
 
 在繁琐的开发过程中，我们经常会遇到大量不同的 LLM API 调用需求，例如我们需要在 Bedrock、Azure、OpenAI、Cohere、Anthropic、Ollama、Sagemaker、HuggingFace、Replicate 等 100 多个 LLM 平台之间进行切换，而这些 LLM 开放的 API 可能是完全不同的。对于每个不同的平台，都需要进行额外的 API 输出转换、异常处理和负载均衡等额外操作，不仅消耗了我们大量的时间，而且这无疑给我们的开发过程增加了不必要的复杂性。
 
