@@ -1,23 +1,18 @@
 ---
 layout: post
-title: GitHub 开源项目 ModelTC/lightllm 介绍，LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
+title: 基于 Python 的 LLM 推断和服务框架
 tags: Python
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
 
-今天要给大家推荐一个 GitHub 开源项目 ModelTC/lightllm，该项目在 GitHub 有超过 1.2k Star，用一句话介绍该项目就是：“LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.”。
-
+今天我要介绍的是一个轻量级、易扩展、高性能的大语言模型 (LLM) 推断和服务框架：LightLLM。在大数据和 AI 领域，我们常常会遇到本地资源无法承载大语言模型推断，或者语言模型服务效率低下的问题，那么 LightLLM 就是为了解决这类问题而生的。
 
 ![](https://raw.githubusercontent.com/ModelTC/lightllm/master/assets/lightllm.drawio.png)
 
+LightLLM 在 GitHub 有超过 1.2k Star，是一个基于 Python 的 LLM 推断和服务框架，采用异步协作方式处理 tokenization、模型推断、和 detokenization，大大提高了 GPU 的利用率。LightLLM 包含了诸多特殊设计和优秀特性，包括但不限于 FasterTransformer, TGI, vLLM, 和 FlashAttention。
 
-
-大家好！今天我要介绍的是一个轻量级、易扩展、高性能的大语言模型 (LLM) 推断和服务框架：LightLLM。在大数据和 AI 领域，我们常常会遇到本地资源无法承载大语言模型推断，或者语言模型服务效率低下的问题，那么 LightLLM 就是为了解决这类问题而生的。
-
-LightLLM 是一个基于 Python 的 LLM 推断和服务框架，采用异步协作方式处理 tokenization、模型推断、和 detokenization，大大提高了 GPU 的利用率。LightLLM 包含了诸多特殊设计和优秀特性，包括但不限于 FasterTransformer, TGI, vLLM, 和 FlashAttention。
-
-LightLLM 的特性包括了：
+LightLLM 的特性包括如下：
 - 三进程异步协作：tokenization、模型推断、和 detokenization 异步执行，大大提高了 GPU 利用率。
 - Nopad (Unpad)：提供对多个模型的无填充注意力操作的支持，为处理大长度差异的请求提供了有效办法。
 - 动态批处理：实现了动态批处理调度的功能。
@@ -27,7 +22,9 @@ LightLLM 的特性包括了：
 - 高性能路由器：配合Token Attention 精细管理每个 token 的 GPU 内存，优化系统吞吐量。
 - Int8KV 缓存：这个特性将使 token 的容量接近翻倍。
 
-这个项目已经支持众多知名模型，包括 BLOOM，LLaMA，StarCoder，Baichuan，Yi-34b等等。配套详细的模型列表可以参考项目的 README文件。
+这个项目已经支持众多知名模型，包括 BLOOM，LLaMA，StarCoder，Baichuan，Yi-34b 等等。详细的模型列表如下图所示：
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240220230810497.png)
 
 想要使用 LightLLM，你首先需要满足 Pytorch>=1.3, CUDA 11.8, 以及 Python 3.9 的环境要求。在满足前提条件后，可以通过 pip 安装依赖：
 

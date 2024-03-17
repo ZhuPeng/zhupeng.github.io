@@ -39,7 +39,7 @@ Ansible Semaphore 提供了以下主要功能：
 
 1、安装：根据您的环境选择安装方式，可以通过 Snap 进行安装，运行以下命令：
 
-```
+```bash
 sudo snap install semaphore
 sudo semaphore user add --admin --name "Your Name" --login your_login --email your-email@example.com --password your_password
 ```
