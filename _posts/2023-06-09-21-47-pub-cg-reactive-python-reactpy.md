@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ReactPy - 用Python编写React式用户界面
-tags: All
+tags: Python
 ---
 
 大家好，又见面了，我是 GitHub 精选君！
@@ -40,16 +40,15 @@ ReactPy是一个用于在Python中构建用户界面的库。它提供了与Reac
 2. 使用ReactPy构建界面，例如：
    
    ```python
-   
    from reactpy import component, html, run
    
    @component
    def hello_world():
        return html.h1("Hello, World!")
-   
-run(hello_world)
+     
+   run(hello_world)
    ```
-   
+
 3. 根据需求编写更复杂的界面组件，并配置各个组件的状态和行为。
 
 4. 运行界面，并观察效果。
@@ -71,4 +70,3 @@ run(hello_world)
 ![](https://contrib.rocks/image?repo=reactive-python/reactpy)
 
 关注我们，一起探索有意思的开源项目。
-
