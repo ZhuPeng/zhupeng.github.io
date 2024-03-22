@@ -1,0 +1,71 @@
+---
+layout: post
+title: GitHub 开源项目 Skyvern-AI/skyvern 介绍，Automate browser-based workflows with LLMs and Computer Vision
+tags: Python
+---
+
+大家好，又见面了，我是 GitHub 精选君！
+
+今天要给大家推荐一个 GitHub 开源项目 Skyvern-AI/skyvern，该项目在 GitHub 有超过 1.0k Star，一句话介绍该项目：Automate browser-based workflows with LLMs and Computer Vision
+
+
+
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/skyvern_logo_blackbg.png)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/geico_shu_recording_cropped.gif)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/skyvern-system-diagram-light.png)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/skyvern_visualizer_run_task.png)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/skyvern_visualizer_debug_llm_response.png)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/skyvern_visualizer_debug_action_screenshot.png)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/finditparts_recording_crop.gif)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/edd_services.gif)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/bci_seguros_recording.gif)
+
+![](https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/https://raw.githubusercontent.com/Skyvern-AI/skyvern/master/images/geico_shu_recording_cropped.gif)
+
+
+
+项目背景：
+在当今的信息化社会，我们经常需要通过浏览器进去各种网页进行操作，同时我们也会遇到网页上的一些操作流程繁琐、耗时久的问题。而传统的浏览器自动化工具需要针对每个网站编写定制的脚本，这种方法依赖于网页的 DOM 解析和XPath交互，一旦网站布局发生变化，原先的自动化流程就可能出现问题。因此，我们需要一种能适应网站变化，同时能解决这些问题的工具。
+
+项目介绍：
+推荐这个名为“Skyvern”的 github 开源项目，它主要是利用了大语言模型（LLMs）和计算机视觉技术来自动化浏览器操作流程。Skyvern不仅能解析实时视窗中的项目，创建互动方式，并进行交互，而且可以在从未见过的网站上运行，通过将视觉元素映射到完成工作流所需的操作，无需任何定制代码。更重要的是，Skyvern遇到页面布局变化时，不会像传统的自动化工具那样出现问题，因为它没有预设的 XPaths 或者寻找页面导航需要的其他选择器。Skyvern 通过 LLMs 处理交互来应对更复杂的情况，并且对于网页变化及时准确反应。
+
+如何使用：
+在本地机器上运行Skyvern，首先需要确保你已经正确安装了 Python3.11、Brew（如果你是 Mac 用户）和 Poetry。然后按照以下步骤进行：
+1. 克隆仓库并导航至根目录；
+2. 运行安装脚本以安装必要的依赖项并设置环境；
+3. 启动服务器；
+4. 启动 UI；
+5. 在浏览器中导航至 “http://localhost:8501” 使用 UI。
+
+项目推介：
+Skyvern 是一个非常活跃并且开源的项目，使用了现在最新的大语言模型和计算机视觉技术以实现稳定及可靠的浏览器自动化流程。虽然现在这个项目还在开发阶段，但是根据目前的进展，我相信 Skyvern 在未来会更加强大和便利。并且 Skyvern 也提供了一个线上的版本，如果你希望无需管理基础设施就可以运行 Skyvern，你可以考虑试用这个版本。无论是企业的自动化需求，还是个人的使用需求，Skyvern 都是一个值得尝试的项目。
+
+
+以下是该项目 Star 趋势图（代表项目的活跃程度）：
+
+![](https://api.star-history.com/svg?repos=Skyvern-AI/skyvern&type=Timeline)
+
+更多项目详情请查看如下链接。
+
+开源项目地址：https://github.com/Skyvern-AI/skyvern 
+
+开源项目作者：Skyvern-AI
+
+开源协议：
+
+以下是参与项目建设的所有成员：
+
+![](https://contrib.rocks/image?repo=Skyvern-AI/skyvern)
+
+关注我们，一起探索有意思的开源项目。
+
