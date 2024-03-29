@@ -12,7 +12,7 @@ tags: Go
 
 今天要给大家推荐一个 GitHub 开源项目 projectdiscovery/alterx，该项目在 GitHub 有差不多 1000 Star，用一句话介绍该项目就是：Fast and customizable subdomain wordlist generator using DSL.
 
-![image](https://user-images.githubusercontent.com/8293321/229380735-140d3f25-d0cb-461d-8c49-4c1eff43d1f4.png)
+![](https://user-images.githubusercontent.com/8293321/229380735-140d3f25-d0cb-461d-8c49-4c1eff43d1f4.png)
 
 ###### 项目介绍
 
