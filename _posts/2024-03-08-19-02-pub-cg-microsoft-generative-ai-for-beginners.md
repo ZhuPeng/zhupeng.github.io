@@ -13,7 +13,7 @@ tags: All
 今天要给大家推荐一个 GitHub 开源项目 microsoft/generative-ai-for-beginners，该项目在 GitHub 有超过 28.1k Star，一句话介绍该项目：18 Lessons, Get Started Building with Generative AI 
 
 
-![Generative AI For Beginners](https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/master/./images/repo-thubmnail2.png?WT.mc_id=academic-105485-koreyst)
+![](https://raw.githubusercontent.com/microsoft/generative-ai-for-beginners/master/./images/repo-thubmnail2.png?WT.mc_id=academic-105485-koreyst)
 
 ###### 项目介绍
 

@@ -29,7 +29,6 @@ GPT-SoVITS 是一款强大的少量样本文本转语音的在线 WebUI 工具�
 以下是一个视频示例：
 
 <video src="/Users/zhupeng/Downloads/297098117-05bee1fa-bdd8-4d85-9350-80c060ab47fb.mp4"></video>
-
 ###### 如何使用
 
 用户可以使用 AutoDL Cloud Docker 在线体验全部功能。
