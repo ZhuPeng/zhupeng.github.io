@@ -23,19 +23,19 @@ Devika 是一款智能 AI 软件工程师，可以理解人类的高级指令，
 
 Devika 的主要功能包括支持多种语言模型，具有先进的 AI 计划和推理能力，可以聚焦研究地提取上下文关键词，可以无障碍地浏览网络和收集信息，可以编写多种编程语言的代码，可以追踪和可视化动态代理状态，通过聊天界面进行自然语言的互动等等。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240418230713787.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240418230713787.png)
 
 Devika 旨在改变我们构建软件的方式，为人类提供一个能在最少的人工干预下完成复杂编码任务的 AI 配对程序员。无论您需要创建一个新的功能、修复一个 bug 还是从头开始开发一个全新的项目，Devika 都可以在这里为您提供帮助。
 
 项目组成如下：
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240418230809814.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240418230809814.png)
 
 ###### 如何使用
 
 要开始使用 Devika，我们需要先安装依赖的 Python 包、JavaScript运行环境和 Ollama。具体可参照 README 文档在 Github 上提供的快速启动指南。然后就可以直接在浏览器中通过聊天界面和 Devika 进行互动，让其帮助我们完成软件开发工作。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240418230849223.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240418230849223.png)
 
 ###### 项目推介
 

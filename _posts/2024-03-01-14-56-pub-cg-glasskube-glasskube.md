@@ -10,7 +10,7 @@ tags: Go
 
 在 Kubernetes 的生态环境中，传统的包管理或直接应用 manifest 可能会非常复杂，并不能很好地进行扩展。这种复杂性可能导致安装和升级 Kubernetes 包变得困难，并且难以管理包的依赖关系。此外，对于希望将 GitOps 方法引入其集群的用户，找到能够支持 GitOps 的 Kubernetes 包管理器是一个挑战。
 
-今天要给大家推荐一个 GitHub 开源项目 glasskube/glasskube，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：The missing Package Manager for Kubernetes Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
+今天要给大家推荐一个 GitHub 开源项目 glasskube，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：The missing Package Manager for Kubernetes Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240404214005330.png)
 
@@ -28,7 +28,7 @@ Glasskube 是 Kubernetes 缺失的包管理器，特色是具有 GUI 和 CLI。G
 
 5、中央包存储库：在一个中央存储库中跟踪您的所有包，计划支持自定义存储库的功能。
 
-![](https://github.com/glasskube/operator/assets/3041752/71d0da0c-34ac-40b7-8740-bd2a81ca9f07)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_71d0da0c-34ac-40b7-8740-bd2a81ca9f07.png)
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240404214407142.png)
 

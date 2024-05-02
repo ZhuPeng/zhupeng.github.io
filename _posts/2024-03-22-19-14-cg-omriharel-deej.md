@@ -29,7 +29,7 @@ tags: Go
 对于硬件部分，你只需按照提供的原理图连接滑动器和 Arduino 板。
 软件部分包括在 Arduino 板上运行的 C 程序，以及在电脑后台运行的 Go 客户端。C 程序会不断通过串行接口写入当前滑动器的值，Go客户端会读取串行流并根据给定的配置文件调整应用音量。 
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240418225837191.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240418225837191.png)
 
 ###### 项目推介
 

@@ -10,9 +10,9 @@ tags: Go
 
 随着 Kubernetes 的广泛应用，对 Kubernetes 集群中微服务的管理和监控需要更高效的工具。传统的分析工具需要手动配置，有时对系统的资源占用过大，不仅耗时，而且可能影响系统性能。而我们等待的，是一款能够实时生成 Kubernetes 服务依赖图的工具，它需要能轻松地集成到 Grafana，同时对系统资源的占用尽可能的小。Caretta 实现了这些需求，而且还具备独特的设计理念。
 
-GitHub 开源项目 groundcover-com/caretta，该项目在 GitHub 有超过 1.5k Star，用一句话介绍该项目就是：“Instant K8s service dependency map, right to your Grafana.”。
+![](https://img1.baidu.com/it/u=427357026,1464106704&fm=253&fmt=auto&app=138&f=JPEG?w=844&h=500)
 
-![](https://raw.githubusercontent.com/groundcover-com/caretta/master/images/logo.svg)
+GitHub 开源项目 groundcover-com/caretta，该项目在 GitHub 有超过 1.5k Star，用一句话介绍该项目就是：“Instant K8s service dependency map, right to your Grafana.”。
 
 ![](https://raw.githubusercontent.com/groundcover-com/caretta/master/images/caretta.gif)
 
@@ -22,7 +22,7 @@ Caretta 是一款轻量级的独立工具，能够快速创建出 Kubernetes 集
 
 对应的 Grafana 使用示例图参考如下：
 
-![](https://github.com/groundcover-com/caretta/blob/main/images/screenshot.png?raw=true)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_screenshot.png)
 
 ###### 如何使用
 

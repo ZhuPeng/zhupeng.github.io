@@ -29,7 +29,7 @@ The 01 Project 是一个建设 AI 设备开源生态系统的项目。该项目�
 
 要使用该项目，我们首先需要从 GitHub 上克隆该项目的仓库，然后在相应的源代码目录下进行操作。在 Mac OSX 环境中，我们首先需要安装 portaudio、ffmpeg 和 cmake 这三个第三方依赖库，然后使用 poetry 安装 Python 的依赖。设置好环境变量后即可运行项目。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240418230331578.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240418230331578.png)
 
 对于硬件部分，我们需要参照硬件构建指南来进行硬件的构建。完成硬件构建后，我们还可以通过相应的指南来安装和运行 01 Server，以完成设备的互连。
 

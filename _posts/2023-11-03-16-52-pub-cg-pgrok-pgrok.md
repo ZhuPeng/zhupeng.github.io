@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pgrok - 一个针对小团队的多租户 HTTP/TCP 反向代理解决方案
+title: pgrok - 针对小团队的多租户反向代理
 tags: Go
 ---
 
@@ -10,13 +10,21 @@ tags: Go
 
 在进行软件开发、远程协作和产品测试阶段时，开发团队或许会面临一个问题，如何将本地的开发环境稳定且安全的提供给公网的其他用户进行访问？这其中涉及到了自己搭建反向代理的问题，以及项目如何对接单点登录服务提供商等一系列问题。
 
+![](https://ecloud.eos-guangzhou-1.cmecloud.cn/op-admin-content/dbc290b9b6f049bd96fc167fd3c4b6b3.jpg)
+
 今天要给大家推荐一个 GitHub 开源项目 pgrok/pgrok，该项目在 GitHub 有超过 2.9k Star，用一句话介绍该项目就是：“Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding”。
 
 ![](https://user-images.githubusercontent.com/2946214/227126410-3e9dae19-d0c0-4a96-9040-1322e389c8db.png)
 
 ###### 项目介绍
 
-pgrok 是一个针对小团队的多租户 HTTP/TCP 反向隧道解决方案，它通过 SSH 的远程端口转发技术实现。pgrok 孵化于这样的困境，针对以上的问题，它不仅可以稳定提供子域名给每一个使用者，更加强大的是它可以通过 OIDC 协议接入你的 SSO。可以认为他是 [ngrok 的 $39/用户/月企业版] (https://ngrok.com/pricing) 的简单替代品。pgrok 所需环境包括公网访问的服务器、具有域名、SSO 提供者和 PostgreSQL 数据库服务器。
+pgrok 是一个针对小团队的多租户 HTTP/TCP 反向隧道解决方案，它通过 SSH 的远程端口转发技术实现。pgrok 孵化于这样的困境，针对以上的问题，它不仅可以稳定提供子域名给每一个使用者，更加强大的是它可以通过 OIDC 协议接入你的 SSO。可以认为他是 ngrok 的企业版的简单替代品。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240426230639317.png)
+
+pgrok 所需环境包括公网访问的服务器、具有域名、SSO 提供者和 PostgreSQL 数据库服务器。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240426230657536.png)
 
 以下是 pgrok 的项目流量的交互图：
 
@@ -33,7 +41,7 @@ pgrok 是一个针对小团队的多租户 HTTP/TCP 反向隧道解决方案，�
 ```
 brew install pgrok
 ```
-或者可以从 [Releases] (https://github.com/pgrok/pgrok/releases) 页面下载最新的压缩包。最后，使用以下命令初始化一个 `pgrok.yml` 文件：
+或者可以从 Releases 页面下载最新的压缩包。最后，使用以下命令初始化一个 `pgrok.yml` 文件：
 ```
 pgrok init --remote-addr example.com:2222 --forward-addr http://localhost:3000 --token {YOUR_TOKEN}
 ```
