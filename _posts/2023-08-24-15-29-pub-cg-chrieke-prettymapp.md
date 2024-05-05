@@ -12,13 +12,15 @@ tags: Python
 
 prettymapp 项目在 GitHub 有超过 1.2k Star，用一句话介绍该项目就是：“Create beautiful maps from OpenStreetMap data in a streamlit webapp”。以下是一些创建的示例：
 
-![](https://raw.githubusercontent.com/chrieke/prettymapp/master/./streamlit-prettymapp/example_prints/demo.gif)
-![](https://raw.githubusercontent.com/chrieke/prettymapp/master/./streamlit-prettymapp/example_prints/macau.png)
-![](https://raw.githubusercontent.com/chrieke/prettymapp/master/./streamlit-prettymapp/example_prints/barcelona.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_macau.png)
+
+![](https://raw.githubusercontent.com/chrieke/prettymapp/master/streamlit-prettymapp/example_prints/demo.gif)
 
 ###### 项目介绍
 
  prettymapp 是一个基于 OpenStreetMap 数据创建美观地图的 Python 包和 Web 应用程序。它通过重新设计 prettymaps 项目，提高了速度和简化了配置界面，同时增加了streamlit webapp 组件。prettymapp 提供了多种预设的地图样式，用户可以根据自己的需求进行自定义配置，从而创建出美观的地图。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_barcelona.png)
 
 ###### 如何使用
 

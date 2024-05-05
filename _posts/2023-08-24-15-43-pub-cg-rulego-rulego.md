@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RuleGo - 一个基于 Go 语言的轻量级、高性能、嵌入式规则引擎
+title: 一个轻量级、高性能、嵌入式的规则引擎
 tags: Go
 ---
 
@@ -10,15 +10,23 @@ tags: Go
 
 在处理大量数据时，我们经常需要对数据进行聚合、分发、过滤、转换、丰富和执行各种操作。而 RuleGo 是一个基于 Go 语言的轻量级、高性能、嵌入式规则引擎，可以帮助我们解决这些问题。它可以在低成本设备上高效地处理和链接数据，适用于物联网边缘计算。同时，RuleGo 还是一个灵活、高度可定制的事件处理框架，可以满足高度个性化或频繁变化的业务场景需求。
 
-用一句话介绍 RuleGo 项目就是：“RuleGo is a lightweight, high-performance, embedded rule engine based on Go language.  It can aggregate, distribute, filter, transform, enrich and execute various actions on input messages.”。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_tmp-rulego-aigen.png)
+
+用一句话介绍 RuleGo 项目就是：RuleGo is a lightweight, high-performance, embedded rule engine based on Go language.
 
 ![](https://raw.githubusercontent.com/rulego/rulego/master/doc/imgs/logo.png)
 
 ###### 项目介绍
 
-RuleGo 是一个基于编排的规则引擎，最擅长解耦系统。它采用协程池和对象池等技术，结合 Go 语言的高性能特性，可以在10W 数据处理 JS 脚本过滤-> JS 脚本数据处理-> HTTP 推送的情况下，平均处理时间为 9 秒。同时，RuleGo 支持将自己嵌入到现有项目中，非侵入式地利用其特性。所有业务逻辑都是组件化的，可以灵活配置和重用。你可以灵活地组合和重用不同的组件，以实现高度可定制和可扩展的业务流程。支持规则链的动态编排，你可以将你的业务封装成 RuleGo 组件，通过构建块实现高度变化的业务需求。
+RuleGo 是一个基于编排的规则引擎，最擅长解耦系统。它采用协程池和对象池等技术，结合 Go 语言的高性能特性，可以在10W 数据下使用 JS 脚本过滤，平均处理时间为 9 秒。同时，RuleGo 支持将自己嵌入到现有项目中，非侵入式地利用其特性。所有业务逻辑都是组件化的，可以灵活配置。你可以灵活地组合不同的组件，以实现高度可定制和可扩展的业务流程。支持规则链的动态编排，你可以将你的业务封装成 RuleGo 组件，通过构建块实现高度变化的业务需求。
 
-同时，RuleGo 提供了丰富灵活的扩展接口和钩子，如：自定义组件、组件注册管理、规则链 DSL 解析器、协程池、规则节点消息流入/流出回调、规则链处理结束回调等。支持通过 Go 插件动态加载组件和扩展组件。内置常用组件包括：消息类型切换、JavaScript 切换、JavaScript 过滤器、JavaScript 转换器、HTTP 推送、MQTT 推送、发送电子邮件、日志记录等组件。你也可以自己扩展其他组件。同时，RuleGo 还具有可靠的上下文隔离机制，无需担心高并发情况下的数据流问题。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240429225519244.png)
+
+同时，RuleGo 提供了丰富灵活的扩展接口和钩子，如：自定义组件、组件注册管理、规则链 DSL 解析器、协程池、规则节点消息流入/流出回调、规则链处理结束回调等。支持通过 Go 插件动态加载组件和扩展组件。
+
+![](https://raw.githubusercontent.com/rulego/rulego/main/doc/imgs/architecture.png)
+
+内置常用组件包括：消息类型切换、JS 切换、JS 过滤器、JS 转换器、HTTP 推送、MQTT 推送、发送电子邮件、日志记录等组件。你也可以自己扩展其他组件。同时，RuleGo 还具有可靠的上下文隔离机制，无需担心高并发情况下的数据流问题。
 
 ![](https://raw.githubusercontent.com/rulego/rulego/master/doc/imgs/rulechain/img_4.png)
 
@@ -32,9 +40,11 @@ RuleGo 是一个基于编排的规则引擎，最擅长解耦系统。它采用�
 
 3、在你的代码中引入 RuleGo 包
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230831221419857.png)
+
 4、编写规则链，进行业务处理
 
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230831221419857.png)
+
 
 ![](https://raw.githubusercontent.com/rulego/rulego/master/doc/imgs/rulechain/img_1.png)
 

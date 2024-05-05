@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Interpreter - 可以在命令行终端本地运行的 OpenAI 代码执行器
+title: 在命令行终端本地运行的 OpenAI 代码执行器
 tags: Python
 ---
 
@@ -10,7 +10,7 @@ tags: Python
 
 在我们的日常编程工作中，经常会遇到一些复杂的编程问题，比如创建和编辑图片、视频、PDF 等，控制 Chrome 浏览器进行自动化处理，处理和分析大型数据集等。这些问题需要我们具备丰富的编程知识和经验，而且在解决问题的过程中，我们可能需要花费大量的时间和精力。那么，有没有一种工具，可以帮助我们以自然语言的方式来运行代码，从而更高效地解决这些问题呢？
 
-今天要给大家推荐一个 GitHub 开源项目 KillianLucas/open-interpreter，该项目在 GitHub 有超过 31.3k Star，用一句话介绍该项目就是：“OpenAI's Code Interpreter in your terminal, running locally”。
+今天要给大家推荐一个 GitHub 开源项目 KillianLucas/open-interpreter，该项目在 GitHub 有超过 31.3k Star，用一句话介绍该项目：“OpenAI's Code Interpreter in your terminal, running locally”。
 
 
 ![poster](https://github.com/KillianLucas/open-interpreter/assets/63927363/08f0d493-956b-4d49-982e-67d4b20c4b56)
@@ -19,7 +19,9 @@ tags: Python
 
 Open Interpreter 是 OpenAI 的代码解释器，它可以在你的终端本地运行。这是一个开源的项目，可以让语言模型在你的电脑上运行代码，包括 Python、Javascript、Shell 等。你可以通过一个类似于 ChatGPT 的界面在你的终端与 Open Interpreter 进行交谈。这为你的电脑提供了一个自然语言的接口，可以创建和编辑图片、视频、PDF 等，控制 Chrome 浏览器进行研究，处理和分析大型数据集等。但在运行代码之前，你需要确认代码是否可以运行，避免造成不必要的影响。
 
-DEMO 视频：https://user-images.githubusercontent.com/63927363/264166941-37152071-680d-4423-9af3-64836a6f7b60.mp4
+DEMO 演示视频如下：
+
+<video src="https://user-images.githubusercontent.com/63927363/264166941-37152071-680d-4423-9af3-64836a6f7b60.mp4"></video>
 
 ###### 如何使用
 

@@ -8,28 +8,38 @@ tags: Go
 
 ###### 背景介绍
 
-在日益发展的云计算时代，我们发现了三个重要的趋势：计算能力和存储成本的快速降低，云计算的一部分正在向边缘计算转移，以及消费者数据资产所有权和归属问题被忽视。基于这些趋势，我们提出了一个思考实验：如果在未来五年内，个人云服务能够以不到 100 块的价格提供，那将会是怎样的一种情况？这个个人云服务将为创作者和小型组织提供一个低成本的数据协作解决方案，作为个人数据中心，存储和管理数据。这就是今天要推荐项目 CasaOS。
+在日益发展的云计算时代，我们发现了三个重要的趋势：计算能力和存储成本的快速降低，云计算的一部分正在向边缘计算转移，以及消费者数据资产所有权和归属问题被忽视。基于这些趋势，我们提出了一个思考实验：如果在未来五年内，个人云服务能够以不到 100 块的价格提供，那将会是怎样的一种情况？这个个人云服务将为创作者和小型组织提供一个低成本的数据协作解决方案，作为个人数据中心，存储和管理数据。
 
-CasaOS 项目在 GitHub 有超过 12.9k Star，用一句话介绍该项目就是：“CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.”。
+今天要给大家推荐 CasaOS 项目在 GitHub 有超过 12.9k Star，用一句话介绍该项目就是：“CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.”。
 ![](https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_twilight_blue_800x300.png)
-![](https://raw.githubusercontent.com/IceWhaleTech/CasaOS/master/snapshot-light.jpg)
 
 ###### 项目介绍
 
-CasaOS 是一个简单、易用、优雅的开源个人云系统。它可以控制和连接所有的智能设备，提供跨生态系统的本地智能服务。此外，个人云还可以结合个人数据来训练个性化的 AI 助手。CasaOS 的特点包括：
+CasaOS 是一个简单、易用、优雅的开源个人云系统。它可以控制和连接所有的智能设备，提供跨生态系统的本地智能服务。
 
-- 针对家庭场景设计的友好 UI
-- 支持多种硬件和基础系统
-- 在应用商店中选择的应用，一键安装
-- 轻松安装众多 Docker 应用
-- 优雅的驱动和文件管理
-- 精心设计的系统/应用小部件
+![](https://raw.githubusercontent.com/IceWhaleTech/CasaOS/master/snapshot-light.jpg)
 
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230903222140000.png)
+此外，个人云还可以结合个人数据来训练个性化的 AI 助手。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230903222207433.png)
+
+CasaOS 的特点包括：
+
+1、针对家庭场景设计的友好 UI
+
+2、支持多种硬件和基础系统
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230903222152195.png)
 
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230903222207433.png)
+3、在应用商店中选择的应用，一键安装
+
+4、轻松安装众多 Docker 应用
+
+5、优雅的驱动和文件管理
+
+6、精心设计的系统/应用小部件
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20230903222140000.png)
 
 ###### 如何使用
 
