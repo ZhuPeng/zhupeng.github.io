@@ -28,13 +28,13 @@ Mini-Gemini 项目提供了一系列从 2B 到 34B 的密集型和 MoE 大型语
 
 1、克隆仓库：
 
-```
+```bash
 git clone https://github.com/dvlab-research/MiniGemini.git
 ```
 
 2、安装所需包：
 
-```
+```bash
 conda create -n minigemini python=3.10 -y
 conda activate minigemini
 cd MiniGemini
@@ -44,7 +44,7 @@ pip install -e .
 
 3、若进行训练案例，需安装额外包：
 
-```
+```bash
 pip install ninja
 pip install flash-attn --no-build-isolation
 ```

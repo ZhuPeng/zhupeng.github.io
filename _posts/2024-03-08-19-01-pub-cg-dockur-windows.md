@@ -30,7 +30,9 @@ dockur/windows 的使用方法也非常简单，你只需要通过 docker-compos
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240410220733919.png)
 
-总的来说，dockur/windows 是一个非常活跃的开源项目，它已经获得了大量的关注和好评。如果你需要在 Docker 上运行 Windows，而且你希望这个过程简单、快速，而不用担心复杂的设置和硬件资源的问题，那么我强烈推荐你试试 dockur/windows。
+###### 项目推介
+
+dockur/windows 是一个非常活跃的开源项目，已经获得了大量的关注和好评。如果你需要在 Docker 上运行 Windows，而且你希望这个过程简单、快速，而不用担心复杂的设置和硬件资源的问题，那么我强烈推荐你试试 dockur/windows。
 
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：

@@ -12,7 +12,7 @@ tags: Python
 
 今天要给大家推荐一个 GitHub 开源项目 OpenDevin/OpenDevin，该项目在 GitHub 有超过 16.7k Star，一句话介绍该项目：OpenDevin: Code Less, Make More
 
-![](https://raw.githubusercontent.com/OpenDevin/OpenDevin/master/./logo.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240505223459784.png)
 
 ###### 项目介绍
 
@@ -35,7 +35,6 @@ OpenDevin 是一个能够执行复杂工程任务并能够与用户积极协作�
 以下是一个具体的使用 DEMO：
 
 <video src="/Users/zhupeng/Downloads/318638664-71a472cc-df34-430c-8b1d-4d7286c807c9.webm"></video>
-
 ###### 项目推介
 
 OpenDevin 是一个活跃的开源项目，它旨在开源社区的支持下，复制、增强和超越原始的 Devin 模型。项目团队正在积极开展工作，提供友好的用户界面，稳定的框架，提升 Agent 的能力，建立评估管道等。您可以通过访问项目主页浏览我们的进度，并且项目已经发布了 alpha 版本供用户体验。从长期来看，我们相信这个项目会对我们的编程环境产生显著影响，并可能开创出新的编程范式。

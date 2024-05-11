@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 用 SQLite 重塑 Redis 的技术革新**
+title: 用 SQLite 重塑 Redis 的技术革新
 tags: Go
 ---
 

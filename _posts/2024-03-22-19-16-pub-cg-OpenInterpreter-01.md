@@ -13,7 +13,7 @@ tags: Python
 今天要给大家推荐一个 GitHub 开源项目 OpenInterpreter/01，该项目在 GitHub 有超过 1.2k Star，一句话介绍该项目：The open-source language model computer
 
 
-![OI-O1-BannerDemo-2](https://www.openinterpreter.com/OI-O1-BannerDemo-3.jpg)
+![](https://www.openinterpreter.com/OI-O1-BannerDemo-3.jpg)
 
 ![](https://github.com/OpenInterpreter/01/assets/63927363/52417006-a2ca-4379-b309-ffee3509f5d4)
 

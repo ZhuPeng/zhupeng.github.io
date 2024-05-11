@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub 开源项目 pulumi/pulumi 介绍，Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+title: 使用常用编程语言快速构建云基础设施
 tags: Go
 ---
 
@@ -8,47 +8,23 @@ tags: Go
 
 ###### 背景介绍
 
-今天要给大家推荐一个 GitHub 开源项目 pulumi/pulumi，该项目在 GitHub 有超过 19.8k Star，一句话介绍该项目：Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+在当今这个数字化飞速发展的时代，快速部署和管理复杂的云基础设施成了许多组织面临的一大挑战。随着云服务提供商的种类和服务的增多，如何有效地管理这些资源，同时确保开发效率和资源配置的灵活性，成为了企业云战略中的一项核心议题。大多数现有的工具要么与特定云平台强绑定，要么语法过于繁琐，不利于快速迭代和交叉团队的合作。因此，一个能够跨平台、易于使用，支持多种编程语言的云基础设施即代码（IaC）工具，便成了行业内急需解决的问题。
 
+今天要给大家推荐一个 GitHub 开源项目 pulumi/pulumi，该项目在 GitHub 有超过 19.8k Star，一句话介绍该项目：Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages
 
-
-
-![Watch the video](https://raw.githubusercontent.com/pulumi/pulumi/master//youtube_preview_image.png)
-
-![](https://www.pulumi.com/images/logo/logo-on-white-box.svg?)
-
-![](https://www.pulumi.com/images/get-started.svg?)
-
-![](https://www.pulumi.com/images/docs/quickstart/console.png)
-
-![](https://www.pulumi.com/logos/tech/logo-js.png)
-
-![](https://www.pulumi.com/logos/tech/logo-ts.png)
-
-![](https://www.pulumi.com/logos/tech/logo-python.svg)
-
-![](https://www.pulumi.com/logos/tech/logo-golang.png)
-
-![](https://www.pulumi.com/logos/tech/dotnet.svg)
-
-![](https://www.pulumi.com/logos/tech/java.svg)
-
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240502215144704.png)
 
 ###### 项目介绍
 
-### 背景介绍
+[Pulumi](https://github.com/pulumi/pulumi) 是一个可以通过在任何云上使用熟悉的语言来直观地构建基础设施，提供了一种全新的云基础设施即代码（IaC）解决方案。该项目允许开发者使用其熟悉的编程语言来定义和部署云服务资源，支持包括 AWS、Azure、Google Cloud Platform 和 Kubernetes 在内的 120 多个提供商。
 
-在当今这个数字化飞速发展的时代，快速部署和管理复杂的云基础设施成了许多组织面临的一大挑战。随着云服务提供商的种类和服务的增多，如何有效地管理这些资源，同时确保开发效率和资源配置的灵活性，成为了企业云战略中的一项核心议题。大多数现有的工具要么与特定云平台强绑定，要么语法过于繁琐，不利于快速迭代和交叉团队的合作。因此，一个能够跨平台、易于使用，支持多种编程语言的云基础设施即代码（IaC）工具，便成了行业内急需解决的问题。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240502215328874.png)
 
-### 
+更令人兴奋的是，Pulumi 摆脱了传统 IaC 工具依赖于 YAML 或特定声明性语法的限制，让开发者可以利用循环、函数、类和包管理等标准语言特性，实现更加直观和灵活的基础设施管理方案。
 
-![](https://dalleprodsec.blob.core.windows.net/private/images/813a8abe-2ee6-4350-a6eb-0672c9f26286/generated_00.png?se=2024-04-29T07%3A46%3A59Z&sig=KIRBVhkbOOPWA%2BOtfbq3w5WbgmLPb9wPvjSpXCMkhMg%3D&ske=2024-05-05T04%3A19%3A15Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2024-04-28T04%3A19%3A15Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02)
+![](https://www.pulumi.com/blog/developer-portal-platform-teams/platform-teams.png)
 
-项目介绍
-
-[Pulumi](https://github.com/pulumi/pulumi) 是一个开源项目，旨在通过在任何云上使用熟悉的语言来直观地构建基础设施，提供了一种全新的云基础设施即代码（IaC）解决方案。该项目允许开发者使用其熟悉的编程语言来定义和部署云服务资源，支持包括 AWS、Azure、Google Cloud Platform 和 Kubernetes 在内的 120 多个提供商。更令人兴奋的是，Pulumi 摆脱了传统 IaC 工具依赖于 YAML 或特定声明性语法的限制，让开发者可以利用循环、函数、类和包管理等标准语言特性，实现更加直观和灵活的基础设施管理方案。
-
-### 如何使用
+###### 如何使用
 
 首先，需要安装 Pulumi。在终端中运行以下命令即可：
 
@@ -62,6 +38,7 @@ $ curl -fsSL https://get.pulumi.com/ | sh
 $ mkdir pulumi-demo && cd pulumi-demo
 $ pulumi new hello-aws-javascript
 ```
+
 以 TypeScript 为例，创建三个 Web 服务器的简单例子：
 
 ```typescript
@@ -104,13 +81,11 @@ aws.cloudwatch.onSchedule("daily-yc-snapshot", "cron(30 8 * * ? *)", () => {
 });
 ```
 
-### 项目推介
-
-Pulumi 是开源项目，遵循 Apache 2.0 许可协议，它的开发活跃，社区支持度高。项目不仅支持多种语言（例如 TypeScript、JavaScript、Python
-
-###### 如何使用
-
 ###### 项目推介
+
+Pulumi 遵循 Apache 2.0 许可协议，它的开发活跃，社区支持度高，还提供了很多实用方便上手的教程。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240502215756787.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 
