@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub 开源项目 tailscale/tailscale 介绍，The easiest, most secure way to use WireGuard and 2FA.
+title: 构建简单、高效协同的私有网络工具
 tags: Go
 ---
 
@@ -8,45 +8,48 @@ tags: Go
 
 ###### 背景介绍
 
-今天要给大家推荐一个 GitHub 开源项目 tailscale/tailscale，该项目在 GitHub 有超过 16.7k Star，一句话介绍该项目：The easiest, most secure way to use WireGuard and 2FA.
-
-
-
-
-
-###### 项目介绍
-
-### Tailscale：构建简单、高效语言的私有网络
-
-#### 背景介绍
 在日益增长的数字化世界中，构建一个安全、高效的网络环境成为了每一个组织和个人的需求。随着远程工作和分布式团队的兴起，这一需求更加迫切。传统的 VPN 解决方案，虽然在一定程度上满足了这种需求，但在配置复杂度、安全性和易用性方面，往往不能完全满足用户的期待。尤其是当涉及到设备间的直接通信和多平台支持时，设置和维护变得异常复杂，影响了效率和用户体验。
-
-#### 
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-51c5c56ceaaf26aea0197540d9d0f312.png)
 
-项目介绍
-在这样的背景下， `Tailscale` 应运而生。它基于 `WireGuard ®` 协议，提供了一个私有的网络构建方案，使得创建和管理一个安全、高效的网络变得异常简单。通过 `Tailscale` ，用户可以轻松地在各种设备上建立直接的网络连接，无论这些设备位于何处。不仅如此， `Tailscale` 还内置了两因素认证（2FA），为网络安全层面提供了额外的保障。
+今天要给大家推荐一个 GitHub 开源项目 tailscale，该项目在 GitHub 有超过 16.7k Star，一句话介绍该项目：The easiest, most secure way to use WireGuard and 2FA.
+
+![](https://cdn.sanity.io/images/w77i7m8x/production/fab2bfd901de3d58f7f62d35fe9a5107fedc43c1-1360x725.svg?w=3840&q=75&fit=clip&auto=format)
+
+###### 项目介绍
+
+Tailscale 基于 `WireGuard ®` 协议，提供了一个私有的网络构建方案，使得创建和管理一个安全、高效的网络变得异常简单。通过 `Tailscale` ，用户可以轻松地在各种设备上建立直接的网络连接，无论这些设备位于何处。不仅如此， `Tailscale` 还内置了两因素认证（2FA），为网络安全层面提供了额外的保障。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240510224551789.png)
 
 此外， `Tailscale` 支持各大主流操作系统，包括 Linux、Windows、macOS、iOS 和 Android 设备。这确保了无论是个人用户还是企业用户都能找到适用的解决方案。项目还开源了大部分代码，除了移动平台的 GUI 之外，核心的 `tailscaled` 守护进程和 `tailscale` CLI 工具都可供用户使用和修改。
 
-#### 如何使用
-使用 `Tailscale` 极其简单。首先，用户需在 [pkgs.tailscale.com](https://pkgs.tailscale.com/) 下载适合自己平台的安装包，然后安装即可。对于开发者，若希望从源码构建 `Tailscale` ，可以使用最新版本的 Go 语言进行构建：
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240510224648177.png)
+
+###### 如何使用
+
+首先，用户需在 [pkgs.tailscale.com](https://pkgs.tailscale.com/) 下载适合自己平台的安装包，然后安装即可。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240510224839037.png)
+
+对于开发者，若希望从源码构建 `Tailscale` ，可以使用最新版本的 Go 语言进行构建：
 
 ```bash
 go install tailscale.com/cmd/tailscale{,d}
+
+./build_dist.sh tailscale.com/cmd/tailscale
+./build_dist.sh tailscale.com/cmd/tailscaled
 ```
 
 安装后，根据官方文档快速设置你的 `Tailscale` 网络，就可以开始安全、直接的设备间通信了。
 
-#### 项目推介
-`Tailscale` 是一个备受推崇的项目，它由一个经验丰富的团队开发维护，这个团队不仅致力于提供一个高效的网络解决方案，同时也积极地与社区互动，不断地改进和更新项目。`Tailscale` 已经被众多知名公司和组织采用，这得益于其出色的性能、极简的配置以及超强的兼容性。无论你是想构建一个小团队的私有网络，还是需要为企业部署一个跨地区的网络环境， `Tailscale` 都能提供一个安全、简单、高效的解决方案。
-
-总的来说，如果你在寻找一个能够简化网络配置、提升通信安全性的方案， `Tailscale` 绝对值得一试。
-
-###### 如何使用
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240510224908887.png)
 
 ###### 项目推介
+
+`Tailscale` 团队不仅致力于提供一个高效的网络解决方案，同时也积极地与社区互动，不断地改进和更新项目。`Tailscale` 已经被众多知名公司和组织采用，这得益于其出色的性能、极简的配置以及超强的兼容性。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240510225035662.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 

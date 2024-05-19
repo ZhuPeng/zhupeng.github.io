@@ -10,7 +10,7 @@ tags: Python
 
 在前端编程中，我们如何更快地构建更好的用户界面一直是一个重要而复杂的问题。使用 JavaScript（如 React）开发前端应用是常见的选择，然而这需要我们深入学习和理解新的编程语言和工具。此外，前后端开发通常需要复制和粘贴组件到每个视图中，这与开发效率和代码可维护性相悖。
 
-今天要给大家推荐一个 GitHub 开源项目 pydantic/FastUI，该项目在 GitHub 有超过 6.3k Star，一句话介绍该项目：Build better UIs faster.
+今天要给大家推荐一个 GitHub 开源项目 FastUI，该项目在 GitHub 有超过 6.3k Star，一句话介绍该项目：Build better UIs faster.
 
 
 ![](https://raw.githubusercontent.com/pydantic/FastUI/main/screenshot.png)
@@ -22,6 +22,8 @@ FastUI 是一个以 Python 代码定义 Web 应用程序用户界面的新方法
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240410220002620.png)
 
 FastUI 主要包括四部分：`fastui` PyPI 包、`@pydantic/fastui` npm 包、`@pydantic/fastui-bootstrap` npm 包和 `@pydantic/fastui-prebuilt` npm 包。在 FastUI 的核心是一套匹配的 Pydantic 模型和 TypeScript 接口，这些接口在构建时由 TypeScript 和 pyright/mypy，在运行时由 Pydantic 进行验证。
+
+![image-20240511223411980](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511223411980.png)
 
 ###### 如何使用
 

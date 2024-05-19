@@ -10,10 +10,12 @@ tags: Go
 
 在编程生涯中，几乎每一个开发者都会遇到这个痛点：如何方便、快速地搭建和配置开发环境。想象一个场景，在新的工作环境或者新的项目开始时，你可能需要花费大量的时间用来安装依赖包、配置环境变量、解决版本冲突问题等等，巨大的精力消耗在这些繁琐的工作上，而不是专注于开发工作本身。这个问题在远程工作中更为突出，你可能要应对网络问题、权限问题等更多未知的问题。因此，一个方便、快速的开发环境管理器就显得尤为重要。
 
-今天要给大家推荐一个 GitHub 开源项目 daytonaio/daytona，该项目在 GitHub 有超过 4.2k Star，一句话介绍该项目：The Open Source Dev Environment Manager.
+今天要给大家推荐一个 GitHub 开源项目 daytona，该项目在 GitHub 有超过 4.2k Star，一句话介绍该项目：The Open Source Dev Environment Manager.
 
 
 ![](https://github.com/daytonaio/daytona/raw/main/assets/images/Daytona-logotype-black.png)
+
+使用示例参考如下：
 
 ![](https://github.com/daytonaio/daytona/raw/main/assets/images/daytona_demo.gif)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: prettymapp - 一个创建个性化地图展示的工具
+title: 一个创建个性化地图展示的工具
 tags: Python
 ---
 
@@ -10,9 +10,13 @@ tags: Python
 
 在我们的日常生活中，我们经常需要查看地图来获取位置信息或者规划路线。然而，传统的地图界面可能显得单调乏味，难以满足用户的审美需求。此时，prettymapp 这个开源项目就能派上用场了。
 
-prettymapp 项目在 GitHub 有超过 1.2k Star，用一句话介绍该项目就是：“Create beautiful maps from OpenStreetMap data in a streamlit webapp”。以下是一些创建的示例：
-
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_macau.png)
+
+prettymapp 项目在 GitHub 有超过 2.2k Star。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240508225231380.png)
+
+一句话介绍该项目：“Create beautiful maps from OpenStreetMap data in a streamlit webapp”。以下是一些创建的示例：
 
 ![](https://raw.githubusercontent.com/chrieke/prettymapp/master/streamlit-prettymapp/example_prints/demo.gif)
 

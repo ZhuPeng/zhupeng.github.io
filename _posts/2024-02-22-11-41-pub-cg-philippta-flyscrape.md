@@ -22,11 +22,21 @@ flyscrape 是一个使用 Go 语言开发的独立且可脚本化的网络爬虫
 
 ###### 如何使用
 
-安装 flyscrape 非常方便，你可以通过其安装脚本直接安装，只需要在命令行中输入：`curl -fsSL https://flyscrape.com/install | bash`。此外，macOS 用户还可以通过 homebrew 进行安装：`brew install flyscrape`。另外，该项目还在发布页面提供了已预编译的可执行文件，支持 MacOS，Linux 和 Windows 平台。你也可以通过源代码自行编译：安装 Go 后，在命令行中输入`go install github.com/philippta/flyscrape/cmd/flyscrape@latest`即可。
+安装 flyscrape 非常方便，你可以通过其安装脚本直接安装，只需要在命令行执行相应命令。此外，macOS 用户还可以通过 homebrew 进行安装。另外，该项目还在发布页面提供了已预编译的可执行文件，支持 MacOS，Linux 和 Windows 平台。当然你也可以通过源代码自行编译。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240330204443362.png)
 
-使用 flyscrape 更简单，你只需要编写一段 JavaScript，将你的抓取规则及所需字段进行配置并导出，然后在命令行中运行`flyscrape run yourScript.js`即可开始抓取。你也可以通过命令行参数对抓取进行配置，例如执行`flyscrape run yourScript.js --url "http://other.com"`以指定抓取的 URL 地址。
+使用 flyscrape 更简单，你只需要编写一段 JavaScript，将你的抓取规则及所需字段进行配置并导出，然后在命令行中运行命令即可开始抓取。
+
+```bash
+flyscrape run yourScript.js
+```
+
+你也可以通过命令行参数对抓取进行配置，例如指定抓取的 URL 地址。
+
+```bash
+flyscrape run yourScript.js --url "http://other.com"
+```
 
 以下是一个抓取 HackerNews 的示例：
 

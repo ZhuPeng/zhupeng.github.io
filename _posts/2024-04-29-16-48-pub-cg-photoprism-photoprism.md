@@ -42,10 +42,6 @@ PhotoPrism 是由一个独立的团队完全自资开发的，这保证了它的
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240504225256543.png)
 
-###### 如何使用
-
-###### 项目推介
-
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 
 ![](https://api.star-history.com/svg?repos=photoprism/photoprism&type=Timeline)

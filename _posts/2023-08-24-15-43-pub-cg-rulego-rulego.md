@@ -112,6 +112,8 @@ RuleGo 是一个基于编排的规则引擎，最擅长解耦系统。它采用�
 
 RuleGo是一个非常优秀的开源项目，它的开发活跃度很高，已经获得了很多开发者的认可和使用。它还被一些知名公司和业内知名人士推荐使用。如果你需要一个高性能、灵活、可定制的规则引擎，RuleGo 将是一个非常好的选择。
 
+![](https://stats.deeptrain.net/repo/rulego/rulego)
+
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 
 ![](https://api.star-history.com/svg?repos=rulego/rulego&type=Timeline)
