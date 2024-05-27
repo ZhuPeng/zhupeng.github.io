@@ -10,13 +10,15 @@ tags: Go
 
 作为一名使用 Kubernetes 的工程师，我们经常会遇到跨多个 Kubernetes 集群进行资源管理的问题。这是一个常见而又困扰许多工程师的问题。传统的 Kubernetes Federation v2 让我们可以通过联合类资源 FederatedDeployment、FederatedReplicaSet、FederatedSecret 等来管理多集群的 K8s 资源。但是，这其中仍然存在诸多局限性，例如 API 的不兼容性、资源管理能力有限等问题。
 
-今天要给大家推荐一个 GitHub 开源项目 kubewharf/kubeadmiral，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：Multi-Cluster Kubernetes Orchestration.
+今天要给大家推荐一个 GitHub 开源项目 kubeadmiral，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：Multi-Cluster Kubernetes Orchestration.
 
 ![](https://raw.githubusercontent.com/kubewharf/kubeadmiral/master/./docs/images/arch.png)
 
 ###### 项目介绍
 
 KubeAdmiral 是一个适用于 Kubernetes 的多集群管理系统。它在 Kubernetes Federation v2 的基础上进行了扩展，同时还扩展了 Kubernetes Federation v2 的 API，并提供了与 Kubernetes 原生 API 的兼容性以及更强大的资源管理能力。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240515221320574.png)
 
 KubeAdmiral 增加了以下新功能：
 
@@ -32,7 +34,7 @@ KubeAdmiral 增加了以下新功能：
 
 ###### 如何使用
 
-想了解如何使用 KubeAdmiral 可以参考 [Quickstart](https://github.com/kubewharf/kubeadmiral/blob/main/docs/quickstart.md) 快速入门文档来进行安装与初始化的操作。对于代码示例，你可以直接在项目的 Github 页面找到。 
+想了解如何使用 KubeAdmiral 可以参考快速入门文档来进行安装与初始化的操作。对于代码示例，你可以直接在项目的 GitHub 页面找到。 
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240406175758244.png)
 

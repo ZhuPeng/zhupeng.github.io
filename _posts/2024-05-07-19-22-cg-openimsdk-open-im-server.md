@@ -51,7 +51,7 @@ https://docs.openim.io/guides/gettingStarted/dockerCompose
 
 以下是大致的产品示例：
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240511233145095.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511233145095.png)
 
 ###### 推荐理由
 

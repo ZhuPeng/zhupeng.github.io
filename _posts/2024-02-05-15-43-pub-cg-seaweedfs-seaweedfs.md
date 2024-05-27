@@ -10,7 +10,9 @@ tags: Go
 
 在大规模数据存储和处理的背景下，我们常常会遇到如何有效、高效地存储和访问亿级别的小文件的问题。一方面，传统的单机存储无法胜任大规模文件的存储；另一方面，常见的分布式文件系统，如 HDFS、Ceph 等，在处理小文件存储时，往往因为元数据管理压力大、数据访问效率低等问题，难以满足需求。为此，需要一种能够解决这些问题的分布式存储系统。
 
-今天要给大家推荐一个 GitHub 开源项目 seaweedfs/seaweedfs，该项目在 GitHub 有超过 20.1k Star，用一句话介绍该项目就是：SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering.
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240518223417306.png)
+
+今天要给大家推荐一个 GitHub 开源项目 seaweedfs，该项目在 GitHub 有超过 21.2k Star，用一句话介绍该项目就是：SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering.
 
 ![](https://raw.githubusercontent.com/seaweedfs/seaweedfs/master/note/seaweedfs.png)
 
@@ -26,7 +28,18 @@ SeaweedFS 的核心理念是将文件及其元数据的管理从中心 Master �
 
 ###### 如何使用
 
-SeaweedFS 的安装和使用非常方便，我们可以简单地通过 Docker 安装和启动：`docker run -p 8333:8333 chrislusf/seaweedfs server -s3`。另外，还可以通过从项目的 GitHub Release 页面下载最新的二进制文件 `weed` 或 `weed.exe`，然后运行 `weed server -dir=/some/data/dir -s3` 来启动一个 master、一个 volume server、一个 filer 和一个 S3 gateway。同时，还可以通过执行 `weed volume -dir="/some/data/dir2" -mserver=":9333" -port=8081` 来添加更多的 volume server，以实现集群的扩展。
+SeaweedFS 的安装和使用非常方便，我们可以简单地通过 Docker 安装和启动。另外，还可以通过从项目的 GitHub Release 页面下载最新的二进制文件。同时，还可以通过命令来添加更多的 volume server，以实现集群的扩展。
+
+```bash
+docker run -p 8333:8333 chrislusf/seaweedfs server -s3
+
+# download release weed
+weed server -dir=/some/data/dir -s3
+
+weed volume -dir="/some/data/dir2" -mserver=":9333" -port=8081
+```
+
+更详细的参考如下图：
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240319224817297.png)
 

@@ -49,13 +49,13 @@ tags: Go
 
 5、若需要为特定的 Node.js 版本安装全局工具（如 yarn），只需在切换至该版本后执行相应的 npm 安装命令。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240511231815980.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511231815980.png)
 
 ###### 项目推介
 
 `NVM for Windows` 已经成为 Windows 上众多 Node.js 开发者的首选版本管理工具。不仅如此，多家知名公司和组织已经开始在其开发流程中采用 `NVM for Windows` 来管理 Node.js 环境，极大地提升了开发效率和流程的灵活性。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240511231914082.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511231914082.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 

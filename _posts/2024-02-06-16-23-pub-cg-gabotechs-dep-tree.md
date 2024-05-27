@@ -10,7 +10,13 @@ tags: Go
 
 能够清晰可视化地理解和管理代码库的依赖关系，以保持代码的整洁和解耦是大型项目开发中的一项挑战。往往项目的规模庞大，代码遍布各个案，复杂的依赖关系容易造成代码的混乱和硬耦合，这也是众多开发者会遇到的问题。
 
-今天要给大家推荐一个 GitHub 开源项目 gabotechs/dep-tree，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240518223542588.png)
+
+今天要给大家推荐一个 GitHub 开源项目 dep-tree，该项目在 GitHub 有差不多 1.2k Star
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240518224127359.png)
+
+一句话介绍该项目：tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240319225126848.png)
 

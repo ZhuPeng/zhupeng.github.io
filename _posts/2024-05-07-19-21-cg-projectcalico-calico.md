@@ -21,7 +21,7 @@ tags: Go
 
 [Project Calico](https://github.com/projectcalico/calico) 是一个旨在提供一套针对容器、虚拟机和裸机环境的云原生网络和网络安全解决方案。Calico 支持多种数据平面技术，包括 eBPF、标准 Linux、Windows 和 VPP ，具备良好的跨环境互操作性。它为用户提供了优化的性能表现、可扩展的架构，并引入了高级的安全特性，如细粒度访问控制和 WireGuard 加密。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240511232155533.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511232155533.png)
 
 关键特点如下：
 
@@ -35,7 +35,7 @@ tags: Go
 
 **5、先进的网络安全**：提供细粒度的访问控制和加密。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240511232255721.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511232255721.png)
 
 ###### 如何使用
 
@@ -54,7 +54,7 @@ watch kubectl get pods -n calico-system
 
 Calico 作为最广泛采用的容器网络和安全解决方案之一，目前已经在全球 166 个国家的 800 万+ 节点上被采用。它拥有一个活跃的开发者和用户社区，超过 300 名贡献者来自全球各大知名公司。除此之外，Calico 提供了丰富的培训资源和文档，以及定期的社区会议，促进用户之间的交流和知识共享。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240511232555469.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511232555469.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 

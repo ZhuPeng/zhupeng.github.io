@@ -18,7 +18,7 @@ b、提供帮助器以将副作用隔离到延迟执行的函数（IO）中；
 
 c、公开一致的组合集，以从现有函数创建新函数。
 
-GitHub：https://github.com/IBM/fp-go
+开源项目地址：https://github.com/IBM/fp-go
 
 更多介绍：https://mp.weixin.qq.com/s?biz=MzAwMzE5NzM2Nw==&mid=2247488245&idx=1&sn=79fc0f03ccd552695dfa46b9381c782d&chksm=9b3f822dac480b3bdeac3def9058788928fd4fa426e22f472358d1cbf44c3eb16b920a6c8fd9&token=1240254177&lang=zh_CN&poc_token=HCc742WjWsp9wWOevTs7DV0hNdPNTKR1YxVMoRO9
 
@@ -28,7 +28,7 @@ GitHub：https://github.com/IBM/fp-go
 
 ko 是一个简单且快速的 Go 应用的容器镜像构建工具，它主要解决上述在构建 Go 应用的过程中遇到的问题。ko 非常适合你的镜像包含一个 Go 应用，而且没有依赖于 OS 基础镜像的情况（比如，没有 cgo，没有 OS 包依赖）。ko 通过在你的本地机器上有效地执行 `go build` 来构建镜像，因此无需安装 docker，尤其适合轻量级的 CI/CD 使用场景。除此之外，ko 还支持简单的 YAML 模板，可以方便地实现 Kubernetes 应用的部署。
 
-GitHub：https://github.com/ko-build/ko
+开源项目地址：https://github.com/ko-build/ko
 
 更多介绍：https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247489125&idx=1&sn=f81baefdb3ff1cab24a4279d53dfe00e&chksm=9b3f86bdac480fabf30d4233dd16a83b6b102280ea7a6d92fcac38405c18316710d5e9ef535a&token=1240254177&lang=zh_CN#rd
 
@@ -38,7 +38,7 @@ GitHub：https://github.com/ko-build/ko
 
 Kor 是基于 Golang 开发的一款工具，主要功能为探察和发现 Kubernetes 中未使用的资源。Kor 能够发现并列出的未使用资源包括：ConfigMaps、Secrets、Services、ServiceAccounts、Deployments、StatefulSets、Roles、HPAs、PVCs、Ingresses、PDBs 等。有了 Kor，管理员可以更好地感知和掌控 Kubernetes 集群的资源使用情况，从而做到更为精细和有效的资源管理。
 
-GitHub：https://github.com/yonahd/kor
+开源项目地址：https://github.com/yonahd/kor
 
 更多介绍：https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247488954&idx=1&sn=b68c277db5121e61b0e74c99f69425b4&chksm=9b3f8562ac480c7425407b56498ff3352a4050d46b0ec4a472523d456df5237dd1bc36e008be&token=1240254177&lang=zh_CN#rd
 

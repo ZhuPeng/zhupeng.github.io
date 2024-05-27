@@ -34,7 +34,7 @@ Homebox 是一个为家庭用户打造的库存和组织系统。在我们的日
 
 Homebox 项目提供了一个简单易用的库存管理系统，可以帮助用户轻松地记录和管理家庭物品。该系统具有多种功能，包括添加、编辑、删除、搜索和分类等。此外，Homebox 还提供了一个用户友好的界面，使用户可以轻松地浏览和管理他们的库存。
 
-GitHub：https://github.com/hay-kot/homebox
+开源项目地址：https://github.com/hay-kot/homebox
 
 更多介绍：https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247487985&idx=1&sn=94793540daa6f2db74f5a65c1e95d9b0&chksm=9b3f8129ac48083f9197aff587a2140d6fc3b4c1871553a1302979098490b1109480e16114e0&token=1240254177&lang=zh_CN#rd
 

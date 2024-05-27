@@ -13,7 +13,7 @@ for a in h['article']:
     # TODO: content_url 在微信编辑器里面过不了认证
     md += '**%d、%s**\n\n%s\n\n相关文章：[%s](%s)\n\n' % (cnt, title, a['abstract'], title, a['content_url'])
     cnt += 1
-print md
+print(md)
 
 # __biz=MzA3MzE4ODY0Mg==&mid=2455983934&idx=1&sn=5f5b29c014dc177a80801268cb644e91&chksm=88852373bff2aa65a4198a4689bf7f7213890f2b59cd88a6322d96f3a9beccddb25225efc0ca&token=1259041873&lang=zh_CN#rd
 
