@@ -8,23 +8,25 @@ tags: Go
 
 ###### 背景介绍
 
-在大数据和云计算的背景下，Kubernetes（K8s）已经成为了集群管理的业界标准。然而，在大型多租户的环境中，如何合理、高效地管理这些集群却成为了一个问题。不同的集群可能需要运行不同版本的 Kubernetes，同时为了避免集群间的相互影响，我们往往要为每一个项目或者用户创建一个新的集群，这导致了资源的巨大浪费。另一方面，如果只用命名空间隔离租户，可能无法提供足够的多租户隔离和集群级别的资源。
+在大数据和云计算的背景下，Kubernetes 已经成为了集群管理的业界标准。然而，在大型多租户的环境中，如何合理、高效地管理这些集群却成为了一个问题。不同的集群可能需要运行不同版本的 Kubernetes，同时为了避免集群间的相互影响，我们往往要为每一个项目或者用户创建一个新的集群，这导致了资源的巨大浪费。另一方面，如果只用命名空间隔离租户，可能无法提供足够的多租户隔离和集群级别的资源。
 
-今天要给大家推荐一个 GitHub 开源项目 loft-sh/vcluster，该项目在 GitHub 有超过 4.5k Star，一句话介绍该项目：vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+今天要给大家推荐一个 GitHub 开源项目 vcluster，该项目在 GitHub 有超过 5.8k Star，一句话介绍该项目：vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240326231241968.png)
 
 ###### 项目介绍
 
-vCluster 是一个创新的开源解决方案，它提供给我们全功能的虚拟 Kubernetes 集群。vCluster 本身就运行在底层 K8s 集群的一个命名空间中，这样就可以实现在命名空间级别的资源隔离，同时，vCluster 可以提供比单纯的命名空间更好的多租户和隔离性，因为它允许用户使用 CRDs、命名空间、集群角色等集群范围的资源。同时，vCluster 集群创建方便，使用简单，拥有良好的隔离性和高效的成本优势，并且它基于超快的 k3s 分布，每个虚拟集群的开销极小。vCluster 不仅可以在单一 host 集群中测试不同的 Kubernetes 版本，还支持许多其他特性，如支持不同的存储后端（SQLite、MySQL、PostgreSQL 和 ETCD）、插件、可定制的同步行为等。
+vCluster 是一个创新的开源解决方案，它提供给我们全功能的虚拟 Kubernetes 集群。vCluster 本身就运行在底层 K8s 集群的一个命名空间中，这样就可以实现在命名空间级别的资源隔离，同时，vCluster 可以提供比单纯的命名空间更好的多租户和隔离性，因为它允许用户使用 CRDs、命名空间、集群角色等集群范围的资源。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240326231349256.png)
+
+同时，vCluster 集群创建方便，使用简单，拥有良好的隔离性和高效的成本优势，并且它基于超快的 k3s 分布，每个虚拟集群的开销极小。vCluster 不仅可以在单一 host 集群中测试不同的 Kubernetes 版本，还支持许多其他特性，如支持不同的存储后端（SQLite、MySQL、PostgreSQL 和 ETCD）、插件、可定制的同步行为等。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240326231408657.png)
 
 ###### 如何使用
 
-使用 vCluster 引导程序 (CLI)，我们可以很容易地创建 vCluster。第一步，我们需要下载 vCluster CLI。使用以下的命令：
+使用 vCluster 引导程序 (CLI)，我们可以很容易地创建 vCluster。第一步，我们需要下载 vCluster CLI。使用以下命令：
 
 ```bash
 curl -L -o vcluster "https://github.com/loft-sh/vcluster/releases/latest/download/vcluster-darwin-amd64" && sudo install -c -m 0755 vcluster /usr/local/bin

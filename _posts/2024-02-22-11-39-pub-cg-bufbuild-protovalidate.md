@@ -10,9 +10,9 @@ tags: Go
 
 现代软件开发环境中，保证数据的完整性和一致性是一个重要的问题，尤其是跨网络甚至不同语言环境下的通信。谷歌的 Protocol Buffer 提供了一种跨平台、跨语言的通信协议，然而在默认情况下，它不会对数据进行任何形式的验证，这就要求开发人员在客户端和服务器端都进行相应的数据验证工作，这无疑增加了开发的复杂度。
 
-今天要给大家推荐一个 GitHub 开源项目 bufbuild/protovalidate，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases!
+今天要给大家推荐一个 GitHub 开源项目 protovalidate，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases!
 
-![](https://raw.githubusercontent.com/bufbuild/protovalidate/master/./.github/buf-logo.svg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240522225837064.png)
 
 ###### 项目介绍
 
@@ -63,7 +63,7 @@ message Product {
 
 ###### 项目推介
 
-如果你正在使用 Protocol Buffer 并且想要确保数据的完整性和一致性，那么 `protovalidate` 无疑是一个不二之选。它是 [`bufbuild`](https://github.com/bufbuild) 组织中的一个项目，该组织一直为 Protocol Buffer 的使用提供了很多有用的工具。此外，`protovalidate` 支持多种语言，并且有持续更新的趋势，你不仅可以现在就使用，还可以期待它未来的发展。
+如果你正在使用 Protocol Buffer 并且想要确保数据的完整性和一致性，那么 `protovalidate` 无疑是一个不二之选。它是 bufbuild 组织中的一个项目，该组织一直为 Protocol Buffer 的使用提供了很多有用的工具。此外，`protovalidate` 支持多种语言，并且有持续更新的趋势，你不仅可以现在就使用，还可以期待它未来的发展。
 
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：

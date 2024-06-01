@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows 开发者首选的 Node.js 版本管理工具
+title: 开发者首选的 Node.js 版本管理工具
 tags: Go
 ---
 

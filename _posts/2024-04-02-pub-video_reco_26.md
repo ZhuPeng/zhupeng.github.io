@@ -8,6 +8,8 @@ tags: 视频
 
 ######  1、高效处理小文件的分布式存储系统
 
+[高效处理小文件的分布式存储系统](https://www.bilibili.com/video/BV1ry411a7zy/)
+
 SeaweedFS 是一款快速的分布式存储系统，主要用于 blob、对象、文件和数据湖的存储。基于 Apache License 开源，它设计之初，就是为了解决上述问题 -- 高效处理小文件。
 
 开源项目地址：https://github.com/seaweedfs/seaweedfs
@@ -15,6 +17,8 @@ SeaweedFS 是一款快速的分布式存储系统，主要用于 blob、对象�
 更多介绍：https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247490274&idx=1&sn=78a9bf9445df75d7e9240004449a5705&chksm=9b3f8a3aac48032c6ab99db7a4c67ec94b58ce15f7631af58b88e9899e21713d42308f08b534#rd
 
 ###### 2、保持代码整洁和解耦的效率工具
+
+[保持代码整洁和解耦的效率工具](https://www.bilibili.com/video/BV1bs421w7NM/)
 
 dep-tree 是一个以可视化形式展示代码库的 '熵'（混乱程度）的工具，通过 3D 力导向图形展示出文件之间的依赖关系。代码库的解耦和模块化程度越高，生成的图形就会越分散。你甚至可以通过创建自己的规则然后利用 dep-tree 检查来确保代码库的解耦程度。
 
@@ -34,4 +38,6 @@ KubeAdmiral 是一个适用于 Kubernetes 的多集群管理系统。它在 Kube
 
 如果觉得我们的视频还不错的话，欢迎大家一键三连关注我们，我们也会做更多有意思的视频。
 
-公众号快速添加小程序：https://github.com/ZhuPeng/mp-transform-public
+GitHub 必备插件：https://github.com/ZhuPeng/github_linker*
+
+公众号快速添加小程序插件：https://github.com/ZhuPeng/mp-transform-public

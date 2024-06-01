@@ -49,12 +49,11 @@ curl -sL https://plandex.ai/install.sh | bash
 以下是一个具体的使用示例视频：
 
 <video src="/Users/zhupeng/Downloads/Intro_to_Plandex-vimeo-926634577-hls-fastly_skyfire_sep-642.mp4"></video>
-
 ###### 项目推介
 
 无论是个人开发者还是技术企业，都可以从 Plandex 的使用中获得显著的生产力提升，特别是在处理需要跨文件、多步骤的复杂软件开发任务时。同时，Plandex 对新技术的快速适配、对开发流程优化的深入思考，以及通过沙盒环境安全地积累更改，再加上其版本控制系统，都显示了该项目在实际应用中的高可靠性和实用性。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240510225741787.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240510225741787.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 

@@ -10,13 +10,15 @@ tags: Python
 
 在日常生活和工作中，我们时常面临大量本地信息资料（PDF、Doc 等）需要关联理解和处理。频繁地切换区分文件格式，加上需要跨语言理解的环境下，如何找到一个准确、快速、可靠地处理文件的解决方案恍若眼前一道难题。这个问题非常现实，也非常复杂，我们需要一个强大且可靠的工具来解决这个问题。
 
-今天要给大家推荐一个 GitHub 开源项目 netease-youdao/QAnything，该项目在 GitHub 有超过 1.7k Star，一句话介绍该项目：Question and Answer based on Anything.
+今天要给大家推荐一个 GitHub 开源项目 QAnything，该项目在 GitHub 有超过 9.6k Star，一句话介绍该项目：Question and Answer based on Anything.
 
 ![](https://raw.githubusercontent.com/netease-youdao/QAnything/master/docs/images/qanything_logo.png)
 
 ###### 项目介绍
 
-`QAnything`(**Q**uestion and **A**nswer based on **Anything**) 是一个本地化的知识库问答系统，可以支持大量的文件格式和数据库，并允许离线安装和使用。在 `QAnything` 的帮助下，你只需要简单地操作本地储存的文件，无论文件格式如何，都能收到精确、快捷、可靠的答案。
+QAnything (Question and Answer based on Anything) 是一个本地化的知识库问答系统，可以支持大量的文件格式和数据库，并允许离线安装和使用。在 QAnything 的帮助下，你只需要简单地操作本地储存的文件，无论文件格式如何，都能收到精确、快捷、可靠的答案。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240521223014540.png)
 
 这个项目的主要功能包括：
 
@@ -27,7 +29,9 @@ tags: Python
 - 用户友好，无需复杂配置，一键安装部署，开箱即用
 - 多知识库问答支持，支持选择多个知识库进行问答
 
-以下是系统的架构：
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240521223035862.png)
+
+以下是对应的系统架构图：
 
 ![](https://raw.githubusercontent.com/netease-youdao/QAnything/master/docs/images/qanything_arch.png)
 

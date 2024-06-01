@@ -10,18 +10,16 @@ tags: Go
 
 在微服务开发过程中，我们常常遇到各类问题。例如，REST 默认的标准难以践行、在企业级规模上的挑战、数据库状态管理、错误管理等等。以往，我们需要手动进行配置、对各个部分进行维护和测试。但随着 `Gofr` 的出现，这一切都可以得到解决。 
 
-今天要给大家推荐一个 GitHub 开源项目 gofr-dev/gofr，该项目在 GitHub 有差不多 1000 Star，用一句话介绍该项目就是：“An opinionated Go framework for accelerated microservice development”。
+今天要给大家推荐一个 GitHub 开源项目 gofr，该项目在 GitHub 有差不多 1000 Star，用一句话介绍该项目就是：“An opinionated Go framework for accelerated microservice development”。
 
 
 ![](https://github.com/gofr-dev/gofr/assets/44036979/916fe7b1-42fb-4af1-9e0b-4a7a064c243c)
 
 ###### 项目介绍
 
-`Gofr` 是一个有见地的 Go 微服务开发框架。虽然可以使用 Gofr 编写通用应用程序，但我们主要关注的是简化微服务的开发。我们将专注于在 Kubernetes 中部署，并渴望提供开箱即用的可观察性。这个项目已经被列入 CNCF Landscape (https://landscape.cncf.io/?selected=go-fr)。
+`Gofr` 是一个有见地的 Go 微服务开发框架。虽然可以使用 Gofr 编写通用应用程序，但我们主要关注的是简化微服务的开发。我们将专注于在 Kubernetes 中部署，并渴望提供开箱即用的可观察性。这个项目已经被列入 CNCF Landscape。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20231230202758858.png)
-
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20231230202813747.png)
 
 `Gofr` 的主要优势和特点包括：
 
@@ -53,9 +51,11 @@ tags: Go
 
 14、内置跟踪、度量和日志。
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20231230202813747.png)
+
 ###### 如何使用
 
-如果你已经有一个 go 项目支持 go mod，你可以通过调用 `go get gofr.dev` 来获取 gofr。如果你是一个新的 Go 项目从，你可以在一个空文件夹里初始化你的 go 模块，比如 `go mod init test-service`。然后创建 `main.go` 文件，输入以下内容：
+如果你已经有一个 go 项目支持 go mod，你可以通过调用 `go get gofr.dev` 来获取 gofr。如果你是一个新的 Go 项目，你可以在一个空文件夹里初始化你的 go 模块，比如 `go mod init test-service`。然后创建 `main.go` 文件，输入以下内容：
 
 ```go
 package main
@@ -72,7 +72,14 @@ func main() {
     app.Start()
 }
 ```
-接着获取所有的依赖，例如 `go get ./...`。然后启动服务器 `go run main.go`。会在默认的 8000 端口上启动服务器。
+接着获取所有的依赖，然后启动服务器，会在默认的 8000 端口上启动服务器。
+
+```bash
+go get gofr.dev
+go mod init test-service  
+go get ./...   # Get all deps
+go run main.go  # Start Server
+```
 
 ###### 项目推介
 

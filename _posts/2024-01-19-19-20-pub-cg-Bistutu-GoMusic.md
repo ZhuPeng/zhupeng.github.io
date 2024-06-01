@@ -10,7 +10,7 @@ tags: Go
 
 在数字音乐平台林立的今天，我们会面临一个十分痛苦的尴尬现象——向其他音乐平台迁移自己的歌单。考虑到每个平台都有自己的独家资源、特色推荐以及用户体验，这都使得我们不可避免的会使用多个平台。这就导致我们的喜爱歌曲、精心策划的音乐都散落在各个平台，给我们带来极大的不便。
 
-今天要给大家推荐一个 GitHub 开源项目 Bistutu/GoMusic，该项目在 GitHub 有差不多 1000 Star，用一句话介绍该项目就是：“迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music”。
+今天要给大家推荐一个 GitHub 开源项目 GoMusic，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：迁移网易云/QQ音乐歌单至 Apple/Youtube/Spotify Music
 
 ![](https://raw.githubusercontent.com/Bistutu/GoMusic/master/misc/images/0.png)
 
@@ -32,7 +32,11 @@ cd GoMusic
 go build &&./GoMusic
 ```
 
-也可以通过使用在线网址的方式使用：https://music.unmeta.cn/
+也可以通过使用在线网址的方式使用
+
+```bash
+https://music.unmeta.cn/
+```
 
 使用 GoMusic 相较简单，参考如下：
 

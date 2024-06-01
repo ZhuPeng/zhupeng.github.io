@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Golang 的超快安全轻量级的 Actor 引擎
+title: Go 语言超快安全轻量级的 Actor 引擎
 tags: Go
 ---
 
@@ -10,7 +10,7 @@ tags: Go
 
 在编写高并发的分布式系统时，常常会遇到许多挑战，如如何优化系统性能、如何降低系统应用延迟、怎样在遇到错误和故障时保证系统的稳健性等问题。为了克服这些挑战，卡尔·惠特在 1973 年引入了 Actor 模型。Actor 模型是一种计算模型，最基本的构建单位是 Actor，每一个 Actor 独立运行，通过发送接收消息与其他 Actor 交互，这种方式可以使系统具有高度的并发性和分布性。
 
-今天要给大家推荐一个 GitHub 开源项目 anthdm/hollywood，该项目在 GitHub 有差不多 1000 Star，用一句话介绍该项目就是：“Blazingly fast and light-weight Actor engine written in Golang”。
+今天要给大家推荐一个 GitHub 开源项目 hollywood，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：Blazingly fast and light-weight Actor engine written in Golang.
 
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240122212439503.png)
@@ -23,7 +23,13 @@ tags: Go
 
 ###### 如何使用
 
-如果你想要安装 Hollywood， 只需要简单指令 `go get github.com/anthdm/hollywood/...`。为了更好的理解如何使用 Hollywood ，以下是一个示例：
+如果你想要安装 Hollywood， 只需要执行以下简单指令。
+
+```bash
+go get github.com/anthdm/hollywood/...
+```
+
+为了更好的理解如何使用 Hollywood ，以下是一个示例：
 
 创建一条 Hello world 消息。你可以先新建一个 actor 简单终端打印消息，然后通过 Hollywood 的引擎 API 发送你的消息给 actor。以下是示例代码：
 

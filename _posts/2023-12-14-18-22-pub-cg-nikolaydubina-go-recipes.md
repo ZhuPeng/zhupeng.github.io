@@ -10,7 +10,7 @@ tags: Go
 
 在今天的互联网时代，开源技术已经成为了推进技术发展的重要力量，开源项目更是为社区和公司提供了丰富的共享资源。然而，对于很多开发者来说，不断涌现的开源项目和新工具让他们头疼不已。如何找到并有效利用这些资源是一个亟待解决的问题。
 
-今天要给大家推荐一个 GitHub 开源项目 go-recipes，该项目在 GitHub 有超过 3.1k Star，用一句话介绍该项目就是：“Tools for Go projects”。
+今天要给大家推荐一个 GitHub 开源项目 go-recipes，该项目在 GitHub 有超过 3.8k Star，一句话介绍该项目：Tools for Go projects
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240113193236862.png)
 
@@ -32,7 +32,7 @@ tags: Go
 
 2、生成代码覆盖率的工具 go-cover-treemap
 
-![](https://raw.githubusercontent.com/nikolaydubina/go-recipes/master/./img/hugo-code-coverage.svg)
+![image-20240523234747897](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240523234747897.png)
 
 3、代码依赖分析工具 modgraphviz
 

@@ -10,7 +10,7 @@ tags: Python
 
 随着科技的发展和全球化的进程，我们经常遇到需要处理多语种文档的情况，例如商业合同、学术论文等。然而，当前主流的 OCR（Optical Character Recognition 光学字符识别）工具或许可以精准地识别英文文本，但对其他语种的文本识别能力却略显薄弱。此外，真实世界的文档常常包含表格、图表等复杂布局，充斥着线性、非线性排列的文本，这也增加了文本识别的难度。因此，我们急需一个精确度高、支持多语种、能智能识别文本和表格的 OCR 工具。
 
-今天要给大家推荐一个 GitHub 开源项目 VikParuchuri/surya，该项目在 GitHub 有超过 3.5k Star，一句话介绍该项目：Accurate line-level text detection and recognition (OCR) in any language.
+今天要给大家推荐一个 GitHub 开源项目 surya，该项目在 GitHub 有超过 7.1k Star，一句话介绍该项目：Accurate line-level text detection and recognition (OCR) in any language.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240310224630135.png)
 

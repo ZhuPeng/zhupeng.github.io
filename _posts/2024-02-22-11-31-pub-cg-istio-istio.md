@@ -10,7 +10,7 @@ tags: Go
 
 在微服务架构中，服务间的连接、安全、控制和监控是任何系统开发者和维护者都需要面临的问题。随着服务的增多和系统的复杂性增长，这些问题益发复杂和繁琐，如何有效地解决这些问题，成为了困扰开发者的拦路虎。
 
-今天要给大家推荐一个 GitHub 开源项目 istio/istio，该项目在 GitHub 有超过 34.4k Star，一句话介绍该项目：Connect, secure, control, and observe services.
+今天要给大家推荐一个 GitHub 开源项目 istio，该项目在 GitHub 有超过 34.4k Star，一句话介绍该项目：Connect, secure, control, and observe services.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240330201821461.png)
 

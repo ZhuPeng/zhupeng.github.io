@@ -22,13 +22,15 @@ Glasskube 是 Kubernetes 缺失的包管理器，特色是具有 GUI 和 CLI。G
 
 2、自动化更新：Glasskube 确保您的 Kubernetes 包和应用始终是最新的，最小化维护的手动努力。
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_71d0da0c-34ac-40b7-8740-bd2a81ca9f07.png)
+
 3、依赖关系的识别：我们理解 Kubernetes 包的相互关联性。Glasskube 智能地管理依赖关系。
 
 4、与 ArgoCD 或 Flux 的 GitOps 无缝集成：可无缝地将 Glasskube 集成到您的 GitOps 工作流中，支持像 ArgoCD 或 Flux 这样的流行工具。
 
 5、中央包存储库：在一个中央存储库中跟踪您的所有包，计划支持自定义存储库的功能。
 
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_71d0da0c-34ac-40b7-8740-bd2a81ca9f07.png)
+
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240404214407142.png)
 
@@ -52,9 +54,9 @@ glasskube bootstrap
 glasskube serve
 ```
 
-此命令将在默认浏览器中打开 [`http://localhost:8580`](http://localhost:8580)。恭喜您，现在您可以浏览和安装我们所有可用的包! 
+此命令将在默认浏览器中打开 localhost:8580。恭喜您，现在您可以浏览和安装我们所有可用的包! 
 
-![](https://github.com/glasskube/glasskube/assets/16959694/f8b936ca-7b58-4e2b-8845-17da089f2384)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240520231815395.png)
 
 ###### 项目推介
 

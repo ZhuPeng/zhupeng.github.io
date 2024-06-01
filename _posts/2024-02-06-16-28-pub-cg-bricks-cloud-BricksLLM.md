@@ -10,7 +10,7 @@ tags: Go
 
 我们通常会遇到调用 AI 网关的问题，例如你需要调用 OpenAI，Azure OpenAI 或者 Anthropic 进行特定的开发工作，但是这些 AI 服务提供商并没有提供细粒度的访问控制，这里的访问控制包括：访问的频率限制、花费限制以及会话的存在时间限制等。如果不加以控制，这可能会导致服务调用成本无法控制，甚至有数据安全风险。
 
-今天要给大家推荐一个 GitHub 开源项目 bricks-cloud/BricksLLM，该项目在 GitHub 有差不多 1000 Star，用一句话介绍该项目就是：Enterprise grade API infrastructure that helps you access control and mange spend across OpenAI, Azure OpenAI and Anthropic. 
+今天要给大家推荐一个 GitHub 开源项目 BricksLLM，该项目在 GitHub 有差不多 1000 Star，一句话介绍该项目：Enterprise grade API infrastructure that helps you access control and mange spend across OpenAI, Azure OpenAI and Anthropic. 
 
 ![](https://raw.githubusercontent.com/bricks-cloud/BricksLLM/master/./assets/bricks-logo.png)
 
@@ -28,11 +28,11 @@ BricksLLM 的主要功能包括：速率限制、成本控制、成本分析、�
 
 ###### 如何使用
 
-BricksLLM 安装和使用的最简单方法是通过 [BricksLLM-Docker](https://github.com/bricks-cloud/BricksLLM-Docker)。首先克隆 `BricksLLM-Docker` 仓库，然后使用 docker compose up 启动即可。
+BricksLLM 安装和使用的最简单方法是通过 BricksLLM-Docker。首先克隆 BricksLLM-Docker 仓库，然后使用 docker compose up 启动即可。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240320222408924.png)
 
-之后是创建提供商设置和 `Bricks API key`。然后，你就可以像平常那样使用 `OpenAI`，将你的请求引向 `BricksLLM`.
+之后是创建提供商设置和 Bricks API key。然后，你就可以像平常那样使用 OpenAI，将你的请求引向 `BricksLLM`.
 
 这个过程涉及代码操作如下：
 

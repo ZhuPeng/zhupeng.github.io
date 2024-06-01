@@ -10,7 +10,7 @@ tags: Go
 
 测试工作中，你是否遇到过在生产中突然出现 nil 空值 panic（程序崩溃）的问题？这些问题出现的时间点往往是在编译之后而非之前，给我们的开发工作带来了极大的不便。如果我们能在编译时期就发现这些潜在的问题，那将更为理想。
 
-今天要给大家推荐一个 GitHub 开源项目 uber-go/nilaway，该项目在 GitHub 有超过 2.3k Star，用一句话介绍该项目就是：“Static Analysis tool to detect potential Nil panics in Go code”。
+今天要给大家推荐一个 GitHub 开源项目 nilaway，该项目在 GitHub 有超过 2.8k Star，一句话介绍该项目：Static Analysis tool to detect potential Nil panics in Go code.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240306224914777.png)
 
@@ -20,13 +20,13 @@ NilAway 融合了尖端的静态分析技术，能够有效追踪和检测到潜
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240306224951628.png)
 
-相比于标准的 [nilness 分析器](https://pkg.go.dev/golang.org/x/tools/go/analysis/passes/nilness)，NilAway 具有以下三大优点：
+相比于标准的 nilness 分析器，NilAway 具有以下三大优点：
 
-1、**全自动**：NilAway 内嵌一个推理引擎，不需要开发者提供额外的代码注释或者信息
+1、全自动：内嵌一个推理引擎，不需要开发者提供额外的代码注释或者信息
 
-2、**快捷**：NilAway 的速度快，适应性强，适合大型代码库使用，在启用 NilAway 时，观察到构建时间的增加不超过5%。同时后续会不断对其进行优化，以降低 its footprint
+2、快捷：速度快，适应性强，适合大型代码库使用，在启用 NilAway 时，观察到构建时间的增加不超过5%。同时后续会不断对其进行优化，以降低 its footprint
 
-3、**实用**：NilAway 并不能预防你的代码中的所有 nil panic，但在大部分我们在生产环境中遇到的潜在 nil panic，NilAway 都可以检测到，保持了良好的平衡在使用性和构建时间开销之间。
+3、实用：NilAway 并不能预防你的代码中的所有 nil panic，但在大部分我们在生产环境中遇到的潜在 nil panic，NilAway 都可以检测到，保持了良好的平衡在使用性和构建时间开销之间。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240306225152778.png)
 
@@ -36,11 +36,7 @@ NilAway 融合了尖端的静态分析技术，能够有效追踪和检测到潜
 
 ```shell
 go install go.uber.org/nilaway/cmd/nilaway@latest
-```
-
-然后运行 lint 命令：
-```shell
-nilaway ./...
+nilaway ./...  # run in code dir
 ```
 
 NilAway 也为你提供了很多有用的示例和详尽的使用文档，可以帮助你快速上手和解决问题。
