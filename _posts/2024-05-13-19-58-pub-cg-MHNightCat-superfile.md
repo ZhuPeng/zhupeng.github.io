@@ -13,9 +13,9 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-204a35df5921676ba81d7dea36c2b55a.png)
 
-今天要给大家推荐一个 GitHub 开源项目 MHNightCat/superfile，该项目在 GitHub 有超过 2.6k Star。
+今天要给大家推荐一个 GitHub 开源项目 superfile，该项目在 GitHub 有超过 3.9k Star。
 
-![](https://stats.deeptrain.net/repo/MHNightCat/superfile)
+![](https://stats.deeptrain.net/repo/yorukot/superfile)
 
 一句话介绍该项目：Pretty fancy and modern terminal file manager
 
@@ -51,11 +51,11 @@ Superfile 自开源以来，受到了广泛的关注和支持。项目的开发�
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 
-![](https://api.star-history.com/svg?repos=MHNightCat/superfile&type=Timeline)
+![](https://api.star-history.com/svg?repos=yorukot/superfile&type=Timeline)
 
 更多项目详情请查看如下链接。
 
-开源项目地址：https://github.com/MHNightCat/superfile 
+开源项目地址：https://github.com/yorukot/superfile
 
 开源项目作者：MHNightCat
 
