@@ -19,7 +19,7 @@ tags: Go
 一句话介绍该项目：Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 
 
-![screenshots](https://raw.githubusercontent.com/jeessy2/ddns-go/master/ddns-web.png)
+![](https://raw.githubusercontent.com/jeessy2/ddns-go/master/ddns-web.png)
 
 
 ###### 项目介绍
