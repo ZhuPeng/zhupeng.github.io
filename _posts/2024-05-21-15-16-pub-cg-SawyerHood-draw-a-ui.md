@@ -19,7 +19,7 @@ tags:
 一句话介绍该项目：Draw a mockup and generate html for it
 
 
-![A demo of the app](https://raw.githubusercontent.com/SawyerHood/draw-a-ui/master/./demo.gif)
+![](https://raw.githubusercontent.com/SawyerHood/draw-a-ui/master/./demo.gif)
 
 
 ###### 项目介绍

@@ -10,6 +10,8 @@ tags: Python
 
 在当今信息爆炸的社会，大量的数据充斥着我们的生活。每天都有海量的资料以各种格式生成，如 Word、slides、excel、txt、图片、扫描件、结构化数据、网页等。这些文档在大多数情况下具有复杂并且不规则的格式，使得从中提取关键信息变得极其困难。这种情况下，一个能深入理解文档并提供真实问答能力的系统就显得非常必要。
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240604230222920.png)
+
 今天要给大家推荐一个 GitHub 开源项目 infiniflow/ragflow，该项目在 GitHub 有超过 1.2k Star，一句话介绍该项目：RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 ![](https://raw.githubusercontent.com/infiniflow/ragflow/master/web/src/assets/logo-with-text.png)
@@ -18,11 +20,15 @@ tags: Python
 
 [RAGFlow](https://demo.ragflow.io) 是一个开源的基于深入文档理解的 RAG (Retrieval-Augmented Generation) 引擎。它提供了一种简洁的 RAG 工作流，适用于任何规模的业务，结合了大型语言模型 (LLM)，能够提供基于多种复杂格式数据的真实问答能力。
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240603222403300.png)
+
 RAGFlow 的主要特点包括：
 
 1、深入理解基于复杂格式的非结构化数据的知识提取，能“在无限令牌的数据海洋中找到针”。
 
 2、提供了丰富且智能的模板选择，支持基于模板的文档切割。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240603222429132.png)
 
 3、通过文本切割的可视化减少错觉，可以快速查看关键引用，支持有依据的答案。
 

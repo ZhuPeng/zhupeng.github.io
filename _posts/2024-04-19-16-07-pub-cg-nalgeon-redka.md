@@ -10,9 +10,11 @@ tags: Go
 
 在日益复杂的数据处理场景中，Redis 以其高性能和灵活性被广泛应用于缓存、消息队列等多个领域。然而，随着数据量的激增，单纯依赖内存的存储方式暴露出一些短板，例如数据持久化、事务支持等方面的需求越来越强烈。尤其是对于小型团队或者项目来说，寻求一种低成本、易维护同时能够提供类似 Redis 功能的解决方案成为一项挑战。
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240603222044133.png)
+
 今天要给大家推荐一个 GitHub 开源项目 nalgeon/redka，该项目在 GitHub 有超过 2.0k Star，一句话介绍该项目：Redis re-implemented with SQLite
 
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240424223951948.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240604225444949.png)
 
 ###### 项目介绍
 
@@ -27,6 +29,8 @@ Redka 旨在用 SQLite 重实现 Redis 的核心功能，同时保持与 Redis A
 4、支持进程内（Go API）和独立（RESP）服务器两种模式；
 
 5、实现 Redis 兼容的命令和协议，无缝迁移既有项目。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240424223951948.png)
 
 Redka 支持 Redis 的五种核心数据类型：字符串、列表、集合、哈希表和有序集合，并为这些类型提供了丰富的操作命令。
 
