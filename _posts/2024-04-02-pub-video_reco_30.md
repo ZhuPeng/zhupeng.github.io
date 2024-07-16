@@ -18,6 +18,8 @@ vCluster 是一个创新的开源解决方案，它提供给我们全功能的�
 
 ###### 2、Go 超快安全轻量级的 Actor 引擎
 
+[Go 超快安全轻量级的 Actor 引擎](https://www.bilibili.com/video/BV1gn4y197Rw/)
+
 Hollywood 是一个基于 Golang 的超快安全轻量级的 Actor 引擎项目。它是为快速和低延迟的应用程序（如游戏服务器，广告代理商，交易引擎等）而构建的，能在一秒内处理超过 1000 万的消息。Hollywood 的主要特性包括消息在 Actor 失败时的可靠传输 (缓冲机制)、忘却式或请求响应式消息传送，采用高性能的 dRPC 作为运输层、优化的 proto 缓冲区（没有反射）、轻量级和高度可定制、集群支持等。
 
 开源项目地址：https://github.com/anthdm/hollywood
@@ -25,6 +27,8 @@ Hollywood 是一个基于 Golang 的超快安全轻量级的 Actor 引擎项目�
 更多介绍：https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247489647&idx=1&sn=78b66d76491dc095a7b110ac7a832655&chksm=9b3f88b7ac4801a171535f20a604b0428654262e1f2620ad703821553a19d7793daa6a4a8edb#rd
 
 ###### 3、更快更安全的全新 SSH3 协议
+
+
 
 SSH3 项目是 SSH 协议的全新改造。基于 HTTP 的机制，使用 QUIC+TLS1.3 进行安全通道的建立，使用 HTTP 授权机制进行用户认证。
 

@@ -10,7 +10,9 @@ tags: Go
 
 在电子商务、广告投放、大数据分析等领域，通过用户的 IP 地址来获取和分析其地理位置信息，是一种常见操作。然而这样就存在一个问题，我们需要一个具有高效 IP 地址查询功能的工具，可以快速查找出 IP 地址对应的具体地点，否则用户可能花费大量时间在处理和分析这些 IP 数据上。
 
-今天要给大家推荐一个 GitHub 开源项目 lionsoul2014/ip2region，该项目在 GitHub 有超过 15.4k Star，一句话介绍该项目：Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240608221818718.png)
+
+今天要给大家推荐一个 GitHub 开源项目 ip2region，该项目在 GitHub 有超过 16.2k Star，一句话介绍该项目：Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240417223827390.png)
 
@@ -30,16 +32,16 @@ Ip2region 是一个离线 IP 地址管理框架和定位器，巧妙地解决了
 from xdbSearcher import XdbSearcher
 
 def searchWithFile():
-    # 1. 创建查询对象
+    # 1. create query object
     dbPath = "../../data/ip2region.xdb"
     searcher = XdbSearcher(dbfile=dbPath)
     
-    # 2. 执行查询
+    # 2. exec query
     ip = "1.2.3.4"
     region_str = searcher.searchByIPStr(ip)
     print(region_str)
     
-    # 3. 关闭searcher
+    # 3. close searcher
     searcher.close()
 ```
 ###### 项目推介

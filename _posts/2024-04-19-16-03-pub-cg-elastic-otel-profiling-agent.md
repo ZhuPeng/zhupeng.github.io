@@ -10,7 +10,9 @@ tags: Go
 
 在生产级数据中心进行应用性能分析时，实现低开销、高效准确的程序性能分析是个极具挑战的问题。特别是在复杂的服务环境下，需要跨语言、跨系统进行全面的性能剖析，以便于快速准确地定位性能瓶颈。常规的性能分析工具要么侵入性太强、要么难以提供足够深度的信息、要么运行成本过高。在不打扰现有服务运行的前提下，进行细粒度性能分析一直是工程师们面临的一个核心痛点。
 
-今天要给大家推荐一个 GitHub 开源项目 elastic/otel-profiling-agent，该项目在 GitHub 有超过 1.3k Star，一句话介绍该项目：The production-scale datacenter profiler
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240608222240167.png)
+
+今天要给大家推荐一个 GitHub 开源项目 otel-profiling-agent，该项目在 GitHub 有超过 2.1k Star，一句话介绍该项目：The production-scale datacenter profiler
 
 ![](https://raw.githubusercontent.com/elastic/otel-profiling-agent/master/./docs/devfiler.png)
 

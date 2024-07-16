@@ -12,13 +12,13 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240604230222920.png)
 
-今天要给大家推荐一个 GitHub 开源项目 infiniflow/ragflow，该项目在 GitHub 有超过 1.2k Star，一句话介绍该项目：RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+今天要给大家推荐一个 GitHub 开源项目 ragflow，该项目在 GitHub 有超过 9k Star，一句话介绍该项目：RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 
 ![](https://raw.githubusercontent.com/infiniflow/ragflow/master/web/src/assets/logo-with-text.png)
 
 ###### 项目介绍
 
-[RAGFlow](https://demo.ragflow.io) 是一个开源的基于深入文档理解的 RAG (Retrieval-Augmented Generation) 引擎。它提供了一种简洁的 RAG 工作流，适用于任何规模的业务，结合了大型语言模型 (LLM)，能够提供基于多种复杂格式数据的真实问答能力。
+RAGFlow 是一个开源的基于深入文档理解的 RAG (Retrieval-Augmented Generation) 引擎。它提供了一种简洁的 RAG 工作流，适用于任何规模的业务，结合了大型语言模型 (LLM)，能够提供基于多种复杂格式数据的真实问答能力。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240603222403300.png)
 

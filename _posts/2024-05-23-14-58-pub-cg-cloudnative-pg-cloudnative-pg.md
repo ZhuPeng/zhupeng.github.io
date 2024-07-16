@@ -18,21 +18,21 @@ tags: Go
 
 一句话介绍该项目：CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240606225835271.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240606225835271.png)
 
 ###### 项目介绍
 
 **CloudNativePG** 是一个开源的综合平台，旨在 Kubernetes 环境中无缝管理 PostgreSQL 数据库，涵盖从初始部署到持续维护的整个操作生命周期。该项目由 EDB 最初构建和赞助。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240606225922115.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240606225922115.png)
 
 作为解决方案的核心，CloudNativePG 通过扩展 Kubernetes 控制器并以编程方式定义所有良好的数据库管理员(DBA)在管理高可用 PostgreSQL 数据库集群时通常需要执行的操作，从而实现了对 PostgreSQL 集群全生命周期的管理。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240606230039437.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240606230039437.png)
 
 它依循 Kubernetes 原生方法，全面拥抱 Operator 模式和最终一致性原则，通过 Kubernetes API 管理复杂的操作，如故障转移、读写分离、缩放、服务端点更新和容器镜像的滚动更新。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240606230406238.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240606230406238.png)
 
 ###### 如何使用
 
@@ -52,7 +52,7 @@ kubectl apply -f cluster_with_one_instance.yaml
 
 自项目启动以来，CloudNativePG 已成为 Kubernetes 环境中部署和管理 PostgreSQL 数据库的优选方案之一。它不仅得到了其发起者 EDB 的大力支持，也在 Adopters 名单中看到了许多知名企业的成功案例，证明了其在生产环境中的可靠性和效率。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240606230304857.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240606230304857.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 
