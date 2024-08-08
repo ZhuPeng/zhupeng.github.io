@@ -8,6 +8,8 @@ tags: 视频
 
 ######  1、开源 RAG 引擎，大模型应用开发必备框架
 
+[开源 RAG 引擎，大模型应用开发必备框架](https://www.bilibili.com/video/BV1uH4y1w7Cr/)
+
 RAGFlow 是一个开源的基于深入文档理解的 RAG (Retrieval-Augmented Generation) 引擎。它提供了一种简洁的 RAG 工作流，适用于任何规模的业务，结合了大型语言模型 (LLM)，能够提供基于多种复杂格式数据的真实问答能力。
 
 开源项目地址：https://github.com/infiniflow/ragflow
@@ -15,6 +17,8 @@ RAGFlow 是一个开源的基于深入文档理解的 RAG (Retrieval-Augmented G
 更多介绍：https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247490844&idx=1&sn=4258e65eb5d296d303d1fe670f692e7c&chksm=9b3f8dc4ac4804d2a922212c1c14ac9c40b5aa93b11268908b5131ce47338ef8d17be651be94#rd
 
 ###### 2、用 SQLite 重塑 Redis 的技术革新
+
+[用 SQLite 重塑 Redis 的技术革新](https://www.bilibili.com/video/BV1Ni421e7xZ/)
 
 Redka 旨在用 SQLite 重实现 Redis 的核心功能，同时保持与 Redis API 的兼容。
 

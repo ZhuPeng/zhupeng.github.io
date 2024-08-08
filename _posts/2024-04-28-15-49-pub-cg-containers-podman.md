@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 非 Docker，无守护进程的容器管理工具
+title: 非 Docker 无守护进程的容器管理工具
 tags: Go
 ---
 
@@ -10,16 +10,16 @@ tags: Go
 
 随着容器化技术的兴起，开发和运维人员越来越依赖容器来简化部署流程和实现快速、一致的环境配置。然而，容器管理工具的选择多样且复杂，我们常常面临着容器生命周期管理的挑战、容器网络配置问题以及构建和分享容器镜像的需求。特别是在支持多平台（如 Linux、Mac 和 Windows）和非 root 用户运行容器时，这些问题和需求变得尤为突出。安全性、资源占用以及易用性成为评估容器管理工具时最重要的指标。
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240627221837577.png)
 
-
-今天要给大家推荐一个 GitHub 开源项目 containers/podman，该项目在 GitHub 有超过 21.7k Star，一句话介绍该项目：Podman: A tool for managing OCI containers and pods.
+今天要给大家推荐一个 GitHub 开源项目 podman，该项目在 GitHub 有超过 22.3k Star，一句话介绍该项目：Podman: A tool for managing OCI containers and pods.
 
 
 ![](https://raw.githubusercontent.com/containers/common/main/logos/podman-logo-full-vert.png)
 
 ###### 项目介绍
 
-[Podman](https://github.com/containers/podman) 是一个全面的容器管理工具，旨在解决 OCI（开放容器倡议）标准容器和容器组的管理问题。作为一个无守护进程、支持多平台的工具，Podman 提供了完整的容器生命周期管理，包括容器的创建、运行、停止以及移除。它还支持容器镜像的全面管理，如拉取、构建、提交和推送到各种存储后端。此外，Podman 在支持无 root 运行容器方面做了特别的优化，提供了用户级别的命名空间隔离，增强了容器的安全性和隔离性。
+Podman 是一个全面的容器管理工具，旨在解决 OCI（开放容器倡议）标准容器和容器组的管理问题。作为一个无守护进程、支持多平台的工具，Podman 提供了完整的容器生命周期管理，包括容器的创建、运行、停止以及移除。它还支持容器镜像的全面管理，如拉取、构建、提交和推送到各种存储后端。此外，Podman 在支持无 root 运行容器方面做了特别的优化，提供了用户级别的命名空间隔离，增强了容器的安全性和隔离性。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240502220309695.png)
 
@@ -46,6 +46,8 @@ Podman 继承了 `libpod` 库，这是一个提供容器生命周期管理 API �
 5、构建一个容器镜像：`podman build -t [tag_name] .`
 
 这些命令提供了日常容器管理工作所需的基本功能。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240627222131205.png)
 
 ###### 项目推介
 

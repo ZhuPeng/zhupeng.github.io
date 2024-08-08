@@ -40,7 +40,7 @@ Karpenter 的工作原理包含如下几个关键步骤：
 
 通过这种方式，Karpenter 能够优化工作负载在 Kubernetes 集群上的效率和成本。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240618224530057.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240618224530057.png)
 
 ###### 如何使用
 
@@ -50,13 +50,13 @@ Karpenter 的工作原理包含如下几个关键步骤：
 https://karpenter.sh/docs/getting-started/getting-started-with-karpenter/
 ```
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240618224854609.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240618224854609.png)
 
 ###### 项目推介
 
 Karpenter 已经成为 Kubernetes 集群管理不可或缺的工具之一，它不仅得到了 AWS 的强力推动，还拥有活跃的开发社区，持续的特性更新和问题解决保障了其前沿性和稳定性。此外，Karpenter 在过去的一些技术会议和社区活动中有着亮眼的表现，如 Kubecon、AWS 容器日等，其实用性、高效性和节省成本的优势得到了业界的广泛认可。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240618224943804.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240618224943804.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 

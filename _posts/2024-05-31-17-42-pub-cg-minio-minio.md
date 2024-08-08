@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI 生产可以用的高性能对象存储服务
+title: AI 生产可用的高性能对象存储服务
 tags: Go
 ---
 

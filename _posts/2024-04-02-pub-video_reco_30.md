@@ -28,8 +28,6 @@ Hollywood 是一个基于 Golang 的超快安全轻量级的 Actor 引擎项目�
 
 ###### 3、更快更安全的全新 SSH3 协议
 
-
-
 SSH3 项目是 SSH 协议的全新改造。基于 HTTP 的机制，使用 QUIC+TLS1.3 进行安全通道的建立，使用 HTTP 授权机制进行用户认证。
 
 开源项目地址：https://github.com/francoismichel/ssh3
