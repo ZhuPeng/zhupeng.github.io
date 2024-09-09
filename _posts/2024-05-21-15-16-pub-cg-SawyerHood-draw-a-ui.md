@@ -12,7 +12,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-c3923a4aac1989a0f69ff35d2f3c79b1.png)
 
-今天要给大家推荐一个 GitHub 开源项目 SawyerHood/draw-a-ui，该项目在 GitHub 有超过 12.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 draw-a-ui，该项目在 GitHub 有超过 13.2k Star。
 
 ![](https://stats.deeptrain.net/repo/SawyerHood/draw-a-ui/?theme=light)
 
@@ -24,7 +24,7 @@ tags:
 
 ###### 项目介绍
 
-draw-a-ui 项目基于 tldraw 和 gpt-4-vision api，旨在通过用户绘制的线框图自动生成 HTML 代码。用户只需绘制一个模拟界面的草图，`draw-a-ui` 就能将其转换为配备 Tailwind CSS 的 HTML 文件，极大缩短从设计到开发的时间。项目目前尚处于开发阶段，但核心功能——将绘图画布的 SVG 转换为 PNG，再将该 PNG 传送给 gpt-4-vision 以指令形式返回单个 HTML 文件——已经完善。
+draw-a-ui 项目基于 tldraw 和 gpt-4-vision api，旨在通过用户绘制的线框图自动生成 HTML 代码。用户只需绘制一个模拟界面的草图，`draw-a-ui` 就能将其转换为配备 Tailwind CSS 的 HTML 文件，极大缩短从设计到开发的时间。项目目前尚处于开发阶段，但核心功能将绘图画布的 SVG 转换为 PNG，再将该 PNG 传送给 gpt-4-vision 以指令形式返回单个 HTML 文件已经完善。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240529230612265.png)
 
@@ -38,7 +38,7 @@ draw-a-ui 项目基于 tldraw 和 gpt-4-vision api，旨在通过用户绘制的
 
 3、安装依赖并启动项目
 
-4、通过浏览器打开 [http://localhost:3000](http://localhost:3000) 查看结果。
+4、通过浏览器打开 http://localhost:3000 查看结果。
 
 ```bash
 echo "OPENAI_API_KEY=sk-your-key" > .env.local

@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-22ce4f0b8eef0de88eb74a53f0b1fe56.png)
 
-今天要给大家推荐一个 GitHub 开源项目 go-redis，该项目在 GitHub 有超过 19.3k Star，一句话介绍该项目：Redis Go client
+今天要给大家推荐一个 GitHub 开源项目 go-redis，该项目在 GitHub 有超过 19.8k Star，一句话介绍该项目：Redis Go client
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511230955487.png)
 
@@ -68,7 +68,7 @@ func main() {
 
 ###### 项目推介
 
-`go-redis` 项目由 `uptrace/uptrace` 提供支持，这是一个支持分布式追踪、度量和日志的开源 APM 工具。项目活跃，持续维护，并且更新迭代频繁，确保了其可靠性和前沿性。`go-redis` 适用于从小型项目到大型企业级应用，其灵活的功能和优秀的性能已经在多个知名企业中得到了应用。
+`go-redis` 项目由 uptrace 提供支持，这是一个支持分布式追踪、度量和日志的开源 APM 工具。项目活跃，持续维护，并且更新迭代频繁，确保了其可靠性和前沿性。`go-redis` 适用于从小型项目到大型企业级应用，其灵活的功能和优秀的性能已经在多个知名企业中得到了应用。
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 
@@ -79,8 +79,6 @@ func main() {
 开源项目地址：https://github.com/redis/go-redis 
 
 开源项目作者：redis
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

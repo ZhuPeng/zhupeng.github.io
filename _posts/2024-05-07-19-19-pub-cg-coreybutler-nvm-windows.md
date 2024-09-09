@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开发者首选的 Node.js 版本管理工具
+title: 开发者首选的 Node 版本管理工具
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-9951d738133eccc0600fd122e27346f4.png)
 
-今天要给大家推荐一个 GitHub 开源项目 nvm-windows，该项目在 GitHub 有超过 34.8k Star，一句话介绍该项目：A node.js version management utility for Windows. Ironically written in Go.
+今天要给大家推荐一个 GitHub 开源项目 nvm-windows，该项目在 GitHub 有超过 36.7k Star，一句话介绍该项目：A node.js version management utility for Windows. Ironically written in Go.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240511231420733.png)
 
@@ -41,7 +41,7 @@ tags: Go
 
 1、在安装 `NVM for Windows` 之前，建议先卸载任何存在的 Node.js 版本，以避免潜在的路径冲突。
 
-2、通过 [最新的安装程序](https://github.com/coreybutler/nvm-windows/releases) 安装 `NVM for Windows`。
+2、通过最新的安装程序 [Download Releases](https://github.com/coreybutler/nvm-windows/releases) 安装 `NVM for Windows`。
 
 3、安装完成后，打开终端或 PowerShell，使用 `nvm install` 命令安装所需的 Node.js 版本，例如 `nvm install 14.0.0`。
 
@@ -66,8 +66,6 @@ tags: Go
 开源项目地址：https://github.com/coreybutler/nvm-windows 
 
 开源项目作者：coreybutler
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

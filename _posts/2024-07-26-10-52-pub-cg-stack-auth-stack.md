@@ -12,7 +12,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-59e5e4344ed1502df298d523b0f682c3.png)
 
-今天要给大家推荐一个 GitHub 开源项目 stack-auth/stack，该项目在 GitHub 有差不多 1000 Star。
+今天要给大家推荐一个 GitHub 开源项目 stack-auth/stack，该项目在 GitHub 有超过 2.6k 	Star。
 
 ![](https://stats.deeptrain.net/repo/stack-auth/stack/?theme=light)
 

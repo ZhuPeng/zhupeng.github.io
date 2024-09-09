@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一个简洁、分布式的任务调度与执行系统
+title: 一个简洁的分布式任务调度系统
 tags: 
 ---
 
@@ -8,11 +8,11 @@ tags:
 
 ###### 背景介绍
 
-在现代软件开发中，任务调度和管理是一个重要且常见的需求。开发团队经常需要定时执行一系列任务，比如数据备份、报告生成、系统监控等。传统的方法如使用 Linux 的 Cron 工具虽然能够满足基本的定时任务执行，但在面对跨服务器、分布式环境、实时监控和任务失败自动重试等复杂场景时，就显得力不从心。此外，对于非技术人员而言，Cron 的配置和管理并不友好。因此，一个简单易用、功能强大且支持分布式环境的任务调度系统的需求日益增长。
+任务调度和管理是一个重要且常见的需求，开发团队经常需要定时执行一系列任务，比如数据备份、报告生成、系统监控等。传统的方法如使用 Linux 的 Cron 工具虽然能够满足基本的定时任务执行，但在面对跨服务器、分布式环境、实时监控和任务失败自动重试等复杂场景时，就显得力不从心。此外，对于非技术人员而言，Cron 的配置和管理并不友好。因此，一个简单易用、功能强大且支持分布式环境的任务调度系统的需求日益增长。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-7ac3d407579b79fa22419dc329a129fc.png)
 
-今天要给大家推荐一个 GitHub 开源项目 Cronicle，该项目在 GitHub 有超过 3.4k Star。
+今天要给大家推荐一个 GitHub 开源项目 Cronicle，该项目在 GitHub 有超过 3.6k Star。
 
 ![](https://stats.deeptrain.net/repo/jhuckaby/Cronicle/?theme=light)
 
@@ -40,7 +40,7 @@ Cronicle 设计了简单的 JSON 消息系统供插件使用，支持多时区�
 curl -s https://raw.githubusercontent.com/jhuckaby/Cronicle/master/bin/install.js | node
 ```
 
-使用 Cronicle 创建和管理任务非常直观，你可以通过友好的 Web UI 进行大部分操作。比如，创建一个任务仅需点击几下鼠标，指定任务的执行命令、运行频率以及目标服务器即可。更详细的使用指南，可以参考其 [Web UI 文档](https://github.com/jhuckaby/Cronicle/blob/master/docs/WebUI.md)。
+使用 Cronicle 创建和管理任务非常直观，你可以通过友好的 Web UI 进行大部分操作。比如，创建一个任务仅需点击几下鼠标，指定任务的执行命令、运行频率以及目标服务器即可。更详细的使用指南，可以参考其 [Web UI Document](https://github.com/jhuckaby/Cronicle/blob/master/docs/WebUI.md)。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240601230021092.png)
 

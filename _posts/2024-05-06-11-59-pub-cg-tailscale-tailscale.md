@@ -12,9 +12,9 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-51c5c56ceaaf26aea0197540d9d0f312.png)
 
-今天要给大家推荐一个 GitHub 开源项目 tailscale，该项目在 GitHub 有超过 16.7k Star，一句话介绍该项目：The easiest, most secure way to use WireGuard and 2FA.
+今天要给大家推荐一个 GitHub 开源项目 tailscale，该项目在 GitHub 有超过 18.2k Star，一句话介绍该项目：The easiest, most secure way to use WireGuard and 2FA.
 
-![](https://cdn.sanity.io/images/w77i7m8x/production/fab2bfd901de3d58f7f62d35fe9a5107fedc43c1-1360x725.svg?w=3840&q=75&fit=clip&auto=format)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240819230218882.png)
 
 ###### 项目介绍
 
@@ -60,8 +60,6 @@ go install tailscale.com/cmd/tailscale{,d}
 开源项目地址：https://github.com/tailscale/tailscale 
 
 开源项目作者：tailscale
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-8ac490a24359d893061f955787bbc4b5.png)
 
-今天要给大家推荐一个 GitHub 开源项目 filebrowser，该项目在 GitHub 有超过 24.0k Star。
+今天要给大家推荐一个 GitHub 开源项目 filebrowser，该项目在 GitHub 有超过 25.4k Star。
 
 ![](https://stats.deeptrain.net/repo/filebrowser/filebrowser)
 
@@ -43,7 +43,7 @@ tags: Go
 
 ###### 如何使用
 
-请根据官方文档 [https://filebrowser.org/installation](https://filebrowser.org/installation) 进行安装。参考如下：
+请根据官方文档 [Installation](https://filebrowser.org/installation) 进行安装。参考如下：
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240519231528454.png)
 

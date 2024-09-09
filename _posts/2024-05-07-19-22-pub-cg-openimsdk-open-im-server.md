@@ -10,9 +10,13 @@ tags: Go
 
 在当今的数字时代，即时通讯（IM）已成为人们日常沟通不可或缺的一部分。无论是个人用户还是企业，在不同的应用程序和服务中都需要高效、可靠的即时通讯功能。然而，开发一个既能支持海量用户又能提供稳定服务的 IM 系统，对于许多开发者来说都是一个巨大的挑战。问题包括但不限于如何处理大量消息的存储与传输、如何保证消息的实时性与可靠性、以及如何进行高效的用户和群组管理等。
 
-今天要给大家推荐一个 GitHub 开源项目 open-im-server，该项目在 GitHub 有超过 13.0k Star。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240827220814446.png)
 
-![](https://raw.githubusercontent.com/openimsdk/open-im-server/master/./assets/logo-gif/openim-logo.gif)
+今天要给大家推荐一个 GitHub 开源项目 open-im-server，该项目在 GitHub 有超过 13.7k Star。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240827225800612.png)
+
+![](https://raw.githubusercontent.com/openimsdk/open-im-server/master/assets/logo-gif/openim-logo.gif)
 
 ###### 项目介绍
 
@@ -66,8 +70,6 @@ https://docs.openim.io/guides/gettingStarted/dockerCompose
 开源项目地址：https://github.com/openimsdk/open-im-server 
 
 开源项目作者：openimsdk
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

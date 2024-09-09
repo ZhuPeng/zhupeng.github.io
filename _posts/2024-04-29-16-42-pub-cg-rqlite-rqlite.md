@@ -10,7 +10,9 @@ tags: Go
 
 在当今这个数据驱动的时代，数据的存储和管理变得尤为重要。对于开发者和操作人员来说，一个既可以提供关系型数据存储，又能保证高可用性与容错性的数据库系统是至关重要的。然而，大多数传统的关系型数据库配置复杂，难以管理，尤其是在分布式的环境下。同时，许多轻量级的解决方案又缺乏必要的功能，无法满足实际应用需求。如何在易用性和强大的数据库功能之间取得平衡，成为了许多团队面临的主要难题。
 
-今天要给大家推荐一个 GitHub 开源项目 rqlite/rqlite，该项目在 GitHub 有超过 14.9k Star，一句话介绍该项目：The lightweight, distributed relational database built on SQLite.
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240818195027305.png)
+
+今天要给大家推荐一个 GitHub 开源项目 rqlite，该项目在 GitHub 有超过 15.5k Star，一句话介绍该项目：The lightweight, distributed relational database built on SQLite.
 
 ![](https://raw.githubusercontent.com/rqlite/rqlite/master/DOC/logo-text.png)
 
@@ -48,7 +50,7 @@ rqlite 的关键特性包括但不限于：
 
 以下是一个简单的示例，演示如何快速启动 rqlite 节点：
 
-```sh
+```bash
 # Download rqlite and start node
 curl -L https://github.com/rqlite/rqlite/releases/download/<version>/rqlite-<version>-linux-amd64.tar.gz | tar zx
 cd rqlite-<version>-linux-amd64
@@ -70,8 +72,6 @@ rqlite 凭借其出色的设计和强大的功能集合，已经成为开发社�
 开源项目地址：https://github.com/rqlite/rqlite 
 
 开源项目作者：rqlite
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

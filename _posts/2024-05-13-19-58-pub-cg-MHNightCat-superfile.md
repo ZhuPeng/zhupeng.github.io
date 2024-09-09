@@ -13,7 +13,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-204a35df5921676ba81d7dea36c2b55a.png)
 
-今天要给大家推荐一个 GitHub 开源项目 superfile，该项目在 GitHub 有超过 3.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 superfile，该项目在 GitHub 有超过 5.4k Star。
 
 ![](https://stats.deeptrain.net/repo/yorukot/superfile)
 
@@ -24,11 +24,13 @@ tags: Go
 
 ###### 项目介绍
 
-`Superfile` 是一个非常现代和花哨的终端文件管理器开源项目，旨在提供一种简洁、高效且具有美观界面的文件管理方式。该项目解决了传统命令行文件管理工具不够直观和缺乏个性化的问题。它支持多种操作系统，包括 Linux 和 MacOS，拥有设施齐全的插件系统、多样化的主题选择，并且提供了丰富的快捷键支持来优化用户的操作体验。更重要的是，`Superfile` 采用了 `Nerd Font` 作为其字体需求，进一步增强了视觉效果和用户体验。
+`Superfile` 是一个非常现代和炫酷的终端文件管理器开源项目，旨在提供一种简洁、高效且具有美观界面的文件管理方式。该项目解决了传统命令行文件管理工具不够直观和缺乏个性化的问题。它支持多种操作系统，包括 Linux 和 MacOS，拥有设施齐全的插件系统、多样化的主题选择，并且提供了丰富的快捷键支持来优化用户的操作体验。更重要的是，`Superfile` 采用了 `Nerd Font` 作为其字体需求，进一步增强了视觉效果和用户体验。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240827224043283.png)
 
 以下是一个使用示例：
 
-![](https://raw.githubusercontent.com/MHNightCat/superfile/master//asset/demo.gif)
+![](https://raw.githubusercontent.com/MHNightCat/superfile/master/asset/demo.gif)
 
 ###### 如何使用
 
@@ -58,8 +60,6 @@ Superfile 自开源以来，受到了广泛的关注和支持。项目的开发�
 开源项目地址：https://github.com/yorukot/superfile
 
 开源项目作者：MHNightCat
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

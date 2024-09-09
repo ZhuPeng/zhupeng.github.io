@@ -10,7 +10,9 @@ tags: Python
 
 在当今信息化迅速发展的社会，企业和个人面临的信息量越来越庞大，如何快速从这些信息中提取所需的知识变成了一个重大的挑战。特别是对于那些需要快速响应客户查询、提供在线帮助或内部知识共享的企业来说，有效管理和检索大量的文档信息成了他们亟待解决的痛点。传统的文档管理和检索系统往往无法有效处理自然语言查询，且难以灵活地整合到第三方业务系统中，从而影响了运营效率和用户体验。
 
-今天要给大家推荐一个 GitHub 开源项目 1Panel-dev/MaxKB，该项目在 GitHub 有超过 2.8k Star，一句话介绍该项目：基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240818194403942.png)
+
+今天要给大家推荐一个 GitHub 开源项目 MaxKB，该项目在 GitHub 有超过 2.8k Star，一句话介绍该项目：基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240424225003111.png)
 
@@ -28,11 +30,18 @@ MaxKB 是一个基于 LLM 大语言模型的知识库问答系统，由 1Panel �
 
 使用 MaxKB 非常简便。你可以通过 Docker 快速启动一个 MaxKB 实例：
 
-```
+```bash
 docker run -d --name=maxkb -p 8080:8080 -v ~/.maxkb:/var/lib/postgresql/data 1panel/maxkb
 ```
 
-启动后，使用默认的用户名(admin)和密码(MaxKB@123..)登录即可开始体验。此外，如果你希望基于本地大模型构建知识库问答系统，还可以通过 1Panel 应用商店快速部署 MaxKB 与 Ollama、Llama 2 的组合，30 分钟内即可上线并嵌入到第三方业务系统中。
+启动后，使用默认的用户名和密码登录即可开始体验。此外，如果你希望基于本地大模型构建知识库问答系统，还可以通过 1Panel 应用商店快速部署 MaxKB 与 Ollama、Llama 2 的组合，30 分钟内即可上线并嵌入到第三方业务系统中。
+
+```bash
+// default user
+admin
+// password
+MaxKB@123..
+```
 
 ###### 项目推介
 

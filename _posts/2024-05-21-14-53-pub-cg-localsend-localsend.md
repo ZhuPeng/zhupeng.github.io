@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AirDrop 平替解决方案
+title: AirDrop 开源平替解决方案
 tags: 
 ---
 
@@ -12,13 +12,13 @@ tags:
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-e07a1cd247677eb75dc6e56ae308044e.png)
 
-今天要给大家推荐一个 GitHub 开源项目 localsend，该项目在 GitHub 有超过 36.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 localsend，该项目在 GitHub 有超过 41k Star。
 
 ![](https://stats.deeptrain.net/repo/localsend/localsend/?theme=light)
 
 一句话介绍该项目：An open-source cross-platform alternative to AirDrop
 
-![](https://localsend.org/img/screenshot-pc.webp)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240828234406470.png)
 
 
 ###### 项目介绍
@@ -48,8 +48,6 @@ LocalSend 解决了多平台间文件共享的普遍问题，提供了一个无�
 开源项目地址：https://github.com/localsend/localsend 
 
 开源项目作者：localsend
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

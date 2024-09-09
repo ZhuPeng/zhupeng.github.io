@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vLLM - 一个高吞吐量、内存高效的语言模型推理和服务引擎
+title: 一个高吞吐量、内存高效的语言模型推理和服务引擎
 tags: Python
 ---
 
@@ -10,7 +10,9 @@ tags: Python
 
 在大语言模型（LLM）的应用领域，用户或开发者在机器学习服务过程中通常会遇到各种问题，例如：处理速度不够快、内存利用率不高、应用市面上流行的模型困难等。这些问题会大大影响项目的运行效率和用户体验，如果解决这些挑战，将大大优化大语言模型在企业上落地运用的流程。
 
-今天要给大家推荐一个 GitHub 开源项目 vllm-project/vllm，该项目在 GitHub 有超过 10.3k Star，用一句话介绍该项目就是：“A high-throughput and memory-efficient inference and serving engine for LLMs”。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240822230448627.png)
+
+今天要给大家推荐一个 GitHub 开源项目 vllm，该项目在 GitHub 有超过 25k Star，用一句话介绍该项目：A high-throughput and memory-efficient inference and serving engine for LLMs
 
 
 ![](https://raw.githubusercontent.com/vllm-project/vllm/main/docs/source/assets/logos/vllm-logo-text-light.png)
@@ -18,6 +20,8 @@ tags: Python
 ###### 项目介绍
 
 vLLM 是一个高吞吐量、内存高效的语言模型推理和服务引擎，这个开源项目的目标是为每个人提供简便、快捷、经济的 LLM 服务。vLLM 能够高效地管理键值内存，优化 CUDA 内核，并且能够处理连续的输入请求，这使得它的服务吞吐量处于行业领先地位。vLLM 非常灵活并易于使用，它能够与许多流行的 Hugging Face 模型无缝集成，并提供高吞吐量的服务。具备并行采样、波束搜索等解码算法，支持分布式推理的张量并行性，同时还有开放接口的 API 服务器。此外，vLLM 的安装和使用也非常简单，只需要利用 pip 进行安装即可。
+
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240822230540280.png)
 
 以下是支持的模型：
 
@@ -31,14 +35,14 @@ vLLM 是一个高吞吐量、内存高效的语言模型推理和服务引擎，
 pip install vllm
 ```
 
-然后，就可以开始使用了，可以参考 https://docs.vllm.ai/en/latest/getting_started/quickstart.html 介绍，其提供了三个示例如下：
+然后，就可以开始使用了，可以参考 [Quickstart](https://docs.vllm.ai/en/latest/getting_started/quickstart.html) 介绍，其提供了三个示例如下：
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240106225736455.png)
 
 如果，我们要启动一个与 OpenAI 兼容的 API 服务的话，使用如下命令即可：
 
 ```bash
-# 使用模型 facebook/opt-125m 并通过 OpenAI 兼容的 API 进行访问使用
+# use model facebook/opt-125m, and use OpenAI compatible API to request
 python -m vllm.entrypoints.openai.api_server \
     --model facebook/opt-125m
 ```

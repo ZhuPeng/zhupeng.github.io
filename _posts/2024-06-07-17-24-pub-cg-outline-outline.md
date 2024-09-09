@@ -12,7 +12,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-918e2e3833f4d0d66e18b3c244c72ebe.png)
 
-今天要给大家推荐一个 GitHub 开源项目 outline，该项目在 GitHub 有超过 25.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 outline，该项目在 GitHub 有超过 26.9k Star。
 
 ![](https://stats.deeptrain.net/repo/outline/outline/?theme=light)
 

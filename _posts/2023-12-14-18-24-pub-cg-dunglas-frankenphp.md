@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 现代化 PHP 应用服务器，自动支持 HTTPS/HTTP2/HTTP3 等
+title: 现代化 PHP 应用服务器
 tags: Go
 ---
 
@@ -8,9 +8,11 @@ tags: Go
 
 ###### 背景介绍
 
-PHP（Hypertext Preprocessor）是一种广泛应用的开源通用脚本语言，尤其适用于 Web 开发并可嵌入 HTML 中，但是创建和管理 PHP 应用程序服务器可能会非常复杂却又极其重要。尽管有其他一些已有的解决方案可以尽力简化这个过程，但事实并非如此，因为它们往往缺乏完整的功能，例如对 HTTP/2 和 HTTP/3 的支持，以及真正实现自动化 HTTPS 管理等。这就是你需要 FrankenPHP 的原因。
+PHP 是一种广泛应用的开源通用脚本语言，尤其适用于 Web 开发并可嵌入 HTML 中，但是创建和管理 PHP 应用程序服务器可能会非常复杂却又极其重要。尽管有其他一些已有的解决方案可以尽力简化这个过程，但事实并非如此，因为它们往往缺乏完整的功能，例如对 HTTP/2 和 HTTP/3 的支持，以及真正实现自动化 HTTPS 管理等。这就是你需要 FrankenPHP 的原因。
 
-开源项目 FrankenPHP 在 GitHub 有超过 4.3k Star，用一句话介绍该项目就是：“The modern PHP app server”。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240822225901588.png)
+
+开源项目 FrankenPHP 在 GitHub 有超过 6.6k Star，用一句话介绍该项目就是：“The modern PHP app server”。
 
 ![](https://dunglas.dev/wp-content/uploads/2022/10/frankenphp.png)
 

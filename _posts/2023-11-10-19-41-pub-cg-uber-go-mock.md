@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GoMock - Google 开源并由 Uber 持续维护的 Go 测试 Mock 框架
+title: Google 开源并由 Uber 持续维护的 Go 测试 Mock 框架
 tags: Go
 ---
 
@@ -10,7 +10,9 @@ tags: Go
 
 在进行 Go 语言的开发过程中，我们会碰到需要实现模拟功能来对各种接口进行测试。然而，手动实现模拟接口是一个既繁琐又容易出错的过程，在一般的测试流程中，我们一般会配合使用一些 Mock 框架。那么问题来了，Go 语言中有哪些这样的框架？
 
-今天要给大家推荐一个 GitHub 开源项目 uber-go/mock，该项目在 GitHub 有差不多 1000 Star，用一句话介绍该项目就是：“GoMock is a mocking framework for the Go programming language.”。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240819213734533.png)
+
+今天要给大家推荐一个 GitHub 开源项目 mock，该项目在 GitHub 有超过 1.9k Star，用一句话介绍该项目就是：GoMock is a mocking framework for the Go programming language.
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20231203175626252.png)
 

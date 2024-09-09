@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 专业性能可视化和分析工具 - pprof
+title: 专业性能可视化和分析工具
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-4237277b92185ede46e07d2c2cc322e5.png)
 
-今天要给大家推荐一个 GitHub 开源项目 google/pprof，该项目在 GitHub 有超过 7.5k Star。
+今天要给大家推荐一个 GitHub 开源项目 pprof，该项目在 GitHub 有超过 7.8k Star。
 
 ![](https://stats.deeptrain.net/repo/google/pprof/?theme=light)
 
