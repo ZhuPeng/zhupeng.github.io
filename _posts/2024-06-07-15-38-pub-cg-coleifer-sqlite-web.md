@@ -12,7 +12,7 @@ SQLite 数据库以其轻量级和易于配置的特点，成为了许多项目�
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-4e3f5692f2050892a0076410f8d1193c.png)
 
-今天要给大家推荐一个 GitHub 开源项目 sqlite-web，该项目在 GitHub 有超过 3.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 sqlite-web，该项目在 GitHub 有超过 3.3k Star。
 
 ![](https://stats.deeptrain.net/repo/coleifer/sqlite-web/?theme=light)
 

@@ -87,8 +87,6 @@ Mesop 是由 Google 开发并使用于其内部的快速应用开发工作，它
 
 开源项目作者：google
 
-开源协议：
-
 以下是参与项目建设的所有成员：
 
 ![](https://contrib.rocks/image?repo=google/mesop)

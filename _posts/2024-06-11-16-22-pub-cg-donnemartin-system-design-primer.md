@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何设计大型可扩展系统的开源学习资料
+title: 设计大型可扩展系统的学习资料
 tags: Python
 ---
 
@@ -12,23 +12,23 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-9b3cec1ea905ffebc51adfe2b26e8474.png)
 
-今天要给大家推荐一个 GitHub 开源项目 system-design-primer，该项目在 GitHub 有超过 260.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 system-design-primer，该项目在 GitHub 有超过 300k Star。
 
 ![](https://stats.deeptrain.net/repo/donnemartin/system-design-primer/?theme=light)
 
 一句话介绍该项目：Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
-![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_OfVllex.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240903224625343.png)
 
 ###### 项目介绍
 
 System Design Primer 是一个旨在帮助工程师学习如何设计大型系统并准备系统设计面试的开源项目。该项目通过提供一个有条理的资源集合，涵盖了从基础到高级的系统设计概念，让学习者能够逐步掌握如何构建可扩展的系统。项目内容不仅包括常见的系统设计问题以及解决方案的讨论、代码和图表，而且还提供了面向对象设计的面试问题及其解决方案，帮助用户全面准备面试。此外，通过整合 **Anki** 的电子卡片，项目还利用间隔重复的学习技巧，帮助用户更好地记住关键的系统设计概念。
 
-![](https://raw.githubusercontent.com/donnemartin/system-design-primer/master/images/V5q57vU.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240903224638122.png)
 
 ###### 如何使用
 
-用户可以通过访问项目的 GitHub 页面并仔细阅读 `README.md` 文件，用户可以获得关于如何开始学习的指导，包括观看可扩展性视频讲座、阅读相关文章以及进一步的学习步骤。例如，初学者可以从以下步骤开始：
+用户可以通过访问项目的 GitHub 页面并仔细阅读 README 文件，用户可以获得关于如何开始学习的指导，包括观看可扩展性视频讲座、阅读相关文章以及进一步的学习步骤。例如，初学者可以从以下步骤开始：
 
 1、复习可扩展性视频讲座。
 

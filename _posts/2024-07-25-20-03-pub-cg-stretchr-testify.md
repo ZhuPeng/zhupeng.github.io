@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-ddc4920b76bdab84ed7a4ec278ddb1ba.png)
 
-今天要给大家推荐一个 GitHub 开源项目 testify，该项目在 GitHub 有超过 22.7k Star。
+今天要给大家推荐一个 GitHub 开源项目 testify，该项目在 GitHub 有超过 23k Star。
 
 ![](https://stats.deeptrain.net/repo/stretchr/testify/?theme=light)
 

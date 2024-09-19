@@ -14,7 +14,7 @@ tags: Go
 
 今天要给大家推荐一个 GitHub 开源项目 go-sqlmock，该项目在 GitHub 有超过 6.0k Star。
 
-![](https://stats.deeptrain.net/repo/DATA-DOG/go-sqlmock/?theme=light)
+![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20240908222324103.png)
 
 一句话介绍该项目：Sql mock driver for golang to test database interactions
 

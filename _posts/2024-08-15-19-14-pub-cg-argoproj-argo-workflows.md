@@ -19,7 +19,7 @@ tags: Go
 一句话介绍该项目：Workflow Engine for Kubernetes
 
 
-![Screenshot](https://raw.githubusercontent.com/argoproj/argo-workflows/master/docs/assets/screenshot.png)
+![](https://raw.githubusercontent.com/argoproj/argo-workflows/master/docs/assets/screenshot.png)
 
 
 ###### 项目介绍

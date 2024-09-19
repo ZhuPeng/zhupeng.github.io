@@ -66,7 +66,7 @@ pprof -http=[host]:[port] [main_binary] profile.pb.gz
 
 ###### 项目推介
 
-`pprof` 是的稳定性和实用性已经得到了广泛应用和验证，包括在 Google 内部。`pprof` 解决了开发者深度性能分析和优化的需求，其强大的功能、灵活的使用方法和丰富的输出格式，使得它成为开发者性能优化工具箱中的重要工具。
+`pprof` 的稳定性和实用性已经得到了广泛应用和验证，包括在 Google 内部。`pprof` 解决了开发者深度性能分析和优化的需求，其强大的功能、灵活的使用方法和丰富的输出格式，使得它成为开发者性能优化工具箱中的重要工具。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240618001144818.png)
 
@@ -79,8 +79,6 @@ pprof -http=[host]:[port] [main_binary] profile.pb.gz
 开源项目地址：https://github.com/google/pprof 
 
 开源项目作者：google
-
-开源协议：
 
 以下是参与项目建设的所有成员：
 

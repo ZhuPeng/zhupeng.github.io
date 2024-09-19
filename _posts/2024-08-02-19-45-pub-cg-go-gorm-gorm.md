@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 让 Go 语言的 ORM 更加亲近开发者
+title: 更亲近开发者的 Go ORM 
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-c19c889b10d6f91c127a6c1d44b74ffc.png)
 
-今天要给大家推荐一个 GitHub 开源项目 gorm，该项目在 GitHub 有超过 36.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 gorm，该项目在 GitHub 有超过 36.5k Star。
 
 ![](https://stats.deeptrain.net/repo/go-gorm/gorm/?theme=light)
 

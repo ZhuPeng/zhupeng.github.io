@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 支持多种格式界面清新的开源电子书阅读器
+title: 界面清新的开源电子书阅读器
 tags: 
 ---
 
@@ -10,7 +10,9 @@ tags:
 
 在这个信息爆炸时代，电子书成为了我们日常学习和娱乐的重要来源。然而，面对格式各异、体验参差不齐的电子书阅读器，读者们常常感到困惑和不便。缺乏一款既能支持多种格式，又能提供优质阅读体验的软件，成为了电子书爱好者共同的痛点。
 
-今天要给大家推荐一个 GitHub 开源项目 foliate，该项目在 GitHub 有超过 5.7k Star。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240907203146716.png)
+
+今天要给大家推荐一个 GitHub 开源项目 foliate，该项目在 GitHub 有超过 6.1k Star。
 
 ![](https://stats.deeptrain.net/repo/johnfactotum/foliate/?theme=light)
 

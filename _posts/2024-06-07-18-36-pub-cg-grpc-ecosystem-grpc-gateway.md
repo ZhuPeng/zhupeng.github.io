@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: 只需一套代码即可同时提供 RPC 和 HTTP JSON API
+title: 一套代码同时提供 RPC 和 HTTP JSON API
 tags: Go
 ---
 
@@ -13,7 +13,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-1a052d403b47fe574309ce5b9e952557.png)
 
-今天要给大家推荐一个 GitHub 开源项目 grpc-gateway，该项目在 GitHub 有超过 17.6k Star。
+今天要给大家推荐一个 GitHub 开源项目 grpc-gateway，该项目在 GitHub 有超过 17.9k Star。
 
 ![](https://stats.deeptrain.net/repo/grpc-ecosystem/grpc-gateway/?theme=light)
 
@@ -23,7 +23,7 @@ tags: Go
 
 ###### 项目介绍
 
- gRPC-Gateway 项目提供了一个优雅的解决方案。该项目是一个 protoc 的插件，它能够读取 protobuf 服务定义，并生成一个反向代理服务器，这个服务器可以将 RESTful HTTP API 交互转换成 gRPC 调用。这意味着你只需维护一套 gRPC API，gRPC-Gateway 就可以为你自动生成对应的 RESTful 风格的 API。特别是，通过在服务定义中添加 [`google.api.http`](https://github.com/googleapis/googleapis/blob/master/google/api/http.proto#L46) 注解，你可以详细控制 HTTP 映射的行为，让 API 更符合 REST 风格的设计标准。
+ gRPC-Gateway 项目提供了一个优雅的解决方案。该项目是一个 protoc 的插件，它能够读取 protobuf 服务定义，并生成一个反向代理服务器，这个服务器可以将 RESTful HTTP API 交互转换成 gRPC 调用。这意味着你只需维护一套 gRPC API，gRPC-Gateway 就可以为你自动生成对应的 RESTful 风格的 API。特别是，通过在服务定义中添加 google.api.http 注解，你可以详细控制 HTTP 映射的行为，让 API 更符合 REST 风格的设计标准。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240629231616786.png)
 

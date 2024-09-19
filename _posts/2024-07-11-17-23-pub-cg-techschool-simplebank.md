@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用 Go 语言构建的简易银行服务后端项目
+title: Go 语言构建简易银行后端项目
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-a1829b7efe99de2e8da392988487f9f4.png)
 
-今天要给大家推荐一个 GitHub 开源项目 simplebank，该项目在 GitHub 有超过 4.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 simplebank，该项目在 GitHub 有超过 5.2k Star。
 
 ![](https://stats.deeptrain.net/repo/techschool/simplebank/?theme=light)
 

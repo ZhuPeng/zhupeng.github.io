@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-5a0dc1a3db8996cae0cc39413f994a2a.png)
 
-今天要给大家推荐一个 GitHub 开源项目 vault，该项目在 GitHub 有超过 30k Star。
+今天要给大家推荐一个 GitHub 开源项目 vault，该项目在 GitHub 有超过 30.8k Star。
 
 ![](https://stats.deeptrain.net/repo/hashicorp/vault/?theme=light)
 
