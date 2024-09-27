@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-9d6b0ed00ea59caf683b318eefbe7683.png)
 
-今天要给大家推荐一个 GitHub 开源项目 kratos，该项目在 GitHub 有超过 22.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 kratos，该项目在 GitHub 有超过 23.1k Star。
 
 ![](https://stats.deeptrain.net/repo/go-kratos/kratos/?theme=light)
 
@@ -35,7 +35,7 @@ Kratos 是一个基于 Go 语言实现的面向微服务的治理框架，它旨
 
 3、可以通过插件与各种中心化注册中心相连接的注册接口
 
-4、标准日志接口，方便第三方日志库集成，通过 *Fluentd* 收集日志
+4、标准日志接口，方便第三方日志库集成，通过 Fluentd 收集日志
 
 5、自动支持基于 Accept 和 Content-Type 选择的内容编码
 
@@ -70,7 +70,7 @@ kratos new helloworld
 cd helloworld/ && go mod tidy
 kratos run
 ```
-访问 `http://localhost:8000/helloworld/kratos`，即可看到运行中的 Kratos 应用。
+访问 localhost:8000/helloworld/kratos，即可看到运行中的 Kratos 应用。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240801220049428.png)
 

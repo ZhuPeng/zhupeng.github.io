@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 专为 Kubernetes 设计的自动伸缩组件集合
+title: 专为 K8S 设计的自动伸缩组件集合
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-ebf90a826961af8810b04381175c2995.png)
 
-今天要给大家推荐一个 GitHub 开源项目 autoscaler，该项目在 GitHub 有超过 7.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 autoscaler，该项目在 GitHub 有超过 8k Star。
 
 ![](https://stats.deeptrain.net/repo/kubernetes/autoscaler/?theme=light)
 

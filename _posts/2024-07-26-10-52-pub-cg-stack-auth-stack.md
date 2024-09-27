@@ -12,7 +12,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-59e5e4344ed1502df298d523b0f682c3.png)
 
-今天要给大家推荐一个 GitHub 开源项目 stack-auth/stack，该项目在 GitHub 有超过 2.6k 	Star。
+今天要给大家推荐一个 GitHub 开源项目 stack-auth，该项目在 GitHub 有超过 3.1k Star。
 
 ![](https://stats.deeptrain.net/repo/stack-auth/stack/?theme=light)
 
@@ -44,7 +44,7 @@ cd your-project-name
 npm install @stackframe/stack
 ```
 
-安装命令执行后，你将被引导完成安装过程。进一步的配置和使用，可以参考[官方文档](https://docs.stack-auth.com)。
+安装命令执行后，你将被引导完成安装过程。进一步的配置和使用，可以参考官方文档 [Document](https://docs.stack-auth.com)。
 
 3、开始使用 Stack 构建你的应用程序，享受快速、灵活的开发体验。
 

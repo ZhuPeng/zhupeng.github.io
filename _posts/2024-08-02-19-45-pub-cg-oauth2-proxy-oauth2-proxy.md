@@ -8,9 +8,11 @@ tags: Go
 
 ###### 背景介绍
 
-在当今的数字化时代，保护企业和个人数据的重要性日益增加。随着越来越多的服务和应用程序转移到云端，确保安全访问变得极其关键。面对多样的身份提供者和复杂的网络架构，开发人员和企业面临着如何简化身份验证流程以确保数据安全的挑战。这其中的痛点包括：如何集成多种身份验证服务、管理不同平台的访问控制、同时又不牺牲用户体验。
+随着越来越多的服务和应用程序转移到云端，保护企业和个人数据的重要性日益增加，确保安全访问变得极其关键。面对多样的身份提供者和复杂的网络架构，开发人员和企业面临着如何简化身份验证流程以确保数据安全的挑战。这其中的痛点包括：如何集成多种身份验证服务、管理不同平台的访问控制、同时又不牺牲用户体验。
 
-今天要给大家推荐一个 GitHub 开源项目 oauth2-proxy，该项目在 GitHub 有超过 9.2k Star。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240916201241399.png)
+
+今天要给大家推荐一个 GitHub 开源项目 oauth2-proxy，该项目在 GitHub 有超过 9.4k Star。
 
 ![](https://stats.deeptrain.net/repo/oauth2-proxy/oauth2-proxy/?theme=light)
 
@@ -21,7 +23,7 @@ tags: Go
 
 ###### 项目介绍
 
-oauth2-proxy 是一个反向代理和静态文件服务器，使用不同的提供商（比如 Google、Keycloak、GitHub 等）来验证账户，通过电子邮件、域名或群组实现认证。起源于 `bitly/OAuth2_Proxy`，`oauth2-proxy` 自 2018 年分叉后，项目不断发展完善，提供了更为广泛的功能和更好的维护。
+oauth2-proxy 是一个反向代理和静态文件服务器，使用不同的提供商（比如 Google、Keycloak、GitHub 等）来验证账户，通过电子邮件、域名或群组实现认证。起源于 `bitly OAuth2_Proxy`，`oauth2-proxy` 自 2018 年分叉后，项目不断发展完善，提供了更为广泛的功能和更好的维护。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240829223819886.png)
 
@@ -31,7 +33,7 @@ oauth2-proxy 是一个反向代理和静态文件服务器，使用不同的提�
 
 2、简易安装部署：支持多种部署方式，包括预构建的二进制文件、Docker 镜像、Go 安装，甚至提供官方的 Kubernetes Helm 包。
 
-3、高度可配置：可以通过配置文件、命令行选项或环境变量配置 `oauth2-proxy`，适应不同的部署环境。
+3、高度可配置：可以通过配置文件、命令行选项或环境变量配置，适应不同的部署环境。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240829224103659.png)
 
@@ -45,7 +47,7 @@ docker pull quay.io/oauth2-proxy/oauth2-proxy
 
 2、注册并配置 OAuth 应用：根据你选择的身份提供商，注册 OAuth 应用并获取必要的配置信息。
 
-3、配置 `oauth2-proxy`：使用配置文件或命令行选项来配置代理，示例命令如下：
+3、配置：使用配置文件或命令行选项来配置代理，示例命令如下：
 
 ```bash
 oauth2-proxy --provider=google \

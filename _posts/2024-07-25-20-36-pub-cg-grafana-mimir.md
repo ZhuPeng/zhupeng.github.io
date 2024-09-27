@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-d989c7aabd790cf280c8a2045ffff598.png)
 
-今天要给大家推荐一个 GitHub 开源项目 mimir，该项目在 GitHub 有超过 3.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 mimir，该项目在 GitHub 有超过 4k Star。
 
 ![](https://stats.deeptrain.net/repo/grafana/mimir/?theme=light)
 

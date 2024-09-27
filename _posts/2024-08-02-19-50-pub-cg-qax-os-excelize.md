@@ -12,17 +12,17 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-007c6f7feb2f79e13ed24d93eb762183.png)
 
-今天要给大家推荐一个 GitHub 开源项目 excelize，该项目在 GitHub 有超过 17.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 excelize，该项目在 GitHub 有超过 18k Star。
 
 ![](https://stats.deeptrain.net/repo/qax-os/excelize/?theme=light)
 
-一句话介绍该项目：Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+一句话介绍该项目：Go language library for reading and writing Microsoft Excel spreadsheets
 
 ![](https://raw.githubusercontent.com/qax-os/excelize/master/./excelize.svg)
 
 ###### 项目介绍
 
-Excelize 是一个用纯 Go 语言编写的库，它为读写 Microsoft Excel (XLAM / XLSM / XLSX / XLTM / XLTX) 文件提供了一套功能丰富的 API。
+Excelize 是一个用纯 Go 语言编写的库，它为读写 Microsoft Excel 文件提供了一套功能丰富的 API。
 
 ![](https://raw.githubusercontent.com/qax-os/excelize/master/./test/images/chart.png)
 
@@ -32,7 +32,7 @@ Excelize 是一个用纯 Go 语言编写的库，它为读写 Microsoft Excel (X
 
 ###### 如何使用
 
-首先需要确保你的开发环境已经安装了 Go 语言环境，并且版本在 1.18 或以上。通过下面的命令，你可以轻松地安装 Excelize：
+首先需要确保你的开发环境已经安装了 Go 语言环境，并且版本在 1.18 或以上。通过下面的命令，可以安装 Excelize：
 
 ```bash
 go get github.com/xuri/excelize/v2

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一个自托管的网站应用防攻击防火墙
+title: 一个自托管网站应用防攻击防火墙
 tags: Go
 ---
 
@@ -8,9 +8,11 @@ tags: Go
 
 ###### 背景介绍
 
-在当今数字化时代，网络安全面临着前所未有的挑战。随着网络攻击技术的不断进步，从 SQL 注入、XSS 攻击到更为复杂的 RCE 和 SSRF 攻击，网站和 web 应用程序的安全防护变得越来越困难。这些攻击不仅威胁到个人和企业的敏感数据，还可能对品牌声誉造成长期的负面影响。在这样的背景下，如何有效地保护我们的 Web 应用程序，确保它们免受网络攻击和利用，成为了每个组织都必须面对的重要问题。
+随着网络攻击技术的不断进步，网络安全面临着前所未有的挑战，从 SQL 注入、XSS 攻击到更为复杂的 RCE 和 SSRF 攻击，网站和 Web 应用程序的安全防护变得越来越困难。这些攻击不仅威胁到个人和企业的敏感数据，还可能对品牌声誉造成长期的负面影响。在这样的背景下，如何有效地保护我们的 Web 应用程序，确保它们免受网络攻击和利用，成为了每个组织都必须面对的重要问题。
 
-今天要给大家推荐一个 GitHub 开源项目 SafeLine，该项目在 GitHub 有超过 11.8k Star。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240917204424167.png)
+
+今天要给大家推荐一个 GitHub 开源项目 SafeLine，该项目在 GitHub 有超过 11.9k Star。
 
 ![](https://stats.deeptrain.net/repo/chaitin/SafeLine/?theme=light)
 
@@ -21,7 +23,7 @@ tags: Go
 
 ###### 项目介绍
 
-SafeLine 是一个自托管的 WAF(Web Application Firewall)，旨在保护你的 web 应用免受攻击和利用。SafeLine 通过在 web 应用和互联网之间部署一个过滤和监控 HTTP 流量的防火墙，保护 web 应用不受诸如 SQL 注入、XSS、代码注入、操作系统命令注入等攻击的侵害。作为一种反向代理，SafeLine 在客户端与服务器之间建立了一个保护屏障，防止恶意客户端直接接触到后端服务器。
+SafeLine 是一个自托管的 WAF(Web Application Firewall)，旨在保护你的 Web 应用免受攻击和利用。SafeLine 通过在 Web 应用和互联网之间部署一个过滤和监控 HTTP 流量的防火墙，保护 Web 应用不受诸如 SQL 注入、XSS、代码注入、操作系统命令注入等攻击的侵害。作为一种反向代理，SafeLine 在客户端与服务器之间建立了一个保护屏障，防止恶意客户端直接接触到后端服务器。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240831225648839.png)
 
@@ -39,11 +41,11 @@ SafeLine 是一个自托管的 WAF(Web Application Firewall)，旨在保护你�
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240831225816068.png)
 
-如何使用
+###### 如何使用
 
 安装 SafeLine 的具体信息可以在安装指南 [Install](https://docs.waf.chaitin.com/en/tutorials/install) 中找到。
 
-保护 Web 应用的配置和使用指南详见配置指南[Configuration](https://docs.waf.chaitin.com/en/tutorials/Configuration)。
+保护 Web 应用的配置和使用指南详见配置指南 [Configuration](https://docs.waf.chaitin.com/en/tutorials/Configuration)。
 
 以下是一些具体的系统页面示例：
 

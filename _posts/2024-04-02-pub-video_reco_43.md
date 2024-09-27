@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 【视频】
+title: 【视频】轻松管理 SQLite 数据库的 Web 工具
 tags: 视频
 ---
 
 最近又有新视频发布了，后续我们会定期把在 B 站更新的热门推文视频在公众号上做一下同步，但是一般会有滞后一到两周，如果大家想及时观看视频，欢迎关注我们的 B 站同名账号 **GitHub精选**。
 
 ######  1、专注于敏感数据管理的开源工具
+
+[专注于敏感数据管理的开源工具](https://www.bilibili.com/video/BV1PitMebEfj/)
 
 Vault 是一个由 HashiCorp 开发的开源工具，专门用于敏感数据的管理、加密服务和特权访问管理。Vault 提供了一个统一的接口来管理密钥、密码、证书等各种敏感数据，同时提供了严格的访问控制和详细的审计日志功能，确保数据的安全性和可追踪性。
 
@@ -16,6 +18,8 @@ Vault 是一个由 HashiCorp 开发的开源工具，专门用于敏感数据的
 
 ###### 2、一套代码同时提供 RPC 和 HTTP JSON API
 
+[一套代码同时提供 RPC 和 HTTP JSON API](https://www.bilibili.com/video/BV1PqtMeZE7e/)
+
 gRPC-Gateway 项目提供了一个优雅的解决方案。该项目是一个 protoc 的插件，它能够读取 protobuf 服务定义，并生成一个反向代理服务器，这个服务器可以将 RESTful HTTP API 交互转换成 gRPC 调用。这意味着你只需维护一套 gRPC API，gRPC-Gateway 就可以为你自动生成对应的 RESTful 风格的 API。
 
 开源项目地址：https://github.com/grpc-ecosystem/grpc-gateway
@@ -23,6 +27,8 @@ gRPC-Gateway 项目提供了一个优雅的解决方案。该项目是一个 pro
 更多介绍：https://mp.weixin.qq.com/s?__biz=MzAwMzE5NzM2Nw==&mid=2247491787&idx=1&sn=df6ff88bade0f7166222db0abb406fb2&chksm=9b3c7013ac4bf9057d6d2161eab57d45c2f62270c463408b4dc923bf5249c0b50431e89b2e53#rd
 
 ###### 3、轻松管理 SQLite 数据库的 Web 工具
+
+[轻松管理 SQLite 数据库的 Web 工具](https://www.bilibili.com/video/BV1J2tMeQEuc/)
 
 SQLite-Web 是一个基于 Web 的 SQLite 数据库浏览器，使用 Python 编写。这个项目将大幅简化数据库的管理流程，使开发人员无需再依赖繁杂的命令行操作，便能高效地管理和维护 SQLite 数据库。
 

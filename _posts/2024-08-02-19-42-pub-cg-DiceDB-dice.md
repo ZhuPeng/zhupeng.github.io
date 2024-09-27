@@ -8,9 +8,11 @@ tags: Go
 
 ###### 背景介绍
 
-在现代软件开发过程中，开发者频繁地使用诸如 Redis 这类的内存数据库来实现数据的快速读写。Redis 以其出色的性能和简洁的设计赢得了广泛的应用，但随着业务需求的增长和数据处理逻辑的复杂化，传统的 Redis 在处理实时数据响应方面显示出了局限性。开发者开始寻求能够在保持 Redis 优势的同时，增加更灵活的数据操作和实时响应能力的解决方案。
+Redis 以其出色的性能和简洁的设计赢得了广泛的应用，开发者频繁地使用诸如 Redis 这类的内存数据库来实现数据的快速读写，但随着业务需求的增长和数据处理逻辑的复杂化，传统的 Redis 在处理实时数据响应方面显示出了局限性。开发者开始寻求能够在保持 Redis 优势的同时，增加更灵活的数据操作和实时响应能力的解决方案。
 
-今天要给大家推荐一个 GitHub 开源项目 DiceDB/dice，该项目在 GitHub 有超过 2.3k Star。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240916201539722.png)
+
+今天要给大家推荐一个 GitHub 开源项目 DiceDB/dice，该项目在 GitHub 有超过 4.1k Star。
 
 ![](https://stats.deeptrain.net/repo/DiceDB/dice/?theme=light)
 
@@ -38,7 +40,7 @@ $ docker run dicedb/dice-server
 
 这条命令会在本地的 `7379` 端口启动 DiceDB 服务器。你可以通过 DiceDB CLI 和 SDK 或 Redis 的 CLI 和 SDK 来连接它。
 
-如果你想从源码开始，需要先确保安装了 Golang，然后：
+如果你想从源码开始，参考如下：
 
 ```bash
 $ git clone https://github.com/DiceDB/dice
