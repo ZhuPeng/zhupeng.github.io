@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-b0a7d3183c9ea91fe2a30dcc328c3169.png)
 
-今天要给大家推荐一个 GitHub 开源项目 argo-workflows，该项目在 GitHub 有超过 14.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 argo-workflows，该项目在 GitHub 有超过 15k Star。
 
 ![](https://stats.deeptrain.net/repo/argoproj/argo-workflows/?theme=light)
 
@@ -28,7 +28,7 @@ Argo Workflows 是一个容器原生的工作流引擎，专门为 Kubernetes �
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240825195004411.png)
 
-Argo Workflows 能够极大地简化计算密集型作业，如机器学习或数据处理的执行，使其运行时间大大缩短。作为 [云原生计算基金会 (CNCF)](https://cncf.io/) 的毕业项目，它提供了轻量级、可伸缩和易于使用的特点，是 Kubernetes 上最受欢迎的工作流执行引擎。
+Argo Workflows 能够极大地简化计算密集型作业，如机器学习或数据处理的执行，使其运行时间大大缩短。作为云原生计算基金会 [CNCF](https://cncf.io/) 的毕业项目，它提供了轻量级、可伸缩和易于使用的特点，是 Kubernetes 上最受欢迎的工作流执行引擎。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240825195016581.png)
 

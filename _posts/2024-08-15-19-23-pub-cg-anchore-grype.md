@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 容器镜像和文件系统的漏洞扫描器
+title: 容器镜像和文件系统漏洞扫描器
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-bbeec61ec16577b923c36824595b7b07.png)
 
-今天要给大家推荐一个 GitHub 开源项目 grype，该项目在 GitHub 有超过 8.4k Star。
+今天要给大家推荐一个 GitHub 开源项目 grype，该项目在 GitHub 有超过 8.7k Star。
 
 ![](https://stats.deeptrain.net/repo/anchore/grype/?theme=light)
 

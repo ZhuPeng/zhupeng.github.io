@@ -12,14 +12,14 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-33835e85a60b121571602bc3d5dcdfc4.png)
 
-今天要给大家推荐一个 GitHub 开源项目 permify，该项目在 GitHub 有超过 2.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 permify，该项目在 GitHub 有超过 4.7k Star。
 
 ![](https://stats.deeptrain.net/repo/Permify/permify/?theme=light)
 
 一句话介绍该项目：An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 
 
-![permify-centralized](https://github.com/user-attachments/assets/e1c22244-1fa4-4bc3-8b7a-bdfb97610c5f)
+![](https://github.com/user-attachments/assets/e1c22244-1fa4-4bc3-8b7a-bdfb97610c5f)
 
 
 ###### 项目介绍

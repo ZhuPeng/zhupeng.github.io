@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go 语言实现的算法和数据结构学习资源
+title: Go 实现的算法和数据结构学习资源
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-4b30bfffd80787c8eb227d6a4c835184.png)
 
-今天要给大家推荐一个 GitHub 开源项目 TheAlgorithms/Go，该项目在 GitHub 有超过 15.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 TheAlgorithms Go，该项目在 GitHub 有超过 16.2k Star。
 
 ![](https://stats.deeptrain.net/repo/TheAlgorithms/Go/?theme=light)
 

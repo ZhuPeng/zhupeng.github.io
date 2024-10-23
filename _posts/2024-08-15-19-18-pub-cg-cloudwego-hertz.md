@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 字节跳动背书专为 Go 语言设计的 HTTP 框架
+title: 字节跳动背书专为 Go 设计的 HTTP 框架
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-d0c9d1ff18b92cb0855e4db1a5c54e00.png)
 
-今天要给大家推荐一个 GitHub 开源项目 hertz，该项目在 GitHub 有超过 5.1k Star。
+今天要给大家推荐一个 GitHub 开源项目 hertz，该项目在 GitHub 有超过 5.3k Star。
 
 ![](https://stats.deeptrain.net/repo/cloudwego/hertz/?theme=light)
 
@@ -68,7 +68,7 @@ func main() {
     h.Spin()
 }
 ```
-该示例创建了一个监听在 8080 端口的 HTTP 服务器，当访问 "/hello" 路由时，返回 "Hello, Hertz!" 字符串。
+该示例创建了一个监听在 8080 端口的 HTTP 服务器，当访问 "/hello" 路由时，返回 "Hello, Hertz!"。
 
 ###### 项目推介
 

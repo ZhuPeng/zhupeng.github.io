@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一个精心整理的 Go 语言框架、库和软件集合
+title: 精心整理的 Go 框架、库和软件集合
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-2ec573668df74082efb074d7e311c0fe.png)
 
-今天要给大家推荐一个 GitHub 开源项目 awesome-go，该项目在 GitHub 有超过 127.0k Star。
+今天要给大家推荐一个 GitHub 开源项目 awesome-go，该项目在 GitHub 有超过 131k Star。
 
 ![](https://stats.deeptrain.net/repo/avelino/awesome-go/?theme=light)
 
@@ -24,7 +24,7 @@ tags: Go
 
 ###### 项目介绍
 
-Awesome Go 是一个精心整理的 Go 语言框架、库和软件的集合，由社区维护更新。该项目旨在为 Go 语言的开发者提供一个高质量资源的集敦，帮助他们快速找到并使用最适合项目需求的 Go 语言资源。
+Awesome Go 是一个精心整理的 Go 语言框架、库和软件的集合，由社区维护更新。该项目旨在为 Go 语言的开发者提供一个高质量资源的集合，帮助他们快速找到并使用最适合项目需求的 Go 语言资源。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240908221405780.png)
 
@@ -34,15 +34,13 @@ Awesome Go 囊括了从人工智能、音频处理、认证授权，到数据库
 
 ###### 如何使用
 
-**Awesome Go** 被组织在一个 GitHub 仓库中，其实使用起来非常简单：
+**Awesome Go** 被组织在一个 GitHub 仓库中，使用起来非常简单：
 
-1、访问项目的 GitHub 页面：[Awesome Go](https://github.com/avelino/awesome-go)。
+1、你可以在 README 文件中找到各种分类的列表，每个分类下会列出相关的 Go 语言资源。
 
-2、你可以在 README 文件中找到各种分类的列表，每个分类下会列出相关的 Go 语言资源。
+2、点击你感兴趣的资源链接，它会直接跳转到对应的 GitHub 仓库或项目页面。
 
-3、点击你感兴趣的资源链接，它会直接跳转到对应的 GitHub 仓库或项目页面。
-
-4、根据选中资源的安装说明，可以把它集成到你的项目中。
+3、根据选中资源的安装说明，可以把它集成到你的项目中。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240908221515099.png)
 

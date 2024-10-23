@@ -12,13 +12,13 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-f794f296ce250656172e4bebac99824c.png)
 
-今天要给大家推荐一个 GitHub 开源项目 go-admin，该项目在 GitHub 有超过 11.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 go-admin，该项目在 GitHub 有超过 11.4k Star。
 
 ![](https://stats.deeptrain.net/repo/go-admin-team/go-admin/?theme=light)
 
 一句话介绍该项目：基于 Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架，3分钟构建自己的中后台项目
 
-![](https://doc-image.zhangwj.com/img/go-admin.svg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241020195520678.png)
 
 
 ###### 项目介绍

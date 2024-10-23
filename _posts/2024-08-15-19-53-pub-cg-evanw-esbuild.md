@@ -8,11 +8,11 @@ tags: Go
 
 ###### 背景介绍
 
-在当前的 Web 开发过程中，构建工具的性能往往成为了一个不容忽视的瓶颈。由于项目的复杂度日益增加，依赖的模块数量剧增，传统的构建工具如 webpack、Rollup 等虽然功能强大，但在构建速度上往往无法满足开发者追求高效的需求。构建慢不仅影响开发者的开发体验，也间接影响了项目的迭代速度。
+在当前的 Web 开发过程中，构建工具的性能往往成为了一个不容忽视的瓶颈。由于项目的复杂度日益增加，依赖的模块数量剧增，传统的构建工具如 Webpack、Rollup 等虽然功能强大，但在构建速度上往往无法满足开发者追求高效的需求。构建慢不仅影响开发者的开发体验，也间接影响了项目的迭代速度。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-105fbc290958dd22edc9b7fe901804d8.png)
 
-今天要给大家推荐一个 GitHub 开源项目 esbuild，该项目在 GitHub 有超过 37.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 esbuild，该项目在 GitHub 有超过 38.1k Star。
 
 ![](https://stats.deeptrain.net/repo/evanw/esbuild/?theme=light)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 让 Kubernetes 自动化处理更加智能化
+title: 让 Kubernetes 自动化处理更智能化
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-fe62af4ec628391472a365acae45bc24.png)
 
-今天要给大家推荐一个 GitHub 开源项目 argo-events，该项目在 GitHub 有超过 2.3k Star。
+今天要给大家推荐一个 GitHub 开源项目 argo-events，该项目在 GitHub 有超过 2.4k Star。
 
 ![](https://stats.deeptrain.net/repo/argoproj/argo-events/?theme=light)
 
@@ -33,7 +33,7 @@ Argo Events 是一款事件驱动的工作流自动化框架，专门为 Kuberne
 
 ###### 如何使用
 
-首先需要按照官方安装指南 [Installation](https://argoproj.github.io/argo-events/installation/)对其进行安装。安装完毕后，用户可以通过 Argo Workflows 的 API 和用户界面轻松管理 Argo Events，详细操作步骤和示例可参见快速开始 [QuickStart](https://argoproj.github.io/argo-events/quick_start/)和 深入了解 [Argo Events](https://argoproj.github.io/argo-events/tutorials/01-introduction/) 章节。以下是一个简单的使用示例代码来展示其基础用法：
+首先需要按照官方安装指南 [Installation](https://argoproj.github.io/argo-events/installation/) 对其进行安装。安装完毕后，用户可以通过 Argo Workflows 的 API 和用户界面轻松管理 Argo Events，详细操作步骤和示例可参见快速开始 [QuickStart](https://argoproj.github.io/argo-events/quick_start/) 和 深入了解 [Argo Events](https://argoproj.github.io/argo-events/tutorials/01-introduction/) 章节。以下是一个简单的使用示例代码来展示其基础用法：
 
 ```yaml
 apiVersion: argoproj.io/v1alpha1

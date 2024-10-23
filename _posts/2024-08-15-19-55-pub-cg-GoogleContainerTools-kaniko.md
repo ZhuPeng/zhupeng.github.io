@@ -10,7 +10,9 @@ tags: Go
 
 在当前快速发展的云计算和容器化技术时代，开发者和企业面临着持续集成与持续部署（CI/CD）的挑战。构建容器镜像通常依赖于 Docker 守护进程，这在一些环境下存在安全与兼容性问题，尤其是在 Kubernetes 集群中。这里的核心痛点包括：Docker 守护进程的依赖限制了构建环境的灵活性，同时也增加了安全隐患；此外，在 Kubernetes 集群中直接构建镜像的需求日益增加，而现有工具往往不能提供满意的解决方案。
 
-今天要给大家推荐一个 GitHub 开源项目 kaniko，该项目在 GitHub 有超过 14.5k Star。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241007214834279.png)
+
+今天要给大家推荐一个 GitHub 开源项目 kaniko，该项目在 GitHub 有超过 14.7k Star。
 
 ![](https://stats.deeptrain.net/repo/GoogleContainerTools/kaniko/?theme=light)
 

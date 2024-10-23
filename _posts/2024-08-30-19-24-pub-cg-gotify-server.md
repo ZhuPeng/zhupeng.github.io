@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一个基于 WebSocket 的简洁、实时消息服务器
+title: 基于 WebSocket 的简洁实时消息服务器
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-dbbdaa53995e349def8d84594a11b9b9.png)
 
-今天要给大家推荐一个 GitHub 开源项目 gotify-server，该项目在 GitHub 有超过 10.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 gotify-server，该项目在 GitHub 有超过 11.2k Star。
 
 ![](https://stats.deeptrain.net/repo/gotify/server/?theme=light)
 
@@ -23,11 +23,11 @@ tags: Go
 
 ###### 项目介绍
 
-gotify/server 是一个基于 WebSocket 的简洁、实时消息服务器，支持自我托管，为开发者提供了一个易于部署、灵活的实时消息解决方案。
+gotify server 是一个基于 WebSocket 的简洁、实时消息服务器，支持自我托管，为开发者提供了一个易于部署、灵活的实时消息解决方案。
 
 ![](https://raw.githubusercontent.com/gotify/server/master/ui.png)
 
-`gotify/server` 的核心功能包括：
+`gotify server` 的核心功能包括：
 
 1、通过 REST-API 发送消息：简化了消息发送过程，让服务和应用能够轻松集成消息推送功能。
 
@@ -35,11 +35,11 @@ gotify/server 是一个基于 WebSocket 的简洁、实时消息服务器，支�
 
 3、用户、客户端和应用管理：提供了一套完善的管理界面，使得用户和权限控制变得简单直观。
 
-4、插件系统支持：通过强大的插件系统，`gotify/server` 可以轻松扩展更多功能，满足特定的业务需求。
+4、插件系统支持：通过强大的插件系统，`gotify server` 可以轻松扩展更多功能，满足特定的业务需求。
 
 5、附带 Web-UI：提供了一套优雅的 Web 用户界面，使得操作和管理变得友好、直观。
 
-6、可用的 CLI 和 Android 应用：通过 CLI 工具和 Android 应用，增强了 `gotify/server` 的可接入性和便利性。
+6、可用的 CLI 和 Android 应用：通过 CLI 工具和 Android 应用，增强了 `gotify server` 的可接入性和便利性。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20240913213209758.png)
 
@@ -58,7 +58,7 @@ docker run -p 80:80 gotify/server
 
 ###### 项目推介
 
-多个开源项目和企业已经开始采用 `gotify/server` 作为他们的实时通信基础服务。加上强大的插件系统和开源的客户端应用（包括 Android 客户端），`gotify/server` 可以成为构建现代应用实时通信架构的可选方案。
+多个开源项目和企业已经开始采用 `gotify server` 作为他们的实时通信基础服务。加上强大的插件系统和开源的客户端应用（包括 Android 客户端），`gotify server` 可以成为构建现代应用实时通信架构的可选方案。
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 
