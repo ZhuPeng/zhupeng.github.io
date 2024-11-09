@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 基于 Go 语言的任务调度工具库
+title: 基于 Go 的任务调度工具库
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-da60a95ac788878ff04e5232b63803e1.png)
 
-今天要给大家推荐一个 GitHub 开源项目 gocron，该项目在 GitHub 有超过 5.5k Star。
+今天要给大家推荐一个 GitHub 开源项目 gocron，该项目在 GitHub 有超过 5.6k Star。
 
 ![](https://stats.deeptrain.net/repo/go-co-op/gocron/?theme=light)
 

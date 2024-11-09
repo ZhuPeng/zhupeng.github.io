@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-bf4cc900e946298d3ec706b73f9f471d.png)
 
-今天要给大家推荐一个 GitHub 开源项目 livekit，该项目在 GitHub 有超过 10.1k Star。
+今天要给大家推荐一个 GitHub 开源项目 livekit，该项目在 GitHub 有超过 10.5k Star。
 
 ![](https://stats.deeptrain.net/repo/livekit/livekit/?theme=light)
 

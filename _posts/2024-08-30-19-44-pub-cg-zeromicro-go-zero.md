@@ -13,7 +13,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-bdd1e141bd70f22a5314b1bbf7893245.png)
 
-今天要给大家推荐一个 GitHub 开源项目 go-zero，该项目在 GitHub 有超过 28.7k Star。
+今天要给大家推荐一个 GitHub 开源项目 go-zero，该项目在 GitHub 有超过 29.3k Star。
 
 ![](https://stats.deeptrain.net/repo/zeromicro/go-zero/?theme=light)
 

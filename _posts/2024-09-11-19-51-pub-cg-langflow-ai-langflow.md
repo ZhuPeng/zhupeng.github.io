@@ -12,7 +12,7 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-5eaf4c24d35c68feb499cad5f9c3d9c7.png)
 
-今天要给大家推荐一个 GitHub 开源项目 langflow，该项目在 GitHub 有超过 31.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 langflow，该项目在 GitHub 有超过 33.7k Star。
 
 ![](https://stats.deeptrain.net/repo/langflow-ai/langflow/?theme=light)
 

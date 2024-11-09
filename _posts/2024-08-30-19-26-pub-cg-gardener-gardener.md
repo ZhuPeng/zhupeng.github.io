@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 规模化部署同质化 K8S 集群解决方案
+title: 规模化部署 K8S 集群解决方案
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-468ab34adcfa0a64a866f25da40c06b4.png)
 
-今天要给大家推荐一个 GitHub 开源项目 gardener，该项目在 GitHub 有超过 2.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 gardener，该项目在 GitHub 有超过 2.9k Star。
 
 ![](https://stats.deeptrain.net/repo/gardener/gardener/?theme=light)
 

@@ -12,7 +12,7 @@ PDF 文件因其跨平台、格式统一的特性被广泛应用于文档分享�
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-a0b85cb869d1f0b2498b47f23ecffa4e.png)
 
-今天要给大家推荐一个 GitHub 开源项目 pdfcpu，该项目在 GitHub 有超过 6.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 pdfcpu，该项目在 GitHub 有超过 7k Star。
 
 ![](https://stats.deeptrain.net/repo/pdfcpu/pdfcpu/?theme=light)
 

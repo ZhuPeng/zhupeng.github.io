@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 脚本到工作流程和用户界面的自动转换
+title: 现代化工作流引擎，写脚本即可生成工作流程和用户界面
 tags: 
 ---
 
@@ -12,7 +12,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-2af2ff8c6290021f78ce7bf081633216.png)
 
-今天要给大家推荐一个 GitHub 开源项目 windmill，该项目在 GitHub 有超过 9.5k Star。
+今天要给大家推荐一个 GitHub 开源项目 windmill，该项目在 GitHub 有超过 10.1k Star。
 
 ![](https://stats.deeptrain.net/repo/windmill-labs/windmill/?theme=light)
 
@@ -24,7 +24,7 @@ tags:
 
 Windmill 提供了一种革新性的解决方案，实现了脚本到工作流程和用户界面（UI）的转换，是 Retool、Airplane 等商业工具的开源替代品。通过 Windmill，您可以将简单的脚本自动转换为可分享的 UI，便于团队成员之间的协作和共享。它支持多种脚本语言，包括 Python、TypeScript、Go、Bash、SQL 和 GraphQL，几乎不设限地为您提供灵活性。
 
-![](https://raw.githubusercontent.com/windmill-labs/windmill/master/./imgs/stacks.svg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241106000705684.png)
 
 Windmill 设计的关键优点在于它的自动生成 UI 和定制 UI 功能，这允许用户以极低的代码量构建复杂的应用程序。此外，其基于 Rust 的后端、Svelte 的前端和先进的沙盒执行机制确保了应用的高性能和安全性。
 

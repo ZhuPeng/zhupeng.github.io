@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-89cddebf233a4dd3b8b0f7807d7a56e0.png)
 
-今天要给大家推荐一个 GitHub 开源项目 lancet，该项目在 GitHub 有超过 4.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 lancet，该项目在 GitHub 有超过 4.7k Star。
 
 ![](https://stats.deeptrain.net/repo/duke-git/lancet/?theme=light)
 
@@ -55,7 +55,7 @@ import (
 func main() {
     s := "hello"
     rs := strutil.Reverse(s)
-    fmt.Println(rs) //输出：olleh
+    fmt.Println(rs) //Output：olleh
 }
 ```
 

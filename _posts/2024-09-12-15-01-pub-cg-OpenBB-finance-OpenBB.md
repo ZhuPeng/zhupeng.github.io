@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 面向每个人的投资研究平台
+title: 面向个人的投资研究平台
 tags: Python
 ---
 
@@ -28,7 +28,7 @@ tags: Python
 
 OpenBB 涵盖股票、期权、加密货币、外汇、宏观经济、固定收益等众多领域，提供广泛的扩展功能来满足不同用户的需求。更令人兴奋的是，OpenBB 还开源了一个 AI 财经分析助手，可实现全面接入 OpenBB 数据的深度分析与预测。
 
-![](https://openbb.co/api/image?src=%2Fassets%2Fimages%2Fhome%2Fhero.png&width=2400&fit=cover&position=center&background[]=0&background[]=0&background[]=0&background[]=0&quality=100&compressionLevel=9&loop=0&delay=100&crop=null)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241107232928773.png)
 
 ###### 如何使用
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为微控制器和 WebAssembly 打造的 Go 语言编译器
+title: 为微控制器打造的 Go 编译器
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-208f8e946e5971c4a1cafc843f8f1303.png)
 
-今天要给大家推荐一个 GitHub 开源项目 tinygo，该项目在 GitHub 有超过 15.1k Star。
+今天要给大家推荐一个 GitHub 开源项目 tinygo，该项目在 GitHub 有超过 15.4k Star。
 
 ![](https://stats.deeptrain.net/repo/tinygo-org/tinygo/?theme=light)
 

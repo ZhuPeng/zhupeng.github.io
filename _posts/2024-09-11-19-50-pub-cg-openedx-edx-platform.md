@@ -12,7 +12,7 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-7c2efc91e83ebf47a9d0025aa64dd7b6.png)
 
-今天要给大家推荐一个 GitHub 开源项目 edx-platform，该项目在 GitHub 有超过 7.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 edx-platform，该项目在 GitHub 有超过 7.4k Star。
 
 ![](https://stats.deeptrain.net/repo/openedx/edx-platform/?theme=light)
 

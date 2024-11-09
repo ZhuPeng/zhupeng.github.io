@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 针对 IaC 模块管理的灵活编排工具
+title: 针对 IaC 模块管理的编排工具
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-946055d5765b7e171df960bbcae02d1c.png)
 
-今天要给大家推荐一个 GitHub 开源项目 terragrunt，该项目在 GitHub 有超过 7.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 terragrunt，该项目在 GitHub 有超过 8.1k Star。
 
 ![](https://stats.deeptrain.net/repo/gruntwork-io/terragrunt/?theme=light)
 

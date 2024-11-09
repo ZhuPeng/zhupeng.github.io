@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gin Web 框架默认的数据结构验证器
+title: Gin 框架的数据结构验证器
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-cba34cf9734902a2dae90c76bacccb48.png)
 
-今天要给大家推荐一个 GitHub 开源项目 go validator，该项目在 GitHub 有超过 16.4k Star。
+今天要给大家推荐一个 GitHub 开源项目 go validator，该项目在 GitHub 有超过 16.8k Star。
 
 ![](https://stats.deeptrain.net/repo/go-playground/validator/?theme=light)
 
