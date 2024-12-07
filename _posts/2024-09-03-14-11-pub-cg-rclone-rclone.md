@@ -18,7 +18,7 @@ tags: Go
 
 一句话介绍该项目："rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 
-![](https://rclone.org/img/logo_on_light__horizontal_color.svg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241110120738829.png)
 
 
 ###### 项目介绍

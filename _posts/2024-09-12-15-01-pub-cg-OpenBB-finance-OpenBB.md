@@ -12,7 +12,7 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-34b96c9287065ff6d0bedec348152f67.png)
 
-今天要给大家推荐一个 GitHub 开源项目 OpenBB，该项目在 GitHub 有超过 32.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 OpenBB，该项目在 GitHub 有超过 34.1k Star。
 
 ![](https://stats.deeptrain.net/repo/OpenBB-finance/OpenBB/?theme=light)
 

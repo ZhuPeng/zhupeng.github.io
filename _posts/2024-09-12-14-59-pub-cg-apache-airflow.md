@@ -12,7 +12,7 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-deb06f7344f92ffb6b1c6bf5046e7c91.png)
 
-今天要给大家推荐一个 GitHub 开源项目 airflow，该项目在 GitHub 有超过 36.7k Star。
+今天要给大家推荐一个 GitHub 开源项目 airflow，该项目在 GitHub 有超过 37.3k Star。
 
 ![](https://stats.deeptrain.net/repo/apache/airflow/?theme=light)
 

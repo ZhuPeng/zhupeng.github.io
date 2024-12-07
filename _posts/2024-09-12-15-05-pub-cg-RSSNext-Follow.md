@@ -12,14 +12,14 @@ tags: All
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-77f84417850e0c4269acac5d03fc778d.png)
 
-今天要给大家推荐一个 GitHub 开源项目 Follow，该项目在 GitHub 有超过 13.6k Star。
+今天要给大家推荐一个 GitHub 开源项目 Follow，该项目在 GitHub 有超过 17.6k Star。
 
 ![](https://stats.deeptrain.net/repo/RSSNext/Follow/?theme=light)
 
 一句话介绍该项目：Next generation information browser.
 
 
-![](https://github.com/user-attachments/assets/1958ec70-1916-47c5-82d0-3bd8e43f3a26)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241123221831343.png)
 
 ###### 项目介绍
 
@@ -54,11 +54,11 @@ Follow 目前处于开发者预览阶段（alpha），通过邀请制向有限�
 
 以下是部分使用截图：
 
-![](https://github.com/user-attachments/assets/1781f368-8375-4b50-a66c-c8d8340f3ffb)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_1781f368-8375-4b50-a66c-c8d8340f3ffb.png)
 
-![](https://github.com/user-attachments/assets/6ccfeada-dbc3-4c76-8ca2-5dcac8c06804)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_6ccfeada-dbc3-4c76-8ca2-5dcac8c06804.png)
 
-![](https://github.com/user-attachments/assets/1801f1ba-e57f-4daf-8120-32631b0bdc2c)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_1801f1ba-e57f-4daf-8120-32631b0bdc2c.png)
 
 ###### 项目推介
 
