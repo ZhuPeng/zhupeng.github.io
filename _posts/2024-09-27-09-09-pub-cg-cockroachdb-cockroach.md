@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-2ac3aec619211add503259d0da3dce41.png)
 
-今天要给大家推荐一个 GitHub 开源项目 cockroachdb，该项目在 GitHub 有超过 30.1k Star。
+今天要给大家推荐一个 GitHub 开源项目 cockroachdb，该项目在 GitHub 有超过 30.2k Star。
 
 ![](https://stats.deeptrain.net/repo/cockroachdb/cockroach/?theme=light)
 

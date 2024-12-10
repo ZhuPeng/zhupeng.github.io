@@ -10,7 +10,9 @@ tags: Python
 
 AI 作为当下最引人注目的技术之一，其应用场景日益广泛，从自动化家居到智能办公，再到高级研究领域。然而，AI 模型的训练和推理通常需要强大的计算能力，对硬件的要求极高。对于大多数个人用户而言，高价的专业 GPU 往往是难以承受的；同时，随手可得的设备如智能手机、平板电脑、笔记本电脑等，虽然众多但往往未能充分利用。这一切，都在等待一个能够改变现状的解决方案。
 
-今天要给大家推荐一个 GitHub 开源项目 exo-explore，该项目在 GitHub 有超过 14.1k Star。
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241207223337261.png)
+
+今天要给大家推荐一个 GitHub 开源项目 exo-explore，该项目在 GitHub 有超过 17k Star。
 
 ![](https://stats.deeptrain.net/repo/exo-explore/exo/?theme=light)
 

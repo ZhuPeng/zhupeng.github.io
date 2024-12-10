@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub 开源项目 labstack/echo 介绍，High performance, minimalist Go web framework
+title: 高性能、极简的 Web 开发框架
 tags: Go
 ---
 
@@ -43,7 +43,7 @@ Echo 的主要特点包括：
 
 6、数据绑定支持 JSON、XML 以及表单数据，便于处理请求数据。
 
-![image-20241201215809420](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241201215809420.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241201215809420.png)
 
 7、提供便捷的函数用于发送各种 HTTP 响应。
 
