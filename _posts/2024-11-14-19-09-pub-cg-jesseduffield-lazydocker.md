@@ -12,7 +12,7 @@ Docker 提供了一个轻量级和便捷的解决方案，帮助开发者在隔�
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-f087824516487f893d42019934af1030.png)
 
-今天要给大家推荐一个 GitHub 开源项目 lazydocker，该项目在 GitHub 有超过 37.4k Star。
+今天要给大家推荐一个 GitHub 开源项目 lazydocker，该项目在 GitHub 有超过 39.1k Star。
 
 ![](https://stats.deeptrain.net/repo/jesseduffield/lazydocker/?theme=light)
 

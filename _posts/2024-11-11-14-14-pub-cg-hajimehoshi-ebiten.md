@@ -10,6 +10,8 @@ tags: Go
 
 对于开发者们来说，创建一款跨平台的 2D 游戏开发项目是一项令人头疼的挑战。他们常常需要面对多种程序语言和框架的学习曲线，以及不同平台间复杂的兼容性问题。此外，为了实现丰富的游戏效果和流畅的用户体验，高效的图形渲染和输入处理机制成为了核心痛点。这些问题无不增加了开发者们在游戏开发过程中的负担。
 
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241207231959569.png)
+
 今天要给大家推荐一个 GitHub 开源项目 ebiten，该项目在 GitHub 有超过 11.2k Star。
 
 ![](https://stats.deeptrain.net/repo/hajimehoshi/ebiten/?theme=light)

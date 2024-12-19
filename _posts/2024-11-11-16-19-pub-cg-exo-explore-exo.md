@@ -25,9 +25,9 @@ AI 作为当下最引人注目的技术之一，其应用场景日益广泛，�
 
 **exo** 让人们可以在家中用日常设备运行自己的 AI 集群。忘掉昂贵的 NVIDIA GPU，利用你现有的设备组建一个强大的 GPU 集群：iPhone、iPad、Android、Mac、Linux，几乎任何设备！exo 的这一理念，为广大技术爱好者、研究人员、小型团队提供了前所未有的机会，让他们可以利用手头上看似普通的设备，完成复杂的 AI 模型运行任务。
 
-![](https://github.com/exo-explore/exo/raw/main/docs/exo-screenshot.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241207232106022.png)
 
-**exo 的主要功能包括：**
+exo 的主要功能包括：
 
 1、广泛的模型支持：支持多种模型，包括 LLaMA、Mistral、LlaVA、Qwen 和 Deepseek 等。
 

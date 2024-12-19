@@ -8,11 +8,11 @@ tags: Go
 
 ###### 背景介绍
 
-在云原生时代，越来越多的企业和研究机构转向 Kubernetes 来管理他们的容器化应用。特别是在面对需要大量计算并且需求多变的批处理和弹性工作负载时，例如机器学习/深度学习、生物信息学/基因组学以及其他大数据应用，传统的 Kubernetes 调度系统可能无法满足其复杂性和灵活性上的需求。因此，寻找一个能够提高 Kubernetes 上这类工作负载运行效率和资源利用率的解决方案变得尤为重要。
+在云原生时代，越来越多的企业和研究机构转向 Kubernetes 来管理他们的容器化应用。特别是在面对需要大量计算并且需求多变的批处理和弹性工作负载时，例如机器学习、深度学习、生物信息学、基因组学以及其他大数据应用，传统的 Kubernetes 调度系统可能无法满足其复杂性和灵活性上的需求。因此，寻找一个能够提高 Kubernetes 上这类工作负载运行效率和资源利用率的解决方案变得尤为重要。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-e81ba3acc30f73febc95e70544cd3dc5.png)
 
-今天要给大家推荐一个 GitHub 开源项目 volcano，该项目在 GitHub 有超过 4.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 volcano，该项目在 GitHub 有超过 4.3k Star。
 
 ![](https://stats.deeptrain.net/repo/volcano-sh/volcano/?theme=light)
 
@@ -40,7 +40,7 @@ kubectl apply -f https://raw.githubusercontent.com/volcano-sh/volcano/master/ins
 
 ###### 项目推介
 
-Volcano 已经在全球多个行业得到广泛使用，包括互联网/云计算/金融/制造/医疗等领域。超过 20 家公司或机构不仅是其终端用户，还积极贡献于该项目。数百名贡献者积极参与代码提交、PR 审查、问题讨论、文档更新以及设计提供。包括华为在内的知名公司以及来自世界各地的技术会议也对 Volcano 给予了高度评价。
+Volcano 已经在全球多个行业得到广泛使用，包括互联网、云计算、金融、制造、医疗等领域。超过 20 家公司或机构不仅是其终端用户，还积极贡献于该项目。数百名贡献者积极参与代码提交、PR 审查、问题讨论、文档更新以及设计提供。包括华为在内的知名公司以及来自世界各地的技术会议也对 Volcano 给予了高度评价。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241117220901480.png)
 

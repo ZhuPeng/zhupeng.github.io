@@ -12,11 +12,11 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-ca6f64d28d9f33b0ffc96bdf7b8a41ac.png)
 
-今天要给大家推荐一个 GitHub 开源项目 MinerU，该项目在 GitHub 有超过 17.6k Star。
+今天要给大家推荐一个 GitHub 开源项目 MinerU，该项目在 GitHub 有超过 20.7k Star。
 
 ![](https://stats.deeptrain.net/repo/opendatalab/MinerU/?theme=light)
 
-一句话介绍该项目：A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction. 一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+一句话介绍该项目：A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction. 一站式开源高质量数据提取工具，支持PDF、网页、多格式电子书提取。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241119224104797.png)
 

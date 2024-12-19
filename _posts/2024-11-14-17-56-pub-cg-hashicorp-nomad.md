@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-384f372b0a58f85e5e59164e701bd674.png)
 
-今天要给大家推荐一个 GitHub 开源项目 nomad，该项目在 GitHub 有超过 14.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 nomad，该项目在 GitHub 有超过 15k Star。
 
 ![](https://stats.deeptrain.net/repo/hashicorp/nomad/?theme=light)
 

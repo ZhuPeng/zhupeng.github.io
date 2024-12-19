@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-6433d57f3cc8ef6a99cbf75593956d01.png)
 
-今天要给大家推荐一个 GitHub 开源项目 nerdctl，该项目在 GitHub 有超过 8.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 nerdctl，该项目在 GitHub 有超过 8.3 Star。
 
 ![](https://stats.deeptrain.net/repo/containerd/nerdctl/?theme=light)
 

@@ -18,23 +18,7 @@ tags: Go
 
 一句话介绍该项目：Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241207230817349.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://opencollective.com/swag/sponsor/2/avatar.svg)
-
-![](https://opencollective.com/swag/sponsor/3/avatar.svg)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241207230817349.png)
 
 
 ###### 项目介绍
@@ -53,7 +37,7 @@ Swag 是一个由 Go 语言编写的开源项目，旨在自动根据 Go 代码�
 
 4、强大的自定义能力：支持自定义类型、枚举描述、安全注释等高级功能。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241207230958492.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241207230958492.png)
 
 ###### 如何使用
 
@@ -65,7 +49,7 @@ go install github.com/swaggo/swag/cmd/swag@latest
 
 2、在你的 Go API 源代码中添加必要的注释，参见项目的声明性注释格式
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241207231232924.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241207231232924.png)
 
 3、在包含 `main.go` 的项目根目录下运行：
 
@@ -84,7 +68,7 @@ import _ "example-module-name/docs"
 
 **Swag** 由于其能够极大简化文档的生成流程和提高 API 文档的准确性与实用性，已经在 GitHub 上获得了不少星标。它不仅适合个人开发者，也被包括多家知名企业在内的组织所采用。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241207231313892.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241207231313892.png)
 
 以下是该项目 Star 趋势图（代表项目的活跃程度）：
 

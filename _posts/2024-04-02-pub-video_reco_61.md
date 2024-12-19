@@ -8,6 +8,8 @@ tags: 视频
 
 ######  1、云原生的分布式 SQL 数据库
 
+[云原生的分布式SQL数据库](https://www.bilibili.com/video/BV11GqWYkEkS/)
+
 CockroachDB 是一个云原生的分布式 SQL 数据库，旨在为构建、扩展和管理现代、数据密集型应用程序提供解决方案。它基于事务性和强一致性的键值存储构建，能够实现水平扩展，即使在磁盘、机器、机架乃至数据中心发生故障的情况下，也能以最小的延迟中断和无需人工干预自动恢复。CockroachDB 支持强一致性的 ACID 事务，并提供了熟悉的 SQL API 用于结构化、操作和查询数据。
 
 开源项目地址：https://github.com/cockroachdb/cockroach
