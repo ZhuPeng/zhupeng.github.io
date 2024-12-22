@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-f9b5c0ecd0bb9a02425fe9a8118527ee.png)
 
-今天要给大家推荐一个 GitHub 开源项目 websocket，该项目在 GitHub 有超过 22.5k Star。
+今天要给大家推荐一个 GitHub 开源项目 websocket，该项目在 GitHub 有超过 22.7k Star。
 
 ![](https://stats.deeptrain.net/repo/gorilla/websocket/?theme=light)
 
@@ -36,7 +36,7 @@ go get github.com/gorilla/websocket
 
 以下是一个简单的使用示例，展示了如何创建一个 WebSocket 服务器和客户端：
 
-**服务器端示例：**
+服务器端示例如下：
 
 ```go
 package main
@@ -68,7 +68,7 @@ func main() {
 }
 ```
 
-**客户端示例：**
+客户端示例如下：
 
 ```go
 package main

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 比肩 Make 且更简单通用的构建工具
+title: 比肩 Make 的通用构建工具
 tags: Go
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 强大的小型 TUI（文本用户界面）开发框架
+title: 强大的小型文本用户界面开发框架
 tags: Go
 ---
 
@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-26b3aeeaf3bb27fb1175f2f55d1c9dc8.png)
 
-今天要给大家推荐一个 GitHub 开源项目 bubbletea，该项目在 GitHub 有超过 28.2k Star。
+今天要给大家推荐一个 GitHub 开源项目 bubbletea，该项目在 GitHub 有超过 28.6k Star。
 
 ![](https://stats.deeptrain.net/repo/charmbracelet/bubbletea/?theme=light)
 
@@ -23,7 +23,9 @@ tags: Go
 
 ###### 项目介绍
 
-Bubble Tea 是一个使用 Go 语言开发的强大的小型 TUI（文本用户界面）框架，基于 *The Elm Architecture* 架构开发。该项目旨在为开发者提供一种有趣、功能性且富有状态的方式来构建终端应用程序，无论是简单还是复杂的终端应用程序，包括内联应用、全窗口应用，或是二者的混合应用。此外，*Bubble Tea* 包含多种功能和性能优化，比如标准帧率基础渲染器、用于可滚动区域的高性能渲染器以及鼠标支持，让终端应用开发变得更加高效且富有动感。
+Bubble Tea 是一个使用 Go 语言开发的强大的小型 TUI（文本用户界面）框架，基于 The Elm Architecture 架构开发。该项目旨在为开发者提供一种有趣、功能性且富有状态的方式来构建终端应用程序，无论是简单还是复杂的终端应用程序，包括内联应用、全窗口应用，或是二者的混合应用。此外，Bubble Tea 包含多种功能和性能优化，比如标准帧率基础渲染器、用于可滚动区域的高性能渲染器以及鼠标支持，让终端应用开发变得更加高效且富有动感。
+
+![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241218231724247.png)
 
 以下是一个使用示例：
 
@@ -31,13 +33,13 @@ Bubble Tea 是一个使用 Go 语言开发的强大的小型 TUI（文本用户�
 
 ###### 如何使用
 
-通过以下命令安装 *Bubble Tea*：
+通过以下命令安装 Bubble Tea：
 
 ```bash
 go get github.com/charmbracelet/bubbletea
 ```
 
-下面是一个简单示例，展示如何开始使用 *Bubble Tea* 创建一个购物清单应用：
+下面是一个简单示例，展示如何开始使用 Bubble Tea 创建一个购物清单应用：
 
 ```go
 package main
@@ -76,11 +78,11 @@ func main() {
 }
 ```
 
-这个示例展示了 *Bubble Tea* 应用的基本结构，包括定义模型、初始化、更新逻辑和视图渲染。
+这个示例展示了 Bubble Tea 应用的基本结构，包括定义模型、初始化、更新逻辑和视图渲染。
 
 ###### 项目推介
 
-*Bubble Tea* 已经在生产中得到了广泛的应用，它的活跃的开发状态、直观的文档和丰富的示例库使其成为开发终端应用的首选框架之一。该项目由 *Charmbracelet* 团队开发，这是一个以开发终端工具和库闻名的团队。
+Bubble Tea 已经在生产中得到了广泛的应用，它的活跃的开发状态、直观的文档和丰富的示例库使其成为开发终端应用的首选框架之一。该项目由 Charmbracelet 团队开发，这是一个以开发终端工具和库闻名的团队。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241125225126771.png)
 

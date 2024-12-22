@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 极简、易用的聚合支付SDK
+title: 极简、易用的聚合支付 SDK
 tags: Go
 ---
 

@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-77a09a437fb1b0b3481b236723ebe06e.png)
 
-今天要给大家推荐一个 GitHub 开源项目 echo，该项目在 GitHub 有超过 30.0k Star。
+今天要给大家推荐一个 GitHub 开源项目 echo，该项目在 GitHub 有超过 30.1k Star。
 
 ![](https://stats.deeptrain.net/repo/labstack/echo/?theme=light)
 

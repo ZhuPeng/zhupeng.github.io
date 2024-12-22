@@ -10,7 +10,9 @@ tags: Go
 
 在当今的云计算中， Kubernetes 成为了云服务中不可或缺的组成部分。然而，随之带来的是成本监控的挑战，尤其是在多应用、多团队、多部门的 Kubernetes 环境中。企业通常面临着如何有效监控并优化 Kubernetes 工作负载和跨多个云服务商的云成本的问题，这些问题核心在于：缺乏透明度、成本分配复杂、难以监控多云成本。
 
-今天要给大家推荐一个 GitHub 开源项目 opencost，该项目在 GitHub 有超过 5.3k Star。
+![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241218231610593.png)
+
+今天要给大家推荐一个 GitHub 开源项目 opencost，该项目在 GitHub 有超过 5.4k Star。
 
 ![](https://stats.deeptrain.net/repo/opencost/opencost/?theme=light)
 
@@ -23,7 +25,7 @@ tags: Go
 
 OpenCost 为团队提供了当前和历史 Kubernetes 及云支出和资源分配的可见性。它支持跨多个应用、团队、部门等的成本透明度，同时提供多个云服务商的云成本可见性。
 
-
+![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241218231449782.png)
 
 项目亮点如下：
 

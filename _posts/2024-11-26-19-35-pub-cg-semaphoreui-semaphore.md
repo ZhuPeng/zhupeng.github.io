@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-c93da67f359f43d2fe8bded984eced80.png)
 
-今天要给大家推荐一个 GitHub 开源项目 semaphoreui/semaphore，该项目在 GitHub 有超过 10.7k Star。
+今天要给大家推荐一个 GitHub 开源项目 semaphoreui/semaphore，该项目在 GitHub 有超过 10.9k Star。
 
 ![](https://stats.deeptrain.net/repo/semaphoreui/semaphore/?theme=light)
 
@@ -20,7 +20,6 @@ tags: Go
 
 
 ![](https://user-images.githubusercontent.com/914224/134777345-8789d9e4-ff0d-439c-b80e-ddc56b74fcee.png)
-
 
 ###### 项目介绍
 
@@ -32,7 +31,7 @@ Semaphore UI 的主要特点包括项目、任务模板、任务、计划、清�
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241127232735282.png)
 
-**如何使用**
+###### 如何使用
 
 Semaphore UI 提供多种安装方式，包含如下方式：
 
@@ -52,7 +51,7 @@ docker run -p 3000:3000 --name semaphore \
 
 此外，Semaphore UI 还提供了 [Semaphore Cloud](https://cloud.semaphoreui.com)，一个无需安装即可使用的 SaaS 解决方案。
 
-**项目推介**
+###### 项目推介
 
 Semaphore UI 其活跃的开发状态、易于上手的使用方式，以及广泛适用的 DevOps 工具支持，使它成为了 DevOps 领域内不可或缺的现代化工具之一。Semaphore UI 已被多个组织和开发团队采用，用于提高他们的自动化部署和配置管理的效率。
 

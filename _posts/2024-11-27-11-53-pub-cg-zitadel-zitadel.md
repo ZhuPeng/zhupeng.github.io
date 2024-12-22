@@ -12,7 +12,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-aed9de1cffdfa89f168958eac6575e8a.png)
 
-今天要给大家推荐一个 GitHub 开源项目 zitadel，该项目在 GitHub 有超过 9.1k Star。
+今天要给大家推荐一个 GitHub 开源项目 zitadel，该项目在 GitHub 有超过 9.3k Star。
 
 ![](https://stats.deeptrain.net/repo/zitadel/zitadel/?theme=light)
 

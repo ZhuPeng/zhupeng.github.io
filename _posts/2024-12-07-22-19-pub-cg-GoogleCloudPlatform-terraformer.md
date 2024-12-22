@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 基础设施反向生成 Terraform 代码的神器
+title: 反向生成 Terraform 代码的神器
 tags: Go
 ---
 
@@ -14,7 +14,7 @@ tags: Go
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-9fdcf6535dac17efd25b728cac4650bb.png)
 
-今天要给大家推荐一个 GitHub 开源项目 terraformer，该项目在 GitHub 有超过 12.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 terraformer，该项目在 GitHub 有超过 12.9k Star。
 
 ![](https://stats.deeptrain.net/repo/GoogleCloudPlatform/terraformer/?theme=light)
 

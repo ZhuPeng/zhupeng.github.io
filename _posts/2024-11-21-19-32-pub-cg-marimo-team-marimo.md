@@ -12,7 +12,7 @@ tags: Python
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-eb72b4d774ad536a7660bcec7c58ff04.png)
 
-今天要给大家推荐一个 GitHub 开源项目 marimo，该项目在 GitHub 有超过 8k Star。
+今天要给大家推荐一个 GitHub 开源项目 marimo，该项目在 GitHub 有超过 8.6k Star。
 
 ![](https://stats.deeptrain.net/repo/marimo-team/marimo/?theme=light)
 
@@ -66,13 +66,29 @@ pip install marimo && marimo tutorial intro
 
 创建与运行笔记本参考如下：
 
-1、创建或编辑笔记本：`marimo edit`
+1、创建或编辑笔记本
 
-2、以 Web 应用形式运行笔记本：`marimo run your_notebook.py`
+```bash
+marimo edit
+```
 
-3、作为脚本执行笔记本：`python your_notebook.py`
+2、以 Web 应用形式运行笔记本
 
-4、自动将 Jupyter 笔记本转换为 marimo 笔记本：`marimo convert your_notebook.ipynb > your_notebook.py`
+```bash
+marimo run your_notebook.py
+```
+
+3、作为脚本执行笔记本
+
+```bash
+python your_notebook.py
+```
+
+4、自动将 Jupyter 笔记本转换为 marimo 笔记本
+
+```bash
+marimo convert your_notebook.ipynb > your_notebook.py
+```
 
 ###### 项目推介
 

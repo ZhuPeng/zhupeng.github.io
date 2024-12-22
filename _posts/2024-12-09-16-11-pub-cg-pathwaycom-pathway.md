@@ -18,31 +18,17 @@ tags: Python
 
 一句话介绍该项目：Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241211000538237.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241211000538237.png)
 
 ###### 项目介绍
 
 Pathway 是一个基于 Python 的 ETL （提取、转换、加载）框架，专注于流处理、实时分析、LLM 管道和 RAG。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241211000619586.png)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241211000619586.png)
 
 Pathway 的亮点在于它提供了易于使用的 Python API，允许开发者无缝集成他们喜爱的 Python 机器学习库，并且支持在开发和生产环境中有效处理批量和流数据。进一步地，Pathway 由一个基于差分数据流的可扩展 Rust 引擎驱动，使你的 Pathway 代码以 Rust 引擎运行，从而实现了多线程、多进程和分布式计算的能力。此外，整个管道都保持在内存中，并可以通过 Docker 和 Kubernetes 轻松部署。
 
-![](/Users/zhupeng/Work/git/zhupeng.github.io/images/image-20241211000743236.png)
-
-
-
-
-
-
-
-
-
-
-
-![](https://github.com/pathwaycom/pathway-benchmarks/raw/main/images/bm-wordcount-lineplot.png)
-
-
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_image-20241211000743236.png)
 
 ###### 如何使用
 
@@ -85,8 +71,6 @@ Pathway 项目以其独特的功能集、对开发者友好的接口和强大的
 开源项目地址：https://github.com/pathwaycom/pathway 
 
 开源项目作者：pathwaycom
-
-开源协议：Other
 
 以下是参与项目建设的所有成员：
 
