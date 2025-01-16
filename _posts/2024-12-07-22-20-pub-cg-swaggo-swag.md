@@ -8,11 +8,11 @@ tags: Go
 
 ###### 背景介绍
 
-在构建 Web 应用程序时，创建和维护 API 文档是一个既耗时又复杂的任务。随着应用程序的迭代和功能的增加，手动更新文档更是一个挑战。如果文档与实际 API 不同步，就会给前后端的交互和第三方使用带来错误和混淆。这种情况下，开发者需要一个能够自动化生成和更新 API 文档的工具，以提高开发效率，并确保文档的准确性和实时性。
+在构建 Web 应用程序时，创建和维护 API 文档是一个既耗时又复杂的任务。随着应用程序迭代和功能的增加，手动更新文档更是一个挑战。如果文档与实际 API 不同步，就会给前后端的交互和第三方使用带来错误和混淆。这种情况下，开发者需要一个能够自动化生成和更新 API 文档的工具，以提高开发效率，并确保文档的准确性和实时性。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-897aa9b0952792833b78bd0ea324f93b.png)
 
-今天要给大家推荐一个 GitHub 开源项目 swag，该项目在 GitHub 有超过 10.8k Star。
+今天要给大家推荐一个 GitHub 开源项目 swag，该项目在 GitHub 有超过 11k Star
 
 ![](https://stats.deeptrain.net/repo/swaggo/swag/?theme=light)
 

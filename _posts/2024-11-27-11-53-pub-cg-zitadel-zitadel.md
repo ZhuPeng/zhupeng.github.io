@@ -8,13 +8,13 @@ tags: Go
 
 ###### 背景介绍
 
-安全有效的用户认证与授权管理是各类网络应用和服务不可或缺的一环。但是，构建一个既安全又灵活的身份验证系统对于许多企业和开发者来说是一项挑战。他们需要应对的问题包括但不限于多租户的支持、自服务能力、多因素认证、单点登录（SSO）以及合规性等要求。这些问题不仅对于技术团队而言是复杂的，同时也需要投入大量的时间和资源去实现。
+安全有效的用户认证与授权管理是各类网络应用和服务不可或缺的一环。但是，构建一个既安全又灵活的身份验证系统对于许多企业和开发者来说是一项挑战。他们需要应对的问题包括但不限于多租户支持、自服务能力、多因素认证、单点登录（SSO）以及合规性等要求。这些问题不仅对于技术团队而言是复杂的，同时也需要投入大量的时间和资源去实现。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-aed9de1cffdfa89f168958eac6575e8a.png)
 
-今天要给大家推荐一个 GitHub 开源项目 zitadel，该项目在 GitHub 有超过 9.3k Star。
+今天要给大家推荐一个 GitHub 开源项目 zitadel，该项目在 GitHub 有超过 9.3k Star
 
-![](https://stats.deeptrain.net/repo/zitadel/zitadel/?theme=light)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241227001749022.png)
 
 一句话介绍该项目：ZITADEL - Identity infrastructure, simplified for you.
 
@@ -37,7 +37,7 @@ ZITADEL 致力于简化身份基础设施的构建和管理。它为开发者和
 
 2、设置 ZITADEL Cloud （SaaS）
 
-为了追求更轻松的体验，用户也可以选择使用 ZITADEL Cloud，提供了与开源版相同的功能，同时还提供免费的入门级别服务，并支持按需计费。
+为了追求更轻松的体验，用户也可以选择使用 ZITADEL Cloud，提供与开源版相同的功能，同时还提供免费的入门级别服务，并支持按需计费。
 
 ![](https://user-images.githubusercontent.com/1366906/223662449-f17b734d-405c-4945-a8a1-200440c459e5.gif)
 

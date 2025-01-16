@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 云成本监控的开源解决方案
+title: 【视频】云成本监控的开源解决方案
 tags: 视频
 ---
 
@@ -27,6 +27,8 @@ OpenCost 为团队提供了当前和历史 Kubernetes 及云支出和资源分�
 更多介绍：https://mp.weixin.qq.com/s/Kmt4z_H_7GsJqPcb96Eq_A
 
 ###### 3、一款简单易用的 Json 解析库
+
+[一款简单易用的json解析库](https://www.bilibili.com/video/BV1DJCNY2EM2/)
 
 GJSON 是一个为 Go 语言设计的开源包，它通过提供快速简单的方式从 JSON 中获取值来解决上述问题。其特点包括：
 

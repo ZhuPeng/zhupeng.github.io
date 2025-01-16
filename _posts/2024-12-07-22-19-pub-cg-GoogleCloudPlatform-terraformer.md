@@ -8,13 +8,13 @@ tags: Go
 
 ###### 背景介绍
 
-随着云计算的兴起，越来越多的企业将他们的服务部署在云上，依赖于不同云服务商提供的各式各样的资源。在这个过程中，基础设施即代码（Infrastructure as Code，IaC）成为了一个趋势，它允许开发者使用代码的形式来管理和配置基础设施，使得基础设施的建设、管理变得更加自动化和可控。而 Terraform 作为市场上领先的 IaC 工具之一，支持多种云服务商，让基础设施的部署变得简单。
+随着云计算的兴起，越来越多企业将他们的服务部署在云上，依赖于不同云服务商提供的各式各样的资源。在这个过程中，基础设施即代码（Infrastructure as Code，IaC）成为了一个趋势，它允许开发者使用代码的形式来管理和配置基础设施，使得基础设施的建设、管理变得更加自动化和可控。而 Terraform 作为市场上领先的 IaC 工具之一，支持多种云服务商，让基础设施的部署变得简单。
 
 然而，当涉及到已经存在的老旧基础设施，或是需要从一个云服务转移到另一个时，如何快速、准确地把现有的基础设施转换为 Terraform 代码，成为了一个实际问题。手工编写 Terraform 代码不仅耗时耗力，还极易出错。因此，一个能够自动将现有基础设施转化为 Terraform 代码的工具，是云基础设施管理中不可或缺的。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-9fdcf6535dac17efd25b728cac4650bb.png)
 
-今天要给大家推荐一个 GitHub 开源项目 terraformer，该项目在 GitHub 有超过 12.9k Star。
+今天要给大家推荐一个 GitHub 开源项目 terraformer，该项目在 GitHub 有超过 12.9k Star
 
 ![](https://stats.deeptrain.net/repo/GoogleCloudPlatform/terraformer/?theme=light)
 
@@ -52,7 +52,7 @@ brew install terraformer
 terraformer import google --resources=* --projects=<你的GCP项目ID> --regions=<地区>
 ```
 
-对于 AWS，如果希望仅导入特定的 VPC 和相关的安全组，可以使用：
+对于 AWS，如果希望仅导入特定的 VPC 和相关的安全组，可以使用以下命令：
 
 ```bash
 terraformer import aws -r=sg,vpc --filter=vpc=myvpcid --regions=eu-west-1

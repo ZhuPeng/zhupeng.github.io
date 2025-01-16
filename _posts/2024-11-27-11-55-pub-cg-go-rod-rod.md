@@ -8,13 +8,13 @@ tags: Go
 
 ###### 背景介绍
 
-在数字化时代，处理网络数据成为了日常工作中频繁遇到的需求。无论是网页自动化测试，数据采集，还是复杂的网络操作自动化，我们都需要一个强大而灵活的工具来简化这一流程。然而，大多数现有的工具要么功能有限，难以满足高自定义需求；要么使用复杂，新手难以上手。针对这些核心痛点，我们需要一个即插即用又能高度自定义的工具，来提高我们的工作效率。
+在数字化时代，处理网络数据成为日常工作中频繁遇到的需求。无论是网页自动化测试，数据采集，还是复杂的网络操作自动化，我们都需要一个强大而灵活的工具来简化这一流程。然而，大多数现有的工具要么功能有限，难以满足高自定义需求；要么使用复杂，新手难以上手。针对这些核心痛点，我们需要一个即插即用又能高度自定义的工具，来提高我们的工作效率。
 
 ![](https://raw.githubusercontent.com/ZhuPeng/pic/master/mac/compress_tmp-a2d539316e80dc71517acea26374f7c9.png)
 
-今天要给大家推荐一个 GitHub 开源项目 go-rod/rod，该项目在 GitHub 有超过 5.5k Star。
+今天要给大家推荐一个 GitHub 开源项目 go-rod，该项目在 GitHub 有超过 5.5k Star。
 
-![](https://stats.deeptrain.net/repo/go-rod/rod/?theme=light)
+![](https://raw.githubusercontent.com/ZhuPeng/pic/master/images/compress_image-20241226235852007.png)
 
 一句话介绍该项目：A Chrome DevTools Protocol driver for web automation and scraping.
 
